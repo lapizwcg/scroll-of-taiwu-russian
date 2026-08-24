@@ -1,0 +1,61 @@
+Name_0
+Path of Chan Arts
+Name_1
+Отшельник-белая обезьяна
+Name_2
+Dark Owl & White Deer
+Name_3
+Coiled Shellsnake
+Name_4
+Трое заточённых демонов
+Name_5
+Cultured Warrior
+Name_6
+Павильон Цинлан
+Name_7
+Reflections in Reverse
+Name_8
+Smithing Training
+Name_9
+Peerless Poison
+Name_10
+Wordless Sutra
+Name_11
+Погибель сердца сути
+Name_12
+По ту сторону добра и зла
+Name_13
+Fuloong Plumes
+Name_14
+Красавица кровавой гробницы
+UnlockStoryDesc_0
+Within Shaolin Temple, the pagodas are collapsing without clear cause.\nCould this be a sign of the Buddha's displeasure at monks bearing staves?
+UnlockStoryDesc_1
+The Emei Sect has repeatedly suffered provocations from the Mysterious One at their doorstep,\nRumors are rife in the Martial World, and there are even those fishing in troubled waters, questioning the authenticity of their Martial Arts heritage...
+UnlockStoryDesc_2
+In the White Deer Marsh, a strange ailment spreads silently. Those afflicted\nturn unrecognizable to kin, grow violently deranged, and attack people and livestock alike.
+UnlockStoryDesc_3
+An unkempt Taoist on Wudang Mountains is known to approach those practicing Heterodox Wudang Martial Arts,\noffering this teaching: "The Way lies in abundance of Yang and decline of Yin."
+UnlockStoryDesc_4
+The Yuanshan Sect, long devoted to banishing Xiangshu, vanquishing evil and upholding justice,\nnow claims to have found a salvation that may cleanse the world of its madness...
+UnlockStoryDesc_5
+In Guangdong region, jests about the Lion-Face Clan's lack of literary refinement spread far,\ntarnishing the sect's prestige far and wide...
+UnlockStoryDesc_6
+Disciples of Ranshan return from journeys afar to compete in the Tri-School Contest.\nYet none can discern where the path to immortality leads within those dense, misty peaks.
+UnlockStoryDesc_7
+The Jade-Maiden Sect's hidden treasure, the Egarim, holds profound mechanism.\nYet none have unraveled its secrets to this day...
+UnlockStoryDesc_8
+Rumors abound that the Swordsmith Villa,\nonce famed for its master craftsmanship,\nnow falters under poor management, and its former glory fading like a memory...
+UnlockStoryDesc_9
+The Kongsang Sect devotes its entire sect to the pursuit of the elixir of immortality.\nYet poison dwells within drugs, and each time of medicine making holds uncertainty.\nSecrets lie hidden within the Kongsang Sect, awaiting discovery...
+UnlockStoryDesc_10
+At the foot of the Kunlun Mountains, \ndeep resentment stirs among the people due to the misdeeds of the Vajra Sect.\nWorse still, monks from the Western Regions frequently meet untimely ends, but who can say what calamities the souls of the dead may yet awaken?
+UnlockStoryDesc_11
+In the lands of the Five Immortals, venomous insects run rampant, vegetation withers,\nand many common folk suffer bitterly from their scourge...
+UnlockStoryDesc_12
+The stars have shifted, and dark currents stir within the Veil Scar Sect.\nWhat hidden secrets the enigmatic, unfathomable sect harbors, no outsider can hope to guess...
+UnlockStoryDesc_13
+The Fuloong Sanctuary, built against a volcano, fervently offers sacrifices in hope of the True Loong's descent.\nThough natural disasters plague Chiming Island and life withers, the Sanctuary's members remain unmoved...
+UnlockStoryDesc_14
+Whispers from Yangzhou tell of howling dark winds and restless ghosts of the underworld lingering around the Sanguine Sect.\nYet who can know the truth in matters of ghosts without seeing with their own eyes?
+

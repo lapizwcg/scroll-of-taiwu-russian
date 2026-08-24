@@ -1,0 +1,7529 @@
+Name_0
+Condition Check
+Name_1
+Condition Failed
+Name_2
+Failure Check
+Name_3
+Start Loop
+Name_4
+Break Loop
+Name_5
+End Scope
+Name_6
+Пропустить главу
+Name_7
+Tag
+Name_8
+Go to Label
+Name_9
+End Logic
+Name_10
+Set Variable
+Name_11
+Random Number
+Name_12
+Probability Check
+Name_767
+Obtain non-repeating random rewards
+Name_13
+Event Jump
+Name_94
+Option Injection
+Name_420
+Inject All Options
+Name_91
+Call Script
+Name_101
+Save Regional Story Data
+Name_102
+Load Regional Story Data
+Name_485
+Save global data
+Name_486
+Load global data
+Name_215
+Retrieve list length
+Name_216
+Retrieve list element
+Name_568
+Get Localized Text
+Name_640
+Register Dynamic Listener Event
+Name_14
+Debug Output
+Name_15
+Comment
+Name_16
+Play Audio
+Name_482
+Run scene change animation
+Name_611
+Set Cutscene Background
+Name_614
+Set Cutscene Background - Specify Texture
+Name_680
+Display Cutscene Texture UI
+Name_603
+Play Tutorial Video
+Name_637
+Return to Tutorial Chapter Interface
+Name_661
+Return to Title Screen
+Name_17
+Тряска экрана
+Name_197
+Set event background image
+Name_483
+Black Mask
+Name_829
+Display Reward Popup
+Name_832
+Close Character Interface
+Name_187
+Open Emei's Unique Mind Method interface
+Name_18
+Set Primary Attributes
+Name_19
+Modify Primary Attributes
+Name_20
+Set Injury
+Name_21
+Modify Injury
+Name_22
+Clear All Injuries
+Name_23
+Set Toxin Level
+Name_24
+Modify Toxin
+Name_25
+Clear All Toxins
+Name_26
+Set Inner Breath
+Name_27
+Modify Inner Breath
+Name_28
+Set Health
+Name_29
+Modify Health
+Name_30
+Set Mood
+Name_31
+Change Mood
+Name_570
+Obtain Mood
+Name_32
+Set Favorability
+Name_33
+Modify Favorability
+Name_34
+Add Character Trait
+Name_35
+Remove Trait
+Name_36
+Add Hostage
+Name_37
+Release Hostage
+Name_585
+Add permanent bonus to Taiwu's attributes
+Name_38
+Join Team
+Name_39
+Leave Team
+Name_40
+Kill Character
+Name_189
+Inflict random Injuries
+Name_41
+Add Item to Character
+Name_65
+Remove Item from Character
+Name_42
+Transfer Item Between Characters
+Name_744
+Add Storehouse Item
+Name_129
+Set Character Resources
+Name_66
+Modify Character Resources
+Name_679
+Character Resource Count
+Name_130
+Transfer Resources Between Characters
+Name_43
+Modify Base Martial Arts Talent
+Name_44
+Modify Fine Arts Talent
+Name_789
+Set Base Martial Arts Talent
+Name_790
+Set Base Fine Arts Talent
+Name_45
+Learn Specific Martial Art
+Name_46
+Learn Specific Fine Arts
+Name_47
+Add Legacy Points
+Name_48
+Expel Taiwu Villager
+Name_49
+Initiate Invitation
+Name_50
+Remove Invitation
+Name_51
+Pass Time
+Name_52
+View Main Story Progress
+Name_53
+Enable World Feature
+Name_849
+Disable Specified World Feature
+Name_54
+Modify Regional Favor Value
+Name_55
+Modify Settlement Stability
+Name_56
+Modify Settlement Culture
+Name_860
+Get Settlement Leader
+Name_57
+Set Tile Visibility
+Name_58
+Set Sect Training Permission
+Name_325
+Set Sect Feature State
+Name_59
+Вступить в объединение
+Name_60
+Earned the support of sect members...
+Name_226
+Set Sect Favor interaction as triggered
+Name_61
+Modify Merchant Guild Spending
+Name_62
+Create Item
+Name_63
+Create Cricket
+Name_836
+Randomly Generate a Cricket of the Specified Level
+Name_556
+Create a Martial Arts Book
+Name_558
+Study all pages of a book
+Name_408
+Set Equipment Effect Modifier
+Name_111
+Get Character Favorability
+Name_566
+Get Character Mindset
+Name_64
+Set Martial Art Proficiency
+Name_67
+New Encounter
+Name_145
+Generate Global Monthly Behavior
+Name_92
+Create Enemy
+Name_93
+Create Dialogue Actor
+Name_99
+Get Fixed Character
+Name_114
+Find Smart Character
+Name_100
+Move Character
+Name_89
+Начать бой
+Name_778
+Start spectating
+Name_841
+Start Battle with the Specified Unique Companion
+Name_68
+Trigger Mission
+Name_69
+Complete Mission
+Name_70
+Complete Mission Chain
+Name_115
+Trigger regional story ending after one month.
+Name_116
+Set regional ending state
+Name_113
+Dynamic Difficulty Combat (Deprecated)
+Name_117
+Set Fixed Character Following
+Name_120
+Disable Fixed Character Following Taiwu
+Name_118
+Начать диспут
+Name_124
+Exit Encounter
+Name_143
+Get Encounter Participants
+Name_144
+Get Encounter Participant Count
+Name_125
+Complete Encounter Event
+Name_126
+Select Encounter Branch
+Name_119
+Generate Encounter Map
+Name_440
+Get Random Travel Bag Item
+Name_850
+Get Travel Bag Item
+Name_702
+Check if the item instance is in the character's Travel Bag.
+Name_441
+Calculate Theft Action Phase
+Name_540
+Calculate Poison Phase
+Name_541
+Calculate Covert Harm Phase
+Name_542
+Poison Action
+Name_543
+Covert Harm Action
+Name_442
+Hostile Action Phase
+Name_127
+Select Item from Character Travel Bag
+Name_167
+Filter tiles within range
+Name_698
+Filter Region Edge Tiles
+Name_132
+Add Item Subtype for Filtering
+Name_133
+Add Item Template ID for Filtering
+Name_134
+Exclude Item Template ID for Filtering
+Name_534
+Add Item Level for Filtering
+Name_559
+Add Item Group for Filtering
+Name_703
+Add Item Material for Filtering
+Name_704
+Exclude Item Material for Filtering
+Name_135
+Select Item Based on Previous Conditions
+Name_147
+Character Guides Taiwu's Aspiration
+Name_227
+Register settlement trait
+Name_149
+Add Building
+Name_139
+Swordsmiths Landlord Creates Bandit Package
+Name_150
+Swordsmiths Landlord Creates Automaton
+Name_151
+Swordsmiths Landlord Adds Required Merchant Type for Region
+Name_152
+Swordsmiths Landlord Removes Required Merchant Type for Region
+Name_188
+Emei owner sets Fratricidal Strife state
+Name_243
+Retrieve tile settlement
+Name_154
+Get Another Small Settlement in Region
+Name_481
+Obtain Sect Settlement
+Name_192
+Retrieve random settlement in province
+Name_217
+Retrieve province settlement list
+Name_198
+Retrieve character's tile location
+Name_263
+Retrieve character's settlement
+Name_199
+Retrieve the tile where the settlement is located
+Name_261
+Retrieve character's region
+Name_262
+Retrieve the region where the settlement is located
+Name_153
+Randomly Create Merchant Config Item
+Name_437
+Get Current Event
+Name_156
+Trigger Sword Passing
+Name_164
+Begin Naming
+Name_165
+End Naming
+Name_71
+Edit Conditions
+Name_109
+And
+Name_110
+or
+Name_218
+Attempt to retrieve list element
+Name_155
+World Feature State
+Name_72
+Main Story Progress
+Name_423
+Try Get Global Parameter
+Name_73
+Mission is underway
+Name_586
+Quest Completed
+Name_74
+Mission Chain is underway
+Name_75
+Invasion Level
+Name_128
+Fixed Character Template
+Name_515
+Try to Get Fixed Character
+Name_76
+Current Primary Attributes
+Name_77
+Maximum Primary Attributes
+Name_78
+Одарённость в ремёслах
+Name_79
+Fine Arts Attainment
+Name_80
+Martial Art Talent
+Name_81
+Martial Arts Attainment
+Name_577
+Obtain Martial Art Attainment
+Name_82
+Character's Dispositions Attributes
+Name_107
+Character's Mindset Type
+Name_108
+Character's Mindset Value
+Name_571
+Change Character's Mindset Value
+Name_572
+Set Character Mindset Type
+Name_160
+Character's Current Age
+Name_161
+Character's Total Age
+Name_162
+Character's Age Group
+Name_203
+Character Gender
+Name_83
+Character's Resources
+Name_84
+Особенности персонажа
+Name_140
+Character's Current Aspiration
+Name_141
+Character's Aspiration Seniority
+Name_85
+Character Travel Bag (Item Templates)
+Name_86
+Character in Settlement
+Name_87
+Character in Settlement's Influence Area
+Name_95
+Character in Province
+Name_96
+Character in Region
+Name_520
+Character in Ruined Area
+Name_168
+Character within range from the tile
+Name_638
+Character's Tile Template
+Name_97
+Character in Any Settlement
+Name_98
+Character in Any Settlement's Influence Area
+Name_194
+Character within the settlement's region
+Name_88
+Расположение
+Name_142
+Favorability Type
+Name_103
+Ступень персонажа
+Name_573
+Obtain Character's Tier
+Name_104
+Character's Settlement
+Name_121
+Character Possesses Item
+Name_122
+Character's Merchant Guild
+Name_131
+Character's Fine Arts Study Request
+Name_567
+Character's Qi conflicts with Martial Arts
+Name_90
+Итоги боя
+Name_473
+Вид боя
+Name_326
+Sect Feature State
+Name_674
+Sect Cultivation Permission State
+Name_105
+Settlement in Province
+Name_106
+Settlement in Region
+Name_768
+Settlement Warehouse Alert Time
+Name_112
+Regional Favor
+Name_204
+Region Contains Encounter
+Name_787
+Major Event Exists in Region
+Name_517
+Adult Grave of Specific Organization in Region
+Name_123
+Obtaining Regional main story save data
+Name_769
+Character current tile matches the requirements
+Name_136
+Match Item Type
+Name_137
+Match Item Subtype
+Name_138
+Match Item Template
+Name_146
+Try to Get Character's Current Aspiration
+Name_213
+Character Meets Matching Rules
+Name_148
+Can Character Guide Taiwu's Aspiration - Cooldown Check
+Name_163
+Characters Guide Taiwu's Aspiration - NPC Skill Unlock Check
+Name_157
+Check Character Pure Essence
+Name_158
+In Memory Recall
+Name_159
+Character Is Alive
+Name_516
+Character on Valid Tile
+Name_716
+The Character Is Generated Character
+Name_166
+Create Fixed Configuration Martial Arts Book
+Name_169
+Encounter Variable Quantity
+Name_421
+Current Encounter
+Name_170
+Current Energy
+Name_717
+Change Energy
+Name_171
+Current Month
+Name_172
+Imprison - Specified Gender
+Name_173
+Imprison - Specified Age Group
+Name_174
+Imprison - Specified Character
+Name_175
+Companion - Specified Gender
+Name_176
+Companion - Specified Age Group
+Name_177
+Companion - Specified Character
+Name_178
+Character XP
+Name_179
+No. of pages of Martial Arts book studied by character
+Name_180
+Check if the character has broken through a particular Martial Art
+Name_190
+Settlement Support for Taiwu
+Name_535
+Add Support Cap Bonus
+Name_560
+Settlement Support Limit for Taiwu
+Name_193
+Settlement Type in Province
+Name_202
+Encounter Template Match
+Name_181
+Steps Taken in Encounter
+Name_182
+Energy Consumed in Encounter
+Name_183
+Encounter Element Visibility
+Name_184
+Toggle Emei Bloodshed tile
+Name_185
+Check if the character is in a particular tile group
+Name_186
+Check if the element is in a particular tile group
+Name_191
+Obtain Character Pure Essence
+Name_195
+Start Yuanshan Minigame
+Name_196
+Process Yuanshan Minigame results returned
+Name_200
+Set character's Xiangshu Deviation
+Name_201
+Change character's Xiangshu Deviation
+Name_205
+Set Wedding Garment Type 1
+Name_206
+Set Wedding Garment Type 2
+Name_207
+Whether Trinity/Three Demons are in Stone Cell
+Name_208
+Set Banish/Return of Trinity/Three Demons
+Name_209
+Play Trinity/Three Demons animation
+Name_210
+Characters within the specified settlement that meet tier/age range requirement
+Name_211
+Check if Three Demons
+Name_212
+Retrieve Three Essence Type
+Name_214
+Initialize Cosmic Trinity/Three Demons data
+Name_219
+Check Encounter Variable
+Name_220
+Set Encounter Variable
+Name_221
+Change Encounter Variable
+Name_222
+Check encounter variable - begins with parameters
+Name_223
+Set encounter variable - begins with parameters
+Name_224
+Modify encounter variable - begins with parameters
+Name_225
+Probability Check
+Name_228
+Check the quantity of a particular encounter element
+Name_229
+Check Encounter Element Count - Tag Group
+Name_372
+Get Encounter Element Count - Tag Group
+Name_230
+Check if Encounter Variable is Max Value
+Name_231
+Check if Encounter Variable is Min Value
+Name_232
+Check if the element is in a particular element location
+Name_233
+Check if Taiwu is in a particular element location
+Name_234
+Check if Taiwu is in a particular tile group
+Name_235
+Encounter - Create Temporary Item
+Name_236
+Encounter - Remove Temporary Item
+Name_474
+Encounter temporary item consumption
+Name_237
+If encounter uses a particular temporary item
+Name_238
+Display Veil Scar special mask on character
+Name_239
+Remove Veil Scar special mask from character
+Name_240
+Set Encounter Auto-Expire Time
+Name_241
+Exit Encounter (New): Reset State
+Name_687
+Exit Encounter (New): Keep State
+Name_718
+Create and Enter Encounter
+Name_688
+Encounter Element Character State Reset
+Name_689
+Encounter Element All Variables Reset
+Name_690
+Encounter Element Position Reset
+Name_691
+Encounter Interrupt All Actions
+Name_692
+Encounter Taiwu Buff Reset
+Name_242
+Destroy Outlaw Base for rewards
+Name_244
+Display pop-up story unlock interface
+Name_245
+Element Visibility - Tag Group
+Name_246
+Element in Tile Group - Tag Group
+Name_247
+Element in Element Location - Tag Group
+Name_248
+Taiwu in Element Location - Tag Group
+Name_249
+Retrieve Fuyu's Will points
+Name_250
+Retrieve Fuyu's Will data
+Name_251
+Retrieve Fuyu's Will Delay Time
+Name_252
+Interact to use Fuyu's Will interface
+Name_253
+Gifting Filter Interface
+Name_254
+Apply Fuyu's Will
+Name_255
+Read selected value
+Name_256
+Attempt to Retrieve Character's Max Will Tolerance
+Name_257
+Check Taiwu's Will
+Name_258
+Check Character's Will Load
+Name_259
+Create elements in tile group - fill big tile
+Name_260
+Create Element on Element Tile - Tag Group
+Name_264
+Delete Encounter
+Name_811
+Delete Encounter New
+Name_265
+Check Encounter Element Variable Value
+Name_266
+Set Encounter Element Variable Value
+Name_267
+Change Encounter Element Variable Value
+Name_268
+Change Element Quantity of Taiwu's Tile
+Name_774
+Change Element Count in Taiwu's Large Tile
+Name_269
+Remove Element from Taiwu's Tile
+Name_270
+Remove Encounter Element
+Name_271
+Delete specified element from any location
+Name_272
+Delete target element from element tiles
+Name_273
+Delete target element from element tile's group
+Name_274
+Specified element exists on element's small tile
+Name_275
+Retrieve Energy Value
+Name_276
+Element character is highest martial power on small tile
+Name_277
+Element character battle simulation - ID
+Name_278
+Check if encounter contains specific temporary item
+Name_279
+Store character ID linked to encounter element
+Name_280
+Randomly create element within encounter
+Name_281
+Taiwu moves randomly by one tile in the Encounter.
+Name_282
+Delete current element
+Name_484
+Play Encounter element deletion animation
+Name_283
+Clear Inner Breath Chaos
+Name_284
+Restore Health to maximum
+Name_285
+Modify Element Parameter's Time Cost
+Name_286
+Check if current element is specified element
+Name_287
+Store encounter variable value into parameter box
+Name_288
+Store encounter element's variable value into parameter box
+Name_289
+Store quantity of encounter item into parameter box
+Name_290
+Compare martial power of encounter element with another encounter element on same tile
+Name_291
+Compare martial power of encounter element with same-tile element matching tag group.
+Name_292
+Compare martial power of encounter element with another encounter element
+Name_293
+Compare martial power of encounter element with element matching tag group.
+Name_294
+Check if encounter element and specified element are on same tile
+Name_295
+Encounter Element and Element on Same Tile - Tag Group
+Name_598
+Whether two Encounter elements are in the same position
+Name_296
+Whether the Element Matches the Tag Group
+Name_297
+Modify quantity of specified element on current tile
+Name_298
+Check if Veil Scar special interaction is unlocked
+Name_299
+Confirm kill and snatch target's Star Fortune
+Name_300
+Check if character's accumulated Star Fortune meets the requirement
+Name_301
+Saving Encounter Element actual case ID - Element coreId
+Name_302
+Save Encounter Element Instance ID - Current Tile - Tag Group
+Name_303
+Save Encounter Element Instance ID - Global - Tag Group
+Name_304
+Exits major event
+Name_374
+Exits major event (with trigger)
+Name_812
+Exit Major Event New
+Name_856
+Set Major Event Skip Ending Animation
+Name_305
+Set Taiwu's vision type
+Name_306
+Check Taiwu's vision type
+Name_307
+Check if specified element exists within range - element coreId
+Name_308
+Specified Element in Range - Tag Group
+Name_309
+Create element within a tile group - element coreId
+Name_310
+Create encounter element - character inheritance
+Name_311
+Taiwu Starts Action in Encounter
+Name_312
+Encounter Element Variable Starts Action
+Name_313
+Move encounter element to tile near Taiwu
+Name_314
+Count of Elements Around Encounter Element - Tag Group
+Name_315
+Character's available consumable slots
+Name_578
+Check Character's available consumable slots
+Name_316
+Character consumes items
+Name_809
+Clear Specified Consumable Slot for Character
+Name_810
+Clear Character Consumable Slots
+Name_544
+Enhance Medicine & Poison Extra Effect
+Name_317
+Modify character's current Qi value
+Name_318
+Set character's current Qi value
+Name_319
+Check character's Qi type
+Name_320
+Get random item template
+Name_321
+Randomly add toxin to the item
+Name_322
+Check whether character is injured
+Name_323
+Check whether character is poisoned
+Name_324
+Taiwu treats patient
+Name_327
+Check whether Random Successor is enabled
+Name_328
+Retrieve regional quest ending
+Name_329
+Wudang owner edits book chapters
+Name_330
+Get specified tile of sect
+Name_331
+Check toxin amount in Myriad Gu Jar
+Name_332
+Get current in-game date
+Name_333
+Begin Grooming
+Name_334
+Encounter Element Variable Starts Action - Tag Group
+Name_335
+Remove character item by Template ID
+Name_336
+Select characters by age group
+Name_337
+Check if Encounter Element is in Action
+Name_338
+Encounter Element Battle Simulation - Tag Group
+Name_339
+Check battle simulation results
+Name_340
+Create Element within Tile Group - Tag Group
+Name_341
+Check regional quest ending
+Name_342
+Retrieve Taiwu companion list
+Name_343
+Create an Int list
+Name_344
+Add an element to the Int list
+Name_345
+Select character from list
+Name_621
+Select a character that matches the filter from the list
+Name_346
+Tag-matching elements are on Taiwu's major tile
+Name_347
+Tag-matching elements are on the element's major tile.
+Name_348
+Validate item data
+Name_349
+Check if a specific variable of an encounter element is in action.
+Name_350
+Check whether an Outer Realms travel option is available this month
+Name_351
+Get distance from element to Taiwu
+Name_352
+Compare element-to-Taiwu distance with vision type
+Name_353
+Create major event
+Name_780
+Generate and Enter Major Event
+Name_354
+Retrieve a random tile from the settlement
+Name_355
+Set Little Black Snake's name
+Name_356
+Taiwu Stops Action in Encounter
+Name_357
+Encounter Element Variable Stops Action
+Name_358
+Get distance from encounter element to tile group
+Name_359
+Reduce Random Injuries
+Name_360
+Set Basic Five Elements
+Name_782
+Get Character's Five Elements
+Name_361
+Is Encounter Element at Reset Position
+Name_362
+Get Jixi Character
+Name_363
+Copy Fixed Character's Name
+Name_364
+Create and Save Good Talent Character
+Name_365
+Save Encounter Element Instance ID - Taiwu's Major Tile - Tag Group
+Name_366
+Save Encounter Element Instance ID - Taiwu's Tile - Tag Group
+Name_367
+Save Encounter Element Instance ID - Element's Major Tile - Tag Group
+Name_368
+Item Detoxified
+Name_369
+Try Get Jixi
+Name_373
+Set Fixed Character's Monthly Movement
+Name_375
+Does character like item subtype
+Name_376
+Does character dislike item subtype
+Name_377
+Get Favorability Type
+Name_370
+Get list of characters associated with elements at current location - by tag group
+Name_371
+Get list of characters associated with a random number of elements - by tag group
+Name_378
+Check distance from element to Taiwu
+Name_379
+Element's associated character joins Taiwu Village
+Name_380
+Create random enemy and bind to element
+Name_381
+Check if a specific global variable in the encounter is in action
+Name_382
+Check if any global variable in the encounter is in action
+Name_383
+Can Jixi travel with you
+Name_384
+Recover one point of True Qi
+Name_385
+Distribute one point of True Qi
+Name_386
+Get character's current Qi value
+Name_387
+Distance from encounter element to reset position
+Name_388
+Automaton joins party
+Name_389
+Automaton leaves party
+Name_390
+Check for successful use of Fuyu Hilt in combat
+Name_391
+Encounter element moves randomly by one tile
+Name_392
+Element in a major tile group - Tag group
+Name_393
+Element character battle simulation - Instance ID
+Name_394
+Temporarily modify extra True Qi
+Name_395
+Revert all temporary attribute modifications for the specified character
+Name_699
+Add Bonus True Qi
+Name_396
+Open the Activate Prime Gu interface
+Name_397
+Set whether to display general options
+Name_513
+Disable Universal Options
+Name_398
+Check if item is poisoned
+Name_399
+Check Actor Template
+Name_400
+Has character consumed the Prime Gu
+Name_401
+Отравить предмет
+Name_569
+Add Knowledge
+Name_402
+Modify the specified variable of the encounter element with the specified tag.
+Name_403
+Move encounter element to a tile near this element - coreId
+Name_404
+Move encounter element to a tile near this element - Instance ID
+Name_405
+Move encounter element to a group
+Name_406
+Save Dispositions to Variable
+Name_407
+Save Fine Arts Attainment to Variable
+Name_409
+Generate a random enemy of a specified gender.
+Name_410
+Encounter element plays alert animation.
+Name_411
+Encounter Tile Material Settings
+Name_719
+Encounter Tile Group Material Settings
+Name_412
+Encounter element appear/disappear effect
+Name_413
+Encounter tile group effect
+Name_414
+Instant Notification - No Parameters
+Name_415
+Instant Notification - One Character Parameter
+Name_416
+Instant Notification - Two Character Parameters
+Name_417
+Instant Notification - Three Character Parameters
+Name_580
+Monthly Event - No Parameters
+Name_581
+Monthly Event Notification - Null
+Name_720
+Monthly Event - Single Character Parameter
+Name_418
+Taiwu moves randomly by one tile on the world map.
+Name_419
+Generate Automaton
+Name_422
+Check if the Three Corpses have unlocked the Secret Tome storage.
+Name_424
+Variable Exists
+Name_425
+Add another Int list to an Int list.
+Name_426
+Check character's total number of injuries.
+Name_427
+Query Taiwu's action ID
+Name_428
+Query element instance's action ID
+Name_429
+Change action progress value by action ID
+Name_430
+Taiwu and element start an action
+Name_431
+Element and element start an action
+Name_432
+Check if completed action has a specific key
+Name_433
+Get element of completed action
+Name_434
+Taiwu and multiple elements start an action
+Name_435
+Multiple elements start an action
+Name_436
+Encounter removes fog of war within sight
+Name_438
+Get encounter element instance ID list - by tag
+Name_439
+Get encounter element instance ID list - by coreId
+Name_443
+Major event milestone reward
+Name_444
+Change music state
+Name_445
+Change SFX state
+Name_446
+Total months
+Name_447
+Is Jixi with the character?
+Name_448
+Check if specified element exists within Taiwu's range - Tag Group
+Name_449
+Character's Owned Item Type
+Name_450
+Removes a major event from the whole world
+Name_451
+Modifies Jixi's form
+Name_452
+Adds item to Encounter Element
+Name_453
+Removes item to Encounter Element
+Name_454
+Selects Element item
+Name_455
+Checks if Element has a certain item
+Name_775
+Settle Encounter Temporary Items to Taiwu
+Name_456
+Checks for Inner Breath Chaos
+Name_457
+End Martial World Tournament
+Name_458
+Secret Tome Encounter activated
+Name_459
+Removes Secret Tome Encounter
+Name_460
+Sets the Three Ranshan Corpses to follow
+Name_461
+Taiwu envenoms the Encounter Element item
+Name_462
+Transfers an Encounter temporary item to a character
+Name_463
+Encounter Taiwu bubble display
+Name_464
+Encounter Element bubble display
+Name_465
+The Element tile that Taiwu is in
+Name_466
+The large tile that an actual case is in while Taiwu is in Element
+Name_467
+The large tile that an actual case is in while Taiwu is in a tagged Element
+Name_468
+Taiwu's distance from Element
+Name_469
+An actual case of Taiwu's distance from Element
+Name_470
+An actual case of Taiwu's distance from a tagged Element
+Name_471
+Checks the Element for a child-type item
+Name_472
+Select a random child-type item from the Element
+Name_475
+Retrieve a sect that is the same province as the settlement
+Name_476
+Creates all Martial Arts Books of all tiers in the Sect
+Name_675
+Create All Matching Items
+Name_477
+Selects an item from the specified item list
+Name_478
+Removes an item from the specified item list
+Name_479
+Adds an item from the specified item list
+Name_676
+Add Item List to Target Item List
+Name_480
+Deletes all items from the specified item list
+Name_487
+Attempts to find the Element corresponding to the character
+Name_488
+Checks Taiwu Village's original number of chickens
+Name_489
+Removes the specified variables from the parameter container
+Name_490
+Removes all variables from the parameter container
+Name_491
+Get List of Encounter Elements Meeting Variable Needs
+Name_492
+Retrieves the Element list (tagged) of the tile that the current Element is in
+Name_493
+Can Propose Wedded Union to Target
+Name_494
+Get Taiwu's Imprisoned Character List
+Name_495
+Get Encounter Element's Imprisoned Character List
+Name_496
+Cricket Duel with Encounter Element Character
+Name_497
+Save Tile by Encounter Element XY Offset
+Name_498
+Save Tile by Encounter Taiwu XY Offset
+Name_499
+Encounter Element Template Bound to Character
+Name_500
+Get Tile List by Tile Group
+Name_501
+Is Taiwu on Specific Tile
+Name_502
+Get Tile List of Element's Large Tile
+Name_503
+Get Tile List of Taiwu's Large Tile
+Name_504
+Get Element List of Tile
+Name_505
+Move Camera to Specific Tile
+Name_776
+Wait for a Certain Time
+Name_506
+Move Encounter Element to Specific Tile
+Name_507
+Element on Specific Tile - Instance ID
+Name_508
+Element on Specific Tile - Template ID
+Name_509
+Element on Specific Tile - Tag
+Name_510
+Encounter Element Directional Movement
+Name_777
+Encounter Element Directional Movement New
+Name_511
+Encounter Element Directional Passability
+Name_512
+Play Sound Effect
+Name_514
+Set Music/SFX Fade In/Out
+Name_518
+Encounter Element Directional Move (1 Tile) - Variable
+Name_519
+Encounter Element Directional Passability - Variable
+Name_521
+Encounter Taiwu Directional Passability
+Name_522
+Check Encounter Element Count at Taiwu Offset Tile
+Name_523
+Change Element Count at Taiwu Offset Tile
+Name_524
+Save Encounter Element Instance ID - Taiwu Offset Tile - Element CoreID
+Name_525
+Modify Character XP
+Name_604
+Is Taiwu studying any book?
+Name_605
+Obtain the book Taiwu is currently studying
+Name_526
+Taiwu Study Book
+Name_527
+Taiwu gains Epiphany for the book being studied.
+Name_528
+Show/Hide Fog by Vision in Encounter
+Name_529
+Hide Fog in Tile Group in Encounter
+Name_530
+Open Trade Items Interface
+Name_531
+Save Character's specified Type and Tier
+Name_532
+Modify Taiwu's Martial Art Combat Value
+Name_533
+Martial Art Guidance
+Name_536
+Get Character Martial Power
+Name_537
+Get Item Tier
+Name_538
+Check Item Tier
+Name_539
+Specified Relationship Exists
+Name_861
+Add One-way Relation
+Name_545
+Get List of Elements Performing Specific Action
+Name_546
+Get List of Elements Co-performing Action with Target
+Name_547
+Configure Option Cooldown - Restored next month
+Name_548
+Check Option Cooldown - Reset After Month Change
+Name_834
+Set Option Cooldown - Specified Value
+Name_835
+Check Option Cooldown - Specified Value
+Name_549
+Directional Move Taiwu (1 Tile) in Encounter
+Name_783
+Move Taiwu One Tile in a Specified Direction New
+Name_550
+Consume Action Points in Encounter
+Name_551
+Save Taiwu's Previous and Current Tiles in Encounter
+Name_552
+Set Taiwu to Specific Tile in Encounter
+Name_553
+Check Item Tier (Comparison Operator)
+Name_554
+Randomly Create Element within Encounter Large Tile
+Name_555
+Check Character's Qi Type Percentage
+Name_557
+Encounter interacts with Caravan
+Name_561
+Whether an Encounter element has any following targets
+Name_562
+Set Encounter element to following Tile
+Name_563
+Set Encounter element to following Element
+Name_564
+Clear Encounter element's following target
+Name_565
+Save Encounter element's current Tile
+Name_574
+Encounter set Tile group fog
+Name_575
+Encounter set Tile fog
+Name_576
+Encounter set Tile list fog
+Name_579
+Get list of Tiles within a specified range of an element
+Name_844
+Query Encounter Count in the World
+Name_582
+Generate new Encounter
+Name_822
+Generate New Encounter - Do Not Generate Immediately
+Name_838
+Encounter Reserved Character Fill
+Name_583
+Create a grave for a fixed character
+Name_584
+Taiwu teleports on the world map
+Name_587
+Set the next Sword Mound to enter abnormal state
+Name_588
+Remove Sword Mound from Tile
+Name_589
+Get number of conquered Sword Mounds
+Name_590
+Obtain Encounter element's following Tile
+Name_591
+Obtain Encounter element's following element
+Name_592
+Has the element reached its following target?
+Name_593
+Choose an Insight
+Name_594
+Confirm the choice?
+Name_595
+Use regular Insight
+Name_596
+Get random item template - based on filter criteria
+Name_597
+Clear registered item filter criteria
+Name_599
+Get a sect's martial arts book of a specified tier
+Name_600
+Save Invasion Progress
+Name_601
+Increase Breakthrough Capacity points
+Name_602
+Increase Breakthrough Success Rate
+Name_606
+Set Major Event atmosphere type
+Name_607
+Cancel Major Event atmosphere type
+Name_608
+Get the Tile of the last Sword Mound that entered abnormal state
+Name_609
+Activate the Sword Mound at the specified Tile
+Name_615
+Activate all remaining Sword Mounds
+Name_610
+Seal all Sword Mounds
+Name_612
+Martial World Tournament ends supporting Taiwu
+Name_613
+Long Yufu kills several characters at the tournament
+Name_616
+Start saving
+Name_617
+After Sword Mound 7, the world falls into chaos
+Name_618
+Taiwu's current region is devastated in a ring.
+Name_619
+Check character's Vehicle tier
+Name_620
+Check Travel Bag item operation type
+Name_622
+Create elements on all Encounter Tiles
+Name_623
+Taiwu teleports within the Encounter
+Name_624
+List of element instance IDs at specified Encounter Tile - Tag Group
+Name_625
+Whether a character is equipped with an item of the specified template ID
+Name_626
+Set the Tameness of the specified Beast Vehicle in the Travel Bag
+Name_627
+The character with the highest or lowest Mood in the list
+Name_628
+Add a Imperial Chicken to Taiwu Village and construct a Chicken Coop
+Name_629
+Remove element from element list
+Name_630
+Get the maximum Sword Mound countdown
+Name_631
+Open Trait selection interface
+Name_632
+Attempt to set list value
+Name_633
+Sort the list, return the original list indices
+Name_634
+Create and Save Character with Xiangshu Underling Clothing
+Name_635
+Set Tutorial function switch
+Name_646
+Toggle all tutorial features.
+Name_636
+Current tutorial chapter
+Name_639
+Check the fog state of an Encounter Tile
+Name_641
+Settlement has existing building
+Name_642
+Character's current Microcosmic Circulation
+Name_643
+Tutorial Huanxin unlocks Fuyu Sword's power.
+Name_851
+Set Character Invincible in Battle
+Name_644
+Check Encounter Element Count at Element Offset Tile
+Name_645
+Tutorial Industry Removes Bamboo Hut
+Name_647
+Retrieve Tile Based on Coordinates
+Name_648
+Clear Tile Resources
+Name_649
+Set Tile Resource Amount
+Name_650
+Fill Tile Resources by Type
+Name_651
+Force Gathering Reward Item
+Name_652
+Force Resource Gathering Amount
+Name_653
+Tutorial Unlocks Aspiration Skills
+Name_654
+Attempt to Retrieve Event Trigger Parameters
+Name_655
+Умения призвания
+Name_656
+Create Encounter Tile List
+Name_657
+Add Element to Tile List
+Name_658
+Set Tile Effects for Tile List
+Name_686
+Tile Set Tile Effect
+Name_659
+Set Encounter Global Effect
+Name_660
+Modify Marital Relationship Between Characters
+Name_662
+Load Memory Recall Save
+Name_712
+Memory Recall Save
+Name_663
+Memory Recall Save Exists
+Name_664
+Encounter Current Tile Element Count Check
+Name_665
+Otherland Preparation
+Name_666
+Set Minion Siege on Taiwu Village at Month Advance
+Name_667
+Get Last Xiangshu Incarnation Type
+Name_668
+Get Sect Leader with Highest Alignment Support
+Name_673
+Create Random Element in Tile Group
+Name_669
+Taiwu Position Element List Tag
+Name_670
+Save Nearest Element ID Tag
+Name_671
+Current Tile Has Element-coreid
+Name_672
+Interrupt Element Action Tag
+Name_677
+Character Travel Bag Item Count
+Name_678
+Martial World Tournament Sect Reward
+Name_681
+Set Companion Hidden
+Name_682
+Get Character Charm
+Name_683
+Check Character Charm
+Name_684
+Save Character Primary Attributes Current Value
+Name_685
+Create Enemy (Pure Essence)
+Name_693
+Start Cricket Hunt
+Name_694
+Get Element List Within Specified Range
+Name_695
+Get Distance Between Two Elements
+Name_696
+Save All Element Current Positions in Encounter to Variables
+Name_697
+Save Encounter Element Current Position to Variable
+Name_700
+Encounter Start Element Selection
+Name_701
+Trigger Tutorial
+Name_705
+Create Deep Valley Enemy
+Name_706
+Cricket in Location
+Name_707
+Create Cricket Spots Around Taiwu
+Name_708
+Force Fake Cricket Spot at Taiwu's Position
+Name_709
+Cricket Chirping Monthly Report
+Name_710
+Previous Taiwu Entries
+Name_711
+Achievement Stats
+Name_713
+Create Young Female Villager with Surname Ning
+Name_714
+Start Sword Mound Appearance Performance
+Name_715
+Choose Storyline to Aid Sect
+Name_721
+Modify Tile Template
+Name_722
+Open Taiwu Inheritance Screen
+Name_723
+Taiwu Village Show Ancestral Temple
+Name_724
+Become Successor of Taiwu
+Name_725
+Complete First Sword Mound Conquest
+Name_726
+Hide All Tile NPCs
+Name_727
+Create All Sword Mound Encounters
+Name_728
+Taiwu Companion Limit Reached
+Name_729
+Character Joins Taiwu
+Name_730
+Cricket Soul Return on Death
+Name_731
+Check Cricket Human Transformation State
+Name_732
+Cricket Transformation
+Name_824
+Cricket Transformation Interface Performance
+Name_733
+Check Cricket Color
+Name_734
+Create First Story Battle Sword Mound Incarnation
+Name_735
+Create Incarnation Leaving Mound
+Name_736
+Get Secret Tome Item Instance
+Name_737
+Get Incarnation Divine Sword Shard
+Name_738
+Set Event Display Alias
+Name_739
+Start modifying name
+Name_740
+Finish modifying name
+Name_741
+Bamboo Incarnation Quest State
+Name_742
+Change music volume
+Name_743
+Play music for specified times
+Name_745
+Auto-equip Item
+Name_746
+Auto-equip Martial Arts
+Name_747
+Auto-allocate True Qi
+Name_781
+Equip Item
+Name_748
+Sword Mound invasion handling
+Name_749
+Getting the tile's Sword Mound Incarnation
+Name_750
+Character is any sect member
+Name_751
+Number of conquered Sword Mounds
+Name_752
+Region Story Trigger Conditions
+Name_753
+Character State fully restored
+Name_754
+Whether to disable the exorcism
+Name_755
+Set Exorcism State
+Name_756
+Activate the Exorcism
+Name_757
+Character is Sword Mound Incarnation
+Name_758
+Get character corresponding incarnation type
+Name_759
+Mark Taiwu who died in the invasion
+Name_760
+Set Incarnation Special Portrait Type
+Name_761
+The tile has ordinary Sacred Wood
+Name_762
+Obtain Sword Mound Insights
+Name_763
+Start character selection
+Name_764
+Available characters exist
+Name_765
+Clear crickets in the area
+Name_766
+Set Sword Mound Activity countdown timer
+Name_770
+From Deep Valley to Small Village
+Name_771
+From Small Village to Damaged Region
+Name_772
+From Damaged Region to Taiwu Village
+Name_773
+From Deep Valley to Taiwu Village
+Name_813
+Return to Past Taiwu Village
+Name_820
+Return from Past Taiwu Village
+Name_848
+Spawn Main Quest Xiangshu Underlings Around Specified Tile
+Name_842
+Generate Xiangshu Underlings Around Taiwu in Main Story Chapter 9
+Name_843
+Taiwu Has Left the Chapter 9 Xiangshu Underling Generation Area
+Name_779
+Spend a Night of Love
+Name_784
+Whether Event Chain Parameter Is the Specified Building
+Name_785
+Check Whether the Specified Sect Has Had a Favor Interaction with the Current Taiwu
+Name_786
+Increase Fuyu's Will
+Name_788
+Unlock Advanced Skill for Bamboo Incarnation
+Name_791
+Has Infidelity Secret
+Name_792
+Play Full-Screen Animation for Added Practice Slots
+Name_793
+Set Regional Story Weather
+Name_794
+Add Extra Title to Character
+Name_795
+Select Character Cricket - Wins
+Name_796
+Hold a Cricket Duel with Character
+Name_797
+Hold a Cricket Duel with Character - Challenge
+Name_798
+NPC Simulated Cricket Battle
+Name_799
+Clear Cricket Display
+Name_800
+Current Item Durability
+Name_801
+Set Current Item Durability
+Name_802
+Item Durability Limit
+Name_803
+Cricket Wins
+Name_804
+Character's Cricket Count
+Name_805
+Whether Cricket Is Alive
+Name_806
+Adjust Cricket Extra Lifespan Limit
+Name_807
+Start Buying Crickets
+Name_808
+Buy Cricket from Specified Jar
+Name_837
+Display Item in Event Window
+Name_840
+Set the Tier of the Cricket pot Placed on Top
+Name_814
+Create Hollow-Minded
+Name_815
+Get Character Reputation
+Name_816
+Get Character Positive Reputation Value
+Name_817
+Get Character Negative Reputation Value
+Name_818
+Check Whether Character Reputation Meets a Condition
+Name_819
+Set Iron Plate Unlock
+Name_821
+Display Unknown Time
+Name_823
+Release Hollow-Minded
+Name_825
+Get Active Wunian Followers List
+Name_826
+Disable Normal Attacks During Drill
+Name_827
+Disable Movement During Drill
+Name_828
+Disable Enemy AI During Drill
+Name_830
+Spawn Minor Enemies on the Outlaw Base
+Name_831
+Replenish Minor Enemies on the Outlaw Base
+Name_855
+Clear Minor Enemies on the Outlaw Base Map
+Name_833
+Check Whether the Trinity and Three Demons Have Rebelled
+Name_839
+Clear All Defeat Flags
+Name_845
+Get Current Alive Xie Immortal Count
+Name_846
+Spawn Xie Immortal
+Name_847
+Character is Xie Immortal
+Name_852
+Set Divine Fire Unlock
+Name_853
+Set NPC to Follow Taiwu
+Name_854
+Set All Mindless Ones to Follow Taiwu
+Name_857
+Spawn the Three Fiends
+Name_858
+Taiwu Sets Specified Clothing
+Name_859
+Teleport Back to Taiwu Village
+Name_862
+Clear Event Listener
+Name_863
+Taiwu Eliminates Xie Immortal
+Name_864
+Assistant Eliminates Xie Immortal
+Name_870
+Set Xie Immortal Elimination Assistant State
+Name_865
+Character is Within Su Xia's Influence Area
+Name_866
+Rescue Character from Su Xia's Influence Area
+Name_867
+Taiwu Learns the Secret Art Corresponding to the Xie Immortal
+Name_868
+Destroy Mt. Chai
+Name_869
+Restore All Destroyed Regions
+Name_871
+Generate Emei Guidance Data
+Name_872
+Clear Emei Guidance Data
+Name_873
+Emei Guidance Guides Character
+Name_874
+Emei Guidance Get Character Type
+Name_875
+Emei Guidance Get Whether Character Has Been Replaced
+Name_876
+Emei Guidance Get Character Tier
+Name_877
+Emei Guidance: Get Guidance Character by Type
+Name_878
+Book Trade Favorability Requirement
+Desc_0
+[If] If condition is satisfied, execute the command list covered by this command's scope.
+Desc_1
+[Else] If linked condition is not satisfied, execute the command list covered by this command's scope.
+Desc_2
+[Else If] If linked condition is not satisfied, check this condition; if true, execute the command list covered by this command's scope.
+Desc_3
+Loop through all command lists covered by this command's scope.
+Desc_4
+End the upper-level loop.
+Desc_5
+
+Desc_6
+Skip the current loop and return to the previous loop starting point.
+Desc_7
+Definition tag. Can be used as a jump target to control command execution order.
+Desc_8
+Jump to a designated defined tag within the current command list.
+Desc_9
+End execution of the current command list.
+Desc_10
+Set the value of a parameter into a named variable. This variable is only used within a continuous story and is not saved to storage.
+Desc_11
+Generate a random number within a specified range. The number generated includes the minimum value but excludes the maximum.
+Desc_12
+Perform a probability check and return True or False based on the defined probability. For example, a parameter of 30 means 30% chance to return True.
+Desc_767
+Using a fixed seed, retrieve an element from a random non-repeating array of numbers. The index range is [0, total count).
+Desc_13
+Jump to a specified event page and end the execution of the current command list.
+Desc_94
+Inject the options configured in the current event into another target event. The target event is the one whose guid the option ultimately appears in (e.g., to add a unique story interaction for a character, specify the original interactive event's GUID). The special interaction and display conditions are marked in the event that calls this command.
+Desc_420
+Inject all options from one event into another.
+Desc_91
+Call a preset global script and shares variables with the upper-level caller.
+Desc_101
+Use this command to save or redefine local story data that must be stored. Different data within the same sect must use different data names. Data with the same name and type (e.g., both numeric) will overwrite old data when saved through this command again, while data with the same name but different types will be stored separately without overwriting.
+Desc_102
+
+Desc_485
+Save the data to a global parameter container, mainly for saving data related to main story.
+Desc_486
+Load the data from the global parameter container.
+Desc_215
+
+Desc_216
+Retrieve the element of a specific index within a list. Note the index has a range of [0, list length)
+Desc_568
+
+Desc_640
+Triggers a specified event once when the listened behavior is executed. The event inherits the context (temporary variables) at the moment of the current command's execution.
+Desc_14
+Output specified debug text to a Log file
+Desc_15
+Execute nothing. Used for comments only.
+Desc_16
+Enter audio name as string in the parameter; if the parameter contains no audio name (empty string only), revert to the default audio (stop the last audio played with this command)
+Desc_482
+Plays the scene change animation and triggers a specified follow-up event.
+Desc_611
+Set a full-screen cutscene background image. The image layer is below the event window.
+Desc_614
+Set a full-screen cutscene background image. The image layer is below the event window.
+Desc_680
+Display fullscreen cutscene UI without event pop-ups.
+Desc_603
+
+Desc_637
+Returning to the chapter screen in a completed state will unlock subsequent chapters.
+Desc_661
+
+Desc_17
+
+Desc_197
+Set event background image for the event that is about to be displayed
+Desc_483
+A black mask that covers the entire screen, including the event interface.\nCheck the first parameter to show the fading mask during playback, and uncheck to hide the fading mask during playback.\nThe next event will pop up when the mask animation finishes. It can also be set as an empty event, and skip using an ordinary event skip order. When skipping using the latter mechanism, the popping up of the next event will play at the same time as the mask. It is forbidden to set a non-empty follow-up event and skip to an event at the same time.
+Desc_829
+This data is not saved and only takes effect during the current event. Used for silently granting items and similar actions under special circumstances. Enabled by default.
+Desc_832
+
+Desc_187
+Open Emei's Unique Mind Method interface. The input parameter is used to distinguish whether it was accessed via White Ape or Shi Houjiu.
+Desc_18
+
+Desc_19
+
+Desc_20
+Directly set a character's Injuries to a target value; None for random.
+Desc_21
+Modify a character's Injuries by a specified change rate; None for random.
+Desc_22
+
+Desc_23
+Toxin levels 1-3 correspond to Lesser Toxin, Severe Toxin, and Deadly Toxin respectively; None for random.
+Desc_24
+Toxin levels 1-3 correspond to Lesser Toxin, Severe Toxin, and Deadly Toxin respectively; None for random.
+Desc_25
+
+Desc_26
+
+Desc_27
+
+Desc_28
+
+Desc_29
+
+Desc_30
+
+Desc_31
+
+Desc_570
+
+Desc_32
+
+Desc_33
+
+Desc_34
+
+Desc_35
+
+Desc_36
+
+Desc_37
+
+Desc_585
+Bind permanent bonus to the Fuyu Sword; inherited when passing down the sword.
+Desc_38
+
+Desc_39
+
+Desc_40
+
+Desc_189
+Inflict a certain number of Injuries to the target character based on the tag, randomly distributed across different body parts.
+Desc_41
+Add an existing item to the specified character's Travel Bag.
+Desc_65
+Removes mission-specific items. If the item is equipped, it will be unequipped first before being removed.
+Desc_42
+Transfers items from one character to another character's inventory, while calculating Betrayal. If the item is being equipped, it will be unequipped first before the transfer.
+Desc_744
+
+Desc_129
+
+Desc_66
+
+Desc_679
+
+Desc_130
+Transfer resources from one character's inventory to another, during which Betrayal can also be calculated.
+Desc_43
+
+Desc_44
+
+Desc_789
+
+Desc_790
+
+Desc_45
+
+Desc_46
+
+Desc_47
+
+Desc_48
+
+Desc_49
+
+Desc_50
+
+Desc_51
+Consume time in days, up to a maximum of 30 days.
+Desc_52
+
+Desc_53
+
+Desc_849
+
+Desc_54
+Increase or decrease Favor in the current region by the amount entered (positive = increase, negative = decrease).
+Desc_55
+
+Desc_56
+
+Desc_860
+
+Desc_57
+
+Desc_58
+
+Desc_325
+
+Desc_59
+
+Desc_60
+
+Desc_226
+Once Favor interaction is triggered, it can be accessed directly via special buildings in Industry. This command therefore determines whether Favor interaction can be accessed via Industry.
+Desc_61
+
+Desc_62
+Create new item from template (cannot create crickets).
+Desc_63
+
+Desc_836
+
+Desc_556
+Create a Martial Arts Book according to settings. Fill -1 for Outline type, complete pages, and Lost pages to indicate random.
+Desc_558
+Complete the study of all pages of the specified book.
+Desc_408
+Setting Equipment Effect modifiers overwrites existing modifiers. If the original modifier effect increases durability cap, the provided bonus will not be reverted.
+Desc_111
+Get a character's favorability toward another character.
+Desc_566
+
+Desc_64
+
+Desc_67
+Create adventure at specified location. Part of the Encounter will be created based on the Monthly Event table configuration (There might be a preparation phase), Input null at this type of Encounter.
+Desc_145
+Execute the global advance month action configured. Some require preparation. Advance month encounter needs to be created via this command (only one instance per configuration can be created at the same time; removed automatically after completion). When region is forced to be not None (-1), this command attempts to bypass the configuration and force generate in the designated region.
+Desc_92
+Create non-persistent enemy character from template. Match Taiwu's Pure Essence only when the template GroupId ≥ 0.
+Desc_93
+Create actor used only in event dialogues with no real character data.
+Desc_99
+Get globally unique story character (created if first request).
+Desc_114
+Filter characters by conditions (can generate new character if none found).
+Desc_100
+Move a character to the corresponding tile. Move to null to make the character disappear
+Desc_89
+Enter battle using battle configuration. Jump to the end event after completing the battle.
+Desc_778
+Enter spectating according to battle configuration, then jump to the ending event upon completion.
+Desc_841
+Enter battle according to the specified battle configuration, using the passed-in character as Taiwu's only Companion. After completion, jump to the ending event.
+Desc_68
+Start a mission (cannot trigger non-triggered missions).
+Desc_69
+End a quest. Non-triggered quest cannot be ended. Triggering the next quest in linear quest chains automatically ends the previous quest, but quests cannot be automatically replaced in parallel chains; manual ending is required.
+Desc_70
+End all missions in chain (cannot complete non-triggered missions).
+Desc_115
+Triggers the Regional Main Story's corresponding ending Monthly Event in a month.
+Desc_116
+Set regional main storyline ending state, applying settings for Sect Approval, Regional Insights, Scroll, etc.
+Desc_113
+Get Template ID for Regional Fixed Character Dynamic Combat
+Desc_117
+Enable real-time following of Taiwu (only for fixed story characters).
+Desc_120
+Stop character from following Taiwu in real-time.
+Desc_118
+Start a Debate with target character (priority: normal BP > opponent's choice > specified type).
+Desc_124
+Leave the ongoing encounter.\nAn post-exit event can be configured to trigger after encounter interface is completely closed.\nThis event consists of two trigger parameters: adventure template (AdventureId) and a check for if the encounter is completed (IsComplete).
+Desc_143
+Retrieve the character pulled into encounter using monthly event behavior configuration linked to the encounter. The configuration information can be found in MonthlyActions list.
+Desc_144
+Retrieve the number of characters pulled into encounter using monthly event behavior configuration linked to the encounter. The configuration information can be found in MonthlyActions list.
+Desc_125
+Complete the current encounter event and continue progressing the encounter.
+Desc_126
+Select the subsequent encounter branch. Can only be called during a turning point event.
+Desc_119
+Start generating an encounter map at the specified starting point. Can only be called during an encounter entrance event.
+Desc_440
+Randomly selects an item from the Travel Bag based on specified conditions. Non-transferable items will not be selected.
+Desc_850
+
+Desc_702
+
+Desc_441
+Calculates the action phase for a character's theft attempt of a specified item.
+Desc_540
+Calculates behavior phase for Poison action with bare hands.
+Desc_541
+Calculates behavior stage for Covert Harm action with bare hands.
+Desc_542
+The former Poisons the latter with bare hands
+Desc_543
+The former Covert Harms the latter with bare hands
+Desc_442
+Check the range of the hostile action phase.
+Desc_127
+Select Item from Character Travel Bag
+Desc_167
+Filter random tiles that meet the matching rules within the range of distance from the specified tile. Both the min and max of range include this value itself.
+Desc_698
+
+Desc_132
+Add Item Subtype for Filtering
+Desc_133
+Add Item Template ID for Filtering
+Desc_134
+Exclude Item Template ID for Filtering
+Desc_534
+Add Item Level for Filtering
+Desc_559
+Use the first item from this group
+Desc_703
+
+Desc_704
+
+Desc_135
+Select Item Based on Previous Conditions
+Desc_147
+
+Desc_227
+This trait is automatically added to all members within the Tier range in the settlement, and will be automatically removed when their organization or Rank no longer meet the requirement. Both the min and max Tier of the parameter range include this Tier itself. 
+Desc_149
+Add a building in a specified Industry. Attempt to overwrite the resource tile if "force add" is enabled and there is insufficient empty slot in the specified Industry.
+Desc_139
+Swordsmiths Landlord Creates Bandit Package
+Desc_150
+Swordsmiths Landlord Creates Automaton and Auto-Joins Party
+Desc_151
+Swordsmiths Landlord Adds Required Merchant Type for Region
+Desc_152
+Swordsmiths Landlord Removes Required Merchant Type for Region
+Desc_188
+
+Desc_243
+Retrieve the settlement on a specified tile. Return null when the target tile has no settlement.
+Desc_154
+Retrieve another settlement apart from the current settlement within the region, excluding large settlements (sect, main city).
+Desc_481
+Obtain the Settlement ID of a Sect.
+Desc_192
+
+Desc_217
+Retrieve the list of all settlements within province that meet the type requirement
+Desc_198
+Get Tile Location of AI or Fixed Character
+Desc_263
+
+Desc_199
+This command returns to the core tile at the bottom left corner when a settlement spans across multiple tiles.
+Desc_261
+
+Desc_262
+
+Desc_153
+Randomly Create Merchant Config Item
+Desc_437
+Gets the current dialogue event.
+Desc_156
+Trigger Sword Passing
+Desc_164
+When the event-ending display is shown (option jump), the Finish Naming function must be called.
+Desc_165
+End Naming
+Desc_71
+Create a boolean variable; the system returns true or false based on the result of this variable. This variable needs to be set manually in command editor module. In the editor, all conditions default to an AND connection but can be combined with basic instructions or called externally to complete the logic.
+Desc_109
+Return True when all conditions in this range are True.
+Desc_110
+Return True when any condition in this range is True.
+Desc_218
+Attempt to retrieve the element of a specific index within a list. Note the index has a range of [0, list length). The condition will fail if the retrieved element is outside the range.
+Desc_155
+
+Desc_72
+
+Desc_423
+Tries to retrieve a value saved in the global parameter box. The condition fails if the value has not been saved.
+Desc_73
+Is Specified Mission Ongoing?
+Desc_586
+Whether the specified quest is completed.
+Desc_74
+Specified Mission Chain Ongoing (Any mission in chain is active)
+Desc_75
+
+Desc_128
+Was Fixed Character Created from Specified Template?
+Desc_515
+Try to get a globally unique fixed story character and store them in a designated temporary variable.
+Desc_76
+
+Desc_77
+
+Desc_78
+
+Desc_79
+
+Desc_80
+
+Desc_81
+
+Desc_577
+
+Desc_82
+
+Desc_107
+
+Desc_108
+
+Desc_571
+
+Desc_572
+
+Desc_160
+
+Desc_161
+
+Desc_162
+
+Desc_203
+
+Desc_83
+
+Desc_84
+
+Desc_140
+
+Desc_141
+Get Specified Aspiration Seniority (0 for locked aspirations). Returns current aspiration seniority if None (-1) is passed.
+Desc_85
+This command checks item template and returns True if the character holds an item of the same template
+Desc_86
+
+Desc_87
+
+Desc_95
+
+Desc_96
+
+Desc_520
+Character is located within any ruined area.
+Desc_168
+Check whether the distance (manhattan distance) between character and tile is less than or equal to the specified value. Ignore the travel time.
+Desc_638
+
+Desc_97
+
+Desc_98
+
+Desc_194
+
+Desc_88
+
+Desc_142
+
+Desc_103
+
+Desc_573
+
+Desc_104
+
+Desc_121
+Check the character for items of a specific module. This also checks items in the inventory and equipped items.
+Desc_122
+
+Desc_131
+
+Desc_567
+
+Desc_90
+Check the results from the previous battle.
+Desc_473
+Check the type of the previous battle.
+Desc_326
+
+Desc_674
+
+Desc_105
+
+Desc_106
+
+Desc_768
+
+Desc_112
+
+Desc_204
+Check if the region contains encounter of the specified encounter.
+Desc_787
+
+Desc_517
+An adult member's grave from a specific settlement exists on any tile in the region.
+Desc_123
+Check if the region main storyline save data exists and store the value to the specified temporary variable.
+Desc_769
+
+Desc_136
+
+Desc_137
+
+Desc_138
+
+Desc_146
+Check if the character currently has an Aspiration and save the current Aspiration to the specified temporary variable.
+Desc_213
+Check if the character meets all the requirements of the specified matching rules.
+Desc_148
+
+Desc_163
+
+Desc_157
+Check if the character's Pure Essence meets the requirement.
+Desc_158
+Check If In Memory Recall
+Desc_159
+Check if a character exists and is alive. Can be used to check if a smart character is alive or if a special character has been permanently deleted. This command cannot be used if the special character is only hidden from the map.
+Desc_516
+Check if the character is on any valid tile. A negative result means the character is off-map, likely abducted or traveling.
+Desc_716
+
+Desc_166
+All Orthodox Chapter + Player Mindset Corresponding Summary
+Desc_169
+
+Desc_421
+Whether currently in a specified Encounter. This command is only for the new Encounter system.
+Desc_170
+Using Energy (action points) as unit:300 Energy = 30 days
+Desc_717
+Reducing Energy in encounters doesn't trigger events. It's measured in Action Points, with 300 Energy equal to 30 days.
+Desc_171
+Range: 0-11
+Desc_172
+Check if the character has imprisoned captive of the specified gender
+Desc_173
+Check if the character has imprisoned captive of the specified age group
+Desc_174
+Check if the character has imprisoned the specified character
+Desc_175
+Check if the character has a companion of the specified gender
+Desc_176
+Check if the character has a companion of the specified age group
+Desc_177
+Check if the character has the specified character as companion
+Desc_178
+
+Desc_179
+
+Desc_180
+
+Desc_190
+Check the settlement's total support for Taiwu. Range: [0,1000]
+Desc_535
+Support Cap bonus amount, range [0, 1000]; use -1 for permanent duration.
+Desc_560
+Check the settlement's support limit for Taiwu. Range: [0,1000]
+Desc_193
+Check if the specified province contains the specified type of settlement.
+Desc_202
+Check if two encounter templates are identical.
+Desc_181
+
+Desc_182
+Using Energy (action points) as unit:300 Energy = 30 days
+Desc_183
+Encounter Element Visibility
+Desc_184
+Toggle Emei Bloodshed tile
+Desc_185
+Tile Group Index
+Desc_186
+Check if the element is in a particular tile group. When ticked: all elements must be within the group; unticked: if any element is within the group.
+Desc_191
+Obtain Character Pure Essence
+Desc_195
+Stage Selection (Required)
+Desc_196
+Refresh the stage count of Yuanshan Minigame and return it
+Desc_200
+Set character's Xiangshu Deviation (Mania threshold: 100, Possessed threshold: 200)
+Desc_201
+Change character's Xiangshu Deviation (Mania threshold: 100, Possessed threshold: 200)
+Desc_205
+Set if the specified character is displayed as wearing Wedding Garment 1
+Desc_206
+Set if the specified character is displayed as wearing Wedding Garment 2
+Desc_207
+Whether Trinity/Three Demons are in Stone Cell
+Desc_208
+Set Banish/Return of Trinity/Three Demons
+Desc_209
+Play Trinity/Three Demons animation
+Desc_210
+Characters within the specified settlement that meet tier/age range requirement
+Desc_211
+Check if Three Demons
+Desc_212
+Retrieve Three Essence Type
+Desc_214
+Initialize Cosmic Trinity/Three Demons data
+Desc_219
+Compare an encounter variable against the set value
+Desc_220
+Set the value of an encounter variable
+Desc_221
+Change the value of an encounter variable
+Desc_222
+Check all encounter variables beginning with a given prefix against a set value. Can be set to require all conditions to match or any condition to match.
+Desc_223
+Set the values of all encounter variables that begin with a given prefix
+Desc_224
+Change the values of all encounter variables that begin with a given prefix
+Desc_225
+Perform a probability check and return True or False based on the defined probability. For example, a parameter of 30 means 30% chance to return True.
+Desc_228
+Check the quantity of a particular encounter element
+Desc_229
+Checks the total number of elements matching the Encounter tag group.
+Desc_372
+Gets the total number of elements matching the Encounter tag group.
+Desc_230
+Checks if the value of variable 1 is the maximum among all values starting with variable 2. Check the box to indicate if it must be the unique maximum.
+Desc_231
+Checks if the value of variable 1 is the minimum among all values starting with variable 2. Check the box to indicate if it must be the unique minimum.
+Desc_232
+Check if the element is in a particular element location. When ticked: all elements must be within the location; unticked: if any element is within the location.
+Desc_233
+Check if Taiwu is in a particular element location
+Desc_234
+Check if Taiwu is in a particular tile group
+Desc_235
+Create an item based on the template. Unable to create cricket.
+Desc_236
+Removes an item based on the module. Removes all copies of the item regardless of quantity.
+Desc_474
+Consumes a certain amount of a temporary item based on module.
+Desc_237
+If encounter uses a particular temporary item
+Desc_238
+Display Veil Scar special mask on character
+Desc_239
+Remove Veil Scar special mask from character
+Desc_240
+Set when the encounter automatically expires (in months). A value less or equal to 0 indicates the encounter will not automatically expire.
+Desc_241
+Exits the Encounter directly. Cannot be called together with Delete Encounter. Indicates an uncompleted Encounter and a temporary exit. All states will be reset.
+Desc_687
+Exits the Encounter directly. Cannot be called together with Delete Encounter. Indicates an uncompleted Encounter and a temporary exit. All states will not be reset.
+Desc_718
+Create at Current Position
+Desc_688
+
+Desc_689
+
+Desc_690
+
+Desc_691
+
+Desc_692
+
+Desc_242
+Destroy Outlaw Base for rewards
+Desc_244
+Display pop-up story unlock interface
+Desc_245
+Whether elements matching the tag group are visible.
+Desc_246
+Whether elements matching the tag group are in a specific tile group.
+Desc_247
+Whether elements matching the tag group are in a specific element's location.
+Desc_248
+Whether Taiwu is in the location of an element matching the tag group.
+Desc_249
+Retrieve obtained Fuyu's Will points
+Desc_250
+Retrieve the bonus data corresponding to Fuyu's Will points (unneeded data can be left blank)
+Desc_251
+Retrieve the number of months that Blackstone Ash can be delayed by the effect of Fuyu's Will on NPC
+Desc_252
+Open Fuyu's Will interface and select the data to save in SelectCount
+Desc_253
+Open gifting filter interface
+Desc_254
+Called after choosing "Confirm" when interacting to use Fuyu's Will interface. Increase NPC's Fuyu's Will.
+Desc_255
+Called on interfaces that require quantity selection (Fuyu's Will interactive interface/Ranshan interactive interface) to retreive previously saved results.
+Desc_256
+Attempt to retrieve the character's maximum tolerable Will value. If this value exists, return True and save the integer in the specified temporary variable. Otherwise, save 0 in the temporary variable.
+Desc_257
+Check the quantity of Will Taiwu has
+Desc_258
+Check the quantity of Will received by the character
+Desc_259
+Fill a specified number of large slots with the specified element in the specified group
+Desc_260
+Fills a certain number of tiles in the major tile where the specified element is located with elements matching the tag group.
+Desc_264
+Delete Encounter. If the player is still in the encounter, they will automatically exit. Do not call this simultaneously with exiting the encounter. Calling this command indicates the encounter has been successfully or unsuccessfully completed.
+Desc_811
+Delete Encounter. If the player is still in the encounter, they will automatically exit. Do not call this simultaneously with exiting the encounter. Calling this command indicates the encounter has been successfully or unsuccessfully completed.
+Desc_265
+Check an encounter element variable against the set value (default element save key: ConchShipPresetKey_ElementId)
+Desc_266
+Set an encounter element variable (default element save key: ConchShipPresetKey_ElementId)
+Desc_267
+Change an encounter element variable (default element save key: ConchShipPresetKey_ElementId)
+Desc_268
+Change the quantity of elements of the tile where Taiwu is. Positive - create; negative - remove
+Desc_774
+Change the quantity of elements of the large tile where Taiwu is. Positive - create; negative - remove
+Desc_269
+Remove Element from Taiwu's Tile
+Desc_270
+Remove Encounter Element
+Desc_271
+Delete specified element from any location
+Desc_272
+Delete target element on tile containing specified element. The boolean parameter controls whether to use small tile or big tile.
+Desc_273
+Delete target element from specified element's tile group
+Desc_274
+Specified element exists on element's small tile
+Desc_275
+Retrieve Energy value. When the boolean is true, returns the Energy already spent; when false, returns the remaining Energy.
+Desc_276
+Check if element character is highest martial power on small tile
+Desc_277
+Element character battle simulation - ID
+Desc_278
+Check if encounter contains specific temporary item
+Desc_279
+Store character ID linked to encounter element into parameter box
+Desc_280
+Randomly create specified number of elements within encounter
+Desc_281
+Taiwu moves randomly by one tile in the Encounter.
+Desc_282
+Delete current element
+Desc_484
+Plays the element deletion animation does not delete the elements. This is used before killing the character, during which element-related data is needed for real-time notifications, so it cannot be removed directly.
+Desc_283
+Clear Inner Breath Chaos
+Desc_284
+Restore Health to maximum
+Desc_285
+Sets variable name and multiplier. When time passes, add "Energy spent times multiplier" to the variable
+Desc_286
+Check if current element is specified element
+Desc_287
+Store encounter variable value into parameter box
+Desc_288
+Store encounter element's variable value into parameter box
+Desc_289
+Store quantity of encounter item into parameter box
+Desc_290
+Compare martial power of encounter element with another encounter element on same tile
+Desc_291
+Compare martial power of encounter element with same-tile element matching tag group.
+Desc_292
+Compare martial power of encounter element with another encounter element
+Desc_293
+Compare martial power of encounter element with element matching tag group.
+Desc_294
+Check if encounter instance element is on same tile as any instance of specified element
+Desc_295
+Whether the element and any instance of an element matching the tag group are on the same tile.
+Desc_598
+Whether two Encounter elements are in the same position
+Desc_296
+Whether the Element Matches the Tag Group
+Desc_297
+Modify quantity of specified element on current tile
+Desc_298
+Check if Veil Scar special interaction is unlocked
+Desc_299
+Confirm kill and snatch target's Star Fortune
+Desc_300
+Condition check for if character's accumulated Star Fortune meets the requirement
+Desc_301
+Locate an element with this core ID and save it
+Desc_302
+Finds and saves an element matching the tag group on the current tile.
+Desc_303
+Finds and saves an element matching the tag group.
+Desc_304
+Exit and delete major event
+Desc_374
+Exits and deletes the major event, triggering a configured event upon exit.
+Desc_812
+Выбросить
+Desc_856
+Use with Exit Major Event, single use
+Desc_305
+Set Taiwu's vision type
+Desc_306
+Check whether Taiwu's vision type meets condition
+Desc_307
+Check if specified element exists within range - by core ID
+Desc_308
+Whether an element matching the tag group exists within range.
+Desc_309
+Create specified number of elements within tile group
+Desc_310
+Create a specified element: generate a character-bound element from a template, with the template character inheriting the specified element's character
+Desc_311
+Taiwu Starts Action in Encounter
+Desc_312
+Encounter Element Variable Starts Action
+Desc_313
+Move encounter element to random accessible tile within X distance of Taiwu
+Desc_314
+Count of elements matching the tag within X distance of the encounter element.
+Desc_315
+Character's available consumable slots
+Desc_578
+Character's available consumable slots
+Desc_316
+Adds the specific items to the character's consumable slot. The action consumes the item in the character's inventory by default, but consumes a copy instead of "Consume Copy" is selected. In this case, the item is not actually consumed and must be manually deleted.
+Desc_809
+0 - 8 is the hard limit.
+Desc_810
+Clear Consumable Slots, including Gu.
+Desc_544
+Enhance Medicine & Poison effects. Use this command before consumption to set modifiers.
+Desc_317
+Modify character's current Qi value
+Desc_318
+Set character's current Qi value
+Desc_319
+Check whether character's Qi type matches specified Five Elements Qi
+Desc_320
+Get a random template item based on subtype and level
+Desc_321
+Randomly add a specified type and amount of toxin to item
+Desc_322
+Check whether character is injured
+Desc_323
+Check whether character is poisoned
+Desc_324
+Open "Medical Care"; Taiwu and companions treat patient
+Desc_327
+Check whether Random Successor is enabled
+Desc_328
+Retrieve regional quest ending state
+Desc_329
+Wudang owner edits book chapters
+Desc_330
+Get specified tile of sect
+Desc_331
+Check toxin amount in Myriad Gu Jar
+Desc_332
+Current in-game date (months elapsed since Year 1, Month 1)
+Desc_333
+Begin Grooming
+Desc_334
+All encounter elements matching the tag group start an action.
+Desc_335
+
+Desc_336
+
+Desc_337
+Check if Encounter Element is in Action
+Desc_338
+Encounter Element Battle Simulation - Tag Group
+Desc_339
+Check battle simulation results
+Desc_340
+Creates a specified number of elements matching the tag group within the tile group.
+Desc_341
+Check regional quest ending
+Desc_342
+Retrieve Taiwu companion list
+Desc_343
+Create an Int list
+Desc_344
+Add an element to the Int list. If the list does not exist, a new one is created.
+Desc_345
+Select character from list
+Desc_621
+Select a character that matches the filter from the list
+Desc_346
+Tag-matching elements are on Taiwu's major tile (check box for 'all' requires all qualifying elements to be present).
+Desc_347
+Tag-matching elements are on the element's major tile (check box for 'all' requires all qualifying elements to be present).
+Desc_348
+Validate item data
+Desc_349
+Check if a specific variable of an encounter element is in action.
+Desc_350
+Check whether an Outer Realms travel option is available this month
+Desc_351
+Get distance from element to Taiwu
+Desc_352
+Compare element-to-Taiwu distance with vision type
+Desc_353
+Create major event
+Desc_780
+At Current Position
+Desc_354
+Retrieve a random tile from the settlement
+Desc_355
+Set Little Black Snake's name
+Desc_356
+Taiwu Stops Action in Encounter
+Desc_357
+Encounter Element Variable Stops Action
+Desc_358
+Get distance from encounter element to tile group
+Desc_359
+Reduce Random Injuries
+Desc_360
+Set Basic Five Elements (ensure sum is 100: NeiliProportionOfFiveElements.MaxValue)
+Desc_782
+
+Desc_361
+Is Encounter Element at Reset Position
+Desc_362
+Gets the current Jixi. Returns null if Jixi does not exist.
+Desc_363
+Copies the name of one fixed character to another.
+Desc_364
+Used in Encounters (formerly Enthralling Trap, Killing Field) to create good Talent characters. Killing Field has Martial Arts modifications, Enthralling Trap has Fine Arts modifications.
+Desc_365
+Saves the ID of the element matching the tag group on Taiwu's current major tile.
+Desc_366
+Saves the ID of the element matching the tag group on Taiwu's current tile.
+Desc_367
+Saves the ID of the element matching the tag group on the element's current major tile.
+Desc_368
+Item Detoxification. The character needs to hold both items.
+Desc_369
+Gets the current Jixi. Returns false if Jixi is not alive.
+Desc_373
+Sets whether a fixed character's movement is fixed during month transition. Note: each different fixed character needs separate implementation by the programmer.
+Desc_375
+Does character like item subtype
+Desc_376
+Does character dislike item subtype
+Desc_377
+Get Favorability Type
+Desc_370
+Get list of characters associated with elements at current location - by tag group
+Desc_371
+Get list of characters associated with a random number of encounter elements - by tag group
+Desc_378
+Check distance from element to Taiwu
+Desc_379
+The element's associated character joins Taiwu Village or becomes a companion. This will delete the element (non-smart characters will be converted to smart characters). If the party is full when attempting to add a companion, it will fail.
+Desc_380
+Create random enemy and bind to element
+Desc_381
+Check if a specific global variable in the encounter is in action
+Desc_382
+Check if any global variable in the encounter is in action
+Desc_383
+Can Jixi travel with you
+Desc_384
+Recover one point of True Qi
+Desc_385
+Distribute one point of True Qi
+Desc_386
+Get character's current Qi value
+Desc_387
+Distance from encounter element to reset position
+Desc_388
+Automaton joins party
+Desc_389
+Automaton leaves party
+Desc_390
+Check for successful use of Fuyu Hilt in combat
+Desc_391
+Encounter element moves randomly by one tile
+Desc_392
+Whether an element with the specified tag group is in a major tile group.
+Desc_393
+Element character battle simulation by instance ID. The instance ID of the target element must be obtained first.
+Desc_394
+Temporarily modify extra True Qi
+Desc_395
+Revert all temporary attribute modifications for the specified character
+Desc_699
+Grants permanent bonus True Qi by increasing True Qi progress.
+Desc_396
+Open the Activate Prime Gu interface
+Desc_397
+Template ID of EventCommonOption. Set to -1 to hide.
+Desc_513
+Successive events will have universal options disabled after setting.
+Desc_398
+The toxin type can be any of the 6 types or unrestricted. If unrestricted, it returns True if any type of toxin is present.
+Desc_399
+Determines if the specified actor is a specific TemplateId.
+Desc_400
+Determines if the specified character has consumed the Prime Gu.
+Desc_401
+To envenom items, the character needs to hold both items.
+Desc_569
+
+Desc_402
+For example, if all elements with the 'enemy' tag in the encounter have an 'Attack' variable, change the attack variable for all of them.
+Desc_403
+Move encounter element to a tile near this element - coreId
+Desc_404
+Move encounter element to a tile near this element - Instance ID
+Desc_405
+Move encounter element to a group
+Desc_406
+Save Dispositions to Variable
+Desc_407
+Save Fine Arts Attainment to Variable
+Desc_409
+Generate a random enemy of a specified gender.
+Desc_410
+Encounter element plays alert animation.
+Desc_411
+Note: This command hides the decorative layer
+Desc_719
+Note: This command hides the decorative layer
+Desc_412
+Encounter element appear/disappear effect. Check the box for landmark element effect, otherwise it's for character element effect.
+Desc_413
+Encounter tile group effect. "None" removes it.
+Desc_414
+Instant Notification - No Parameters
+Desc_415
+Instant Notification - One Character Parameter
+Desc_416
+Instant Notification - Two Character Parameters
+Desc_417
+Instant Notification - Three Character Parameters
+Desc_580
+Monthly Event - No Parameters
+Desc_581
+Monthly Event Notification - Null
+Desc_720
+Monthly Event - Single Character Parameter
+Desc_418
+Taiwu moves randomly by one tile on the world map.
+Desc_419
+Generate Automaton
+Desc_422
+Check if the Three Corpses have unlocked the Secret Tome storage.
+Desc_424
+Variable Exists
+Desc_425
+The second list is added to the first; no new list is created.
+Desc_426
+Check character's total number of injuries.
+Desc_427
+Queries the action ID on Taiwu.
+Desc_428
+Queries the action ID on the [element instance ID].
+Desc_429
+Changes the action progress value by [amount integer] based on [action ID].
+Desc_430
+Taiwu and [element instance ID] start action [action key].
+Desc_431
+[Element instance ID-a] and [element instance ID-b] start an action.
+Desc_432
+Checks if the completed action's key is [string].
+Desc_433
+Get instance ID of element from completed action - by index
+Desc_434
+Taiwu and [Element Instance ID list] start action [action key].
+Desc_435
+Multiple elements start an action
+Desc_436
+Removes close-range fog of war by default.
+Desc_438
+Get encounter element instance ID list - by tag
+Desc_439
+Get encounter element instance ID list - by coreId
+Desc_443
+Major event milestone reward
+Desc_444
+Change music state
+Desc_445
+Change SFX state
+Desc_446
+
+Desc_447
+
+Desc_448
+Whether an element matching the tag group exists within Taiwu's range
+Desc_449
+Checks the character for a certain type of item
+Desc_450
+Removes a major event happening at any location in the whole world, and removes Taiwu from the major event if he's in it.
+Desc_451
+Modifies Jixi's form
+Desc_452
+Adds item to Encounter Element
+Desc_453
+Removes item to Encounter Element
+Desc_454
+Selects Element item
+Desc_455
+Checks if Element has a certain item
+Desc_775
+Settle Encounter Temporary Items to Taiwu
+Desc_456
+Checks for Inner Breath Chaos
+Desc_457
+Used when the Martial World Tournament ends, sects the winning sect and records the hosting sect based on the results.
+Desc_458
+Used when the Secret Tome Encounter is activated, notifies and displays the tile.
+Desc_459
+Used when the Secret Tome Encounter is removed. Assigns a new holder or creates a new Encounter.
+Desc_460
+An internal command exclusive to Ranshan. Moves the character when set, but the command can be hidden to be run afterward.
+Desc_461
+Item transfer not necessary, because it's the Encounter Element item that is being envenomed, and the poison is removed by default.
+Desc_462
+Transfers an Encounter temporary item to a character
+Desc_463
+Encounter Taiwu bubble display
+Desc_464
+Encounter Element bubble display
+Desc_465
+The Element tile that Taiwu is in
+Desc_466
+The large tile that an actual case is in while Taiwu is in Element
+Desc_467
+The large tile that an actual case is in while Taiwu is in a tagged Element
+Desc_468
+Taiwu's distance from Element
+Desc_469
+An actual case of Taiwu's distance from Element
+Desc_470
+An actual case of Taiwu's distance from a tagged Element
+Desc_471
+Checks the Element for a child-type item
+Desc_472
+Select a random child-type item from the Element
+Desc_475
+Retrieve a sect that is the same province as the settlement
+Desc_476
+Clean up unadded items afterwards
+Desc_675
+Creates an item list based on previously registered item filter rules. Clean up unadded items afterwards
+Desc_477
+Selects an item from the specified item list
+Desc_478
+Removes an item from the specified item list
+Desc_479
+Adds an item from the specified item list
+Desc_676
+Adds an item from the specified item list
+Desc_480
+Deletes all items from the specified item list
+Desc_487
+Attempts to find the Element corresponding to the character and returns the result
+Desc_488
+Checks Taiwu Village's original number of chickens
+Desc_489
+Removes the specified variables from the parameter container
+Desc_490
+Removes all variables from the parameter container
+Desc_491
+Retrieves Elements specified by an Element ID in the encounter that return True when comparing the Element variable with the given value
+Desc_492
+Retrieves the Element list (tagged) of the tile that the current Element is in
+Desc_493
+Can Propose Wedded Union to Target
+Desc_494
+Get Taiwu's Imprisoned Character List
+Desc_495
+Get Encounter Element's Imprisoned Character List
+Desc_496
+Cricket Duel with the character corresponding to the encounter element; result logic matches Debate.
+Desc_497
+Calculate offset from the element's origin; return value indicates if save was successful.
+Desc_498
+Calculate offset from the Taiwu's origin; return value indicates if save was successful.
+Desc_499
+Encounter Element Template Bound to Character
+Desc_500
+Get Tile List by Tile Group
+Desc_501
+Is Taiwu on Specific Tile
+Desc_502
+Get Tile List of Element's Large Tile
+Desc_503
+Get Tile List of Taiwu's Large Tile
+Desc_504
+Get Element List of Tile
+Desc_505
+Operations are blocked during movement. Delay-type methods should not be called simultaneously and must be called in sequence.
+Desc_776
+Operations are blocked while waiting. Delay-type methods should not be called simultaneously and must be called in sequence.
+Desc_506
+Move Encounter Element to Specific Tile
+Desc_507
+Element on Specific Tile - Instance ID
+Desc_508
+Element on Specific Tile - Template ID
+Desc_509
+Element on Specific Tile - Tag
+Desc_510
+Encounter Element Directional Movement
+Desc_777
+
+Desc_511
+Encounter Element Directional Passability
+Desc_512
+Play Sound Effect
+Desc_514
+Set Music/SFX Fade In/Out
+Desc_518
+Encounter Element Directional Move (1 Tile) - Variable
+Desc_519
+Encounter Element Directional Passability - Variable
+Desc_521
+Encounter Taiwu Directional Passability
+Desc_522
+Check the comparison result between the number of encounter elements at Taiwu's offset tile and a given value.
+Desc_523
+Change the quantity of elements at Taiwu's offset tile; positive values create, negative values remove.
+Desc_524
+Find and save the last element in the list matching this CoreID on this tile.
+Desc_525
+Modify Character XP
+Desc_604
+Is Taiwu studying any book?
+Desc_605
+Obtain the book Taiwu is currently studying
+Desc_526
+Effect is the same as Wang Chan's Scriptures, consumes 3 Comprehension each time. Failure may be due to insufficient Comprehension.
+Desc_527
+If no book is currently being read or an Epiphany effect is already active, return failure.
+Desc_528
+Toggle fog within a specific Tile Group based on encounter vision range. Set group to 0 to control fog for all tiles.
+Desc_529
+Hide fog within a specific Tile Group in encounter; set group to 0 to control fog for all tiles.
+Desc_530
+Open the Trade Items interface. The input parameter identifies the current NPC. \nNote: This command does not end the current event but opens a new UI and registers listeners. It must be used with ToEvent(string.Empty) or used in an option that leads to an empty event.
+Desc_531
+Save Character's specified Type and Tier
+Desc_532
+Modify Taiwu's Martial Art Combat Value
+Desc_533
+Martial Art Guidance
+Desc_536
+Get Character Martial Power
+Desc_537
+Get Item Tier
+Desc_538
+Check Item Tier
+Desc_539
+Whether the former has the specified relationship with the latter.
+Desc_861
+Add One-way Relation Type
+Desc_545
+Get List of Elements Performing Specific Action
+Desc_546
+Get List of Elements Co-performing Action with Target. Return value includes the target element. Returns an empty list (Count 0) if no matches are found.
+Desc_547
+Configure Option Cooldown (Restored next month)
+Desc_548
+Check Option Cooldown
+Desc_834
+
+Desc_835
+
+Desc_549
+Taiwu Directional Movement in Encounter
+Desc_783
+Taiwu Directional Movement New
+Desc_550
+Consume time in units of Action Points within Encounter
+Desc_551
+Save Taiwu's Previous and Current Tiles in Encounter
+Desc_552
+Set Taiwu to Specific Tile in Encounter
+Desc_553
+Check Item Tier (Comparison Operator)
+Desc_554
+Randomly Create Element on a Random Tile within Encounter Large Tile
+Desc_555
+Check Character's Qi Type Percentage
+Desc_557
+Encounter interacts with Caravan
+Desc_561
+Whether an Encounter element has any following targets
+Desc_562
+Set Encounter element to following Tile
+Desc_563
+Set Encounter element to following Element
+Desc_564
+Clear Encounter element's following target
+Desc_565
+Save Encounter element's current Tile Gx and Gy to the element's variables
+Desc_574
+Encounter set Tile group fog
+Desc_575
+Encounter set Tile fog
+Desc_576
+Encounter set Tile list fog
+Desc_579
+Get list of Tiles within a specified range of an element
+Desc_844
+
+Desc_582
+Generate new Encounter
+Desc_822
+Will not call character retrieval; display will occur only after month transition.
+Desc_838
+
+Desc_583
+Create a grave for a fixed character
+Desc_584
+Taiwu teleports on the world map
+Desc_587
+
+Desc_588
+
+Desc_589
+Difference from Xiangshu progress: this only counts fully conquered Sword Mounds. Conquering only the first stage does not count towards progress.
+Desc_590
+Obtain Encounter element's following Tile
+Desc_591
+Obtain Encounter element's following element
+Desc_592
+Has the element reached its following target?
+Desc_593
+Select type - -1 means no type restriction
+Desc_594
+Confirm the choice?
+Desc_595
+Return value is the event to jump to based on usage result
+Desc_596
+Register item group and level, then obtain random result. When registering a group, use the group's first item.
+Desc_597
+Clear registered item filter criteria
+Desc_599
+Get a sect's martial arts book of a specified tier
+Desc_600
+Save Invasion Progress
+Desc_601
+Increase the base capacity for Taiwu's next Martial Art breakthrough.
+Desc_602
+Increase the base success rate for Taiwu's next Martial Art breakthrough.
+Desc_606
+Set Major Event background atmosphere type, 0 default, 1 positive, 2 negative
+Desc_607
+Cancel the set Major Event atmosphere type value, reverting to unset state
+Desc_608
+
+Desc_609
+
+Desc_615
+
+Desc_610
+
+Desc_612
+
+Desc_613
+Character data will be backed up. The command "Show Hollow-Mindeds" must be called to change the character from hidden to visible.
+Desc_616
+Note that saving does not preserve the current event state; global data must be prepared in advance to continue upon loading.
+Desc_617
+The world is devastated, Underlings are generated.
+Desc_618
+
+Desc_619
+Check character's Vehicle tier (-1 means no vehicle)
+Desc_620
+Check the type of Travel Bag item currently being used
+Desc_622
+Create elements on all Encounter Tiles
+Desc_623
+Taiwu teleports within the Encounter
+Desc_624
+
+Desc_625
+
+Desc_626
+
+Desc_627
+
+Desc_628
+Forcibly construct a Chicken Coop in Taiwu Village. If one already exists, it will not be reconstructed.
+Desc_629
+Returns whether removal was successful
+Desc_630
+This time varies under different world detail settings; the configuration is read from GlobalConfig.SwordTombAdventureLastMonthCount
+Desc_631
+
+Desc_632
+Returns whether setting was successful
+Desc_633
+Returns a newly created list
+Desc_634
+
+Desc_635
+Default is off; only active in Tutorial and guided small world.
+Desc_646
+Default is off; only active in Tutorial and guided small world.
+Desc_636
+
+Desc_639
+
+Desc_641
+
+Desc_642
+Whether the character is currently performing Microcosmic Circulation on a specified Qi Arts.
+Desc_643
+Used in Tutorial; gain Pure Essence and True Qi.
+Desc_851
+Only functional in battle, invalid outside battle
+Desc_644
+Check the comparison result between the number of encounter elements at Element's offset tile and a set value.
+Desc_645
+
+Desc_647
+
+Desc_648
+
+Desc_649
+
+Desc_650
+
+Desc_651
+On the next gathering of the specified resource type, this item will be granted.
+Desc_652
+On the next gathering of the specified resource type, a fixed amount will be granted.
+Desc_653
+
+Desc_654
+Retrieve parameters automatically passed when this event chain is triggered.
+Desc_655
+
+Desc_656
+Create an empty encounter tile list.
+Desc_657
+
+Desc_658
+Pass None to the Effect Template id to delete
+Desc_686
+Pass None to the Effect Template id to delete
+Desc_659
+
+Desc_660
+Modify relationship between two characters - True: Spouses, False: Vindictive
+Desc_662
+
+Desc_712
+
+Desc_663
+
+Desc_664
+Checks the number of Encounter elements on the current tile against a given value.
+Desc_665
+
+Desc_666
+
+Desc_667
+
+Desc_668
+
+Desc_673
+Creates a random element in the Encounter tile group. When set to non-overlapping, the tag is used to check for overlap.
+Desc_669
+
+Desc_670
+
+Desc_671
+
+Desc_672
+Used for tile travel conditions, entry conditions, etc. The parameter container includes tile data.
+Desc_677
+
+Desc_678
+
+Desc_681
+
+Desc_682
+Get Character Charm: Monstrous [0,100) Disgusting [100,200) Ugly [200,300) Ordinary [300,400) Attractive [400,500) Handsome/Elegant [500,600) Majestic/Graceful [600,700) Peerless/Divine [700,800) Ethereal [800,900)
+Desc_683
+Check Character Charm: Monstrous [0,100) Disgusting [100,200) Ugly [200,300) Ordinary [300,400) Attractive [400,500) Handsome/Elegant [500,600) Majestic/Graceful [600,700) Peerless/Divine [700,800) Ethereal [800,900)
+Desc_684
+
+Desc_685
+Create a non-persistent enemy character based on the template and the provided Pure Essence value.
+Desc_693
+In subsequent events, CricketCatchSuccess can be used to check whether the cricket was caught.
+Desc_694
+
+Desc_695
+
+Desc_696
+
+Desc_697
+
+Desc_700
+Checks whether an element has been selected by verifying if a variable with the saved key exists.
+Desc_701
+
+Desc_705
+
+Desc_706
+
+Desc_707
+
+Desc_708
+
+Desc_709
+
+Desc_710
+
+Desc_711
+
+Desc_713
+
+Desc_714
+
+Desc_715
+
+Desc_721
+
+Desc_722
+
+Desc_723
+
+Desc_724
+
+Desc_725
+
+Desc_726
+
+Desc_727
+
+Desc_728
+
+Desc_729
+If checked, the character joins as a companion. Otherwise, the character joins Taiwu Village. Before joining as a companion, check whether the companion limit has been reached.
+Desc_730
+
+Desc_731
+
+Desc_732
+
+Desc_824
+
+Desc_733
+
+Desc_734
+
+Desc_735
+
+Desc_736
+Each Secret Tome is globally unique upon creation and cannot be removed. Its instance can be obtained using the modify command.
+Desc_737
+
+Desc_738
+Sets the alias for the character on the left or right side of the event window. When the alias is no longer needed, set it to Invalid via this command. Otherwise, it will remain in effect for subsequent events.
+Desc_739
+Start modifying name, input surname and given name separately
+Desc_740
+Finish modifying name
+Desc_741
+
+Desc_742
+Change music volume
+Desc_743
+Play music for specified times
+Desc_745
+
+Desc_746
+
+Desc_747
+
+Desc_781
+
+Desc_748
+Needs to be placed within each Sword Mound's passing month instruction
+Desc_749
+
+Desc_750
+
+Desc_751
+
+Desc_752
+Conditions for marking same World State.
+Desc_753
+Clears Injuries, Poison, Inner Breath Chaos; fully restores health
+Desc_754
+
+Desc_755
+
+Desc_756
+
+Desc_757
+
+Desc_758
+
+Desc_759
+Used when clearing incarnations on the tile while modifying invasion difficulty in Sword Passing.
+Desc_760
+
+Desc_761
+
+Desc_762
+
+Desc_763
+
+Desc_764
+
+Desc_765
+
+Desc_766
+Set the next Sword Mound Activity time after the cooldown ends
+Desc_770
+
+Desc_771
+
+Desc_772
+
+Desc_773
+
+Desc_813
+
+Desc_820
+
+Desc_848
+
+Desc_842
+
+Desc_843
+
+Desc_779
+If the two are not spouses, spending a night of love will generate an experience and a secret.
+Desc_784
+
+Desc_785
+
+Desc_786
+
+Desc_788
+
+Desc_791
+
+Desc_792
+
+Desc_793
+Story weather has the highest priority.
+Desc_794
+The configured duration of this title must be greater than or equal to 0; setting the expiration time to -1 means using the configuration.
+Desc_795
+
+Desc_796
+
+Desc_797
+
+Desc_798
+Returns whether Character 1 won. ClearCricketItemShow must be called at the end of the event to clear the item display.
+Desc_799
+
+Desc_800
+
+Desc_801
+
+Desc_802
+
+Desc_803
+
+Desc_804
+In Inventory
+Desc_805
+
+Desc_806
+
+Desc_807
+Call when entering the event.
+Desc_808
+Crickets in jars 0 - 2. After selection, the cricket's key is BuyCricket.
+Desc_837
+Item Owner Character; enter -1 if none.
+Desc_840
+
+Desc_814
+Convert the current NPC into a Hollow-Minded. If there are remaining conversion slots, the original NPC will die, and the new NPC's ID will be returned here. This also consumes one Mud Pill carried by Taiwu.
+Desc_815
+Get Character Reputation Type
+Desc_816
+Character Reputation = Positive Reputation Value - Negative Reputation Value
+Desc_817
+Character Reputation = Positive Reputation Value - Negative Reputation Value
+Desc_818
+
+Desc_819
+
+Desc_821
+Play the year-transition effect and display the time at the top of the main interface.
+Desc_823
+Release the Hollow-Mindeds killed by Long Yufu back onto the world map. Their character IDs will differ from before.
+Desc_825
+Get Active Wunian Followers List. Excludes those killed by Long Yufu and not yet released. Does not guarantee the released count is greater than 0. Excludes those who have died for any reason. Guarantees that all IDs returned at the moment the command is executed belong to living characters.
+Desc_826
+
+Desc_827
+Clear Stamina and Prevent Recovery
+Desc_828
+
+Desc_830
+Call once in the Outlaw Base Activation Command.
+Desc_831
+Call once in the Outlaw Base Monthly Update Command.
+Desc_855
+Call once in the Outlaw Base Destroyed directive
+Desc_833
+
+Desc_839
+Can be used during battle.
+Desc_845
+
+Desc_846
+Randomly spawn the specified number of Xie Immortals that have not yet been spawned. Return the actual spawned count
+Desc_847
+
+Desc_852
+
+Desc_853
+Make NPC follow Taiwu, set follow distance less than 0 to cancel follow
+Desc_854
+Make NPC follow Taiwu, set follow distance less than 0 to cancel follow
+Desc_857
+Spawn the Three Fiends
+Desc_858
+
+Desc_859
+Teleport Back to Taiwu Village
+Desc_862
+
+Desc_863
+
+Desc_864
+
+Desc_870
+
+Desc_865
+
+Desc_866
+
+Desc_867
+
+Desc_868
+
+Desc_869
+
+Desc_871
+Generate Emei Guidance Data
+Desc_872
+Clear Emei Guidance Data
+Desc_873
+Get the tier of the guided character
+Desc_874
+Get character's Emei Guidance type
+Desc_875
+The replacement record is cleared after retrieving the result, so can only be called once
+Desc_876
+0 to 3, 0 means no tier
+Desc_877
+
+Desc_878
+
+ParameterNames_7_0
+Label Name
+ParameterNames_8_0
+Label Name
+ParameterNames_10_0
+Any Value
+ParameterNames_11_0
+Minimum value
+ParameterNames_11_1
+Maximum value
+ParameterNames_12_0
+Percentage Chance
+ParameterNames_767_0
+Seed
+ParameterNames_767_1
+Всего
+ParameterNames_767_2
+Current Index
+ParameterNames_13_0
+Target Event
+ParameterNames_94_0
+Option Index
+ParameterNames_94_1
+Target Event
+ParameterNames_420_0
+Source Event
+ParameterNames_420_1
+Target Event
+ParameterNames_91_0
+Target Script
+ParameterNames_101_0
+Все секты
+ParameterNames_101_1
+Data Field
+ParameterNames_101_2
+Data Value
+ParameterNames_102_0
+Все секты
+ParameterNames_102_1
+Data Field
+ParameterNames_485_0
+Data Field
+ParameterNames_485_1
+Data Value
+ParameterNames_486_0
+Data Field
+ParameterNames_215_0
+List
+ParameterNames_216_0
+List
+ParameterNames_216_1
+Element Number
+ParameterNames_14_0
+Temporary text
+ParameterNames_15_0
+Comment Text
+ParameterNames_16_0
+Audio Clip
+ParameterNames_482_0
+
+ParameterNames_482_1
+Follow-up event
+ParameterNames_614_0
+Resource Name
+ParameterNames_614_1
+Fading time
+ParameterNames_680_0
+
+ParameterNames_680_1
+Follow-up event
+ParameterNames_637_0
+Chapter Complete
+ParameterNames_197_0
+Event Background Name
+ParameterNames_483_0
+Display mask
+ParameterNames_483_1
+Fading time
+ParameterNames_483_2
+Close after ending
+ParameterNames_483_3
+Follow-up event
+ParameterNames_829_0
+On
+ParameterNames_187_0
+Interactive Character
+ParameterNames_18_0
+
+ParameterNames_18_1
+
+ParameterNames_18_2
+Target Value
+ParameterNames_19_0
+
+ParameterNames_19_1
+
+ParameterNames_19_2
+Change Rate
+ParameterNames_20_0
+
+ParameterNames_20_1
+
+ParameterNames_20_2
+Internal Injury
+ParameterNames_20_3
+Target Value
+ParameterNames_21_0
+
+ParameterNames_21_1
+
+ParameterNames_21_2
+Internal Injury
+ParameterNames_21_3
+Change Rate
+ParameterNames_23_0
+
+ParameterNames_23_1
+
+ParameterNames_23_2
+Toxin Level
+ParameterNames_23_3
+Target Value
+ParameterNames_24_0
+
+ParameterNames_24_1
+
+ParameterNames_24_2
+Toxin Level
+ParameterNames_24_3
+Change Rate
+ParameterNames_26_0
+
+ParameterNames_26_1
+Target Value
+ParameterNames_27_0
+
+ParameterNames_27_1
+Change Rate
+ParameterNames_28_0
+
+ParameterNames_28_1
+Target Value
+ParameterNames_29_0
+
+ParameterNames_29_1
+Change Rate
+ParameterNames_30_0
+
+ParameterNames_30_1
+Target Value
+ParameterNames_31_0
+
+ParameterNames_31_1
+Change Rate
+ParameterNames_32_0
+
+ParameterNames_32_1
+
+ParameterNames_32_2
+Set the Favorability of Parameter 1 toward Parameter 2
+ParameterNames_32_3
+Set the Favorability of Parameter 2 toward Parameter 1
+ParameterNames_34_0
+
+ParameterNames_34_1
+
+ParameterNames_34_2
+Replace Conflicting Trait
+ParameterNames_36_0
+Captor
+ParameterNames_36_1
+Пленник
+ParameterNames_36_2
+Use Rope
+ParameterNames_37_0
+Captor
+ParameterNames_37_1
+Пленник
+ParameterNames_37_2
+Escape?
+ParameterNames_38_0
+Joining Character
+ParameterNames_38_1
+Leader Character
+ParameterNames_40_0
+Killed Character
+ParameterNames_40_1
+Killer Character
+ParameterNames_40_2
+
+ParameterNames_189_0
+Target Character
+ParameterNames_189_1
+Total Injuries
+ParameterNames_65_0
+
+ParameterNames_65_1
+
+ParameterNames_65_2
+
+ParameterNames_65_3
+Delete Permanently
+ParameterNames_42_0
+Source Character
+ParameterNames_42_1
+Target Character
+ParameterNames_42_2
+
+ParameterNames_42_3
+Transfer Amount
+ParameterNames_42_4
+Calculate Favorability/Debt
+ParameterNames_129_0
+
+ParameterNames_129_1
+
+ParameterNames_129_2
+Target Value
+ParameterNames_66_0
+
+ParameterNames_66_1
+
+ParameterNames_66_2
+Change Rate
+ParameterNames_679_0
+
+ParameterNames_679_1
+
+ParameterNames_679_2
+
+ParameterNames_130_0
+Source Character
+ParameterNames_130_1
+Target Character
+ParameterNames_130_2
+
+ParameterNames_130_3
+Transfer Amount
+ParameterNames_130_4
+Calculate Favorability/Debt
+ParameterNames_43_0
+
+ParameterNames_43_1
+
+ParameterNames_43_2
+Change Rate
+ParameterNames_44_0
+
+ParameterNames_44_1
+
+ParameterNames_44_2
+Change Rate
+ParameterNames_789_0
+
+ParameterNames_789_1
+
+ParameterNames_789_2
+Target Value
+ParameterNames_790_0
+
+ParameterNames_790_1
+
+ParameterNames_790_2
+Target Value
+ParameterNames_860_0
+
+ParameterNames_860_1
+Create if not exists
+ParameterNames_325_0
+
+ParameterNames_325_1
+
+ParameterNames_325_2
+Use
+ParameterNames_59_0
+
+ParameterNames_59_1
+
+ParameterNames_59_2
+Character's Rank Tier range is 0-8 after joining a settlement
+ParameterNames_60_0
+
+ParameterNames_60_1
+Поддержка
+ParameterNames_226_0
+
+ParameterNames_226_1
+Favor interaction triggered
+ParameterNames_61_0
+Guild Type
+ParameterNames_61_1
+Change Rate
+ParameterNames_63_0
+Основной цвет
+ParameterNames_63_1
+Components
+ParameterNames_556_0
+
+ParameterNames_556_1
+Outline Type
+ParameterNames_556_2
+Orthodox Probability
+ParameterNames_556_3
+Complete Pages
+ParameterNames_556_4
+Lost Pages
+ParameterNames_111_0
+Source Character
+ParameterNames_111_1
+Target Character
+ParameterNames_64_0
+
+ParameterNames_64_1
+Martial Art Template ID
+ParameterNames_64_2
+Cultivation Proficiency
+ParameterNames_145_0
+
+ParameterNames_145_1
+Forced Region
+ParameterNames_92_0
+
+ParameterNames_92_1
+Match Taiwu's Pure Essence Level
+ParameterNames_114_0
+
+ParameterNames_114_1
+
+ParameterNames_114_2
+
+ParameterNames_114_3
+Generate If Not Found
+ParameterNames_89_0
+
+ParameterNames_89_1
+
+ParameterNames_89_2
+
+ParameterNames_89_3
+End Event
+ParameterNames_89_4
+Disable Companion Guard
+ParameterNames_778_0
+Left Character
+ParameterNames_778_1
+Character on the Right
+ParameterNames_778_2
+End Event
+ParameterNames_778_3
+Disable Companion Guard
+ParameterNames_841_0
+
+ParameterNames_841_1
+Only Support Companion
+ParameterNames_841_2
+End Event
+ParameterNames_841_3
+Disable Companion Guard
+ParameterNames_115_0
+
+ParameterNames_115_1
+Set Regional Story Ending
+ParameterNames_116_0
+
+ParameterNames_116_1
+Set Regional Story Ending
+ParameterNames_116_2
+Knowledge Table Index
+ParameterNames_116_3
+Add Knowledge
+ParameterNames_116_4
+
+ParameterNames_113_0
+Starting Character Template
+ParameterNames_113_1
+Number of Character Templates
+ParameterNames_113_2
+Sort by Pure Essence Increase
+ParameterNames_117_0
+
+ParameterNames_117_1
+Расстояние
+ParameterNames_118_0
+Персонаж
+ParameterNames_118_1
+End Event
+ParameterNames_118_2
+Normal BP
+ParameterNames_118_3
+Opponent's Choice
+ParameterNames_118_4
+Specified Type
+ParameterNames_124_0
+Encounter Completed?
+ParameterNames_124_1
+Post-exit Event
+ParameterNames_143_0
+Key Character
+ParameterNames_143_1
+Группа
+ParameterNames_143_2
+Index
+ParameterNames_144_0
+Key Character
+ParameterNames_144_1
+Группа
+ParameterNames_126_0
+Branch Key
+ParameterNames_119_0
+Starting Point Key
+ParameterNames_441_0
+Initiator
+ParameterNames_441_1
+Цель
+ParameterNames_441_2
+Предмет
+ParameterNames_540_0
+Initiator
+ParameterNames_540_1
+Цель
+ParameterNames_541_0
+Initiator
+ParameterNames_541_1
+Цель
+ParameterNames_542_0
+Initiator
+ParameterNames_542_1
+Цель
+ParameterNames_543_0
+Initiator
+ParameterNames_543_1
+Цель
+ParameterNames_127_0
+Персонаж
+ParameterNames_127_1
+Selected Item Key
+ParameterNames_127_2
+Item Type, Subtype (including non-transferable items)
+ParameterNames_167_0
+Center Tile
+ParameterNames_167_1
+Min Distance
+ParameterNames_167_2
+Max Distance
+ParameterNames_167_3
+
+ParameterNames_132_0
+Item Subtype
+ParameterNames_133_0
+Item Template ID
+ParameterNames_134_0
+Item Template ID
+ParameterNames_559_0
+Item Template ID
+ParameterNames_135_0
+Персонаж
+ParameterNames_135_1
+Selected Item Key
+ParameterNames_135_2
+Include Non-Transferable Items
+ParameterNames_227_0
+
+ParameterNames_227_1
+
+ParameterNames_227_2
+Наименьшая ступень
+ParameterNames_227_3
+Наибольшая ступень
+ParameterNames_149_0
+
+ParameterNames_149_1
+
+ParameterNames_149_2
+Force Add
+ParameterNames_149_3
+Near Center
+ParameterNames_151_0
+Region Target ID
+ParameterNames_151_1
+Guild Type
+ParameterNames_152_0
+Region Target ID
+ParameterNames_188_0
+Use
+ParameterNames_153_0
+Merchant Template ID
+ParameterNames_156_0
+Demise of Taiwu
+ParameterNames_156_1
+Post-Inheritance Event
+ParameterNames_164_0
+Персонаж
+ParameterNames_164_1
+Max Name Character Limit
+ParameterNames_218_0
+List
+ParameterNames_218_1
+Element Number
+ParameterNames_218_2
+Temp Variable Name
+ParameterNames_515_0
+
+ParameterNames_515_1
+Temp Variable Name
+ParameterNames_141_0
+
+ParameterNames_141_1
+
+ParameterNames_141_2
+
+ParameterNames_141_3
+Seniority Percentage
+ParameterNames_168_0
+
+ParameterNames_168_1
+
+ParameterNames_168_2
+Расстояние
+ParameterNames_123_0
+
+ParameterNames_123_1
+
+ParameterNames_123_2
+Temp Variable Name
+ParameterNames_146_0
+
+ParameterNames_146_1
+Temp Variable Name
+ParameterNames_716_0
+
+ParameterNames_716_1
+Temporary Generated Characters Included
+ParameterNames_535_0
+
+ParameterNames_535_1
+Support Cap bonus amount.
+ParameterNames_535_2
+Bonus Duration (Months)
+ParameterNames_183_0
+Encounter Element Saved Key
+ParameterNames_186_0
+Encounter Element ID
+ParameterNames_186_1
+Все
+ParameterNames_186_2
+Tile Group
+ParameterNames_195_0
+End event (execute [Process Yuanshan Minigame results returned] here to retrieve the game progress).
+ParameterNames_195_1
+State Selection
+ParameterNames_200_0
+
+ParameterNames_200_1
+Target Value
+ParameterNames_201_0
+
+ParameterNames_201_1
+Value of Change
+ParameterNames_205_0
+
+ParameterNames_205_1
+Toggle Wedding Garment display
+ParameterNames_206_0
+
+ParameterNames_206_1
+Toggle Wedding Garment display
+ParameterNames_207_0
+Three Essence Type
+ParameterNames_208_0
+Three Essence Type
+ParameterNames_208_1
+Banish/Return
+ParameterNames_209_0
+Three Essence Type
+ParameterNames_209_1
+Banish/Return
+ParameterNames_210_0
+Номер поселения
+ParameterNames_210_1
+Наименьшая ступень
+ParameterNames_210_2
+Наибольшая ступень
+ParameterNames_210_3
+Min Age Group
+ParameterNames_210_4
+Max Age Group
+ParameterNames_219_0
+Variable Name
+ParameterNames_219_1
+Comparison Operator
+ParameterNames_219_2
+Set Value
+ParameterNames_220_0
+Variable Name
+ParameterNames_220_1
+Set Value
+ParameterNames_221_0
+Variable Name
+ParameterNames_221_1
+Set Value
+ParameterNames_222_0
+Variable Name
+ParameterNames_222_1
+Comparison Operator
+ParameterNames_222_2
+Set Value
+ParameterNames_222_3
+Any Match
+ParameterNames_223_0
+Variable Name
+ParameterNames_223_1
+Set Value
+ParameterNames_224_0
+Variable Name
+ParameterNames_224_1
+Set Value
+ParameterNames_225_0
+Percentage Chance
+ParameterNames_228_0
+Encounter Element ID
+ParameterNames_228_1
+Compare
+ParameterNames_228_2
+Set Value
+ParameterNames_229_0
+Encounter Element Tag Group
+ParameterNames_229_1
+Compare
+ParameterNames_229_2
+Set Value
+ParameterNames_229_3
+Include Invisible Elements
+ParameterNames_229_4
+
+ParameterNames_372_0
+Encounter Element Tag Group
+ParameterNames_372_1
+Include Invisible Elements
+ParameterNames_372_2
+
+ParameterNames_230_0
+Parameter Name
+ParameterNames_230_1
+Parameter Name
+ParameterNames_230_2
+Уникальное
+ParameterNames_231_0
+Parameter Name
+ParameterNames_231_1
+Parameter Name
+ParameterNames_231_2
+Уникальное
+ParameterNames_232_0
+Encounter Element ID
+ParameterNames_232_1
+Все
+ParameterNames_232_2
+Encounter Element ID
+ParameterNames_233_0
+Encounter Element ID
+ParameterNames_234_0
+Tile Group
+ParameterNames_235_0
+
+ParameterNames_235_1
+Количество
+ParameterNames_474_0
+
+ParameterNames_474_1
+Количество
+ParameterNames_240_0
+Expiry Time
+ParameterNames_241_0
+Event triggered after exit
+ParameterNames_687_0
+Event triggered after exit
+ParameterNames_687_1
+Element Character State Reset
+ParameterNames_687_2
+Element All Variables Reset
+ParameterNames_687_3
+Element Position Reset
+ParameterNames_687_4
+Interrupt All Actions
+ParameterNames_687_5
+Taiwu Buff Reset
+ParameterNames_690_0
+Excluded Elements from Reset
+ParameterNames_244_0
+Sect
+ParameterNames_244_1
+Subsequent event Guid
+ParameterNames_245_0
+Encounter Element Tag Group
+ParameterNames_245_1
+All Elements
+ParameterNames_245_2
+
+ParameterNames_246_0
+Encounter Element Tag Group
+ParameterNames_246_1
+Группа
+ParameterNames_246_2
+All Elements
+ParameterNames_246_3
+Include Invisible Elements
+ParameterNames_246_4
+
+ParameterNames_247_0
+Encounter Element Tag Group
+ParameterNames_247_1
+Encounter Element ID
+ParameterNames_247_2
+All Elements
+ParameterNames_247_3
+Include Invisible Elements
+ParameterNames_247_4
+
+ParameterNames_248_0
+Encounter Element Tag Group
+ParameterNames_248_1
+Include Invisible Elements
+ParameterNames_248_2
+
+ParameterNames_250_0
+Target NPC (reserved for future expansion of calculation commands; temporarily unused)
+ParameterNames_250_1
+Will
+ParameterNames_250_2
+Will Level Key
+ParameterNames_250_3
+Greet Back Level Key
+ParameterNames_250_4
+Regional Favor Key
+ParameterNames_250_5
+Favorability Increase Key
+ParameterNames_251_0
+Target NPC
+ParameterNames_252_0
+Target NPC
+ParameterNames_253_0
+Target NPC
+ParameterNames_253_1
+Greet Back Level
+ParameterNames_253_2
+Greet Back Storage Key
+ParameterNames_254_0
+Target NPC
+ParameterNames_254_1
+SelectCount
+ParameterNames_256_0
+Target NPC
+ParameterNames_256_1
+Temp Variable Name
+ParameterNames_257_0
+Comparison Operator
+ParameterNames_257_1
+Set Value
+ParameterNames_258_0
+Target NPC
+ParameterNames_258_1
+Comparison Operator
+ParameterNames_258_2
+Set Value
+ParameterNames_259_0
+Encounter Element ID
+ParameterNames_259_1
+Группа
+ParameterNames_259_2
+Min quantity
+ParameterNames_259_3
+Max quantity
+ParameterNames_260_0
+Encounter Element ID
+ParameterNames_260_1
+Encounter Element Tag Group
+ParameterNames_260_2
+
+ParameterNames_260_3
+Min quantity
+ParameterNames_260_4
+Max quantity
+ParameterNames_264_0
+Encounters Completed
+ParameterNames_264_1
+Event triggered after exit
+ParameterNames_811_0
+Encounters Completed
+ParameterNames_811_1
+Event triggered after exit
+ParameterNames_811_2
+Skip Ending Animation
+ParameterNames_265_0
+Encounter Element Saved Key
+ParameterNames_265_1
+Variable Name
+ParameterNames_265_2
+Comparison Operator
+ParameterNames_265_3
+Set Value
+ParameterNames_266_0
+Encounter Element Saved Key
+ParameterNames_266_1
+Variable Name
+ParameterNames_266_2
+Set Value
+ParameterNames_267_0
+Encounter Element Saved Key
+ParameterNames_267_1
+Variable Name
+ParameterNames_267_2
+Set Value
+ParameterNames_268_0
+Encounter Element ID
+ParameterNames_268_1
+Value of Change
+ParameterNames_774_0
+Encounter Element ID
+ParameterNames_774_1
+Value of Change
+ParameterNames_269_0
+Encounter Element ID
+ParameterNames_270_0
+Encounter Element ID
+ParameterNames_271_0
+Encounter Element ID
+ParameterNames_271_1
+Количество
+ParameterNames_271_2
+Delete Animation
+ParameterNames_272_0
+Encounter Element ID
+ParameterNames_272_1
+Encounter Element ID
+ParameterNames_272_2
+Количество
+ParameterNames_272_3
+Small Tile
+ParameterNames_272_4
+Delete Animation
+ParameterNames_273_0
+Encounter Element ID
+ParameterNames_273_1
+Encounter Element ID
+ParameterNames_273_2
+Количество
+ParameterNames_273_3
+Delete Animation
+ParameterNames_274_0
+Encounter Element Saved Key
+ParameterNames_274_1
+Encounter Element ID
+ParameterNames_275_0
+Retrieve Energy Spent
+ParameterNames_276_0
+Encounter Element Saved Key
+ParameterNames_276_1
+Encounter Element Tag Group
+ParameterNames_276_2
+Include Invisible
+ParameterNames_276_3
+
+ParameterNames_277_0
+Encounter Element Saved Key
+ParameterNames_277_1
+Encounter Element ID
+ParameterNames_278_0
+
+ParameterNames_278_1
+Количество
+ParameterNames_279_0
+Encounter Element Saved Key
+ParameterNames_279_1
+Key used for storing into parameter box
+ParameterNames_280_0
+Encounter Element ID
+ParameterNames_280_1
+Количество
+ParameterNames_282_0
+Encounter Element Saved Key
+ParameterNames_282_1
+Delete Animation
+ParameterNames_285_0
+Encounter Element Saved Key
+ParameterNames_285_1
+Encounter Element Variable Name
+ParameterNames_285_2
+Scaling Factor
+ParameterNames_286_0
+Encounter Element Saved Key
+ParameterNames_286_1
+Encounter Element ID
+ParameterNames_287_0
+Variable Name
+ParameterNames_287_1
+Key used for storing into parameter box
+ParameterNames_288_0
+Encounter Element Saved Key
+ParameterNames_288_1
+Variable Name
+ParameterNames_288_2
+Key used for storing into parameter box
+ParameterNames_289_0
+
+ParameterNames_289_1
+Key used for storing into parameter box
+ParameterNames_290_0
+Encounter Element Saved Key
+ParameterNames_290_1
+Encounter Element ID
+ParameterNames_290_2
+Comparison Operator
+ParameterNames_291_0
+Encounter Element Saved Key
+ParameterNames_291_1
+Encounter Element Tag Group
+ParameterNames_291_2
+Comparison Operator
+ParameterNames_291_3
+Include Invisible Elements
+ParameterNames_291_4
+
+ParameterNames_292_0
+Encounter Element Saved Key
+ParameterNames_292_1
+Encounter Element ID
+ParameterNames_292_2
+Comparison Operator
+ParameterNames_293_0
+Encounter Element Saved Key
+ParameterNames_293_1
+Encounter Element Tag Group
+ParameterNames_293_2
+Comparison Operator
+ParameterNames_293_3
+Include Invisible Elements
+ParameterNames_293_4
+
+ParameterNames_294_0
+Encounter Element Saved Key
+ParameterNames_294_1
+Encounter Element ID
+ParameterNames_295_0
+Encounter Element Saved Key
+ParameterNames_295_1
+Encounter Element Tag Group
+ParameterNames_295_2
+Include Invisible Elements
+ParameterNames_295_3
+
+ParameterNames_598_0
+Encounter Element Saved Key
+ParameterNames_598_1
+Encounter Element Saved Key
+ParameterNames_296_0
+Encounter Element Saved Key
+ParameterNames_296_1
+Encounter Element Tag Group
+ParameterNames_296_2
+
+ParameterNames_297_0
+Encounter Element Saved Key
+ParameterNames_297_1
+Encounter Element ID
+ParameterNames_297_2
+Value of Change
+ParameterNames_299_0
+Snatch Target
+ParameterNames_300_0
+Цель
+ParameterNames_301_0
+Encounter Element ID
+ParameterNames_301_1
+Key used for storing into parameter box
+ParameterNames_301_2
+Include Invisible Elements
+ParameterNames_302_0
+Encounter Element Saved Key
+ParameterNames_302_1
+Encounter Element Tag Group
+ParameterNames_302_2
+Key used for storing into parameter box
+ParameterNames_302_3
+Include Invisible Elements
+ParameterNames_302_4
+
+ParameterNames_303_0
+Encounter Element Tag Group
+ParameterNames_303_1
+Key used for storing into parameter box
+ParameterNames_303_2
+Include Invisible Elements
+ParameterNames_303_3
+
+ParameterNames_304_0
+Removes major event
+ParameterNames_374_0
+Follow-up event
+ParameterNames_374_1
+Removes major event
+ParameterNames_812_0
+Follow-up event
+ParameterNames_812_1
+Removes major event
+ParameterNames_812_2
+Skip Ending Animation
+ParameterNames_305_0
+Vision Type
+ParameterNames_305_1
+Vision Type Value
+ParameterNames_306_0
+Vision Type
+ParameterNames_306_1
+Operator
+ParameterNames_306_2
+Comparison value
+ParameterNames_307_0
+Encounter Element Saved Key
+ParameterNames_307_1
+Encounter Element ID
+ParameterNames_307_2
+Расстояние
+ParameterNames_307_3
+Include Invisible Elements
+ParameterNames_308_0
+Encounter Element Saved Key
+ParameterNames_308_1
+Encounter Element Tag Group
+ParameterNames_308_2
+Расстояние
+ParameterNames_308_3
+Include Invisible Elements
+ParameterNames_308_4
+
+ParameterNames_309_0
+Encounter Element ID
+ParameterNames_309_1
+Группа
+ParameterNames_309_2
+Min quantity
+ParameterNames_309_3
+Max quantity
+ParameterNames_309_4
+Repeatable?
+ParameterNames_310_0
+Encounter Element Saved Key
+ParameterNames_310_1
+Encounter Element ID
+ParameterNames_310_2
+
+ParameterNames_311_0
+Action Key
+ParameterNames_312_0
+Encounter Element Saved Key
+ParameterNames_312_1
+Action Key
+ParameterNames_313_0
+Encounter Element Saved Key
+ParameterNames_313_1
+Расстояние
+ParameterNames_314_0
+Encounter Element Saved Key
+ParameterNames_314_1
+Расстояние
+ParameterNames_314_2
+Encounter Element Tag Group
+ParameterNames_314_3
+Include Invisible Elements
+ParameterNames_314_4
+
+ParameterNames_316_0
+The character that consumes items
+ParameterNames_316_1
+Existing items
+ParameterNames_316_2
+Consume Copy
+ParameterNames_809_0
+
+ParameterNames_809_1
+Consumable Slot Index
+ParameterNames_544_0
+Existing items
+ParameterNames_544_1
+Extra Effect Percentage
+ParameterNames_317_0
+
+ParameterNames_317_1
+Value to modify
+ParameterNames_318_0
+
+ParameterNames_318_1
+Set value
+ParameterNames_329_0
+Event triggered after interface closes
+ParameterNames_330_0
+
+ParameterNames_330_1
+Index
+ParameterNames_331_0
+Comparison Operator
+ParameterNames_331_1
+Comparison value
+ParameterNames_333_0
+Initiator
+ParameterNames_333_1
+Recipient
+ParameterNames_333_2
+Follow-up event
+ParameterNames_334_0
+Encounter Element Tag Group
+ParameterNames_334_1
+Action Key
+ParameterNames_334_2
+Include Invisible Elements
+ParameterNames_334_3
+
+ParameterNames_335_0
+
+ParameterNames_335_1
+
+ParameterNames_335_2
+Количество
+ParameterNames_335_3
+Delete Permanently
+ParameterNames_336_0
+
+ParameterNames_336_1
+
+ParameterNames_336_2
+Key for selection result
+ParameterNames_337_0
+Encounter Element Saved Key
+ParameterNames_338_0
+Encounter Element Saved Key
+ParameterNames_338_1
+Encounter Element Tag Group
+ParameterNames_338_2
+Include Invisible Elements
+ParameterNames_338_3
+
+ParameterNames_339_0
+Battle Simulation Results
+ParameterNames_340_0
+Encounter Element Tag Group
+ParameterNames_340_1
+Группа
+ParameterNames_340_2
+Min quantity
+ParameterNames_340_3
+Max quantity
+ParameterNames_340_4
+Repeat
+ParameterNames_340_5
+
+ParameterNames_342_0
+Include Taiwu
+ParameterNames_342_1
+Include special companions
+ParameterNames_342_2
+Include Minors
+ParameterNames_344_0
+
+ParameterNames_344_1
+
+ParameterNames_344_2
+No Duplicates
+ParameterNames_345_0
+Character list
+ParameterNames_345_1
+Key for selection result
+ParameterNames_621_0
+Character list
+ParameterNames_621_1
+
+ParameterNames_621_2
+Key for selection result
+ParameterNames_346_0
+Encounter Element Tag Group
+ParameterNames_346_1
+Все
+ParameterNames_346_2
+Include Invisible Elements
+ParameterNames_346_3
+
+ParameterNames_347_0
+Encounter Element Saved Key
+ParameterNames_347_1
+Encounter Element Tag Group
+ParameterNames_347_2
+Все
+ParameterNames_347_3
+Include Invisible Elements
+ParameterNames_347_4
+
+ParameterNames_349_0
+Encounter Element Saved Key
+ParameterNames_349_1
+Action Key
+ParameterNames_351_0
+Encounter Element Saved Key
+ParameterNames_352_0
+Encounter Element Saved Key
+ParameterNames_352_1
+Operator
+ParameterNames_352_2
+Vision Type
+ParameterNames_780_0
+
+ParameterNames_780_1
+Follow-up event
+ParameterNames_357_0
+Encounter Element Saved Key
+ParameterNames_358_0
+Encounter Element Saved Key
+ParameterNames_358_1
+Tile Group
+ParameterNames_358_2
+
+ParameterNames_358_3
+Comparison value
+ParameterNames_358_4
+All tiles meet the condition
+ParameterNames_359_0
+Target Character
+ParameterNames_359_1
+Reduce Total Injuries
+ParameterNames_360_0
+Target Character
+ParameterNames_360_1
+Metal
+ParameterNames_360_2
+Wood
+ParameterNames_360_3
+Вода
+ParameterNames_360_4
+Огонь
+ParameterNames_360_5
+Земля
+ParameterNames_361_0
+Encounter Element Saved Key
+ParameterNames_363_0
+Source Character
+ParameterNames_363_1
+Target Character
+ParameterNames_364_0
+Пол
+ParameterNames_364_1
+With Fine Arts Talent Bonus
+ParameterNames_364_2
+With Martial Art Talent Bonus
+ParameterNames_364_3
+Saved Key
+ParameterNames_365_0
+Encounter Element Tag Group
+ParameterNames_365_1
+Key used for storing into parameter box
+ParameterNames_365_2
+Include Invisible Elements
+ParameterNames_365_3
+
+ParameterNames_366_0
+Encounter Element Tag Group
+ParameterNames_366_1
+Key used for storing into parameter box
+ParameterNames_366_2
+Include Invisible Elements
+ParameterNames_366_3
+
+ParameterNames_367_0
+Encounter Element Saved Key
+ParameterNames_367_1
+Encounter Element Tag Group
+ParameterNames_367_2
+Key used for storing into parameter box
+ParameterNames_367_3
+Include Invisible Elements
+ParameterNames_367_4
+
+ParameterNames_368_0
+
+ParameterNames_368_1
+Item to be Detoxified
+ParameterNames_368_2
+Detoxifying Item
+ParameterNames_369_0
+Temp Variable Name
+ParameterNames_373_0
+Target Character
+ParameterNames_373_1
+Is Fixed
+ParameterNames_370_0
+Encounter Element Tag Group
+ParameterNames_370_1
+
+ParameterNames_370_2
+Include Invisible Elements
+ParameterNames_371_0
+Encounter Element Tag Group
+ParameterNames_371_1
+
+ParameterNames_371_2
+Include invisible elements
+ParameterNames_371_3
+Min quantity
+ParameterNames_371_4
+Max quantity
+ParameterNames_378_0
+Encounter Element Saved Key
+ParameterNames_378_1
+Operator
+ParameterNames_378_2
+Comparison value
+ParameterNames_379_0
+Target Character
+ParameterNames_379_1
+Join as companion
+ParameterNames_379_2
+Follow-up event
+ParameterNames_380_0
+Encounter Element Saved Key
+ParameterNames_380_1
+
+ParameterNames_380_2
+
+ParameterNames_381_0
+Action Key
+ParameterNames_387_0
+Encounter Element Saved Key
+ParameterNames_387_1
+Operator
+ParameterNames_387_2
+Comparison value
+ParameterNames_391_0
+Encounter Element Saved Key
+ParameterNames_392_0
+Encounter Element Tag Group
+ParameterNames_392_1
+Группа
+ParameterNames_392_2
+All Elements
+ParameterNames_392_3
+Include Invisible Elements
+ParameterNames_392_4
+
+ParameterNames_393_0
+Encounter Element Saved Key
+ParameterNames_393_1
+Encounter Element Saved Key
+ParameterNames_394_0
+
+ParameterNames_394_1
+
+ParameterNames_394_2
+Value of Change
+ParameterNames_699_0
+
+ParameterNames_699_1
+
+ParameterNames_699_2
+Value of Change
+ParameterNames_396_0
+Target for Gu Activation
+ParameterNames_513_0
+Set Disable/Remove Disable
+ParameterNames_398_0
+Предмет
+ParameterNames_398_1
+Toxin Type
+ParameterNames_399_0
+Actor Data
+ParameterNames_399_1
+Target Template
+ParameterNames_400_0
+Target Character
+ParameterNames_401_0
+Item to be envenomed
+ParameterNames_401_1
+Poison
+ParameterNames_402_0
+Encounter Element Tag Group
+ParameterNames_402_1
+Variable ID
+ParameterNames_402_2
+Match Type
+ParameterNames_402_3
+Ценность
+ParameterNames_403_0
+Encounter Element Saved Key
+ParameterNames_403_1
+Encounter Element ID
+ParameterNames_403_2
+Расстояние
+ParameterNames_404_0
+Encounter Element Saved Key
+ParameterNames_404_1
+Encounter Element Saved Key
+ParameterNames_404_2
+Расстояние
+ParameterNames_405_0
+Encounter Element Saved Key
+ParameterNames_405_1
+Группа
+ParameterNames_405_2
+Disperse
+ParameterNames_406_0
+Персонаж
+ParameterNames_406_1
+Dispositions Types
+ParameterNames_407_0
+Персонаж
+ParameterNames_407_1
+Fine Art Type
+ParameterNames_409_0
+Character Template
+ParameterNames_409_1
+Пол
+ParameterNames_410_0
+Encounter Element Saved Key
+ParameterNames_411_0
+Encounter Coordinates (Example input, use English commas to separate: 1,2,3)
+ParameterNames_411_1
+Terrain Resource Name
+ParameterNames_719_0
+Tile Group
+ParameterNames_719_1
+Art Asset Name
+ParameterNames_412_0
+Encounter Element Saved Key
+ParameterNames_412_1
+Landmark Element
+ParameterNames_413_0
+Tile Group
+ParameterNames_413_1
+
+ParameterNames_419_0
+Automaton Template
+ParameterNames_422_0
+Three Corpses Character
+ParameterNames_424_0
+Variable Name
+ParameterNames_425_0
+
+ParameterNames_425_1
+
+ParameterNames_425_2
+No Duplicates
+ParameterNames_428_0
+Encounter Element Saved Key
+ParameterNames_429_0
+Action ID
+ParameterNames_429_1
+Value to modify
+ParameterNames_430_0
+Encounter Element Saved Key
+ParameterNames_430_1
+Action Key
+ParameterNames_431_0
+Encounter Element Saved Key
+ParameterNames_431_1
+Encounter Element Saved Key
+ParameterNames_431_2
+Action Key
+ParameterNames_432_0
+Action key to check
+ParameterNames_433_0
+Index
+ParameterNames_434_0
+Encounter Element ID List
+ParameterNames_434_1
+Action Key
+ParameterNames_435_0
+Encounter Element ID List
+ParameterNames_435_1
+Action Key
+ParameterNames_436_0
+Long-range sight
+ParameterNames_438_0
+Encounter Element Tag Group
+ParameterNames_438_1
+
+ParameterNames_438_2
+Include Invisible Elements
+ParameterNames_439_0
+Encounter Element ID
+ParameterNames_439_1
+Include Invisible Elements
+ParameterNames_443_0
+Reward Index
+ParameterNames_444_0
+Pause?
+ParameterNames_445_0
+Pause?
+ParameterNames_448_0
+Encounter Element Tag Group
+ParameterNames_448_1
+Расстояние
+ParameterNames_448_2
+Include Invisible Elements
+ParameterNames_448_3
+
+ParameterNames_450_0
+Major event to be removed
+ParameterNames_451_0
+Module ID of Jixi's target form
+ParameterNames_452_0
+Encounter Element Saved Key
+ParameterNames_452_1
+Предмет
+ParameterNames_453_0
+Encounter Element Saved Key
+ParameterNames_453_1
+Предмет
+ParameterNames_454_0
+Encounter Element Saved Key
+ParameterNames_454_1
+Selected Item Key
+ParameterNames_455_0
+Encounter Element Saved Key
+ParameterNames_455_1
+
+ParameterNames_775_0
+Random Half
+ParameterNames_457_0
+A winner has been selected
+ParameterNames_460_0
+
+ParameterNames_460_1
+Follow
+ParameterNames_461_0
+
+ParameterNames_461_1
+Envenomed Item
+ParameterNames_461_2
+Яды
+ParameterNames_463_0
+Bubble text key
+ParameterNames_464_0
+
+ParameterNames_464_1
+Bubble text key
+ParameterNames_466_0
+
+ParameterNames_466_1
+Include Invisible
+ParameterNames_467_0
+Element Tag
+ParameterNames_467_1
+
+ParameterNames_467_2
+Include Invisible
+ParameterNames_469_0
+
+ParameterNames_469_1
+
+ParameterNames_469_2
+
+ParameterNames_469_3
+Include Invisible
+ParameterNames_470_0
+Element Tag
+ParameterNames_470_1
+
+ParameterNames_470_2
+
+ParameterNames_470_3
+
+ParameterNames_470_4
+Include Invisible
+ParameterNames_477_0
+
+ParameterNames_477_1
+Item key selected
+ParameterNames_487_0
+
+ParameterNames_487_1
+The key discovered for saving Element
+ParameterNames_488_0
+Количество
+ParameterNames_489_0
+Variable Name
+ParameterNames_491_0
+Encounter Element ID
+ParameterNames_491_1
+Variable Name
+ParameterNames_491_2
+Comparison Operator
+ParameterNames_491_3
+Set Value
+ParameterNames_491_4
+Include Invisible
+ParameterNames_492_0
+Encounter Element Saved Key
+ParameterNames_492_1
+Encounter Element Tag Group
+ParameterNames_492_2
+
+ParameterNames_492_3
+Include Invisible Elements
+ParameterNames_493_0
+Initiator
+ParameterNames_493_1
+Цель
+ParameterNames_496_0
+
+ParameterNames_496_1
+Follow-up event
+ParameterNames_497_0
+
+ParameterNames_497_1
+Save Key
+ParameterNames_497_2
+X Offset
+ParameterNames_497_3
+Y Offset
+ParameterNames_498_0
+Save Key
+ParameterNames_498_1
+X Offset
+ParameterNames_498_2
+Y Offset
+ParameterNames_504_0
+
+ParameterNames_504_1
+Include Invisible Elements
+ParameterNames_505_0
+
+ParameterNames_505_1
+Return to Taiwu
+ParameterNames_505_2
+One-Way Duration
+ParameterNames_505_3
+Stay Time
+ParameterNames_505_4
+Follow-up event
+ParameterNames_776_0
+Wait Time
+ParameterNames_776_1
+Follow-up event
+ParameterNames_508_0
+
+ParameterNames_508_1
+
+ParameterNames_508_2
+Любая
+ParameterNames_509_0
+
+ParameterNames_509_1
+Encounter Element Tag Group
+ParameterNames_509_2
+
+ParameterNames_509_3
+Include Invisible Elements
+ParameterNames_509_4
+Любая
+ParameterNames_510_0
+Encounter Element Saved Key
+ParameterNames_510_1
+X Offset
+ParameterNames_510_2
+Y Offset
+ParameterNames_777_0
+Encounter Element Saved Key
+ParameterNames_777_1
+X Offset
+ParameterNames_777_2
+Y Offset
+ParameterNames_777_3
+Allow Movement to Impassable Tile
+ParameterNames_511_0
+Encounter Element Saved Key
+ParameterNames_511_1
+X Offset
+ParameterNames_511_2
+Y Offset
+ParameterNames_512_0
+SFX Name
+ParameterNames_512_1
+Loop
+ParameterNames_514_0
+Audio Clip
+ParameterNames_514_1
+Is Ambient Sound
+ParameterNames_514_2
+Is Fade Out
+ParameterNames_514_3
+Fade Duration
+ParameterNames_518_0
+Encounter Element Saved Key
+ParameterNames_518_1
+X Offset Variable Name
+ParameterNames_518_2
+Y Offset Variable Name
+ParameterNames_519_0
+Encounter Element Saved Key
+ParameterNames_519_1
+X Offset Variable Name
+ParameterNames_519_2
+Y Offset Variable Name
+ParameterNames_521_0
+X Offset
+ParameterNames_521_1
+Y Offset
+ParameterNames_522_0
+X Offset
+ParameterNames_522_1
+Y Offset
+ParameterNames_522_2
+Encounter Element ID
+ParameterNames_522_3
+Comparison Operator
+ParameterNames_522_4
+Set Value
+ParameterNames_522_5
+Include Invisible Elements
+ParameterNames_523_0
+X Offset
+ParameterNames_523_1
+Y Offset
+ParameterNames_523_2
+Encounter Element ID
+ParameterNames_523_3
+Value of Change
+ParameterNames_524_0
+X Offset
+ParameterNames_524_1
+Y Offset
+ParameterNames_524_2
+Encounter Element ID
+ParameterNames_524_3
+Key used for storing into parameter box
+ParameterNames_524_4
+Include Invisible Elements
+ParameterNames_526_0
+Выберите книгу
+ParameterNames_526_1
+Попытки
+ParameterNames_526_2
+Comprehension Cost
+ParameterNames_528_0
+Long-range sight
+ParameterNames_528_1
+Группа
+ParameterNames_529_0
+Группа
+ParameterNames_530_0
+Interactive Character
+ParameterNames_530_1
+Jump to Event on Interaction End
+ParameterNames_531_0
+
+ParameterNames_531_1
+
+ParameterNames_531_2
+
+ParameterNames_531_3
+Saved Key
+ParameterNames_533_0
+Guidance Provider
+ParameterNames_533_1
+Guidance Receiver
+ParameterNames_533_2
+
+ParameterNames_861_0
+Initiator
+ParameterNames_861_1
+Цель
+ParameterNames_861_2
+
+ParameterNames_545_0
+Action Key
+ParameterNames_549_0
+X Offset
+ParameterNames_549_1
+Y Offset
+ParameterNames_783_0
+X Offset
+ParameterNames_783_1
+Y Offset
+ParameterNames_783_2
+Allow Movement to Impassable Tile
+ParameterNames_551_0
+Save Previous Tile's Gx Variable Name
+ParameterNames_551_1
+Save Previous Tile's Gy Variable Name
+ParameterNames_551_2
+Save Current Tile's Gx Variable Name
+ParameterNames_551_3
+Save Current Tile's Gy Variable Name
+ParameterNames_552_0
+Gx
+ParameterNames_552_1
+Gy
+ParameterNames_553_0
+Предмет
+ParameterNames_553_1
+Comparison Operator
+ParameterNames_553_2
+Ступень
+ParameterNames_554_0
+Encounter Element ID
+ParameterNames_554_1
+Large Tile X
+ParameterNames_554_2
+Large Tile Y
+ParameterNames_554_3
+Количество
+ParameterNames_555_0
+Target Character
+ParameterNames_555_1
+Qi Type
+ParameterNames_555_2
+Comparison Operator
+ParameterNames_555_3
+[0-100)
+ParameterNames_557_0
+Target Character
+ParameterNames_557_1
+Shop Template
+ParameterNames_557_2
+End Event
+ParameterNames_565_0
+Encounter Element Saved Key
+ParameterNames_565_1
+Save Current Tile's Gx Variable Name
+ParameterNames_565_2
+Save Current Tile's Gy Variable Name
+ParameterNames_574_0
+Tile Group
+ParameterNames_574_1
+Use
+ParameterNames_575_0
+Клетка
+ParameterNames_575_1
+Use
+ParameterNames_576_0
+Tile list
+ParameterNames_576_1
+Use
+ParameterNames_579_0
+
+ParameterNames_579_1
+Расстояние
+ParameterNames_838_0
+
+ParameterNames_838_1
+
+ParameterNames_838_2
+Reserved Character Key for Element
+ParameterNames_583_0
+
+ParameterNames_583_1
+
+ParameterNames_583_2
+
+ParameterNames_583_3
+Дата
+ParameterNames_590_0
+
+ParameterNames_590_1
+Saved Key
+ParameterNames_591_0
+
+ParameterNames_591_1
+Saved Key
+ParameterNames_593_0
+Select from this character
+ParameterNames_593_1
+Saved Key
+ParameterNames_593_2
+
+ParameterNames_594_0
+Saved Key
+ParameterNames_595_0
+Use on this character
+ParameterNames_595_1
+Insight
+ParameterNames_595_2
+Insight valid jump event
+ParameterNames_595_3
+Insight general jump event
+ParameterNames_595_4
+Insight invalid jump event
+ParameterNames_600_0
+Saved Key
+ParameterNames_601_0
+Ценность
+ParameterNames_602_0
+Ценность
+ParameterNames_606_0
+Вид
+ParameterNames_609_0
+
+ParameterNames_609_1
+Remaining months until abnormality
+ParameterNames_615_0
+Remaining months until abnormality
+ParameterNames_613_0
+Kill Count
+ParameterNames_619_0
+Персонаж
+ParameterNames_619_1
+Comparison Operator
+ParameterNames_619_2
+Ступень
+ParameterNames_622_0
+
+ParameterNames_622_1
+Quantity per Tile
+ParameterNames_624_0
+
+ParameterNames_624_1
+Encounter Element Tag Group
+ParameterNames_624_2
+
+ParameterNames_624_3
+Include Invisible Elements
+ParameterNames_627_0
+
+ParameterNames_627_1
+Get the highest
+ParameterNames_631_0
+Trait list
+ParameterNames_631_1
+Follow-up event
+ParameterNames_631_2
+Key for selection result
+ParameterNames_631_3
+Display text LanguageKey
+ParameterNames_631_4
+Event background image path
+ParameterNames_632_0
+Index
+ParameterNames_632_1
+Set numeric value
+ParameterNames_633_0
+
+ParameterNames_633_1
+Ascending
+ParameterNames_634_0
+
+ParameterNames_634_1
+Saved Key
+ParameterNames_635_0
+
+ParameterNames_635_1
+On
+ParameterNames_646_0
+On
+ParameterNames_641_0
+
+ParameterNames_641_1
+
+ParameterNames_641_2
+Requires availability
+ParameterNames_644_0
+Encounter Element Saved Key
+ParameterNames_644_1
+X Offset
+ParameterNames_644_2
+Y Offset
+ParameterNames_644_3
+Encounter Element ID
+ParameterNames_644_4
+Comparison Operator
+ParameterNames_644_5
+Set Value
+ParameterNames_644_6
+Include Invisible Elements
+ParameterNames_647_0
+
+ParameterNames_647_1
+X Coordinate
+ParameterNames_647_2
+Y Coordinate
+ParameterNames_654_0
+
+ParameterNames_654_1
+Variable Name
+ParameterNames_658_0
+
+ParameterNames_658_1
+
+ParameterNames_686_0
+
+ParameterNames_686_1
+
+ParameterNames_660_0
+Character A
+ParameterNames_660_1
+Character B
+ParameterNames_660_2
+True: Spouses; False: Vindictive
+ParameterNames_664_0
+x
+ParameterNames_664_1
+y
+ParameterNames_664_2
+z
+ParameterNames_664_3
+Encounter Element ID
+ParameterNames_664_4
+Comparison Operator
+ParameterNames_664_5
+Set Value
+ParameterNames_664_6
+Include Invisible Elements
+ParameterNames_666_0
+Use
+ParameterNames_673_0
+Группа
+ParameterNames_673_1
+Encounter Element ID
+ParameterNames_673_2
+Количество
+ParameterNames_673_3
+Is Overlappable
+ParameterNames_673_4
+Encounter Element Tag Group
+ParameterNames_673_5
+Include Invisible Elements
+ParameterNames_673_6
+
+ParameterNames_669_0
+Large Tile
+ParameterNames_669_1
+Encounter Element Tag Group
+ParameterNames_669_2
+
+ParameterNames_669_3
+Include Invisible Elements
+ParameterNames_670_0
+
+ParameterNames_670_1
+Saved Key
+ParameterNames_670_2
+Encounter Element Tag Group
+ParameterNames_670_3
+
+ParameterNames_670_4
+Include Invisible Elements
+ParameterNames_672_0
+Encounter Element Tag Group
+ParameterNames_672_1
+
+ParameterNames_672_2
+Include Invisible Elements
+ParameterNames_681_0
+Прятать
+ParameterNames_682_0
+Target Character
+ParameterNames_683_0
+Target Character
+ParameterNames_683_1
+Comparison Operator
+ParameterNames_683_2
+Обаяние
+ParameterNames_685_0
+
+ParameterNames_685_1
+Чистота
+ParameterNames_693_0
+Follow-up event
+ParameterNames_694_0
+
+ParameterNames_694_1
+Расстояние
+ParameterNames_700_0
+Center Tile
+ParameterNames_700_1
+Расстояние
+ParameterNames_700_2
+Saved Key
+ParameterNames_700_3
+Follow-up event
+ParameterNames_705_0
+Wooden Dummy Count
+ParameterNames_705_1
+Bronze Statue Count
+ParameterNames_707_0
+Min Group Count
+ParameterNames_707_1
+Max Group Count
+ParameterNames_707_2
+Min Distance
+ParameterNames_707_3
+Max Distance
+ParameterNames_710_0
+
+ParameterNames_710_1
+Change Rate
+ParameterNames_711_0
+
+ParameterNames_711_1
+Change Rate
+ParameterNames_714_0
+Follow-up event
+ParameterNames_715_0
+Aid Sect Member
+ParameterNames_715_1
+Do Not Aid Sect Member
+ParameterNames_723_0
+Show Ancestral Temple
+ParameterNames_726_0
+Прятать
+ParameterNames_729_0
+
+ParameterNames_729_1
+Join as companion
+ParameterNames_729_2
+Follow-up event
+ParameterNames_824_0
+Cricket Item Before Transformation
+ParameterNames_824_1
+Cricket Character After Transformation
+ParameterNames_824_2
+Event After Performance
+ParameterNames_734_0
+Invincible Incarnation
+ParameterNames_737_0
+Incarnation Character
+ParameterNames_738_0
+Left Character
+ParameterNames_738_1
+
+ParameterNames_739_0
+Персонаж
+ParameterNames_739_1
+Max surname characters
+ParameterNames_739_2
+Max Name Character Limit
+ParameterNames_742_0
+Volume
+ParameterNames_742_1
+Fading time
+ParameterNames_743_0
+Target Music
+ParameterNames_743_1
+Specify Times
+ParameterNames_743_2
+Upcoming Music
+ParameterNames_749_0
+Data Field
+ParameterNames_755_0
+Use
+ParameterNames_763_0
+
+ParameterNames_763_1
+
+ParameterNames_763_2
+Save Parameter Name
+ParameterNames_848_0
+
+ParameterNames_848_1
+Generation Range
+ParameterNames_788_0
+Bamboo Incarnation
+ParameterNames_792_0
+Practice Slot Type
+ParameterNames_792_1
+Practice Slot Type Increase Amount
+ParameterNames_792_2
+Maximum Qi Increase Amount
+ParameterNames_792_3
+Follow-up event
+ParameterNames_794_0
+
+ParameterNames_794_1
+
+ParameterNames_794_2
+Expiration Time
+ParameterNames_795_0
+
+ParameterNames_795_1
+
+ParameterNames_795_2
+Wins
+ParameterNames_795_3
+Saved Cricket Key
+ParameterNames_796_0
+
+ParameterNames_796_1
+Follow-up event
+ParameterNames_797_0
+
+ParameterNames_797_1
+Double Damage
+ParameterNames_797_2
+Undamaged Crickets Only
+ParameterNames_797_3
+Minimum Tier
+ParameterNames_797_4
+Maximum Tier
+ParameterNames_797_5
+Follow-up event
+ParameterNames_798_0
+Character I
+ParameterNames_798_1
+Character II
+ParameterNames_801_0
+
+ParameterNames_801_1
+Value of Change
+ParameterNames_804_0
+Alive
+ParameterNames_806_0
+Change Rate
+ParameterNames_837_0
+Left Character
+ParameterNames_837_1
+Item Owner Character
+ParameterNames_814_0
+Candidate for Conversion
+ParameterNames_815_0
+Target Character
+ParameterNames_816_0
+Target Character
+ParameterNames_817_0
+Target Character
+ParameterNames_818_0
+Target Character
+ParameterNames_818_1
+Operator
+ParameterNames_818_2
+Репутация
+ParameterNames_818_3
+Meets the Morally Gray Condition
+ParameterNames_821_0
+The Year Is Unknown?
+ParameterNames_821_1
+Follow-up event
+ParameterNames_823_0
+Minimum Number of Wunian Followers on the Map
+ParameterNames_839_0
+Враги
+ParameterNames_846_0
+Количество
+ParameterNames_853_0
+Follower
+ParameterNames_853_1
+Follow Distance
+ParameterNames_854_0
+Follow Distance
+ParameterNames_867_0
+Xie Immortal Character
+ParameterNames_873_0
+Target Character
+ParameterNames_874_0
+Target Character
+ParameterNames_875_0
+Target Character
+ParameterNames_876_0
+Target Character
+ParameterNames_877_0
+Target Character Type
+InGameHint_0
+
+InGameHint_1
+
+InGameHint_2
+
+InGameHint_3
+
+InGameHint_4
+
+InGameHint_5
+
+InGameHint_6
+
+InGameHint_7
+
+InGameHint_8
+
+InGameHint_9
+
+InGameHint_10
+
+InGameHint_11
+
+InGameHint_12
+
+InGameHint_767
+
+InGameHint_13
+
+InGameHint_94
+
+InGameHint_420
+
+InGameHint_91
+
+InGameHint_101
+
+InGameHint_102
+
+InGameHint_485
+
+InGameHint_486
+
+InGameHint_215
+
+InGameHint_216
+
+InGameHint_568
+
+InGameHint_640
+
+InGameHint_14
+
+InGameHint_15
+
+InGameHint_16
+
+InGameHint_482
+
+InGameHint_611
+
+InGameHint_614
+
+InGameHint_680
+
+InGameHint_603
+
+InGameHint_637
+
+InGameHint_661
+
+InGameHint_17
+
+InGameHint_197
+
+InGameHint_483
+
+InGameHint_829
+
+InGameHint_832
+
+InGameHint_187
+
+InGameHint_18
+
+InGameHint_19
+
+InGameHint_20
+
+InGameHint_21
+
+InGameHint_22
+
+InGameHint_23
+
+InGameHint_24
+
+InGameHint_25
+
+InGameHint_26
+
+InGameHint_27
+
+InGameHint_28
+
+InGameHint_29
+
+InGameHint_30
+
+InGameHint_31
+
+InGameHint_570
+
+InGameHint_32
+
+InGameHint_33
+
+InGameHint_34
+
+InGameHint_35
+
+InGameHint_36
+
+InGameHint_37
+
+InGameHint_585
+
+InGameHint_38
+
+InGameHint_39
+
+InGameHint_40
+
+InGameHint_189
+
+InGameHint_41
+
+InGameHint_65
+
+InGameHint_42
+
+InGameHint_744
+
+InGameHint_129
+
+InGameHint_66
+
+InGameHint_679
+
+InGameHint_130
+
+InGameHint_43
+
+InGameHint_44
+
+InGameHint_789
+
+InGameHint_790
+
+InGameHint_45
+
+InGameHint_46
+
+InGameHint_47
+
+InGameHint_48
+
+InGameHint_49
+
+InGameHint_50
+
+InGameHint_51
+
+InGameHint_52
+
+InGameHint_53
+
+InGameHint_849
+
+InGameHint_54
+
+InGameHint_55
+
+InGameHint_56
+
+InGameHint_860
+
+InGameHint_57
+
+InGameHint_58
+
+InGameHint_325
+
+InGameHint_59
+
+InGameHint_60
+
+InGameHint_226
+
+InGameHint_61
+
+InGameHint_62
+
+InGameHint_63
+
+InGameHint_836
+
+InGameHint_556
+
+InGameHint_558
+
+InGameHint_408
+
+InGameHint_111
+
+InGameHint_566
+
+InGameHint_64
+
+InGameHint_67
+
+InGameHint_145
+
+InGameHint_92
+
+InGameHint_93
+
+InGameHint_99
+
+InGameHint_114
+
+InGameHint_100
+
+InGameHint_89
+
+InGameHint_778
+
+InGameHint_841
+
+InGameHint_68
+
+InGameHint_69
+
+InGameHint_70
+
+InGameHint_115
+
+InGameHint_116
+
+InGameHint_113
+
+InGameHint_117
+
+InGameHint_120
+
+InGameHint_118
+
+InGameHint_124
+
+InGameHint_143
+
+InGameHint_144
+
+InGameHint_125
+
+InGameHint_126
+
+InGameHint_119
+
+InGameHint_440
+
+InGameHint_850
+
+InGameHint_702
+
+InGameHint_441
+
+InGameHint_540
+
+InGameHint_541
+
+InGameHint_542
+
+InGameHint_543
+
+InGameHint_442
+
+InGameHint_127
+
+InGameHint_167
+
+InGameHint_698
+
+InGameHint_132
+
+InGameHint_133
+
+InGameHint_134
+
+InGameHint_534
+
+InGameHint_559
+
+InGameHint_703
+
+InGameHint_704
+
+InGameHint_135
+
+InGameHint_147
+
+InGameHint_227
+
+InGameHint_149
+
+InGameHint_139
+
+InGameHint_150
+
+InGameHint_151
+
+InGameHint_152
+
+InGameHint_188
+
+InGameHint_243
+
+InGameHint_154
+
+InGameHint_481
+
+InGameHint_192
+
+InGameHint_217
+
+InGameHint_198
+
+InGameHint_263
+
+InGameHint_199
+
+InGameHint_261
+
+InGameHint_262
+
+InGameHint_153
+
+InGameHint_437
+
+InGameHint_156
+
+InGameHint_164
+
+InGameHint_165
+
+InGameHint_71
+
+InGameHint_109
+
+InGameHint_110
+
+InGameHint_218
+
+InGameHint_155
+
+InGameHint_72
+
+InGameHint_423
+
+InGameHint_73
+
+InGameHint_586
+
+InGameHint_74
+
+InGameHint_75
+
+InGameHint_128
+
+InGameHint_515
+
+InGameHint_76
+
+InGameHint_77
+
+InGameHint_78
+
+InGameHint_79
+Taiwu's {0} attainment is {1}{2}
+InGameHint_80
+
+InGameHint_81
+
+InGameHint_577
+
+InGameHint_82
+
+InGameHint_107
+
+InGameHint_108
+
+InGameHint_571
+
+InGameHint_572
+
+InGameHint_160
+
+InGameHint_161
+
+InGameHint_162
+
+InGameHint_203
+
+InGameHint_83
+
+InGameHint_84
+
+InGameHint_140
+
+InGameHint_141
+Taiwu Seniority {2} {3}%
+InGameHint_85
+
+InGameHint_86
+
+InGameHint_87
+
+InGameHint_95
+
+InGameHint_96
+
+InGameHint_520
+
+InGameHint_168
+
+InGameHint_638
+
+InGameHint_97
+
+InGameHint_98
+
+InGameHint_194
+
+InGameHint_88
+
+InGameHint_142
+Favorability with the target {2} {3}
+InGameHint_103
+
+InGameHint_573
+
+InGameHint_104
+
+InGameHint_121
+Holding {0}
+InGameHint_122
+
+InGameHint_131
+
+InGameHint_567
+
+InGameHint_90
+
+InGameHint_473
+
+InGameHint_326
+
+InGameHint_674
+
+InGameHint_105
+
+InGameHint_106
+
+InGameHint_768
+
+InGameHint_112
+
+InGameHint_204
+
+InGameHint_787
+
+InGameHint_517
+
+InGameHint_123
+
+InGameHint_769
+
+InGameHint_136
+
+InGameHint_137
+
+InGameHint_138
+
+InGameHint_146
+
+InGameHint_213
+
+InGameHint_148
+Aspiration Guide is not on cooldown
+InGameHint_163
+Aspiration Seniority meets the requirement
+InGameHint_157
+Character's Pure Essence {1} {2}
+InGameHint_158
+
+InGameHint_159
+
+InGameHint_516
+
+InGameHint_716
+
+InGameHint_166
+
+InGameHint_169
+
+InGameHint_421
+
+InGameHint_170
+Remaining Energy {0} {1}
+InGameHint_717
+
+InGameHint_171
+
+InGameHint_172
+
+InGameHint_173
+
+InGameHint_174
+
+InGameHint_175
+
+InGameHint_176
+
+InGameHint_177
+
+InGameHint_178
+Character's XP {1}{2}
+InGameHint_179
+
+InGameHint_180
+
+InGameHint_190
+
+InGameHint_535
+
+InGameHint_560
+
+InGameHint_193
+
+InGameHint_202
+
+InGameHint_181
+
+InGameHint_182
+
+InGameHint_183
+
+InGameHint_184
+
+InGameHint_185
+
+InGameHint_186
+
+InGameHint_191
+Character's Pure Essence {1} {2}
+InGameHint_195
+
+InGameHint_196
+
+InGameHint_200
+
+InGameHint_201
+
+InGameHint_205
+
+InGameHint_206
+
+InGameHint_207
+Heaven - 0, Earth - 1, Human - 2
+InGameHint_208
+Heaven - 0, Earth - 1, Human - 2
+InGameHint_209
+Heaven - 0, Earth - 1, Human - 2
+InGameHint_210
+
+InGameHint_211
+
+InGameHint_212
+
+InGameHint_214
+
+InGameHint_219
+{0} requires {1} {2}
+InGameHint_220
+
+InGameHint_221
+
+InGameHint_222
+
+InGameHint_223
+
+InGameHint_224
+
+InGameHint_225
+
+InGameHint_228
+
+InGameHint_229
+
+InGameHint_372
+
+InGameHint_230
+
+InGameHint_231
+
+InGameHint_232
+
+InGameHint_233
+
+InGameHint_234
+
+InGameHint_235
+
+InGameHint_236
+
+InGameHint_474
+
+InGameHint_237
+
+InGameHint_238
+
+InGameHint_239
+
+InGameHint_240
+
+InGameHint_241
+
+InGameHint_687
+
+InGameHint_718
+
+InGameHint_688
+
+InGameHint_689
+
+InGameHint_690
+
+InGameHint_691
+
+InGameHint_692
+
+InGameHint_242
+
+InGameHint_244
+
+InGameHint_245
+
+InGameHint_246
+
+InGameHint_247
+
+InGameHint_248
+
+InGameHint_249
+
+InGameHint_250
+
+InGameHint_251
+
+InGameHint_252
+
+InGameHint_253
+
+InGameHint_254
+
+InGameHint_255
+
+InGameHint_256
+
+InGameHint_257
+Taiwu's Will {0} {1}
+InGameHint_258
+{0}'s Will Tolerance {1} {2}
+InGameHint_259
+
+InGameHint_260
+
+InGameHint_264
+
+InGameHint_811
+
+InGameHint_265
+
+InGameHint_266
+
+InGameHint_267
+
+InGameHint_268
+
+InGameHint_774
+
+InGameHint_269
+
+InGameHint_270
+
+InGameHint_271
+
+InGameHint_272
+
+InGameHint_273
+
+InGameHint_274
+
+InGameHint_275
+
+InGameHint_276
+
+InGameHint_277
+
+InGameHint_278
+The number of {0} is no fewer than {1}
+InGameHint_279
+
+InGameHint_280
+
+InGameHint_281
+
+InGameHint_282
+
+InGameHint_484
+
+InGameHint_283
+
+InGameHint_284
+
+InGameHint_285
+
+InGameHint_286
+
+InGameHint_287
+
+InGameHint_288
+
+InGameHint_289
+
+InGameHint_290
+
+InGameHint_291
+
+InGameHint_292
+
+InGameHint_293
+
+InGameHint_294
+
+InGameHint_295
+
+InGameHint_598
+
+InGameHint_296
+
+InGameHint_297
+
+InGameHint_298
+
+InGameHint_299
+
+InGameHint_300
+
+InGameHint_301
+
+InGameHint_302
+
+InGameHint_303
+
+InGameHint_304
+
+InGameHint_374
+
+InGameHint_812
+
+InGameHint_856
+
+InGameHint_305
+
+InGameHint_306
+
+InGameHint_307
+
+InGameHint_308
+
+InGameHint_309
+
+InGameHint_310
+
+InGameHint_311
+
+InGameHint_312
+
+InGameHint_313
+
+InGameHint_314
+
+InGameHint_315
+
+InGameHint_578
+{0}'s Consumable Slots Are Not Full
+InGameHint_316
+
+InGameHint_809
+
+InGameHint_810
+
+InGameHint_544
+
+InGameHint_317
+
+InGameHint_318
+
+InGameHint_319
+Five Elements Qi is {0}
+InGameHint_320
+
+InGameHint_321
+
+InGameHint_322
+
+InGameHint_323
+
+InGameHint_324
+
+InGameHint_327
+
+InGameHint_328
+
+InGameHint_329
+
+InGameHint_330
+
+InGameHint_331
+
+InGameHint_332
+
+InGameHint_333
+
+InGameHint_334
+
+InGameHint_335
+
+InGameHint_336
+
+InGameHint_337
+
+InGameHint_338
+
+InGameHint_339
+
+InGameHint_340
+
+InGameHint_341
+
+InGameHint_342
+
+InGameHint_343
+
+InGameHint_344
+
+InGameHint_345
+
+InGameHint_621
+
+InGameHint_346
+
+InGameHint_347
+
+InGameHint_348
+
+InGameHint_349
+
+InGameHint_350
+
+InGameHint_351
+
+InGameHint_352
+
+InGameHint_353
+
+InGameHint_780
+
+InGameHint_354
+
+InGameHint_355
+
+InGameHint_356
+
+InGameHint_357
+
+InGameHint_358
+
+InGameHint_359
+
+InGameHint_360
+
+InGameHint_782
+
+InGameHint_361
+
+InGameHint_362
+
+InGameHint_363
+
+InGameHint_364
+
+InGameHint_365
+
+InGameHint_366
+
+InGameHint_367
+
+InGameHint_368
+
+InGameHint_369
+
+InGameHint_373
+
+InGameHint_375
+
+InGameHint_376
+
+InGameHint_377
+
+InGameHint_370
+
+InGameHint_371
+
+InGameHint_378
+
+InGameHint_379
+
+InGameHint_380
+
+InGameHint_381
+
+InGameHint_382
+
+InGameHint_383
+
+InGameHint_384
+
+InGameHint_385
+
+InGameHint_386
+
+InGameHint_387
+
+InGameHint_388
+
+InGameHint_389
+
+InGameHint_390
+
+InGameHint_391
+
+InGameHint_392
+
+InGameHint_393
+
+InGameHint_394
+
+InGameHint_395
+
+InGameHint_699
+
+InGameHint_396
+
+InGameHint_397
+
+InGameHint_513
+
+InGameHint_398
+
+InGameHint_399
+
+InGameHint_400
+
+InGameHint_401
+
+InGameHint_569
+
+InGameHint_402
+
+InGameHint_403
+
+InGameHint_404
+
+InGameHint_405
+
+InGameHint_406
+
+InGameHint_407
+
+InGameHint_409
+
+InGameHint_410
+
+InGameHint_411
+
+InGameHint_719
+
+InGameHint_412
+
+InGameHint_413
+
+InGameHint_414
+
+InGameHint_415
+
+InGameHint_416
+
+InGameHint_417
+
+InGameHint_580
+
+InGameHint_581
+
+InGameHint_720
+
+InGameHint_418
+
+InGameHint_419
+
+InGameHint_422
+
+InGameHint_424
+
+InGameHint_425
+
+InGameHint_426
+{0}'s Injury Status {1}{2}
+InGameHint_427
+
+InGameHint_428
+
+InGameHint_429
+
+InGameHint_430
+
+InGameHint_431
+
+InGameHint_432
+
+InGameHint_433
+
+InGameHint_434
+
+InGameHint_435
+
+InGameHint_436
+
+InGameHint_438
+
+InGameHint_439
+
+InGameHint_443
+
+InGameHint_444
+
+InGameHint_445
+
+InGameHint_446
+
+InGameHint_447
+
+InGameHint_448
+
+InGameHint_449
+
+InGameHint_450
+
+InGameHint_451
+
+InGameHint_452
+
+InGameHint_453
+
+InGameHint_454
+
+InGameHint_455
+
+InGameHint_775
+
+InGameHint_456
+
+InGameHint_457
+
+InGameHint_458
+
+InGameHint_459
+
+InGameHint_460
+
+InGameHint_461
+
+InGameHint_462
+
+InGameHint_463
+
+InGameHint_464
+
+InGameHint_465
+
+InGameHint_466
+
+InGameHint_467
+
+InGameHint_468
+
+InGameHint_469
+
+InGameHint_470
+
+InGameHint_471
+
+InGameHint_472
+
+InGameHint_475
+
+InGameHint_476
+
+InGameHint_675
+
+InGameHint_477
+
+InGameHint_478
+
+InGameHint_479
+
+InGameHint_676
+
+InGameHint_480
+
+InGameHint_487
+
+InGameHint_488
+
+InGameHint_489
+
+InGameHint_490
+
+InGameHint_491
+
+InGameHint_492
+
+InGameHint_493
+Both are adults and in love, non-religious, no blood or sworn kinship, and have no living spouses
+InGameHint_494
+
+InGameHint_495
+
+InGameHint_496
+
+InGameHint_497
+
+InGameHint_498
+
+InGameHint_499
+
+InGameHint_500
+
+InGameHint_501
+
+InGameHint_502
+
+InGameHint_503
+
+InGameHint_504
+
+InGameHint_505
+
+InGameHint_776
+
+InGameHint_506
+
+InGameHint_507
+
+InGameHint_508
+
+InGameHint_509
+
+InGameHint_510
+
+InGameHint_777
+
+InGameHint_511
+
+InGameHint_512
+
+InGameHint_514
+
+InGameHint_518
+
+InGameHint_519
+
+InGameHint_521
+
+InGameHint_522
+
+InGameHint_523
+
+InGameHint_524
+
+InGameHint_525
+
+InGameHint_604
+Selected Book for Study
+InGameHint_605
+
+InGameHint_526
+
+InGameHint_527
+
+InGameHint_528
+
+InGameHint_529
+
+InGameHint_530
+
+InGameHint_531
+
+InGameHint_532
+
+InGameHint_533
+
+InGameHint_536
+
+InGameHint_537
+
+InGameHint_538
+
+InGameHint_539
+
+InGameHint_861
+
+InGameHint_545
+
+InGameHint_546
+
+InGameHint_547
+
+InGameHint_548
+Not yet used on this character this month
+InGameHint_834
+
+InGameHint_835
+Available in {2} Month(s)
+InGameHint_549
+
+InGameHint_783
+
+InGameHint_550
+
+InGameHint_551
+
+InGameHint_552
+
+InGameHint_553
+
+InGameHint_554
+
+InGameHint_555
+
+InGameHint_557
+
+InGameHint_561
+
+InGameHint_562
+
+InGameHint_563
+
+InGameHint_564
+
+InGameHint_565
+
+InGameHint_574
+
+InGameHint_575
+
+InGameHint_576
+
+InGameHint_579
+
+InGameHint_844
+
+InGameHint_582
+
+InGameHint_822
+
+InGameHint_838
+
+InGameHint_583
+
+InGameHint_584
+
+InGameHint_587
+
+InGameHint_588
+
+InGameHint_589
+
+InGameHint_590
+
+InGameHint_591
+
+InGameHint_592
+
+InGameHint_593
+
+InGameHint_594
+
+InGameHint_595
+
+InGameHint_596
+
+InGameHint_597
+
+InGameHint_599
+
+InGameHint_600
+
+InGameHint_601
+
+InGameHint_602
+
+InGameHint_606
+
+InGameHint_607
+
+InGameHint_608
+
+InGameHint_609
+
+InGameHint_615
+
+InGameHint_610
+
+InGameHint_612
+
+InGameHint_613
+
+InGameHint_616
+
+InGameHint_617
+
+InGameHint_618
+
+InGameHint_619
+
+InGameHint_620
+
+InGameHint_622
+
+InGameHint_623
+
+InGameHint_624
+
+InGameHint_625
+
+InGameHint_626
+
+InGameHint_627
+
+InGameHint_628
+
+InGameHint_629
+
+InGameHint_630
+
+InGameHint_631
+
+InGameHint_632
+
+InGameHint_633
+
+InGameHint_634
+
+InGameHint_635
+
+InGameHint_646
+
+InGameHint_636
+
+InGameHint_639
+
+InGameHint_641
+
+InGameHint_642
+
+InGameHint_643
+
+InGameHint_851
+
+InGameHint_644
+
+InGameHint_645
+
+InGameHint_647
+
+InGameHint_648
+
+InGameHint_649
+
+InGameHint_650
+
+InGameHint_651
+
+InGameHint_652
+
+InGameHint_653
+
+InGameHint_654
+
+InGameHint_655
+
+InGameHint_656
+
+InGameHint_657
+
+InGameHint_658
+
+InGameHint_686
+
+InGameHint_659
+
+InGameHint_660
+
+InGameHint_662
+
+InGameHint_712
+
+InGameHint_663
+
+InGameHint_664
+
+InGameHint_665
+
+InGameHint_666
+
+InGameHint_667
+
+InGameHint_668
+
+InGameHint_673
+
+InGameHint_669
+
+InGameHint_670
+
+InGameHint_671
+
+InGameHint_672
+
+InGameHint_677
+
+InGameHint_678
+
+InGameHint_681
+
+InGameHint_682
+
+InGameHint_683
+
+InGameHint_684
+
+InGameHint_685
+
+InGameHint_693
+
+InGameHint_694
+
+InGameHint_695
+
+InGameHint_696
+
+InGameHint_697
+
+InGameHint_700
+
+InGameHint_701
+
+InGameHint_705
+
+InGameHint_706
+
+InGameHint_707
+
+InGameHint_708
+
+InGameHint_709
+
+InGameHint_710
+
+InGameHint_711
+
+InGameHint_713
+
+InGameHint_714
+
+InGameHint_715
+
+InGameHint_721
+
+InGameHint_722
+
+InGameHint_723
+
+InGameHint_724
+
+InGameHint_725
+
+InGameHint_726
+
+InGameHint_727
+
+InGameHint_728
+
+InGameHint_729
+
+InGameHint_730
+
+InGameHint_731
+
+InGameHint_732
+
+InGameHint_824
+
+InGameHint_733
+
+InGameHint_734
+
+InGameHint_735
+
+InGameHint_736
+
+InGameHint_737
+
+InGameHint_738
+
+InGameHint_739
+
+InGameHint_740
+
+InGameHint_741
+
+InGameHint_742
+
+InGameHint_743
+
+InGameHint_745
+
+InGameHint_746
+
+InGameHint_747
+
+InGameHint_781
+
+InGameHint_748
+
+InGameHint_749
+
+InGameHint_750
+
+InGameHint_751
+
+InGameHint_752
+
+InGameHint_753
+
+InGameHint_754
+
+InGameHint_755
+
+InGameHint_756
+
+InGameHint_757
+
+InGameHint_758
+
+InGameHint_759
+
+InGameHint_760
+
+InGameHint_761
+
+InGameHint_762
+
+InGameHint_763
+
+InGameHint_764
+
+InGameHint_765
+
+InGameHint_766
+
+InGameHint_770
+
+InGameHint_771
+
+InGameHint_772
+
+InGameHint_773
+
+InGameHint_813
+
+InGameHint_820
+
+InGameHint_848
+
+InGameHint_842
+
+InGameHint_843
+
+InGameHint_779
+
+InGameHint_784
+
+InGameHint_785
+
+InGameHint_786
+
+InGameHint_788
+
+InGameHint_791
+Has an infidelity-related secret.
+InGameHint_792
+
+InGameHint_793
+
+InGameHint_794
+
+InGameHint_795
+
+InGameHint_796
+
+InGameHint_797
+
+InGameHint_798
+
+InGameHint_799
+
+InGameHint_800
+
+InGameHint_801
+
+InGameHint_802
+
+InGameHint_803
+
+InGameHint_804
+
+InGameHint_805
+
+InGameHint_806
+
+InGameHint_807
+
+InGameHint_808
+
+InGameHint_837
+
+InGameHint_840
+
+InGameHint_814
+
+InGameHint_815
+
+InGameHint_816
+
+InGameHint_817
+
+InGameHint_818
+
+InGameHint_819
+
+InGameHint_821
+
+InGameHint_823
+
+InGameHint_825
+
+InGameHint_826
+
+InGameHint_827
+
+InGameHint_828
+
+InGameHint_830
+
+InGameHint_831
+
+InGameHint_855
+
+InGameHint_833
+
+InGameHint_839
+
+InGameHint_845
+
+InGameHint_846
+
+InGameHint_847
+
+InGameHint_852
+
+InGameHint_853
+
+InGameHint_854
+
+InGameHint_857
+
+InGameHint_858
+
+InGameHint_859
+
+InGameHint_862
+
+InGameHint_863
+
+InGameHint_864
+
+InGameHint_870
+
+InGameHint_865
+
+InGameHint_866
+
+InGameHint_867
+
+InGameHint_868
+
+InGameHint_869
+
+InGameHint_871
+
+InGameHint_872
+
+InGameHint_873
+
+InGameHint_874
+
+InGameHint_875
+
+InGameHint_876
+
+InGameHint_877
+
+InGameHint_878
+Favorability with the other party reaches or exceeds {0}
+

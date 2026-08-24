@@ -1,0 +1,75 @@
+{
+  "ui_language.txt": {
+    "LK_Main_Attribute_Strength": "Сила",
+    "LK_Main_Attribute_Dexterity": "Проворство",
+    "LK_Main_Attribute_Concentration": "Сосредоточение",
+    "LK_Main_Attribute_Vitality": "Телосложение",
+    "LK_Main_Attribute_Energy": "Костяк",
+    "LK_Main_Attribute_Intelligence": "Понимание",
+    "MonthlyEvent_MainAttributeType0": "Сила",
+    "MonthlyEvent_MainAttributeType1": "Проворство",
+    "MonthlyEvent_MainAttributeType2": "Сосредоточение",
+    "MonthlyEvent_MainAttributeType3": "Телосложение",
+    "MonthlyEvent_MainAttributeType4": "Костяк",
+    "MonthlyEvent_MainAttributeType5": "Понимание",
+    "GM_EditBaseMainAttributes_Arg1_Name": "Сила",
+    "GM_EditBaseMainAttributes_Arg2_Name": "Проворство",
+    "GM_EditBaseMainAttributes_Arg3_Name": "Сосредоточение",
+    "GM_EditBaseMainAttributes_Arg4_Name": "Телосложение",
+    "GM_EditBaseMainAttributes_Arg5_Name": "Костяк",
+    "GM_EditBaseMainAttributes_Arg6_Name": "Понимание",
+    "GM_EditCurrMainAttributes_Arg1_Name": "Сила",
+    "GM_EditCurrMainAttributes_Arg2_Name": "Проворство",
+    "GM_EditCurrMainAttributes_Arg3_Name": "Сосредоточение",
+    "GM_EditCurrMainAttributes_Arg4_Name": "Телосложение",
+    "GM_EditCurrMainAttributes_Arg5_Name": "Костяк",
+    "GM_EditCurrMainAttributes_Arg6_Name": "Понимание",
+    "LK_Cricket_Property_Strength": "Сила",
+    "LK_Preset": "Набор",
+    "LK_Equipment_Plan": "Набор",
+    "LK_MapHomeBornType_0": "Равнины",
+    "LK_MapHomeBornType_1": "Горы",
+    "LK_MapHomeBornType_2": "Лес",
+    "LK_MapHomeBornType_3": "Топи",
+    "LK_MapHomeBornType_4": "Морской берег",
+    "LK_MapHomeBornType_5": "Снежные горы",
+    "LK_MapHomeBornType_0_Desc": "Тучные равнины, где в изобилии всякие природные богатства...",
+    "LK_MapHomeBornType_1_Desc": "Горы, полные рудных жил, а среди них и метеоритное железо с внешних небес...",
+    "LK_MapHomeBornType_2_Desc": "Лес густо зарос деревьями и полон природных богатств, птиц и зверей...",
+    "LK_MapHomeBornType_3_Desc": "Здесь вдоволь вод и топей, и в них немало чудес...",
+    "LK_MapHomeBornType_4_Desc": "У морского берега много воды, а утёсы выточены дивным мастерством самой природы...",
+    "LK_MapHomeBornType_5_Desc": "Снежные горы хранят всевозможные драгоценные самоцветы, руды и даже травы..."
+  },
+  "EventArgument_language.txt": {
+    "CustomEnumText_19_0": "Сила",
+    "CustomEnumText_19_1": "Проворство",
+    "CustomEnumText_19_2": "Сосредоточение",
+    "CustomEnumText_19_3": "Телосложение",
+    "CustomEnumText_19_4": "Костяк",
+    "CustomEnumText_19_5": "Понимание"
+  },
+  "SortItem_language.txt": {
+    "Names_49_0": "Сила",
+    "Names_60_0": "Сила",
+    "Names_61_0": "Проворство",
+    "Names_62_0": "Сосредоточение",
+    "Names_63_0": "Телосложение",
+    "Names_64_0": "Костяк",
+    "Names_65_0": "Понимание"
+  },
+  "SkillBreakGridType_language.txt": {
+    "Name_22": "Понимание"
+  },
+  "LandFormType_language.txt": {
+    "Name_1": "Горы"
+  },
+  "AdventureTerrain_language.txt": {
+    "Name_1": "Горы"
+  },
+  "CombatScene_language.txt": {
+    "Name_8": "Горы"
+  },
+  "AdventureRemakeMapBlock_language.txt": {
+    "Name_7": "Горы"
+  }
+}

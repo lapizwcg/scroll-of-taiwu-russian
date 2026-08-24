@@ -1,0 +1,31 @@
+Name_0
+Straightforward Speaking
+Name_1
+Kind Consolation
+Name_2
+Innuendo
+Name_3
+Bizarre Words
+Name_4
+Overwhelming Voice
+Desc_0
+The Contention on the square affected by this effect will have its <color=#brightred>Arguments and Strategies revealed,</color> <color=#brightblue>and can advance once more...</color>
+Desc_1
+On the square affected by this effect, <color=#brightred>no Contention can be placed,</color> and the side whose Contention reaches this square will <color=#brightblue>recover 20% of its Total Arguments...</color>
+Desc_2
+The owner of the square affected by this effect can <color=#brightblue>place an extra Contention on it an unlimited number of times.</color>
+Desc_3
+When entering a square affected by this effect, the Contention will be transferred to the square before a random heart square of the opponent side...
+Desc_4
+When the heart square affected by this effect is broken through, <color=#brightred>an additional Peroration is lost...</color>
+BubbleContent_0
+Don't beat around the bush...
+BubbleContent_1
+Speak kindly, don't harm the harmony...
+BubbleContent_2
+If it makes sense, feel free to say more...
+BubbleContent_3
+A situation may not be entirely irrelevant. I have a word to say, waiting for the right moment...
+BubbleContent_4
+Since we are in this contest, we must have the resolve to burn the boats!
+

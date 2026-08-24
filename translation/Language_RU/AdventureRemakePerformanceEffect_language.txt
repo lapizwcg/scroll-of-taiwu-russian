@@ -1,0 +1,28 @@
+Name_0
+Проверка
+Name_1
+Heavy Mist
+Name_2
+Dukkha Background
+Name_3
+Divinity-Demon Background
+Name_4
+Starry Background
+Name_5
+Weak Skyward Flame
+Name_6
+Weak Skyward Flame
+Desc_0
+
+Desc_1
+
+Desc_2
+
+Desc_3
+
+Desc_4
+
+Desc_5
+
+Desc_6
+

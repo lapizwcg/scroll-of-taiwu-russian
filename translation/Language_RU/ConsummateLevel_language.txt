@@ -1,0 +1,77 @@
+Name_0
+
+Name_1
+
+Name_2
+Ясность разума
+Name_3
+
+Name_4
+Очищение тела
+Name_5
+
+Name_6
+Выправление ци
+Name_7
+
+Name_8
+Полнота ци
+Name_9
+
+Name_10
+Полнота духа
+Name_11
+
+Name_12
+Впитывание изначального
+Name_13
+
+Name_14
+Исход души
+Name_15
+
+Name_16
+Предел превосхождения
+Name_17
+
+Name_18
+Возврат в пустоту
+Desc_0
+
+Desc_1
+
+Desc_2
+<color=#pinkyellow>Ци, получаемая в малом круге обращения, <color=#brightblue>+100%</color></color>
+Desc_3
+
+Desc_4
+<color=#pinkyellow>Прямые внешние раны, внутренние раны, оглушение и отравление от врагов, не достигших ступени <color=#ffffff>Очищения тела</color>, <color=#brightblue>-33%</color>.\nПрямые внешние раны, внутренние раны, оглушение и отравление, наносимые врагам, не достигшим ступени <color=#ffffff>Очищения тела</color>, <color=#brightblue>+33%</color>.\nСтойкость разума персонажа <color=#brightblue>+10%</color>\nСтойкость персонажа к увечьям <color=#brightblue>+10%</color></color>
+Desc_5
+
+Desc_6
+<color=#pinkyellow>Получаемый опыт <color=#brightblue>+100%</color></color>
+Desc_7
+
+Desc_8
+<color=#pinkyellow>Вероятность успешного прорыва боевых искусств <color=#brightblue>+25%</color></color>
+Desc_9
+
+Desc_10
+<color=#pinkyellow>Прямые внешние раны, внутренние раны, оглушение и отравление от врагов, не достигших ступени <color=#1abac8>Полноты духа</color>, <color=#brightblue>-33%</color>.\nПрямые внешние раны, внутренние раны, оглушение и отравление, наносимые врагам, не достигшим ступени <color=#1abac8>Полноты духа</color>, <color=#brightblue>+33%</color>.\nСтойкость разума персонажа <color=#brightblue>+15%</color>\nСтойкость персонажа к увечьям <color=#brightblue>+15%</color></color>
+Desc_11
+
+Desc_12
+<color=#pinkyellow>Истинная ци, получаемая из малого круга обращения, <color=#brightblue>+100%</color></color>
+Desc_13
+
+Desc_14
+<color=#pinkyellow>Наибольшая ёмкость при прорыве боевого искусства <color=#brightblue>+6</color></color>
+Desc_15
+
+Desc_16
+<color=#pinkyellow>Прямые внешние раны, внутренние раны, оглушение и отравление от врагов, не достигших ступени <color=#c16927>Предела превосхождения</color>, <color=#brightblue>-33%</color>.\nПрямые внешние раны, внутренние раны, оглушение и отравление, наносимые врагам, не достигшим ступени <color=#c16927>Предела превосхождения</color>, <color=#brightblue>+33%</color>.\nСтойкость разума персонажа <color=#brightblue>+20%</color>\nСтойкость персонажа к увечьям <color=#brightblue>+20%</color></color>
+Desc_17
+
+Desc_18
+<color=#pinkyellow>Стойкость разума персонажа <color=#brightblue>+25%</color>\nСтойкость персонажа к увечьям <color=#brightblue>+25%</color></color>
+

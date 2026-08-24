@@ -1,0 +1,57 @@
+Name_0
+Возраст
+Name_1
+Звание
+Name_2
+Здоровье
+Name_3
+Репутация
+Name_4
+Пол
+Name_5
+Принадлежность
+Name_6
+Обаяние
+Name_7
+Mood
+Name_8
+Склад ума
+Name_9
+Расположение
+Name_10
+Exclusive Info
+Name_11
+Настороженность
+Name_12
+Demand
+Name_13
+Relation
+TipContent_0
+Age: {0}
+TipContent_1
+Title: {0}
+TipContent_2
+Здоровье: {0}
+TipContent_3
+Reputation: {0}
+TipContent_4
+Gender: {0}
+TipContent_5
+Affiliation: {0}
+TipContent_6
+Charm: {0}
+TipContent_7
+Mood: {0}
+TipContent_8
+Mindset: {0}
+TipContent_9
+Favorability: {0}
+TipContent_10
+
+TipContent_11
+Wariness: {0}
+TipContent_12
+Demand: {0}
+TipContent_13
+Relation: {0}
+

@@ -1,0 +1,60 @@
+{
+  "ui_language.txt": {
+    "LK_Goodness_0": "<color=#BehaviorType_Just>Принципиальный</color>",
+    "LK_Goodness_1": "<color=#BehaviorType_Kind>Добросердечный</color>",
+    "LK_Goodness_2": "<color=#BehaviorType_Even>Умеренный</color>",
+    "LK_Goodness_3": "<color=#BehaviorType_Rebel>Мятежный</color>",
+    "LK_Goodness_4": "<color=#BehaviorType_Egoistic>Своекорыстный</color>",
+    "LK_Goodness_None": "Склад ума не задан",
+    "LK_Goodness_Desc_0": "Принципиальный человек отличает правое от неправого.\\nЗло должно быть искоренено, а добродетель взращена. Как бы ни менялся мир, путь правды остаётся!",
+    "LK_Goodness_Desc_1": "У добросердечного человека необычайная добродетель.\\nОн способен пожертвовать собой ради слабых и без остатка отдать себя спасению мира. Он платит добром за обиду и сияет, точно чистое золото и необработанная яшма.",
+    "LK_Goodness_Desc_2": "Умеренный человек всегда сохраняет спокойствие.\\nОн плывёт по течению и не бросается в крайности. Добро и зло для него — две стороны одного, и он верит в естественный ход вещей.",
+    "LK_Goodness_Desc_3": "Мятежный человек не верит в общественные устои.\\nЕму милее прихоть, чем добродетель, зло, чем добро, и жестокость, чем доброта.",
+    "LK_Goodness_Desc_4": "Своекорыстный человек добивается своего любой ценой.\\nОн притесняет слабых, пользуется добротой других и даже устраняет тех, кто встал у него на пути, — лишь бы достичь цели.",
+    "LK_Goodness_Desc_Color_0": "<color=#BehaviorType_Just>Принципиальный</color> человек отличает правое от неправого. Зло должно быть искоренено, а добродетель взращена. Как бы ни менялся мир, путь правды остаётся!",
+    "LK_Goodness_Desc_Color_1": "<color=#BehaviorType_Kind>Добросердечный</color> человек обладает необычайной добродетелью. Он способен пожертвовать собой ради слабых и без остатка отдать себя спасению мира. Он платит добром за обиду и сияет, точно чистое золото и необработанная яшма.",
+    "LK_Goodness_Desc_Color_2": "<color=#BehaviorType_Even>Умеренный</color> человек держится начала недеяния и хранит в жизни равновесие и беспристрастность. Он плывёт по течению и во всём ищет уступки и согласия. Разделение на правое и неправое его почти не занимает — быть может, в конце концов он и выйдет на путь просветления.",
+    "LK_Goodness_Desc_Color_3": "<color=#BehaviorType_Rebel>Мятежный</color> человек не верит в общественные устои. Ему милее прихоть, чем добродетель, зло, чем добро, и жестокость, чем доброта.",
+    "LK_Goodness_Desc_Color_4": "<color=#BehaviorType_Egoistic>Своекорыстный</color> человек добивается своего любой ценой. Он притесняет слабых, пользуется добротой других и даже устраняет тех, кто встал у него на пути, — лишь бы достичь цели.",
+    "LK_FulongServant_BehaviorType_1": "Добросердечный",
+    "UI_CharacterMenu_FeatureEffect": "Действие черты",
+    "LK_FavorabilityUpInfection": "Прирост расположения",
+    "LK_FavorabilityDownInfection": "Убыль расположения",
+    "LK_AdoreMultiplePeopleChanceFactor": "Склонность влюбляться",
+    "LK_Qi_Disorder_Recovery": "Восстановление внутреннего дыхания",
+    "LK_Solar_Term_Buff_Recover_QiDisorder": "Восстановление внутреннего дыхания",
+    "LK_FIveElements_NeiliEffect": "[Действие ци]",
+    "LK_FIveElements_NeiliCondition": "[Условие ци]",
+    "LK_FIveElements_NeiliCondition_Multiply": "[Условие ци для {0}]",
+    "LK_Innate_FiveElements": "Судьба",
+    "LK_Innate_FiveElements_Tips_Title": "Судьба [{0}]",
+    "LK_SelectCharacter_NeiliType_Metal": "Ци Металла",
+    "LK_SelectCharacter_NeiliType_Wood": "Ци Дерева",
+    "LK_SelectCharacter_NeiliType_Water": "Ци Воды",
+    "LK_SelectCharacter_NeiliType_Fire": "Ци Огня",
+    "LK_SelectCharacter_NeiliType_Earth": "Ци Земли",
+    "LK_GearMate_FiveElements_1": "Пять стихий",
+    "LK_GearMate_FiveElements_2": "Настройка пяти стихий",
+    "LK_GearMate_FiveElements_3": "Позволяет настроить стихийную ци механического спутника",
+    "LK_Baihua_LifeLink_ResultFiveElements": "[Итог по пяти стихиям]",
+    "LK_NeiliProportionOfFiveElements": "Пять стихий ци",
+    "GM_EditCharBaseNeiliProportionOfFiveElements_Arg1_Name": "Металл",
+    "GM_EditCharBaseNeiliProportionOfFiveElements_Arg2_Name": "Дерево",
+    "GM_EditCharBaseNeiliProportionOfFiveElements_Arg3_Name": "Вода",
+    "GM_EditCharBaseNeiliProportionOfFiveElements_Arg4_Name": "Огонь",
+    "GM_EditCharBaseNeiliProportionOfFiveElements_Arg5_Name": "Земля",
+    "UI_MonthNotify_Jotting_FiveElements_Title": "Превращение пяти стихий",
+    "UI_MonthNotify_Jotting_NeiliType_Title": "Смена стихии ци",
+    "LK_LoopingInfomation_Title_FiveElementTranfer": "Превращение пяти стихий",
+    "LK_LoopingInfomation_Title_FiveElementTranferAmound": "Перенос пяти стихий"
+  },
+  "InstantNotification_language.txt": {
+    "Name_29": "Прирост расположения"
+  },
+  "BuildingScale_language.txt": {
+    "Name_225": "Восстановление внутреннего дыхания"
+  },
+  "Legacy_language.txt": {
+    "Name_575": "Тёмная инь"
+  }
+}

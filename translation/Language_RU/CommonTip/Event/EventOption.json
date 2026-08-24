@@ -1,0 +1,38 @@
+{
+  "title": "{EventOptionTitle}",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "name": "Desc",
+      "atoms": [
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "{EventOptionDesc}"
+        }
+      ]
+    },
+    {
+      "type": "Default",
+      "name": "Space",
+      "atoms": [
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "type": "Default",
+      "name": "Condition",
+      "atoms": [
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "{EventOptionCondition}"
+        }
+      ]
+    }
+  ]
+}

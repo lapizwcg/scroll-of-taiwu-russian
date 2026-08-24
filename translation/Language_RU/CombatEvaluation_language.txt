@@ -1,0 +1,294 @@
+Name_0
+Outplayed
+Name_1
+Evenly Matched
+Name_2
+Flee As Fast As Possible
+Name_3
+Victorious
+Name_4
+Friendly Sparring
+Name_5
+Trial Excellence
+Name_6
+Barbarous Brawl
+Name_7
+Deadly Duel
+Name_8
+Sword Mastery
+Name_9
+Outnumber
+Name_10
+Bully the Weak
+Name_11
+Equipment Advantage
+Name_12
+True Qi Advantage
+Name_13
+Martial Arts Advantage
+Name_14
+Pure Essence Advantage
+Name_15
+Exploit One's Vulnerability
+Name_16
+Less Is More
+Name_17
+Fearless Youth
+Name_18
+Equipment Disadvantage
+Name_19
+True Qi Disadvantage
+Name_20
+Martial Arts Disadvantage
+Name_21
+Pure Essence Disadvantage
+Name_22
+Lioness Might
+Name_23
+Helping Hand
+Name_24
+Helping Hand
+Name_25
+Act as Justice Demands
+Name_26
+Banish Outlaw
+Name_27
+Злоумышленник
+Name_28
+Repel Xiake
+Name_29
+Львиное владычество
+Name_30
+Львиное владычество
+Name_31
+Львиное владычество
+Name_32
+Triumph of Simplicity
+Name_33
+Боевые озарения
+Name_34
+Тренировка на манекене
+Name_35
+Loong's Ascent
+Name_36
+Dire
+Name_37
+Dancing with Death
+Name_38
+Bastion of Will
+Name_39
+Basic Instruction
+Name_40
+Bring It On
+Name_41
+Effortless Mastery
+Name_42
+A Close Call
+Name_43
+Instant Circulation
+Name_44
+Practice Completed
+Name_45
+Kneeling in Defeat
+Name_46
+Exterminate Underlings
+Name_47
+Exterminate Underlings
+Name_48
+Evil Prevails
+Desc_0
+Battle lost!
+Desc_1
+Evenly Matched...
+Desc_2
+Flee in a panic...
+Desc_3
+Battle won!
+Desc_4
+Spar with an opponent whose Pure Essence is no less than yours.
+Desc_5
+Fight an opponent whose Pure Essence is no less than yours in a Trial.
+Desc_6
+Fight an opponent whose Pure Essence is no less than yours in a Brawl.
+Desc_7
+Fight an opponent whose Pure Essence is no less than yours in a Duel.
+Desc_8
+Defeat Xiangshu Incarnation!
+Desc_9
+Defeat opponents that you outnumber.
+Desc_10
+Defeat an opponent who is younger than you and not of age.
+Desc_11
+Defeat an opponent whose equipment is overall weaker than yours.
+Desc_12
+Defeat an opponent whose True Qi is much lower than yours.
+Desc_13
+Defeat an opponent who uses a less advanced Martial Art than yours.
+Desc_14
+Defeat an opponent whose Pure Essence is 3 levels (or more) lower than yours.
+Desc_15
+Defeat a pregnant opponent.
+Desc_16
+Defeat opponents who outnumber you.
+Desc_17
+Defeat an opponent who is older than you when you are not of age.
+Desc_18
+Defeat an opponent whose equipment is overall stronger than yours.
+Desc_19
+Defeat an opponent whose True Qi is much higher than yours.
+Desc_20
+Defeat an opponent who uses a more advanced Martial Art than yours.
+Desc_21
+Defeat an opponent whose Pure Essence is 3 levels (or more) higher than yours.
+Desc_22
+Defeat an opponent when you are pregnant.
+Desc_23
+Restore the mind of an opponent who is bewitched by Xiangshu.
+Desc_24
+Restore the mind of an opponent who is bewitched by Xiangshu and has no less Pure Essence than you.
+Desc_25
+Defeated the Outlaw who committed wrongdoings.
+Desc_26
+Defeated the Outlaw whose Pure Essence is no less than yours.
+Desc_27
+Defeated the Xiake who upholds justice.
+Desc_28
+Defeated the Xiake whose Pure Essence is no less than yours.
+Desc_29
+The Lion-Face Clan now tirelessly celebrates your every feat. You gain more Prestige from beating your opponents.
+Desc_30
+The Lion-Face Clan now tirelessly celebrates your every feat. You gain more Prestige from beating your opponents.
+Desc_31
+The Lion-Face Clan now tirelessly celebrates your every feat. You gain more Prestige from beating your opponents.
+Desc_32
+Gain much greater Prestige for defeating an enemy with the simplest Emperor Long Fist.
+Desc_33
+Gain Study Progress of the current book after practicing in combat.
+Desc_34
+Practice your combat skills with the wooden dummy...
+Desc_35
+Pass the Divine Loong's trial, gaining blessings that flow like celestial rivers...
+Desc_36
+Battle at Extreme difficulty. Increases XP gained and the chance of triggering Practical Insights ...
+Desc_37
+Battle at Doom difficulty. Greatly increases XP gained and the chance of triggering Practical Insights ...
+Desc_38
+Vanquish Xiangshu Incarnation! Greatly increases XP and Prestige gained and improves the chance of triggering Practical Insights ...
+Desc_39
+Spar with an opponent whose Pure Essence is less than yours.
+Desc_40
+Fight an opponent whose Pure Essence is less than yours in a Trial.
+Desc_41
+Fight an opponent whose Pure Essence is less than yours in a Brawl.
+Desc_42
+Fight an opponent whose Pure Essence is less than yours in a Duel.
+Desc_43
+Perceive insights during combat. The Qi and True Qi of active Qi Art increase.
+Desc_44
+It's merely a casual practice, thus granting no XP or Prestige, nor any battle evaluation.
+Desc_45
+Voluntarily concede in battle, resulting in severe injuries.
+Desc_46
+Exterminate Xiangshu Underlings.
+Desc_47
+Defeat a Xiangshu Underling whose Pure Essence is no less than yours.
+Desc_48
+Defeated in the Demonic Trials, mind became confused, and Martial Arts lacks the practical experience to advance...
+SmallVillageDesc_0
+
+SmallVillageDesc_1
+
+SmallVillageDesc_2
+
+SmallVillageDesc_3
+
+SmallVillageDesc_4
+
+SmallVillageDesc_5
+
+SmallVillageDesc_6
+
+SmallVillageDesc_7
+
+SmallVillageDesc_8
+
+SmallVillageDesc_9
+
+SmallVillageDesc_10
+
+SmallVillageDesc_11
+
+SmallVillageDesc_12
+
+SmallVillageDesc_13
+
+SmallVillageDesc_14
+
+SmallVillageDesc_15
+
+SmallVillageDesc_16
+
+SmallVillageDesc_17
+
+SmallVillageDesc_18
+
+SmallVillageDesc_19
+
+SmallVillageDesc_20
+
+SmallVillageDesc_21
+
+SmallVillageDesc_22
+
+SmallVillageDesc_23
+Restore the mind of an opponent who is corrupted by Xiangshu.
+SmallVillageDesc_24
+Restore the mind of an opponent who is corrupted by Xiangshu and has no less Pure Essence than you.
+SmallVillageDesc_25
+
+SmallVillageDesc_26
+
+SmallVillageDesc_27
+
+SmallVillageDesc_28
+
+SmallVillageDesc_29
+
+SmallVillageDesc_30
+
+SmallVillageDesc_31
+
+SmallVillageDesc_32
+
+SmallVillageDesc_33
+
+SmallVillageDesc_34
+
+SmallVillageDesc_35
+
+SmallVillageDesc_36
+
+SmallVillageDesc_37
+
+SmallVillageDesc_38
+
+SmallVillageDesc_39
+
+SmallVillageDesc_40
+
+SmallVillageDesc_41
+
+SmallVillageDesc_42
+
+SmallVillageDesc_43
+
+SmallVillageDesc_44
+
+SmallVillageDesc_45
+
+SmallVillageDesc_46
+Exterminate Corrupted Underlings.
+SmallVillageDesc_47
+Defeat a Corrupted Underling whose Pure Essence is no less than yours.
+SmallVillageDesc_48
+

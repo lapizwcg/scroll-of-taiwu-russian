@@ -1,0 +1,17 @@
+Name_0
+Number of characters
+Name_1
+Character Avatar
+Name_2
+Map Element
+Name_3
+Map Interaction
+Desc_0
+Toggle display of all character icons on the tile
+Desc_1
+Toggle display of all character avatars on the tile
+Desc_2
+Toggle display of all contents & elements on the tile
+Desc_3
+Toggle display of all interactive functions on the tile
+

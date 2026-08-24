@@ -1,0 +1,841 @@
+Name_0
+Month Change
+Name_1
+Сверчок погиб
+Name_2
+Вырвался на волю
+Name_3
+Жертва убийства
+Name_4
+Убийство Бестенных
+Name_5
+Перегруз ресурсами
+Name_6
+Дорожная сумка переполнена
+Name_7
+Склад переполнен
+Name_8
+Вражда завязалась
+Name_9
+Затаил обиду
+Name_10
+Обиды улажены
+Name_11
+Удачное сватовство
+Name_12
+Горькое расставание
+Name_13
+Свадебный союз
+Name_14
+Родственные души
+Name_15
+Отношения охладели
+Name_16
+Sworn Siblings
+Name_17
+Разрыв навсегда
+Name_18
+Adoption
+Name_19
+Приёмная семья
+Name_20
+Ночь близости
+Name_21
+Неудержимые чувства
+Name_22
+Blessed Heir
+Name_23
+Небывалые роды
+Name_24
+Потеря ребёнка
+Name_25
+Ученичество
+Name_26
+Вступление в секту
+Name_27
+Invitation Accepted
+Name_28
+Пленник спасён
+Name_29
+Отомстить
+Name_30
+Защита близких
+Name_31
+Путь каравана
+Name_32
+Жертва стихийного бедствия
+Name_33
+Турнир вольного света
+Name_34
+Турнир секты
+Name_35
+Побег на крыльях
+Name_36
+Дар природы
+Name_37
+Празднование дня рождения
+Name_38
+Нападение нечисти
+Name_39
+Удар странствующего воина
+Name_40
+Нападение зверя
+Name_41
+Силы народа в упадке
+Name_42
+Состязание за руку
+Name_43
+Host Betrothal Contest
+Name_44
+Сила уходит
+Name_45
+Человек пропал
+Name_46
+Свадебный обряд
+Name_47
+Явление божественного луна
+Name_48
+Волнение в пруду цзяо
+Name_49
+Побег цзяо
+Name_50
+Raising Jiao
+Name_51
+Песенная темница
+Name_52
+Мстительный дух
+Name_53
+Secret Report 
+Name_54
+Громовой рёв
+Name_55
+Шуточный бой
+Name_56
+Поиск сокровищ
+Name_57
+Поборник справедливости
+Name_58
+Изящная словесность
+Name_59
+Внутренняя сила
+Name_60
+Долголетие на исходе
+Name_61
+Естественная смерть
+Name_62
+Жизнь угасает
+Name_63
+Печальный конец
+Name_64
+Кончина
+Name_65
+Видение от ушедшего
+Name_66
+В круговорот перерождений
+Name_67
+Могила исчезла
+Name_68
+Появление демона
+Name_69
+Лиловый бамбук на чернокаменье
+Name_70
+Безумие Сяншу
+Name_71
+Одержимость Сяншу
+Name_72
+Stone House Cure
+Name_73
+Озарение
+Name_74
+Небесный отклик
+Name_75
+The Scroll of Taiwu
+Name_76
+Красавица кровавой гробницы
+Name_77
+Cultured Warrior
+Name_78
+Отшельник-белая обезьяна
+Name_79
+Яд спасения
+Name_80
+Coiled Shellsnake
+Name_81
+Погибель сердца сути
+Name_82
+Wordless Sutra
+Name_83
+Павильон Цинлан
+Name_84
+Dark Owl & White Deer
+Name_209
+По ту сторону добра и зла
+Name_85
+Яд проникает
+Name_86
+Яд расходится
+Name_87
+Яд обезображивает
+Name_88
+Манящий яд
+Name_89
+Чарующий яд
+Name_90
+Явление тайного трактата
+Name_91
+Явился тайный трактат
+Name_92
+Тайный трактат отнят
+Name_93
+Судьба тайного трактата
+Name_94
+Нежданный уход
+Name_95
+Околдован тайным трактатом: безумие
+Name_96
+Околдован тайным трактатом: одержимость
+Name_97
+Совращён Сяншу
+Name_98
+Secret Tome of Chaos
+Name_99
+Бедствие Мону
+Name_100
+Бедствие Яочана
+Name_101
+Бедствие Цзю Ханя
+Name_102
+Бедствие Хуанъэр
+Name_103
+Бедствие И Ихоу
+Name_104
+Бедствие Вэй Ци
+Name_105
+Бедствие И Сяна
+Name_106
+Бедствие Кровавого клёна
+Name_107
+Бедствие Заклинателя
+Name_108
+Спасение Мону
+Name_109
+Спасение Яочана
+Name_110
+Спасение Цзю Ханя
+Name_111
+Спасение Хуанъэр
+Name_112
+Спасение И Ихоу
+Name_113
+Спасение Вэй Ци
+Name_114
+Спасение И Сяна
+Name_115
+Спасение Кровавого клёна
+Name_116
+Спасение Заклинателя
+Name_117
+Получены сведения
+Name_118
+Получены тайны
+Name_119
+Secret Spread
+Name_120
+Тайна устарела
+Name_121
+Смута злых нищих
+Name_122
+Стан воров
+Name_123
+Разбойничья напасть
+Name_124
+Логово отступников
+Name_125
+Пристанище злодеев
+Name_126
+Обольстительная ловушка
+Name_127
+Братская могила
+Name_128
+Дом чудаков
+Name_129
+Культ иноверцев
+Name_130
+Испытание асуров
+Name_131
+Сходка демонов
+Name_132
+Падшие ученики
+Name_133
+Бегство из гнезда
+Name_134
+Гнездо разорено
+Name_135
+Логово разрушено
+Name_136
+Прирост ресурсов
+Name_137
+Расширение ресурсов
+Name_138
+Постройка повреждена
+Name_139
+Постройка обрушилась
+Name_140
+Строительство завершено
+Name_141
+Расширение завершено
+Name_142
+Постройка снесена
+Name_143
+Доход с постройки
+Name_144
+Отряд прибыл
+Name_145
+Подношение разбойнику
+Name_146
+Разбитое сердце
+Name_147
+West Expedition
+Name_148
+Припасов не хватает
+Name_149
+Возвращение с почётом
+Name_150
+Связь потеряна
+Name_151
+Возвращение из Западного края
+Name_152
+Весенний праздничный сход
+Name_153
+Состязание боевых искусств
+Name_154
+Хор сверчков
+Name_155
+Турнир сверчков
+Name_156
+Местный диспут
+Name_157
+Забава музыкой
+Name_158
+Забава вэйци
+Name_159
+Забава словесностью
+Name_160
+Забава живописью
+Name_161
+Изготовление сокровищ
+Name_162
+Даосское прозрение
+Name_163
+Буддийское прозрение
+Name_164
+Гадание
+Name_165
+Новое положение в секте
+Name_166
+Новое положение в городе
+Name_167
+Новое положение в товариществе
+Name_168
+Кража ресурсов
+Name_169
+Ресурсы выманены обманом
+Name_170
+Ресурсы отняты силой
+Name_171
+Кража ресурсов из гробницы
+Name_172
+Кража вещей
+Name_173
+Вещи выманены обманом
+Name_174
+Robbed Item Retrieved
+Name_175
+Кража вещей из гробницы
+Name_176
+Присвоение ремесла
+Name_177
+Ремесло выманено обманом
+Name_178
+Присвоение приёма
+Name_179
+Приём выманен обманом
+Name_180
+Resources Gifted
+Name_181
+Item Gifted
+Name_182
+Наставление в ремесле
+Name_183
+Наставление в боевых искусствах
+Name_184
+Нежданное богатство
+Name_185
+Unexpected Manual
+Name_186
+Unexpected Tome
+Name_187
+Благодатное исцеление
+Name_188
+Нежданная беда
+Name_189
+Нежданная потеря трактата
+Name_190
+Нежданное испытание
+Name_191
+Сбор припасов
+Name_192
+The Followed One
+Name_193
+Prison Crisis
+Name_194
+Fuloong Plumes
+Name_195
+Smithing Training
+Name_196
+Расширение остановлено
+Name_197
+Изменить
+Name_198
+Order Item(s)
+Name_199
+Трое заточённых демонов
+Name_200
+Fatal Blackstone Ash
+Name_201
+Planting Sacred Wood
+Name_202
+Идеальная пара
+Name_203
+Guests Displeased
+Name_204
+Divine and Demonic Incarnation
+Name_205
+Отравление
+Name_206
+Полученные раны
+Name_207
+Нехватка припасов
+Name_208
+Житель уходит
+Desc_0
+Months change, and resources begin to recover...
+Desc_1
+A cricket has lived out its days...
+Desc_2
+Someone broke free from being imprisoned...
+Desc_3
+Someone was assassinated by Veil Scar Sect...
+Desc_4
+Someone was assassinated by Veil Scar Sect for holding the Insignia of the Shadowless...
+Desc_5
+Overloaded with resources, something was lost...
+Desc_6
+Overloaded with resources, something was lost...
+Desc_7
+The storehouse was overfilled, causing items to go missing...
+Desc_8
+A grudge has unexpectedly formed between someone and someone...
+Desc_9
+Someone resented the captor after being imprisoned...
+Desc_10
+Hatred has been resolved. Someone no longer sees someone as an enemy.
+Desc_11
+Someone's sincere affection finally touched someone, and love blossomed between them.
+Desc_12
+Someone and someone have severed ties, ending their romance.
+Desc_13
+Someone and someone vowed a lifetime together in marriage.
+Desc_14
+After a heartfelt conversation, someone and someone became sworn friends.
+Desc_15
+A rift formed between someone and someone, ending their friendship.
+Desc_16
+Someone and someone became sworn siblings, pledging loyalty for life.
+Desc_17
+Someone and someone severed sworn siblinghood, breaking their sworn bond.
+Desc_18
+Someone adopted two kids as their foster son and foster daughter.
+Desc_19
+Someone recognized their foster parents.
+Desc_20
+Someone and someone spent a passionate night together. Their love knows no bounds, and their bond is unbreakable.
+Desc_21
+Someone couldn't help the feelings and tried to assault someone.
+Desc_22
+Someone welcomed a child into the world.
+Desc_23
+After 42 months of pregnancy, someone gave birth to...
+Desc_24
+Due to health issues, someone suffered a tragic miscarriage.
+Desc_25
+Someone went to a sect to seek a master...
+Desc_26
+Someone successfully joined a sect.
+Desc_27
+Someone accepted Taiwu's invitation...
+Desc_28
+Someone rescued their relative imprisoned by someone...
+Desc_29
+Someone set out to seek revenge on someone...
+Desc_30
+Someone chose to protect their loved one from someone's attack...
+Desc_31
+A trade caravan is on the move in somewhere.
+Desc_32
+It is heard that a terrible disaster happened somewhere in which people were killed and locations were destroyed!
+Desc_33
+The Martial World Tournament has been prepared, held, and concluded...
+Desc_34
+A sect tournament is underway, gathering disciples from across the land...
+Desc_35
+A dispute has erupted within a sect, and Taiwu seems to be involved...
+Desc_36
+Rumor has it that a rare treasure emerged after a great natural disaster...
+Desc_37
+It's someone's birthday—time for celebration...
+Desc_38
+Someone fought against an outlaw fiend...
+Desc_39
+Someone clashed with a xiake...
+Desc_40
+Someone fought a wild beast in the wilderness...
+Desc_41
+The culture of somewhere has declined, cutting off resource support...
+Desc_42
+A fallen noble is hosting a Betrothal Contest...
+Desc_43
+Taiwu is holding a Betrothal Contest!
+Desc_44
+The Martial Art power that Taiwu has built up is completely gone...
+Desc_45
+Taiwu's close companion has gone missing...
+Desc_46
+Taiwu's wedding with their beloved is taking place...
+Desc_47
+A Divine Loong has appeared in somewhere, summoning clouds and spreading divine art...
+Desc_48
+The Jiao raised in the Taiwu Village has stopped growing due to resource shortages in Jiao pool...
+Desc_49
+The Jiao raised in the Taiwu Village broke free from the pool and escaped...
+Desc_50
+Various events in the Taiwu Village related to Jiao rearing...
+Desc_51
+Qiu Niu plays a mesmerizing tune, drawing passersby to stop and listen...
+Desc_52
+Yazi attacked someone...
+Desc_53
+Chao Feng shared a Secret with Taiwu...
+Desc_54
+A strange little creature crawled into Pu Lao's mouth...
+Desc_55
+Suan Ni exhaled a wisp of smoke, helping Taiwu interpret a manual...
+Desc_56
+Ba Xia excavated a hidden treasure and returned triumphantly...
+Desc_57
+Bi An's piercing gaze made Taiwu confess past deeds...
+Desc_58
+Fu Xi had an Epiphany, aiding Taiwu in interpreting a book...
+Desc_59
+Chi Wen played freely, restoring Taiwu's Qi...
+Desc_60
+Someone is growing thinner and weaker, possibly at the end of their life...
+Desc_61
+Someone's time has come, passing away peacefully...
+Desc_62
+Someone's passed away due to failing health...
+Desc_63
+Someone was killed by someone, meeting a tragic end...
+Desc_64
+A friend of Taiwu passed away...
+Desc_65
+In a dream, Taiwu saw a departed soul revealing the location of their reincarnation...
+Desc_66
+Someone failed to reincarnate and had no choice but to seek another host...
+Desc_67
+Someone's grave is completely destroyed and gone due to a long-term lack of care...
+Desc_68
+A powerful fiend that claims to be Xiangshu Incarnation emerged from the sword mound near Taiwu Village!
+Desc_69
+A purple bamboo growing on a blackstone appeared near Taiwu Village...
+Desc_70
+Someone was interrupted and bewitched by Xiangshu's evil thoughts.
+Desc_71
+Succumbed to the evil power, someone was corrupted by Xiangshu and turned into a demonic spirit serving Xiangshu.
+Desc_72
+Word has it that the Bewitched corrupted by Xiangshu has been imprisoned in a stone house in the Taiwu Village...
+Desc_73
+Taiwu had an epiphany while reading...
+Desc_74
+From the Microcosmic Circulation, Taiwu sensed something celestial...
+Desc_75
+Special figures and events related to Taiwu...
+Desc_76
+Special figures and events related to the Sanguine Sect...
+Desc_77
+Special figures and events related to the Lion-Face Clan...
+Desc_78
+Special figures and events related to the Emei Sect...
+Desc_79
+Special figures and events related to the Kongsang Sect...
+Desc_80
+Special figures and events related to the Wudang Sect...
+Desc_81
+Special figures and events related to the Five Immortals Sect...
+Desc_82
+Special figures and events related to the Vajra Sect...
+Desc_83
+Special figures and events related to the Ranshan Sect...
+Desc_84
+Special figures and events related to the Valley of Flowers...
+Desc_209
+Special person and special event of Veil Scar Sect
+Desc_85
+Tortured by poisons of snarled sinews, someone discarded their belongings...
+Desc_86
+Someone suffering from spoiled blood inflicted others with Necrotoxin...
+Desc_87
+Someone suffering from marrow burning poison was completely disfigured...
+Desc_88
+Someone suffering from Evil's Toll poison inflicted others with Oneirotoxin...
+Desc_89
+Someone suffering from searing enchantment poison wreaked havoc around...
+Desc_90
+A long-lost Secret Tome resurfaced, drawing both righteous and wicked masters into a fierce struggle...
+Desc_91
+Someone obtained the long-lost Secret Tome.
+Desc_92
+Someone challenged another and won the Secret Tome from them.
+Desc_93
+Someone lost the Secret Tome, leaving it adrift in the world once more...
+Desc_94
+Someone left the Taiwu Village in pursuit of the Secret Tome...
+Desc_95
+Immersed in the Secret Tome, someone let their mind be twisted and became enchanted...
+Desc_96
+Obsessed with the Secret Tome, someone fell into madness, leading them into deviation...
+Desc_97
+Obsessed with the Secret Tome, someone who succumbed to depravity was devoured by Xiangshu and turned into a demon...
+Desc_98
+Some outlaws and xiakes were affected by the Secret Tome, gaining unnatural power...
+Desc_99
+Disaster struck a place or person following Monu's passing...
+Desc_100
+Disaster struck a place or person following Dayue Yaochang's passing...
+Desc_101
+Disaster struck a place or person following Jiu Han's passing...
+Desc_102
+Disaster struck a place or person following Jin Huang'er's passing...
+Desc_103
+Disaster struck a place or person following Yi Yihou's passing...
+Desc_104
+Disaster struck a place or person following Wei Qi's passing...
+Desc_105
+Disaster struck a place or person following Yi Xiang's passing...
+Desc_106
+Disaster struck a place or person following The Blood Maple' passing...
+Desc_107
+Disaster struck a place or person following Spellwright' passing...
+Desc_108
+Monu's presence brought aid to a place or person, benefiting them greatly...
+Desc_109
+Dayue Yaochang's presence brought aid to a place or person, benefiting them greatly...
+Desc_110
+Jiu Han's presence brought aid to a place or person, benefiting them greatly...
+Desc_111
+Jin Huang'er 's presence brought aid to a place or person, benefiting them greatly...
+Desc_112
+Yi Yihou's presence brought aid to a place or person, benefiting them greatly...
+Desc_113
+Wei Qi's presence brought aid to a place or person, benefiting them greatly...
+Desc_114
+Yi Xiang's presence brought aid to a place or person, benefiting them greatly...
+Desc_115
+The Blood Maple' presence brought aid to a place or person, benefiting them greatly...
+Desc_116
+Spellwright' presence brought aid to a place or person, benefiting them greatly...
+Desc_117
+Taiwu learned new Insight...
+Desc_118
+Taiwu learned a new Secret...
+Desc_119
+A Secret from Taiwu has started spreading...
+Desc_120
+A Secret Taiwu knows is about to expire or isalready unavailable...
+Desc_121
+Rumors speak of a Wicked Beggars' Lair appearing somewhere...
+Desc_122
+Rumors speak of a Thieves' Camp appearing somewhere...
+Desc_123
+Rumors speak of a Bandits' Stronghold appearing somewhere...
+Desc_124
+Rumors speak of a Traitors' Hideout appearing somewhere...
+Desc_125
+Rumors speak of a Villains' Valley appearing somewhere...
+Desc_126
+Rumors speak of an Enthralling Trap appearing somewhere...
+Desc_127
+Rumors speak of a Mass Grave appearing somewhere...
+Desc_128
+Rumors speak of a House of Eccentrics appearing somewhere...
+Desc_129
+Rumors speak of an Outlander Cult appearing somewhere, with people mysteriously missing...
+Desc_130
+Rumors speak of a Killing Field appearing somewhere, with people mysteriously missing...
+Desc_131
+Rumors speak of Pandemonium appearing somewhere, with many Bewitched getting in...
+Desc_132
+Rumors speak of a Brink of Ruin appearing somewhere, trapping a legendary master within...
+Desc_133
+Someone was trapped at Outlaw Base but managed to escape against all odds...
+Desc_134
+Someone was trapped at Renegade Base and never made it out alive...
+Desc_135
+An Outlaw Base somewhere has fallen...
+Desc_136
+A resource site in Taiwu Village has increased in scale.
+Desc_137
+A resource site in Taiwu Village has expanded to nearby regions.
+Desc_138
+A building in Taiwu Village has been damaged and shrunk in scale.
+Desc_139
+A building in Taiwu Village has been destroyed and collapsed into ruins.
+Desc_140
+The construction of a building in Taiwu Village is complete.
+Desc_141
+The expansion of a building in Taiwu Village is complete.
+Desc_142
+A building in Taiwu Village has been demolished.
+Desc_143
+A building in Taiwu Village has yielded new gains.
+Desc_144
+A dispatched Taiwu villager has reached their post.
+Desc_145
+Taiwu received offerings from the Outlaw Base...
+Desc_146
+Someone left the Taiwu Village with a broken heart...
+Desc_147
+The Tea-Horse Caravan from Taiwu Village encountered various events on its journey...
+Desc_148
+The Tea-Horse Caravan doesn't have enough provisions for the entire journey and the team is dwindling...
+Desc_149
+After many hardships, the Tea-Horse Caravan returned to Taiwu Village...
+Desc_150
+The Tea-Horse Caravan lost contact with Taiwu Village...
+Desc_151
+Чайно-конный караван сумел вернуться в деревню Тайу…
+Desc_152
+It is springtime. Merchants across the land hold lively gatherings to welcome the new year.
+Desc_153
+Somewhere is holding a contest in the heat of summer, where martial artists from various sects are gathered to compete with each other.
+Desc_154
+The sound of crickets can be heard everywhere since the start of autumn.
+Desc_155
+The triannual Cricket Tournament is holding in somewhere!
+Desc_156
+A Debate Tournament is holding as frosty wind blows in the dead of winter.
+Desc_157
+Someone enjoyed the music played by someone.
+Desc_158
+Someone played a game of Go with someone.
+Desc_159
+Someone enjoyed the literature written by someone.
+Desc_160
+Someone enjoyed the painting drawn by someone.
+Desc_161
+Someone crafted an extremely rare artifact and gained great fame.
+Desc_162
+Someone shared the mysteries of Taoism with someone, enlightening them and improving their Talent.
+Desc_163
+Someone imparted the profound truths of Buddhism, granting newfound insight and enhancing Talent.
+Desc_164
+Someone learned a Secret that someone knew through divination.
+Desc_165
+Someone has become the new leader of a sect.
+Desc_166
+Someone has taken the role of village chief, town chief, or city lord.
+Desc_167
+Someone has risen as the leader of a faction within a sect.
+Desc_168
+Someone is trying to steal resources from another.
+Desc_169
+Someone is trying to swindle someone out of their resources.
+Desc_170
+Someone is trying to snatch someone's resources.
+Desc_171
+Someone stole resources from a tomb.
+Desc_172
+Someone is trying to steal someone's items.
+Desc_173
+Someone is trying to swindle someone out of their items.
+Desc_174
+Someone is trying to snatch someone's items.
+Desc_175
+Someone stole items from a grave.
+Desc_176
+Someone is trying to secretly learn someone's Fine Art.
+Desc_177
+Someone is trying to swindle someone out of their Fine Art.
+Desc_178
+Someone is trying to secretly learn someone's Martial Arts.
+Desc_179
+Someone is trying to swindle someone out of their Martial Arts.
+Desc_180
+Someone gifted resources to someone.
+Desc_181
+Someone gifted items to someone.
+Desc_182
+Someone shared insights with someone into learning Fine Art.
+Desc_183
+Someone guided someone in the training of Martial Arts.
+Desc_184
+Someone unexpectedly acquired a precious resource and item.
+Desc_185
+Someone unexpectedly obtained a martial arts manual.
+Desc_186
+Someone unexpectedly obtained a Fine Art manual.
+Desc_187
+Someone dreamed of a miraculous white deer and got full healing.
+Desc_188
+Someone unexpectedly lost an extremely rare item.
+Desc_189
+Someone unexpectedly lost a manual.
+Desc_190
+Someone dreamed of a sinister devil and took various injuries.
+Desc_191
+A resource spot in Taiwu Village has been fully gathered.
+Desc_192
+Someone you followed has encountered danger...
+Desc_193
+Unusual events unfolded within the prison...
+Desc_194
+Special figures and events related to the Fuloong Sanctuary...
+Desc_195
+Special figures and events related to the Swordsmith Villa...
+Desc_196
+Expansion of a building in Taiwu Village has been put on hold...
+Desc_197
+A Taiwu modified rule is voided somewhere...
+Desc_198
+The item commissioned by Taiwu from somebody is now complete...
+Desc_199
+Special people and affairs related to the Yuanshan Sect...
+Desc_200
+Someone's life was in danger from Blackstone Ash affliction...
+Desc_201
+Affairs related to planting Sacred Wood...
+Desc_202
+Affairs related to weddings from different places...
+Desc_203
+In the Banquet Hall of Taiwu Village, guests' Mood and Favorability have dropped...
+Desc_204
+There seems to be an unusual stir within the Bead of Desire...
+Desc_205
+Someone was covertly poisoned by another in a certain place...
+Desc_206
+Someone was covertly harmed by another in a certain place...
+Desc_207
+Because of resource shortages in Taiwu Village, someone's Favorability toward Taiwu has decreased...
+Desc_208
+Because of resource shortages in Taiwu Village, someone has left Taiwu Village...
+

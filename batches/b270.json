@@ -1,0 +1,20 @@
+{
+  "EventArgument_language.txt": { "Name_52": "Призвание" },
+  "GuidingChapter_language.txt": {
+    "Name_343": "Призвание",
+    "PartTitle_343_0": "Призвание",
+    "PartTitle_343_1": "Призвание",
+    "PartTitle_343_2": "Призвание",
+    "PartTitle_343_3": "Призвание"
+  },
+  "LegacyPointType_language.txt": { "Name_7": "Призвание" },
+  "NewFunctionUnlock_language.txt": { "Title_13": "Призвание" },
+  "ui_language.txt": {
+    "LK_Achievement_Type_Profession": "Призвание",
+    "LK_Bottom_Profession": "Призвание",
+    "LK_MouseTipCharacter_InteractionType_7": "Призвание",
+    "LK_Profession": "Призвание",
+    "LK_TaiwuSummary_Type_7": "Призвание",
+    "UI_Profession_Title": "Призвание"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ui_language.txt": {
+    "LK_Bottom_MapInfo_AnimalInfo": "Поиск зверей",
+    "LK_Bottom_MapInfo_AnimalInfo_Tip": "Показать сведения о зверях...",
+    "LK_Bottom_MapInfo_Behavior": "Мятежные и своекорыстные",
+    "LK_Bottom_MapInfo_Behavior_Tip": "Показать сведения о мятежном и своекорыстном складе ума...",
+    "LK_Bottom_MapInfo_CompletelyInfected": "Одержимость Сяншу",
+    "LK_Bottom_MapInfo_CompletelyInfected_Tip": "Показать сведения об одержимости Сяншу...",
+    "LK_Bottom_MapInfo_DestroyedBlock": "Разорённые ресурсы",
+    "LK_Bottom_MapInfo_DestroyedBlock_Tip": "Показать клетки, где разорены ресурсы...",
+    "LK_Bottom_MapInfo_DisorderOfQi": "Смятение внутреннего дыхания",
+    "LK_Bottom_MapInfo_DisorderOfQi_Tip": "Показать сведения о тех, кто страдает смятением внутреннего дыхания...",
+    "LK_Bottom_MapInfo_GiveTitle": "Пожалование титулов",
+    "LK_Bottom_MapInfo_GiveTitle_Tip": "Показать сведения о тех, кто жалует титулы...",
+    "LK_Bottom_MapInfo_Hurt": "Раненые",
+    "LK_Bottom_MapInfo_Hurt_Tip": "Показать сведения о раненых...",
+    "LK_Bottom_MapInfo_PartlyInfected": "Безумие Сяншу",
+    "LK_Bottom_MapInfo_PartlyInfected_Tip": "Показать сведения о безумии Сяншу",
+    "LK_Bottom_MapInfo_PersonalEnemy": "Затаившие обиду",
+    "LK_Bottom_MapInfo_PersonalEnemy_Tip": "Показать сведения о тех, кто затаил обиду на Тайу...",
+    "LK_Bottom_MapInfo_Poison": "Отравленные",
+    "LK_Bottom_MapInfo_Poison_Tip": "Показать сведения об отравленных...",
+    "LK_Bottom_MapInfo_Tip": "Нажмите Tab на главном экране, чтобы показать дополнительные сведения...",
+    "LK_Bottom_MapInfo_Tip_Profession": "Чтобы открыть этот выбор, нужно сменить занятие на подходящее...",
+    "LK_Bottom_MapInfo_Title": "Дополнительные сведения",
+    "LK_Bottom_MapInfo_Treasure": "Что можно раскопать",
+    "LK_Bottom_MapInfo_Treasure_Tip": "Показать клетки с редкими вещами..."
+  }
+}

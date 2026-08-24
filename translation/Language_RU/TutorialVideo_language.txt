@@ -1,0 +1,493 @@
+Name_0
+Перемещение по клеткам
+Name_1
+Equip a Vehicle
+Name_2
+Расход сил
+Name_3
+Сменить месяц
+Name_4
+Хозяйство
+Name_5
+Construct a Building
+Name_6
+Wait for completion
+Name_7
+Enter Encounter
+Name_8
+Move in Battle
+Name_9
+Удары оружием
+Name_10
+Techniques and Hit
+Name_11
+Defeat Conditions
+Name_12
+Move During Encounter
+Name_13
+Ресурсы клетки
+Name_14
+Сбор припасов
+Name_15
+Equip Aspiration Skills
+Name_16
+Use Aspiration Skills
+Name_37
+Return to Bamboo Hut.
+Name_17
+Enter the Crafting interface
+Name_18
+Изготовленный предмет
+Name_19
+Inhale and Stance
+Name_20
+Gain Style
+Name_21
+Casting Martial Arts
+Name_22
+Annihilation Attack
+Name_23
+Изучение
+Name_24
+Wait for Study
+Name_25
+Озарение
+Name_26
+Use Study Strategies
+Name_27
+Break Through Martial Arts Bottlenecks
+Name_28
+Завершение прорыва
+Name_29
+Малый небесный круг
+Name_30
+Wait for Circulation
+Name_31
+Microcosmic Circulation Effect
+Name_32
+Накопить истинную ци
+Name_33
+Особенности персонажа
+Name_34
+Стихия ци
+Name_35
+Чистота
+Name_36
+Begin an Event
+PartsTitle_0_0
+Move with Mouse
+PartsTitle_0_1
+Move with Keyboard
+PartsTitle_1_0
+Перегруз
+PartsTitle_1_1
+View Character Info
+PartsTitle_1_2
+Switch to Carriage & Horses
+PartsTitle_1_3
+Equip a Vehicle
+PartsTitle_2_0
+Стоимость пути
+PartsTitle_2_1
+View Travel Costs
+PartsTitle_2_2
+View Remaining Energy
+PartsTitle_3_0
+Сменить месяц
+PartsTitle_4_0
+Хозяйство
+PartsTitle_5_0
+Building Interface
+PartsTitle_5_1
+Assign Personnel
+PartsTitle_5_2
+Начать постройку
+PartsTitle_6_0
+Wait for Completion
+PartsTitle_7_0
+Enter Encounter
+PartsTitle_8_0
+Move with Mouse
+PartsTitle_8_1
+Move with Keyboard
+PartsTitle_9_0
+Удары оружием
+PartsTitle_10_0
+Technique
+PartsTitle_10_1
+Hit Type
+PartsTitle_11_0
+Defeat Conditions
+PartsTitle_12_0
+Move During Encounter
+PartsTitle_12_1
+Encounter Evolution
+PartsTitle_13_0
+Ресурсы клетки
+PartsTitle_14_0
+Сбор припасов
+PartsTitle_14_1
+Quickly Gather Resources
+PartsTitle_15_0
+Умения призвания
+PartsTitle_15_1
+Equip Aspiration Skills
+PartsTitle_16_0
+Aspiration Skills Window
+PartsTitle_16_1
+Use Aspiration Skills
+PartsTitle_37_0
+Return to Bamboo Hut.
+PartsTitle_17_0
+Enter the Bamboo Hut
+PartsTitle_17_1
+Enter the Crafting interface
+PartsTitle_18_0
+Выберите, что изготовить
+PartsTitle_18_1
+Select Reagent
+PartsTitle_18_2
+Select Tool
+PartsTitle_18_3
+Добавление ресурсов
+PartsTitle_18_4
+Изготовленный предмет
+PartsTitle_19_0
+Inhale and Stance
+PartsTitle_19_1
+Obtain Inhale
+PartsTitle_19_2
+Obtain Stance
+PartsTitle_20_0
+Gain Style
+PartsTitle_21_0
+View Martial Arts Details
+PartsTitle_21_1
+Casting Martial Arts
+PartsTitle_22_0
+Annihilation Attack
+PartsTitle_23_0
+Изучение
+PartsTitle_23_1
+Выберите книгу
+PartsTitle_24_0
+Wait for Study
+PartsTitle_25_0
+Озарение
+PartsTitle_25_1
+Enter Epiphany
+PartsTitle_26_0
+Use Study Strategies
+PartsTitle_27_0
+Open the Breakthrough Interface
+PartsTitle_27_1
+Start Breakthrough
+PartsTitle_28_0
+Завершение прорыва
+PartsTitle_29_0
+Малый небесный круг
+PartsTitle_30_0
+Wait for Circulation
+PartsTitle_31_0
+Microcosmic Circulation Effect
+PartsTitle_32_0
+Open the Qi Interface
+PartsTitle_32_1
+Накопить истинную ци
+PartsTitle_33_0
+Особенности персонажа
+PartsTitle_34_0
+Стихия ци
+PartsTitle_34_1
+Столкновение ци
+PartsTitle_35_0
+Чистота
+PartsTitle_36_0
+Begin an Event
+PartsTitle_36_1
+Advance Event
+PartsDesc_0_0
+Left-click a tile to select it, then click the same tile again to move there. (Each move consumes <color=#orange>Energy</color>.)
+PartsDesc_0_1
+You can also move using the <color=#orange>WASD</color> keys on your keyboard. (Each move consumes <color=#orange>Energy</color>.)
+PartsDesc_1_0
+When your inventory is overloaded, the <color=#orange>Energy</color> cost of tile movement will increase significantly. A warning will be displayed at the top of the screen.\nEquip a <color=#orange>Vehicle</color> to increase your character's <color=#orange>Travel Bag Weight Limit</color>.
+PartsDesc_1_1
+Click the character portrait in the lower-left corner to view your character and enter the Character Information Interface.
+PartsDesc_1_2
+Hover over the Equipment tab and switch to the Mounts interface.
+PartsDesc_1_3
+Click the <color=#orange>Mounts</color> tab and equip the Huanxin's Thin Horse.
+PartsDesc_2_0
+Vehicles not only increase Travel Bag Weight Limit, but also reduce the <color=#orange>Energy</color> consumed while traveling.
+PartsDesc_2_1
+Left-click a tile to view the amount of <color=#orange>Energy</color> required to move there.
+PartsDesc_2_2
+In addition to traveling, most character actions also consume <color=#orange>Energy</color>.\nYou can check your remaining <color=#orange>Energy</color> for the current month at the bottom center of the screen.
+PartsDesc_3_0
+When remaining Energy is insufficient, you need to perform a <color=#orange>Month Advance</color> to recover Energy.\nClick the <color=#orange>Energy Bar</color> at the bottom center of the screen, or press the space bar, to perform a Month Advance.
+PartsDesc_4_0
+While on a Settlement tile, click Industry above the tile to enter the Industry View.
+PartsDesc_5_0
+Click Construction Space in the lower-right corner of the Industry View to enter the Building Overview screen.
+PartsDesc_5_1
+Select the building you wish to construct and assign workers to it.
+PartsDesc_5_2
+Place the building on a suitable Industry Zone tile to begin construction.
+PartsDesc_6_0
+Construction takes time to complete. Perform <color=#orange>Month Advance</color> and wait for construction to finish.
+PartsDesc_7_0
+When standing on a tile containing an <color=#orange>Encounter</color>, click the Encounter icon to enter it.
+PartsDesc_8_0
+During battle, hold the right mouse button in front of or behind your character to move forward or backward, changing the distance between you and your opponent.\nAttacks can only hit enemies within your <color=#orange>Attack Range</color>.
+PartsDesc_8_1
+You can also move using the <color=#orange>AD</color> keys on your keyboard.
+PartsDesc_9_0
+In battle, click the left mouse button or use the <color=#orange>J</color> key on the keyboard to perform a Weapon Attack.
+PartsDesc_10_0
+Each weapon has specific <color=#orange>Techniques</color>. When performing a Weapon Attack, attacks are made in the order of these Techniques.
+PartsDesc_10_1
+Different Moves correspond to different Hit Types. Hit Types are divided into three types: <color=#orange>Force</color>, <color=#orange>Dexterity</color>, and <color=#orange>Accuracy</color>.
+PartsDesc_11_0
+Accumulated damage generates <color=#orange>Defeat Markers</color>, which are displayed in the Defeat Marker Gauge at the top of the screen.\nWhen a character's <color=#orange>Defeat Markers</color> reach the defeat threshold, that character is defeated.
+PartsDesc_12_0
+Double-click an Encounter tile, or use the <color=#orange>WASD</color> keys to move.
+PartsDesc_12_1
+When moving in an Encounter, other characters within the Encounter may also move or perform various actions.
+PartsDesc_13_0
+Tiles contain various types of <color=#orange>Resources</color>. Different terrain types provide different kinds and quantities of resources.\nGathering in terrain rich in <color=#orange>Wood</color> will yield more lumber.
+PartsDesc_14_0
+Click the Tile Interaction button at the bottom of the screen and select the resource you wish to gather.
+PartsDesc_14_1
+You can also right-click a tile to quickly open the Tile Interaction interface.
+PartsDesc_15_0
+As characters accumulate insights through daily cultivation and adventure, they will learn various <color=#orange>Aspiration Skills</color>.\nClick the Aspiration button at the bottom of the screen to enter the Aspiration interface.
+PartsDesc_15_1
+Unlocked Aspiration Skills will be highlighted. Click a skill to equip it. Only equipped skills can take effect or be used.
+PartsDesc_16_0
+Hover over the Aspiration button at the bottom of the screen to view currently equipped Aspiration Skills in the expanded window.
+PartsDesc_16_1
+Icons of actively usable skills will light up. Click a skill icon to use that skill.
+PartsDesc_37_0
+Click on the tile where Bamboo Hut is on the map to quickly find your way back to Bamboo Hut.
+PartsDesc_17_0
+Click Industry above the tile to enter the Industry View.\nIn the Industry View, click the Bamboo Cut building to enter its details screen.
+PartsDesc_17_1
+Click Carpentry to enter the Crafting interface.
+PartsDesc_18_0
+Click Target Product in the center of the Crafting interface, switch to <color=#orange>Specified Target Product</color>, and select the item you wish to craft.
+PartsDesc_18_1
+Switch the Reagent panel on the left to <color=#orange>Private Vault</color> and select the <color=#orange>Reagent</color> to be used in crafting.
+PartsDesc_18_2
+Switch the Tool panel on the right to <color=#orange>Private Vault</color> and select an appropriate <color=#orange>Tool</color>.
+PartsDesc_18_3
+Invest the required <color=#orange>Resources</color> for crafting. Use the <color=#orange>+</color> and <color=#orange>-</color> buttons to adjust resource quantities.
+PartsDesc_18_4
+Once all crafting requirements are met, click the Start Crafting button to complete the process.
+PartsDesc_19_0
+Casting a <color=#orange>Annihilation Martial Arts</color> usually consumes <color=#orange>Inhale and Stance</color>.
+PartsDesc_19_1
+<color=#orange>Inhale</color> naturally regenerates over time during battle.
+PartsDesc_19_2
+Landing weapon attacks on enemies or being struck by enemy weapon attacks will accumulate <color=#orange>Stance</color>.
+PartsDesc_20_0
+Casting a <color=#orange>Annihilation Martial Arts</color> requires <color=#orange>Style</color>. Style is gained through weapon attacks.\nAfter successfully hitting an enemy with a weapon attack, you will gain a corresponding <color=#orange>technique</color> based on the <color=#orange>style</color> used.
+PartsDesc_21_0
+Hover the mouse over a Martial Art icon to view its <color=#orange>usage requirements</color> and effects.
+PartsDesc_21_1
+After meeting the Martial Art's <color=#orange>usage requirements</color>, click its icon to cast it.
+PartsDesc_22_0
+Using <color=#orange>Annihilation Martial Arts</color> to attack is the primary way to deal damage in battle.\nThe higher the displayed <color=#orange>Power Multiplier</color>, the greater the damage dealt by the Annihilation Attack.
+PartsDesc_23_0
+Click Study Books to the right of the Energy bar to enter the Book Study interface.
+PartsDesc_23_1
+Select a book to study to complete the preparation process.
+PartsDesc_24_0
+During Month Advance, one study session is automatically performed.
+PartsDesc_25_0
+While studying, you may trigger an <color=#orange>Epiphany</color>. Corresponding visual effects will appear in the Study Book slot.
+PartsDesc_25_1
+Click the Study button to enter the Study interface, then click the Epiphany button to enter the Epiphany interface.
+PartsDesc_26_0
+In the Epiphany interface, you can consume the character's <color=#orange>Comprehension</color> to use <color=#orange>Study Strategies</color>, increasing the book's Study Efficiency or Study Progress.\nSelect any <color=#orange>Chapter</color> and choose a Study Strategy to apply it to that Chapter.
+PartsDesc_27_0
+Click the lower-left corner to view the character and enter the Breakthrough interface.
+PartsDesc_27_1
+Select fully studied Martial Arts, then choose 1 <color=#orange>General Outline</color> and 5 <color=#orange>Mind Method</color> to begin the breakthrough.
+PartsDesc_28_0
+Start from any <color=#orange>Starting Node</color> in the four corners of the Breakthrough interface, successively connect adjacent Breakthrough Nodes until you connect the central <color=#orange>Goal Node</color>, and Breakthrough is complete.
+PartsDesc_29_0
+Click Microcosmic Circulation to the left of the Energy bar to enter the Microcosmic Circulation interface. Select a Qi Art that you have learned, and begin Microcosmic Circulation.
+PartsDesc_30_0
+During Month Advance, one Microcosmic Circulation is automatically performed.
+PartsDesc_31_0
+Through Microcosmic Circulation, you can obtain <color=#orange>Qi</color> and <color=#orange>Circulation True Qi</color>, improving your internal cultivation. The effects of Microcosmic Circulation can be viewed in the Microcosmic Circulation interface.
+PartsDesc_32_0
+Click the lower-left corner to view the character and enter the Qi interface.
+PartsDesc_32_1
+Click <color=#orange>+</color> to condense Qi into various types of <color=#orange>True Qi</color>, each enhancing different combat attributes. Click <color=#orange>-</color> to convert True Qi back into Qi.
+PartsDesc_33_0
+Open the Character interface to view the character's Traits. Traits affect various character attributes, and some may also grant unique effects.
+PartsDesc_34_0
+Open the Character interface and enter the Qi tab to view the Five Element attributes of the character's Qi. Qi attributes influence the power of Martial Arts associated with their respective elements.
+PartsDesc_34_1
+When two mutually opposing Five Element Qi become dominant, <color=#orange>Qi Conflict</color> will occur. Casting Martial Arts of the corresponding elements while in this state will cause the character to suffer <color=#orange>Recoil</color>.
+PartsDesc_35_0
+Open the Character interface and enter the Qi tab to view the character's <color=#orange>Pure Essence</color>. The Purity Realm reflects a character's battle strength to a certain extent. When the Pure Essence difference between two characters is too great, a powerful Pure Essence Suppression effect will occur.
+PartsDesc_36_0
+Move to the tile where the <color=#orange>Event</color> is located, and click the Event icon to enter the Event.
+PartsDesc_36_1
+In the Event interface, after a dialogue segment ends, click the next <color=#orange>Event Node</color> to advance the event.
+ChapterName_0
+Tutorial Vol.1
+ChapterName_1
+Tutorial Vol.1
+ChapterName_2
+Tutorial Vol.1
+ChapterName_3
+Tutorial Vol.1
+ChapterName_4
+Tutorial Vol.2
+ChapterName_5
+Tutorial Vol.2
+ChapterName_6
+Tutorial Vol.2
+ChapterName_7
+Tutorial Vol.3
+ChapterName_8
+Tutorial Vol.3
+ChapterName_9
+Tutorial Vol.3
+ChapterName_10
+Tutorial Vol.3
+ChapterName_11
+Tutorial Vol.3
+ChapterName_12
+Tutorial Vol.3
+ChapterName_13
+Tutorial Vol.4
+ChapterName_14
+Tutorial Vol.4
+ChapterName_15
+Tutorial Vol.4
+ChapterName_16
+Tutorial Vol.4
+ChapterName_37
+Tutorial Vol.4
+ChapterName_17
+Tutorial Vol.4
+ChapterName_18
+Tutorial Vol.4
+ChapterName_19
+Tutorial Vol.5
+ChapterName_20
+Tutorial Vol.5
+ChapterName_21
+Tutorial Vol.5
+ChapterName_22
+Tutorial Vol.5
+ChapterName_23
+Tutorial Vol.6
+ChapterName_24
+Tutorial Vol.6
+ChapterName_25
+Tutorial Vol.6
+ChapterName_26
+Tutorial Vol.6
+ChapterName_27
+Tutorial Vol.6
+ChapterName_28
+Tutorial Vol.6
+ChapterName_29
+Tutorial Vol.7
+ChapterName_30
+Tutorial Vol.7
+ChapterName_31
+Tutorial Vol.7
+ChapterName_32
+Tutorial Vol.7
+ChapterName_33
+Tutorial Vol.8
+ChapterName_34
+Tutorial Vol.8
+ChapterName_35
+Tutorial Vol.9
+ChapterName_36
+Tutorial Vol.10
+VideoSummary_0
+Find your foster father
+VideoSummary_1
+Mount the thin horse
+VideoSummary_2
+Ride your horse to catch up with your foster father
+VideoSummary_3
+Restore Energy and move forward.
+VideoSummary_4
+View Industry
+VideoSummary_5
+Construct the Bamboo Hut
+VideoSummary_6
+Advance Month
+VideoSummary_7
+Enter Encounter
+VideoSummary_8
+Approach the Deep Serpent
+VideoSummary_9
+Attack the Deep Serpent
+VideoSummary_10
+Attack using different Techniques
+VideoSummary_11
+Defeat the Deep Serpent
+VideoSummary_12
+Defeat the remaining Deep Serpents
+VideoSummary_13
+Head to the Forest
+VideoSummary_14
+Gather Fine Wood
+VideoSummary_15
+Equip Rest and Recuperation
+VideoSummary_16
+Use Rest and Recuperation
+VideoSummary_37
+Return to Bamboo Hut.
+VideoSummary_17
+Enter the Crafting interface
+VideoSummary_18
+Craft Twelve Bamboo Piercers
+VideoSummary_19
+Attack Immortal Xu
+VideoSummary_20
+Continue attacking Immortal Xu
+VideoSummary_21
+Cast Ao Slaying Blade Art
+VideoSummary_22
+Defeat Immortal Xu
+VideoSummary_23
+Study Celestial Pivot's Profound Mechanism
+VideoSummary_24
+Advance Month
+VideoSummary_25
+Enter Epiphany
+VideoSummary_26
+Use your Foster Father's Commentary to assist your study
+VideoSummary_27
+Break through Heaven's Mechanism
+VideoSummary_28
+Завершение прорыва
+VideoSummary_29
+Circulate Chant of Abundance
+VideoSummary_30
+Advance Month
+VideoSummary_31
+Microcosmic Circulation Effect
+VideoSummary_32
+Накопить истинную ци
+VideoSummary_33
+View Character Traits
+VideoSummary_34
+View Qi Attributes
+VideoSummary_35
+View Pure Essence
+VideoSummary_36
+Begin an Event
+

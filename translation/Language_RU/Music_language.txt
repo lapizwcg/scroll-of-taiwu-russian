@@ -1,0 +1,283 @@
+Name_0
+Words from the Past
+Name_1
+Бесконечный поиск
+Name_2
+Morning Lesson
+Name_3
+Туман и дождь над Эмэй
+Name_4
+Море цветов
+Name_5
+Tiangang Stars
+Name_6
+Wordless Chant
+Name_7
+Девять плясок величавого льва
+Name_8
+Clouds Surrounding the Ranshan Mountain
+Name_9
+Ясный лунный свет
+Name_10
+Iron Will
+Name_11
+Снежный источник
+Name_12
+Мощь ваджры
+Name_13
+Пять Бессмертных
+Name_14
+Moment of Malice
+Name_15
+Огнедышащий рог
+Name_16
+Blood Sacrifice
+Name_17
+Девятивратный дворец
+Name_18
+Ясная луна над градом Цзинь
+Name_19
+Ballad of the Mountains and Waters
+Name_20
+Солнце над водами Сян
+Name_21
+Град девяти излучин луна
+Name_22
+Morning Market
+Name_23
+Изумрудный свод
+Name_24
+Narrow Pass
+Name_25
+Banyan City
+Name_26
+Река Ляо течёт на восток
+Name_27
+Dance of Western Regions
+Name_28
+Cangshan Mountains and Erhai Lake
+Name_29
+Sound of Forest
+Name_30
+One Night by the West Lake
+Name_31
+Listening to Qing Qu in Jiangnan
+Name_32
+Наследие старой столицы
+Name_33
+Теснина Глубокой долины
+Name_34
+Praise of Thousands of Mountains
+Name_35
+Melody of the Grand River
+Name_36
+Intoxicated Amidst the Rift
+Name_37
+Under the Mountain Yun
+Name_38
+Back to the Forest
+Name_39
+Песнь рек Чу
+Name_40
+Приливы острова Мэйчжоу
+Name_41
+Cloud of the Sky Pool
+Name_42
+The Guest
+Name_43
+Hundred-Mile Clouds and Sunset Glow
+Name_44
+Small Village by the Border Forest
+Name_45
+Western Road at Dusk
+Name_46
+Small Village by the Border Forest
+Desc_0
+A famous music piece passed down through Taiwu Village and conveyed by word of mouth, evokes old dreams among the villagers...
+Desc_1
+A famous music piece from an unnamed place. Its composer remains unknown, yet its profound ambiance resonates deeply with the soul...
+Desc_2
+A famous music piece from the Shaolin Sect has been heard by the monks within the temple for hundreds of years, helping to center the mind, enhance endurance, and deepen meditation...
+Desc_3
+A famous music piece from the Emei Sect incorporates the best of many styles. Said to clear the ears and brighten the eyes, it is especially suitable for contemplation...
+Desc_4
+A famous music piece from Valley of Flowers, characterized by its deep, gentle sounds and warm essence, can soothe the heart...
+Desc_5
+A famous music piece from the Wudang Sect embodies the harmony of yin and yang and exudes an aura of immortality and virtue. It is capable of moving mountains with minimal effort, balancing action and stillness...
+Desc_6
+A famous music piece from the Yuanshan Sect, though wordless, stabilizes the spirit and aids in vanquishing demons and eradicating evil...
+Desc_7
+A famous music piece from the Lion-Face Clan, filled with passion and uplifting spirits, presents a heroic and impressive stance when executed...
+Desc_8
+A famous music piece from the Ranshan Sect is pleasing to the ear yet seemingly hollow, provoking deep reflection.
+Desc_9
+A famous music piece from the Jade-Maiden Sect, known for its rhythmic fluctuations and cool, graceful turns, makes it difficult to discern the presence of emotion.
+Desc_10
+A famous music piece from the Swordsmith Villa evokes the imagery of smithing a celestial weapon and is full of intriguing implications...
+Desc_11
+A famous music piece from the Kongsang Sect is akin to seeking eternal life, freeing the mind of distractions and quietly watching the spring snow melt away...
+Desc_12
+A famous music piece from the Vajra Sect features full and deep chanting tones that, though slightly eerie, fortify the heart like unyielding metal...
+Desc_13
+A famous music piece from the Five Immortals Sect captivates the ear with its melodious twists and enlightens the mind at the slightest touch...
+Desc_14
+A famous music piece from the Veil Scar Sect, filled with lurking dangers and hidden traces, reveals its sharpness only in moments of calm...
+Desc_15
+A famous music piece from the Fuloong Sanctuary evokes the imagery of being protected by a Divine Loong, naturally invigorating one's vigor and courage...
+Desc_16
+A famous music piece from the Sanguine Sect startles and intrigues with its strange music, inexplicably filled with a nameless fervor...
+Desc_17
+A famous music piece from the Capital that, once played, conjures images of splendid palaces and golden pavilions, transforming the universe yet remaining as Immovable Mountain...
+Desc_18
+A famous music piece from Chengdu that cleanses the heart, much like the bright moon illuminating a person, bringing total comfort and relaxation...
+Desc_19
+A famous music piece from Guizhou, depicts a light boat gracefully sailing away, epitomizing free spirit, even though the mountains and rivers are far...
+Desc_20
+A famous music piece from Xiangyang carries the tender sentiment of the Xiang River, flowing softly through a hundred turns, yet embodies the martial spirit of the people—delicate, yet firm and resolute...
+Desc_21
+A famous music piece from Taiyuan celebrates the city's history and its many loyal and righteous figures. This tribute to heroes is unmatched in bravery and soars with pride...
+Desc_22
+A famous music piece from Guangzhou features a lively rhythm, as if mocking the waves and laughing at Loongs, evoking a bustling morning market filled with greetings, farewells, and playful banter...
+Desc_23
+A famous music piece from Qingzhou weaves flute notes to depict landscapes and captures the delightful calls of birds greeting the morning sun...
+Desc_24
+A famous music piece from Jiangling begins with a subdued melody that then expands, mirroring a mind calm as still water that ultimately reveals a clear, vast sky and an immense universe...
+Desc_25
+A famous music piece from Fuzhou evokes the lush, sprawling banyan trees that cast wide shadows over the hills, offering peace and tranquility despite the blazing sun...
+Desc_26
+A famous music piece from Liaoyang is solemn and commanding, echoing the mighty Liao River as it flows unstoppably into the sea.
+Desc_27
+A famous music piece from Qinzhou, brimming with exotic charm, intoxicates listeners and invites them to revel in its delights and sing joyously...
+Desc_28
+A famous music piece from Dali, light and carefree, as if accustomed to the world's turmoil, yet still finding joy in contentment...
+Desc_29
+A famous music piece from Shouchun begins by holding back before soaring. The more one listens, the more melodiously it unfolds, soothing the heart.
+Desc_30
+A famous music piece from Hangzhou features the delicate, lingering sounds of the zither and flute, as if one were by the West Lake under moonlight, in a painted boat carrying wine...
+Desc_31
+A famous music piece from Yangzhou captures the essence of spring in the Jiangnan region, imbued with delicate sentiments that make one's heart yearn for more...
+Desc_32
+A famous music piece from Jingji, composed by descendants of nobility and scored with grand traditional Chinese musical scales, resonates with the rise and fall of fortunes...
+Desc_33
+A famous music piece from Bashu evokes deep emotions in travelers lamenting the treacherous Sichuan paths and vowing to conquer their difficulties...
+Desc_34
+A famous music piece from Guangnan, sung by boatmen while boating on the Li River, echoes continuously between the mountains lining the banks...
+Desc_35
+A famous music piece from Jingbei offers a vast and distant vista, as if one were sitting atop a high building, overlooking the endless river flowing into the horizon...
+Desc_36
+A famous music piece from Shanxi, often sung by Martial World heroes traversing desolate ridges and accompanied by the harsh northern wind and strong liquor, instantaneously evokes a spirit of boldness...
+Desc_37
+A famous music piece from Guangdong, highly favored by traveling merchants, depicts the continuous mountains, seas, and bustling human activities...
+Desc_38
+A famous music piece from Shandong, composed by ancient scholars who, after observing the secular world, attained enlightenment and was buried in the woods and springs, leaving this melody to the world...
+Desc_39
+A famous music piece from Jingnan recalls a woman from Hunan, deep in thought and clinging to her yearnings, who walked along the riverbank singing this tune to express her melancholy...
+Desc_40
+A famous music piece from Fujian mirrors listening to the tides at night—surging forward, then receding, sweeping away all distracting thoughts...
+Desc_41
+A famous music piece from Liaodong evokes the imagery of the celestial landscape of Heaven Lake, shrouded in mist, with an obscured path ahead that beckons further exploration...
+Desc_42
+A famous music piece from the Western Regions, originally used by nomadic tribes to welcome guests, features exotic singing and dancing that enchants both arrivals and departures...
+Desc_43
+A famous music piece from Yunnan, with tonalities and style derived from the customs of the Miao territories, distinct from Han music, possesses a unique charm passed down through generations...
+Desc_44
+A famous music piece from Huainan that is quiet and subdued, akin to living in seclusion in a lone village, where one calms the mind by gazing at the mountains and becomes indifferent to worldly affairs...
+Desc_45
+A famous music piece from Jiangnan captures the scene where the setting sun illuminates the water and deepens the shadows of elm and mulberry at dusk. It's as if one can hear birds chirping back and forth, cleansing and calming the mind...
+Desc_46
+A famous music piece from Jiangbei features lively music that evokes the sound of immortals clapping and laughing, leading one to wander joyfully through the fields and countryside...
+Evaluation_0
+"The music piece, Words from the Past... For some reason, I feel that it must have a deep connection with you. Its melody is so haunting and graceful, filled with loneliness and a sense of destiny. It twists and turns, as if it has experienced countless cycles of reincarnation, forever entangled in various complexities..."
+Evaluation_1
+"The music piece Endless Search... It is the harmony of Xiao and Guqin, intertwining and playing together softly.There is both a serene tranquility and a sense of ancient solitude.The more one listens, the more it feels like stepping into a land of immortals, becoming gradually lost and disoriented, unsure of the origin..."
+Evaluation_2
+"The music piece Morning Lesson... Serene and solemn, with a hint of Buddhist tranquility, as if hundreds of martial monks were swinging their cudgels in unison, orderly and powerful, full of righteousness and integrity, not allowing any evil to intrude..."
+Evaluation_3
+"The music piece Mist and Rain in Emei... The melody lives up to its name, resembling the thin misty drizzle on Mt. Emei, gently and continuously falling. As the melody progresses, the musical notes interchange, portraying a curtain of rain woven by fine showers, nourishing everything and depicting the concept of softness overcoming strength..."
+Evaluation_4
+"The music piece Blossom Sea... The melody is beautiful and harmonious, listening to it is like being in a beautiful sea of flowers, with the wind blowing through the flowers, layer upon layer of flower waves. Not only does it bring tranquility to the heart, but it also feels as if all bodily ailments could be healed in the blink of an eye..."
+Evaluation_5
+"The music piece Tiangang Stars... It possesses a grand spirit and heroic demeanor, stirring the soulyet also carries a hint of circularity and perpetual flow, akin to the balance of yin and yang in the cosmos, the birth of dualism from the Taiji principle..."
+Evaluation_6
+"The music piece Wordless Chant... The melody, though tranquil and serene, resembles the tranquility of deep mountains with drifting clouds. Upon closer listening, there is a hint of serene Chan. With a calm and unwavering heart, without words as the key, it can dispel demons, cleanse the world..."
+Evaluation_7
+"The music piece Nine Dances of Majestic Lion... There is not much of a graceful and winding melody, only the sound of drums and gongs during the lion dance. It is fast and urgent, coming like a sudden storm, making people unable to help but chuckle, yet also difficult to ignore its momentum..."
+Evaluation_8
+"The music piece Clouds Surrounding the Ranshan Mountain... The melody is ethereal, with ever-changing musical phrases. It can be said that it transcends worldly affairs and seeks freedom from within the heart. Just like floating clouds, they may still linger around the mountains, but one never knows when they will ascend and fly away..."
+Evaluation_9
+"The music piece Bright Moonlight... In the past, I often played Guqin in the Jade-Maiden Peak, and I have heard of it. At that time, I only heard occasional singing of women in the music, clear and graceful, truly transcendent, with an ethereal air. Now, listening to this piece again, I understand that the bright moon hangs high, illuminating all beings, also expressing compassion and love..."
+Evaluation_10
+"The music piece Iron Will... At first listen, one hears the intertwining sounds of metal, with such a rapid pace, just like a master swordsmith, dedicated and focused, tirelessly crafting unparalleled divine weapons day and night. The exquisiteness within is truly unfathomable..."
+Evaluation_11
+"The music piece Spring of Snow...The melody is gentle and soothing, exuding a warm atmosphere.The clear and crisp notes are like the sound of ice and snow melting, dripping gently.The rhythm flows slowly, resembling the hidden spring beneath the white snow in Mt. Kongsang, creating a scene akin to the Land of Immortals."
+Evaluation_12
+"The music piece Might of Vajra... The piece is filled with Sindhu musical instruments, seeming to be music passed down from Tantric Buddhism.Though the melody is unique, it appears even more eerie, with perhaps three parts resembling Buddhist chants, but the remaining seven parts filled with ominous undertones..."
+Evaluation_13
+"The music piece Five Immortals... Only the sounds of Di and Hulusi can be heard, intertwining and lingering, like a pair of butterflies dancing and flying together, graceful and full of heartfelt emotions.Listening to such a melody, the rumored Miaojiang region may not be purely a dangerous place after all..."
+Evaluation_14
+"The music piece Moment of Malice... The melody is so eerie, with hidden dangers. Even I, upon listening closely to this tune, can't help but furrow my brow. I feel as though lurking shadows may hide in the darkness at any moment. It's wise to stay alert and cautious..."
+Evaluation_15
+"The music piece Volcano Horn... Upon first hearing, it feels restless, and the tone is also heavy. The message conveyed by this piece seems to be like a volcano on the verge of erupting. Without the descent of a Divine Loong, the storm will not subside, and the torrential rain will not cease..."
+Evaluation_16
+"The music piece Blood Sacrifice... The rhythm is eerie, the music chilling, filled with a bloody aura throughout! Wherever this piece originates from, there must be demonic forces at play. Upon closer listening, it also seems to have a sense of bluff and uncertainty..."
+Evaluation_17
+"The music piece Nine-fold Palace Gates... The music style is grand and majestic, the melody exuding solemnity and dignity. In the midst of it all, one can faintly hear the sound of bells and chimes. The palace gates, the imperial court overlooking the rivers and mountains, are all vividly presented in the mind's eye..."
+Evaluation_18
+"The music piece Bright Moon above the Jin City... The melody is ethereal, imbued with an immortal aura. Hearing this piece is like seeing Chang'e Moon Step again. Beneath the moonlight, the lanterns and towers of the city are like pavilions in the Land of Immortals..."
+Evaluation_19
+"The music piece Ballad of the Mountains and Waters... It sounds like drifting along the Li River, calmly observing the mountains and waters, one feels serene and content. Their heart is intoxicated by picturesque scenery, lost in reverie, yet unaware that the boat has already passed through myriad mountains..."
+Evaluation_20
+"The music piece Sun above the Xiang Waters... It has both the graceful and winding beauty of the Xiang Water, as well as a touch of loyalty, courage, and Xiake spirit. Such a blend of strength and tenderness, with a gentle and heroic temperament, truly represents the local customs and sentiments of Xiangyang..."
+Evaluation_21
+"The music piece Nine-bend Loong City... The music carries a profound and solemn tone, with a sense of timeless grandeur. It encompasses the changes of countless ages and the vast transformations of the world, all encapsulated in the deep emotions conveyed by the melody..."
+Evaluation_22
+"The music piece Morning Market... The flute melody harmonizes cleverly with the main melody, resembling a conversation between people, as if portraying the bustling scene of the morning market in Guangzhou, with vendors shouting and haggling, and pedestrians coming and going, negotiating prices..."
+Evaluation_23
+"The music piece Emerald Dome... The rhythm is light and lively, the melody leisurely. The music is arranged in a harmonious and balanced manner, much like the intertwining of trees in the mountains, evoking the scene of a secluded haven..."
+Evaluation_24
+"The music piece Narrow Pass... It seems to be filled with a sense of oppression, as if walking through a canyon. Every musical phrase seems to express a longing - to walk out of the valley and seek open spaces once again..."
+Evaluation_25
+"The music piece Banyan City... The sound flows like a babbling brook, the melody unfolds gently and gradually. The scenery described in the music must be that of a moist, tranquil city, with a warm and cozy atmosphere..."
+Evaluation_26
+"The music piece The Liao River flows to the East... It is filled with a solemn and tense atmosphere, echoing the sound of marching troops. Each time one hears it, it's like seeing the setting sun casting its glow upon the mountains, with a lone crane returning home, and the vast Liao River flowing eastward for thousands of miles..."
+Evaluation_27
+"The music piece Dance of Western Regions... Both the tune and the instruments carry an exotic flavor, with cheerful and lively music pieces full of whimsical charm. It's perfect for dancing along and reveling in joy..."
+Evaluation_28
+"The music piece Cangshan Mountains and Erhai Lake... The rhythm is light, unrestricted, as if the melody refuses to be bound by worldly constraints. One can freely roam the Cangshan Mountains and Erhai Lake, feeling carefree and joyous, igniting a playful and whimsical spirit..."
+Evaluation_29
+"The music piece Sound of Forest... At first, the melody may have a hint of tension, resembling birds startled into flight. However, it gradually leads one into the beautiful scenery of the forest, with a soothing rhythm and graceful, flowing beauty, like being entranced amidst the mountains and woods..."
+Evaluation_30
+"The music piece One Night by the West Lake... The melody is gentle, depicting only the night scene of West Lake. The night wind is clear, the sound of Sheng and Xiao gradually fades away. Such a delicate tune, though, doesn't sound lonely at all..."
+Evaluation_31
+"The music piece Listening to Qing Qu in Jiangnan... It is like a song of spring, describing the full courtyard of flowers. Hearing it is like seeing the green waves reflecting the willows, flowers attracting bees and butterflies, bringing a moment of delightful intoxication..."
+Evaluation_32
+"The music piece Legacy of the Old Capital... While exuding solemnity and gravity, this tune also carries a subtle implication of the vicissitudes of life. Within the fluctuations of the melody, one can sense the profound history and the experiences of enduring hardships, leaving a lasting impression and endless aftertaste..."
+Evaluation_33
+"The music piece Corridor of Deep Valley... The melody is profound, just like a traveler wandering through the valley, while the rhythm is extremely catchy, with seamless transitions, repeating in cycles. Listening to it feels like traversing the winding paths of the Bashu mountains, where a slight misstep could lead to losing one's way, unable to find the starting point or the path forward..."
+Evaluation_34
+"The music piece Praise of Thousands of Mountains... its sound of the pipa resembles the vast mountains, while the melodious flute evokes the flowing water. This imagery brings to mind the landscape of Guangnan, with its undulating mountains and winding rivers, where the mountains and rivers intertwine endlessly..."
+Evaluation_35
+"The music piece Melody of the Grand River... It begins by sketching the vast scenery of the rushing river, transitioning from stillness to motion. As the drums in the music play out the rhythmic pattern reminiscent of Swordsmith Villa, it vividly highlights the majestic grandeur of the great rivers..."
+Evaluation_36
+"The music piece Intoxicated Amidst the Rift... Only the sound of Xiao can be heard, lingering and echoing, like the overlapping mountains and peaks, one after another. And everyone is travelers, wandering together in it..."
+Evaluation_37
+"The music piece Under the Mountain Yun... When the melody extends, it seems to narrate the scenery, while the sound of Zheng and percussion convey a sense of bustling activity. Upon closer listening, one can feel the intertwining of people and scenery within the music, bustling scenes vividly unfolding before one's eyes..."
+Evaluation_38
+"The music piece Back to the Forest... The sound of Di is light and brisk, with a lively and adorable melody, resembling the cheerful chirping of birds leading one back into the dense forest, where I wander freely among the rugged peaks and ridges..."
+Evaluation_39
+"The music piece Song of Chu Rivers... The melody flows slowly and softly, reminiscent of the gentle tranquility of autumn waters. It evokes a sense of longing, as if the goddess by the Xiang River bank is now nowhere to be found, leaving only the ethereal music to convey a hint of nostalgia.."
+Evaluation_40
+"The music piece Tides of Meizhou Island... It frequently changes keys, various instrumental sounds echoing one after another, sounding like the ebb and flow of tides, as if one is standing on the shore experiencing the tides firsthand. As the piece reaches its conclusion, there comes a surge of mighty waves within the music, only to recede suddenly, leaving one with endless reminiscences..."
+Evaluation_41
+"The music piece Cloud of the Sky Pool... The melody is ethereal and dreamy, pleasantly distant, just as its name suggests. Listening to it feels like being surrounded by drifting clouds, gently moving around the realm of a celestial pool..."
+Evaluation_42
+"The music piece The Guest... The rhythm is captivating, full of exotic charm; it's said that... 'When guests come from afar, there must be fine wine.' Hearing this melody, how can one not yearn for the scenery of the Western Regions?"
+Evaluation_43
+"The music piece Hundred-Mile Clouds and Sunset Glow... It uses many exotic instruments from the Miaojiang regions, it is quite intriguing for those hearing it for the first time. The melody is exceptionally beautiful and prolonged. Although there are rumors of the mysterious and strange places in the southwest, after listening to this piece, one might feel that Yunnan could as well be the Land of Immortals..."
+Evaluation_44
+"The music piece Small Village by the Border Forest... Its melody flows leisurely, exuding a sense of tranquility, completely free from any extravagance or distractions. It must be the result of being unrestrained, constantly wandering between mountains and waters, to produce such a flavor in music..."
+Evaluation_45
+"The music piece Western Road at Dusk... The piece is filled with countless tender emotions and exudes a distinct sense of rhythm. The overtones of Di and Zheng vividly depict the beauty of the setting sun, resembling the picturesque waters of Jiangnan in autumn, delicate and captivating..."
+Evaluation_46
+"The music piece Small Village by the Border Forest... The clear melody resembles flowing water and carries a sense of elegance and charm. It feels as if walking through a shady woodland, with winding pathways intersecting. It originates from the verdant grove while also merging into the emerald depths..."
+

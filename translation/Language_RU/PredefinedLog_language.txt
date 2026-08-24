@@ -1,0 +1,193 @@
+Name_0
+Remove Secret data
+Name_1
+Failed to load Mod config
+Name_2
+Failed to load Mod config
+Name_3
+Failed to load Mod settings
+Name_4
+Failed to load global Mod settings
+Name_5
+Battle error: Negative frame count
+Name_6
+Aspiration animation runtime exception
+Name_7
+Martial Art effect runtime exception
+Name_8
+Battle runtime exception
+Name_9
+Unsupported video format exception
+Name_10
+Quest Data Exception
+Name_11
+Map Loading Exception
+Name_12
+Character Loading Exception
+Name_13
+Martial Arts Runtime Exception
+Name_14
+Communication Runtime Exception
+Name_15
+Debate Action Expired
+Name_16
+Mismatched Memory Save
+Name_17
+Loong Awakening UI Refresh Exception
+Name_18
+General UI Refresh Exception
+Name_19
+World Loading Exception
+Name_20
+Duplicate Item
+Name_21
+Item Not Owned
+Name_22
+Event System Exception
+Name_23
+Battle AI Loading Exception
+Name_24
+Mod Configuration Missing Exception
+Name_25
+Parameter Value Cannot Be Empty
+Name_26
+Parameter Not Found in Config Table
+Name_27
+Event Not Found
+Name_28
+Invalid Enumeration
+Name_29
+Lua script execution exception
+Name_30
+Caching Exception: Move Chickens
+Name_31
+Caching Exception: Move Chickens
+Name_32
+Caching Exception: Delete Chickens
+Name_33
+Unknown penalty type detected during wanted punishment.
+Name_34
+Attempt to acquire non-surviving character's displayed age
+Name_35
+Failed to resolve configuration settings
+Name_36
+Failed to resolve Encounter Element
+Name_37
+Failed to resolve Major Event Template
+Name_38
+Failed to resolve Encounter Template
+Name_39
+Encounter Event Queue Overflow
+Name_40
+Encounter generation failed
+Name_41
+Failed to generate additional bets.
+Name_42
+Soul Transformation state transition failed.
+Name_43
+Save Load Abnormality
+Name_44
+Save Backup Failed
+Name_45
+NPC Target Creation Failed
+Name_46
+NPC Behavior Planning Failed
+Name_47
+NPC Behavior Execution Failed
+Info_0
+Illegal Secret data detected and removed.
+Info_1
+Loading Mod - Failed to load Mod config file for {0} located in {1}, operation skipped.\nError: {2}
+Info_2
+Failed to load Mod config file located in {0}, operation skipped.\nError: {1}
+Info_3
+Loading Mod - Failed to load Mod settings for {0} located in {1}, operation skipped and files removed.\nError: {2}
+Info_4
+Failed to load the global Mod settings located in {0}, operation skipped and files removed.\nError: {1}
+Info_5
+Action Skipped: Negative frames detected in this battle.
+Info_6
+An runtime animation exception occurred during the execution of the {1} skill in {0} Aspiration. The current skill execution has been skipped.\nError message: {2}
+Info_7
+An runtime exception occurred during the execution of effect ID {0}. We've noticed the problem and have applied compatibility fixes to keep the game running.\nIf you see this log, please visit the official website to submit it for troubleshooting.\nException details: {1}
+Info_8
+A runtime exception occurred during battle. We've noticed the problem and have applied compatibility fixes to keep the game running.\nIf you see this log, please visit the official website to submit it for troubleshooting.\nException details: {0}
+Info_9
+Due to system limitations, this video cannot be played at the moment. This exception does not affect the creation of a save file or entering the game. You may click "Clear" to proceed.
+Info_10
+Detected Abnormal Quest ID: {0}
+Info_11
+A runtime exception occurred while loading the map. We've noticed the problem and have applied compatibility fixes to keep the game running.\nIf you see this log, please visit the official website to submit it for troubleshooting.\nException details: {0}
+Info_12
+A runtime exception occurred while loading the character. We've noticed the problem and have applied compatibility fixes to keep the game running.\nIf you see this log, please visit the official website to submit it for troubleshooting.\nException details: {0}
+Info_13
+A runtime exception occurred during the execution of a Martial Art. We've noticed the problem and have applied compatibility fixes to keep the game running.\nIf you see this log, please visit the official website to submit it for troubleshooting.\nException details: {0}
+Info_14
+A runtime exception occurred during communication. We've noticed the problem and have applied compatibility fixes to keep the game running.\nIf you see this log, please visit the official website to submit it for troubleshooting.\nException details: {0}
+Info_15
+The Debate system abnormally received an expired action: {0} (Timestamp: {1}) at turn {2}.\nIt has been invalidated.
+Info_16
+The memory you're returning to doesn't match your original save. Proceeding may cause unexpected errors!
+Info_17
+We detected an exception with the Loong Awakening interface. We've noticed the problem and have applied compatibility fixes to keep the game running.\nIf you see this log, please visit the official website to submit it for troubleshooting.
+Info_18
+A runtime exception has occurred. We've noticed the issue and have applied compatibility fixes to keep the game running.\nThe exception recorded in this log may not be the same each time, please submit this log on the official website for troubleshooting whenever it appears.\nException details: {0}
+Info_19
+A runtime exception occurred while loading the world. We've noticed the problem and have applied compatibility fixes to keep the game running.\nIf you see this log, please visit the official website to submit it for troubleshooting.\nError details: {0}
+Info_20
+ Attempted to add a non-stackable item {0} to container {1}, but it already exists in another container {2}.
+Info_21
+Attempted to remove a non-stackable item {0} from container {1}, but no owner was recorded for it.
+Info_22
+The event had changed but wasn't properly entered. Continuing may corrupt your save.\nIf you see this log, please visit the official website to submit it for troubleshooting.\nGUID: {0}=>{1}
+Info_23
+An error occurred while loading AI data from path {0}. Please verify the integrityof the game or contact customer support.\nError details: {1}
+Info_24
+A mod-added template (ID: {0}) is missing from the current game configuration ({1}). We've attempted to remove its associated data for compatibility. If you want to retain it, enable the related Mod and reload your save.
+Info_25
+Parameter Value Cannot Be Empty
+Info_26
+Parameter Not Found in {0} Config Table
+Info_27
+The event does not belong to any event group
+Info_28
+Invalid Enum Value: {0}
+Info_29
+Throws {0} exception during Lua script execution.
+Info_30
+There are no Chickens at Settlement {3}. This may affect Chickens-related functions including but not limited to Feather-Seeking.\nPlease save immediately and reload to restore normal cache status.\nIf this log appears, submit it via official website for troubleshooting.\nChickens Cache Status: {0}. Chickens Real Status: {1}\nCall Stack:{2}
+Info_31
+There are no Chickens with the id of {4} at Settlement {3}. This may affect Chickens-related functions including but not limited to Feather-Seeking.\nPlease save immediately and reload to restore normal cache state.\nIf this log appears, submit it via official website for troubleshooting.\nChickens Cache State: {0}. Chickens Real State: {1}\nCall Stack:{2}
+Info_32
+Chickens with the id of {3} not exist. This may affect Chickens-related functions including but not limited to Feather-Seeking.\nPlease save immediately and reload to restore normal cache status.\nIf this log appears, submit it via official website for troubleshooting.\nChickens Cache Status: {0}. Chickens Real Status: {1}\nCall Stack:{2}
+Info_33
+Generated unknown penalty type at {0} with severity {1}.
+Info_34
+Attempt to acquire non-surviving character's displayed age. Character Id:{0}
+Info_35
+Configuration setting file {0} failed to resolve as {1}. Related items may be treated as default value
+Info_36
+The Encounter Element can't be found. Please check whether the Encounter Element name has been filled in the Encounter Editor.
+Info_37
+The Major Event can't be found. Please check whether the Major Event name has been filled in the Major Event Editor.
+Info_38
+The Encounter can't be found. Please check whether the Encounter name has been filled in the Encounter Editor.
+Info_39
+The Encounter Event queue is too long. The current event can't be triggered due to queue overflow. Please simplify the event trigger structure. Debug info: {0}
+Info_40
+Unable to generate Encounter normally. Exception: {0}
+Info_41
+Unable to generate additional bets. Error message: {0}
+Info_42
+Soul Transformation state transition failed. Unable to transition from {0} to {1}, which may result in functional anomalies and save data corruption.\nIf this log appears, please visit the official website to submit it to assist with troubleshooting.
+Info_43
+Unable to load save file properly. Please ensure the save file exists and is not corrupted.\nPath: {0}\nException Info: {1}
+Info_44
+Unable to back up save file properly. Please ensure you have correct read/write permissions, sufficient disk space, and avoid modifying files while the game is running.\nPath: {0}\nException Info: {1}
+Info_45
+Unable to create target [{1}] for character {0}.\nException Info: {2}
+Info_46
+Unable to plan behavior/pathfinding for target [{1}] of character {0}.\nException Info: {2}
+Info_47
+Unable to execute behavior [{2}] for target [{1}] of character {0}.\nException Info: {3}
+

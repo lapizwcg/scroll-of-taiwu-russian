@@ -1,0 +1,216 @@
+Name_0
+Кумыс
+Name_1
+Bountia Liquor
+Name_2
+Bamboo Leaf Liquor
+Name_3
+Iridescent Liquor
+Name_4
+Xinfeng Liquor
+Name_5
+Qu'e Liquor
+Name_6
+Jiannanchun Liquor
+Name_7
+Maotai
+Name_8
+Monkey Brew
+Name_9
+Sorghum Liquor
+Name_10
+Xifeng Liquor
+Name_11
+Dongpo Honey Liquor
+Name_12
+Western Regions Wine
+Name_13
+Congruence Liquor
+Name_14
+Mountaindew Liquor
+Name_15
+Armeniaca Liquor
+Name_16
+Lanling Liquor
+Name_17
+Dukang Liquor
+Name_18
+Pu'er Tea
+Name_19
+Luyuan Tea
+Name_20
+Wuyi Rock Tea
+Name_21
+Silverneedle Tea
+Name_22
+Keemun Black Tea
+Name_23
+Imperial Gourd Tea
+Name_24
+Orchid Shoot Tea
+Name_25
+Da Hong Pao Tea
+Name_26
+Mengding Yellowbud Tea
+Name_27
+Bamboo Leaf Tea
+Name_28
+Duyun Taper Tea
+Name_29
+Lu'an Green Tea
+Name_30
+Xinyang Taper Tea
+Name_31
+Mt. Lu Mist Tea
+Name_32
+Biluochun Tea
+Name_33
+Longjing Tea
+Name_34
+Mt. Fang Bud Tea
+Name_35
+Mt. Mengding Tea
+Desc_0
+After the Wei, Jin, and the Southern and Northern Dynasties, outlander cultures spread into the homes of ordinary people. Kumis, an alcoholic beverage made from mare milk, is such an example: a smooth taste quite different from that of liquors in the Central Plains.
+Desc_1
+Would that I were drunk for a thousand days, my worries eased for many a century. Made from fine grains, Bountia Liquor is smooth and silky with a sweet aftertaste. Originally named after Bountia, the place, it's become very popular.
+Desc_2
+A clear, resplendent beverage made by storing bamboo leaves within yellow liquor. Richly fragrant, it's loved throughout all levels of society.
+Desc_3
+A fine dowry liquor. It's said that long ago, a wealthy family started fermenting such a liquor upon their daughter's birth, and when it came time for her to be married, it was given as a dowry. With a mellow taste and strong aroma befitting a young lady, it gets its name from the colorful designs of the bottles it's stored in.
+Desc_4
+Fragrant like the flowers in the north, and served in goblets of bamboo hues. A sweet liquor said to be imbibed by Yang Guifei in the Hundred Flowers Pavilion, as told in the famous opera "The Drunken Concubine."
+Desc_5
+In the Dantu district of Zhejiang there stands Mt. Gaoli. Legend says that a Gaoli noble went there in times of old, and the East Sea God came to ask for her hand in marriage with liquor in tow. She refused, so he flipped his boat and spilled the liquor into the Qu'e Lake; hence its name.
+Desc_6
+In the halcyon days of the Tang Dynasty, drinking alcohol was a popular pastime for many. Jiannanchun gained wide recognition due to its unique flavor, found even in the imperial stores. It's often said that in the Tang's heyday, you'd always find a bottle of Jiannanchun Liquor at the imperial table.
+Desc_7
+Maotai is a spirit with a fine, elegant palate that goes down smoothly. Its aroma lingers even after you've emptied your cup. Embodying the spirit and character of Guizhou where it originates, it can only be brewed through a process of aging and slow heating. Known as "the spirit of the people."
+Desc_8
+In the legendary era of the Yellow Emperor, a hunter was said to have journeyed into the mountains. Having lost his way he happened across a community of monkeys, and a peculiar smell therein. Tracing it he found a beverage they'd concocted, which he then tried and enjoyed. Returning home he could think of nothing else and set about learning how to brew it, this itself giving rise to the first man-made alcohol.
+Desc_9
+With a clear color, rich aroma and a warming kick when savored, sorghum liquor is considered the drink of heroes. In the Martial World, it's a blessing to be able to find a truly good friend with whom to get drunk and merry on this fine drink.
+Desc_10
+Xifeng liquor is clear and colorless, its flavor smooth yet strong, with a kick yet still going down a treat with a pleasant aftertaste. Loved by those who like their drinks strong, the poet Su Shi once praised it with his prose: "When flowers bloom how can one resist but to drink and be merry, throughout the southern mountains and dells."
+Desc_11
+It's said that Su Shi, aka Su Dongpo, was forced to live frugally after being demoted, rarely being able to drink. Hence his friend Yang Shichang gave him a secret brewing recipe: Dongpo Honey Liquor. Overjoyed with his friendship and the wine's flavor, he wrote, "Such is its aroma; within three days of opening, it permeates the city over!"
+Desc_12
+Myriad nations hurried to visit China as the Tang Dynasty flourished. Those outlanders staying in Chang'an would set up shop and sell fine wines; mellow palates with fragrant notes. Given their pleasing, exotic wares it's no wonder their business boomed.
+Desc_13
+Favored by many men of letters for its all-roundedness, whether in its color, aroma or flavor; hence its name. It has a clear and sweet yet not cloying taste, packing a punch without being too strong. A true classic.
+Desc_14
+A beverage said to have first been brewed by a recluse in the Song Dynasty. Made with mountain herbs it's light and soft, with a hint of green grasses. It's the gentleman of all alcoholic drinks.
+Desc_15
+Armeniaca liquor is much akin to a beautiful maiden of times past, delicate yet leaving a strong impression. Pure and true, it's been referred to as "the ancestor to all liquors" by many throughout history.
+Desc_16
+Lanling liquor's known for its tulip aroma, filling one's cup like a ray of amber light. Apart from its lustrous appearance and floral fragrance, it's renowned for its medicinal applications. An exceptional, and certainly not everyday, liquor.
+Desc_17
+In this life, many sorrows must be endured. But how? With Dukang!. A famous liquor with a persisting taste and an aroma that seeps into the skies above, it's loved by all and often called the "liquor of the immortals."
+Desc_18
+Pu'er Tea is deep, rich red and has a heavy aroma, unique in its mellow flavor and slightly sweet aftertaste. Good for digestion and maintaining good health.
+Desc_19
+Invented by a Hubei province tea grower in the Song Dynasty, it has a strong and lasting fragrance, a yellow yet resplendent color and an original flavor. A masterful tea.
+Desc_20
+Grown on rocky peaks, it carries the scent of the flowers that grow around it and a vermilion coloring. Famous amongst teas for its peculiar scent, taste and color.
+Desc_21
+Silverneedle tea leaves float up and down the cup once just-boiled water is added. It's a pleasing sight once they finally come to rest upon the bottom, with military men likening it to rows of spears; scholars as bamboo shoots in spring; and artists considering it as beautiful as chrysanthemum in full bloom.
+Desc_22
+Keemun Black Tea combines together floral spring fragrances for a tea that has a lasting aftertaste and a wondrous aroma. Considered by many as the most beautiful of the teas.
+Desc_23
+Named for its shape when packed and stored, it's as smooth as the moon's surface on a brisk autumn eve, as aromatic as a thousand orchids. It presents a subtle, understated taste and is known as the "Chan of teas."
+Desc_24
+Its tea leaves are long and green like an orchid's, yet curled up when dry like little bamboo shoots. With the former's aroma, it gives a mellow, sweet taste. It's often said of this tea that it's "verdantly colored and intoxicatingly fragrant, a true joy to sip at one's leisure."
+Desc_25
+Has a clear and lasting aftertaste with orchid notes. It's perhaps the best of all rock teas, even referred to as the "king of teas."
+Desc_26
+Handed down the generations as one of the seven Mengshan area teas. Once first planted by the Chan Master Gan Luhui, it supposedly neither grew further nor withered for a thousand years. Its flavor is pure and sweet, with a yellowish-green coloring, and giving off a steam that hovers like a mountain immortal.
+Desc_27
+Grown by Mt. Emei, this bamboo-green tea draws upon the mountain's spiritual Qi for a fine brew that gives one a Chan-like drinking experience. It's truly a blessing to relish whilst sitting among the pines, savoring the mountain breeze.
+Desc_28
+A luxuriantly green tea with hints of yellow that has a fresh yet substantial palate and sweet aftertastes. Grants clarity of mind with each sip: not your average tea.
+Desc_29
+This has become something of its own class of tea, being made from only the leaf (no buds or stems). Strong and fragrant yet neither bitter nor overpowering, it's a fine tea indeed.
+Desc_30
+A treasured and highly valued tea that grows in high, mountainous and misty locales. Named as such for its slender, pointed leaves. Referred to as the "Finest of all the teas in Huainan" by the poet Su Shi.
+Desc_31
+Gives off a misty haze when hot water is added, like those over Mt. Lu following heavy rains. With a pot of this tea, or a day spent on Mt. Lu, you'll soon come to realize the wonder and elegance held by each.
+Desc_32
+A tea with a green yet silvery coloring that gives off rolling steam and a strong aroma when steeped; hence its common name, "Stifling Fragrance." Has a mouth-watering flavor and lengthy aftertaste, a contender in smell, appearance and taste too.
+Desc_33
+A special blend from the West Lake in Jiangnan. Only those bathed for millennia in the mists that hang in the air around those lands can embody its essence. Its color alone is striking; hence it's no wonder Su Shi praised the area, writing "Below the peaks, clouds sway to and fro, beneath them sparkling valleys of green."
+Desc_34
+Channeling the spirit of the mountains and valleys of Mt. Fang it's grown upon, this tea cleanses one's body throughout and has long been of much value to tea drinkers throughout history.
+Desc_35
+It's said that esteemed tea master Wu Lizhen from Shu "carried these seeds to that of the five peaks, Mt. Mengding, and planted them upon its slopes." Considered amongst the greatest of all teas, its aroma and mellow taste live up to the lofty reputation it holds.
+FunctionDesc_0
+
+FunctionDesc_1
+
+FunctionDesc_2
+
+FunctionDesc_3
+
+FunctionDesc_4
+
+FunctionDesc_5
+
+FunctionDesc_6
+
+FunctionDesc_7
+
+FunctionDesc_8
+
+FunctionDesc_9
+
+FunctionDesc_10
+
+FunctionDesc_11
+
+FunctionDesc_12
+
+FunctionDesc_13
+
+FunctionDesc_14
+
+FunctionDesc_15
+
+FunctionDesc_16
+
+FunctionDesc_17
+
+FunctionDesc_18
+
+FunctionDesc_19
+
+FunctionDesc_20
+
+FunctionDesc_21
+
+FunctionDesc_22
+
+FunctionDesc_23
+
+FunctionDesc_24
+
+FunctionDesc_25
+
+FunctionDesc_26
+
+FunctionDesc_27
+
+FunctionDesc_28
+
+FunctionDesc_29
+
+FunctionDesc_30
+
+FunctionDesc_31
+
+FunctionDesc_32
+
+FunctionDesc_33
+
+FunctionDesc_34
+
+FunctionDesc_35
+

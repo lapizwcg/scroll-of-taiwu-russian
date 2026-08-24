@@ -1,0 +1,97 @@
+DisplayDesc_0
+Розово-лиловый
+DisplayDesc_1
+Розово-лиловый
+DisplayDesc_2
+Песчано-рыжий
+DisplayDesc_3
+Песчано-рыжий
+DisplayDesc_4
+Смоляной
+DisplayDesc_5
+Смоляной
+DisplayDesc_6
+Вишнёвый
+DisplayDesc_7
+Вишнёвый
+DisplayDesc_8
+Рыжевато-бурый
+DisplayDesc_9
+Рыжевато-бурый
+DisplayDesc_10
+Каштановый
+DisplayDesc_11
+Каштановый
+DisplayDesc_12
+Слоновая кость
+DisplayDesc_13
+Олений рог
+DisplayDesc_14
+Каштановый тёмный
+DisplayDesc_15
+Каштановый тёмный
+DisplayDesc_16
+Янтарно-чёрный
+DisplayDesc_17
+Янтарно-чёрный
+DisplayDesc_18
+Аквамариновый
+DisplayDesc_19
+Аквамариновый
+DisplayDesc_20
+Кипарисовый
+DisplayDesc_21
+Кипарисовый
+DisplayDesc_22
+Яшмовый
+DisplayDesc_23
+Яшмовый
+DisplayDesc_24
+Лазурный
+DisplayDesc_25
+Лазурный
+DisplayDesc_26
+Вороново крыло
+DisplayDesc_27
+Вороново крыло
+DisplayDesc_28
+Морская зелень
+DisplayDesc_29
+Морская зелень
+DisplayDesc_30
+Лунный
+DisplayDesc_31
+Лунный
+DisplayDesc_32
+Тёмно-синий
+DisplayDesc_33
+Тёмно-синий
+DisplayDesc_34
+Индиго
+DisplayDesc_35
+Индиго
+DisplayDesc_36
+Лавандовый
+DisplayDesc_37
+Лавандовый
+DisplayDesc_38
+Тёмный
+DisplayDesc_39
+Тёмный
+DisplayDesc_40
+Ореховый
+DisplayDesc_41
+Ореховый
+DisplayDesc_42
+Белый
+DisplayDesc_43
+Седой
+DisplayDesc_44
+Седой
+DisplayDesc_45
+Седой
+DisplayDesc_46
+Чёрный
+DisplayDesc_47
+Чёрный
+

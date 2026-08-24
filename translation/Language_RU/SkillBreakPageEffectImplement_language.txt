@@ -1,0 +1,5 @@
+EffectDesc_22_0
+While the Protection is active and the user has no Wound Marker, direct DMG taken is reduced by <color=#brightblue>{0}%</color>.
+EffectDesc_25_0
+While the Protection is active and the user has a Wound Marker, direct DMG taken is reduced by <color=#brightblue>{0}%</color>.
+

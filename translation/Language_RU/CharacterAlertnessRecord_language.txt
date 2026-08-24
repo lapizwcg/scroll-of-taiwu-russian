@@ -1,0 +1,237 @@
+Name_0
+Character Mindset
+Name_1
+Rank
+Name_2
+Поддержка секты
+Name_3
+Taiwu's Reputation
+Name_56
+Different Reputation
+Name_57
+Different Mindset
+Name_4
+Give Gift
+Name_5
+Regift companion resource
+Name_6
+Regift companion item
+Name_7
+Share Insight
+Name_8
+Compliment
+Name_9
+Compliment
+Name_10
+Compliment
+Name_11
+Compliment
+Name_12
+Compliment
+Name_13
+Criticize
+Name_14
+Criticize
+Name_15
+Criticize
+Name_16
+Criticize
+Name_17
+Criticize
+Name_18
+Mediate Relationship
+Name_19
+Wine Duel
+Name_20
+Martial Bond
+Name_21
+Lively Conversation
+Name_22
+Evil Repelling Ritual
+Name_23
+Endorsement
+Name_24
+Promotion Advocate
+Name_25
+Taker's Feast
+Name_26
+Fellow Neighbors
+Name_27
+Peaceful Living
+Name_28
+Medical Consultation
+Name_29
+Traveling Doctor
+Name_30
+Golden needle deliverance
+Name_31
+Tea Tasting
+Name_32
+Innate Genius
+Name_33
+Add Bestowing Nobility
+Name_34
+Martial World Wanderer
+Name_35
+Withdrawal from the Fray
+Name_36
+Remove Bestowing Nobility
+Name_37
+Take companion resource
+Name_38
+Take companion item
+Name_39
+Присвоение ремесла
+Name_40
+Plagiarize Martial Art
+Name_41
+Ремесло выманено обманом
+Name_42
+Martial Art Swindle
+Name_43
+Вещи выманены обманом
+Name_44
+Ресурсы выманены обманом
+Name_45
+Insight Swindle
+Name_46
+Secret Swindle
+Name_47
+Кража вещей
+Name_48
+Кража ресурсов
+Name_49
+Snatch Item
+Name_50
+Snatch resources
+Name_51
+Poison
+Name_52
+Тайный вред
+Name_53
+Attack
+Name_54
+Punish captive
+Name_55
+Forcible Rescue
+Name_58
+Base Initial Wariness
+Desc_0
+Mindsets of Both Sides {0}
+Desc_1
+Rank {0}
+Desc_2
+Sect Support {0}
+Desc_3
+Taiwu's Reputation {0}
+Desc_56
+Due to different Reputation, affected by the 'Different Beats' modifier, Wariness {0}
+Desc_57
+Due to different Mindset, affected by the 'Different Beats' modifier, Wariness {0}
+Desc_4
+Give Gift {0} {1}
+Desc_5
+Gift Resources {0} {1} {2}
+Desc_6
+Give Gift {0} {1} {2}
+Desc_7
+Share Insight {0} {1}
+Desc_8
+Compliment Disposition {0}
+Desc_9
+Compliment Charm {0}
+Desc_10
+Compliment Reputation {0}
+Desc_11
+Compliment Trait {0}
+Desc_12
+Compliment Wealth {0}
+Desc_13
+Criticize Dispositions {0}
+Desc_14
+Criticize Charm {0}
+Desc_15
+Criticize Reputation {0}
+Desc_16
+Criticize Trait {0}
+Desc_17
+Criticize Wealth {0}
+Desc_18
+Mediate Relationship {0} {1}
+Desc_19
+Wine Duel {0}
+Desc_20
+Martial Bond {0}
+Desc_21
+Lively Conversation {0} {1}
+Desc_22
+Evil Repelling Ritual {0}
+Desc_23
+Endorsement {0}
+Desc_24
+Promotion Advocate {0}
+Desc_25
+Taker's Feast {0} {1}
+Desc_26
+Fellow Neighbors {0}
+Desc_27
+Peaceful Living {0}
+Desc_28
+Medical Consultation {0}
+Desc_29
+Traveling Doctor {0}
+Desc_30
+Golden Needle Deliverance {0}
+Desc_31
+Tea Tasting {0}
+Desc_32
+Innate Genius {0}
+Desc_33
+Bestowing Nobility {0}
+Desc_34
+Martial World Wanderer {0}
+Desc_35
+Withdrawal from the Martial World {0}
+Desc_36
+Bestowing Nobility {0}
+Desc_37
+Take Resources {0} {1} {2}
+Desc_38
+Take Item {0} {1}
+Desc_39
+Plagiarism Failed {0} {1}
+Desc_40
+Plagiarism Failed {0} {1}
+Desc_41
+Failed to swindle {0} {1}
+Desc_42
+Failed to swindle {0} {1}
+Desc_43
+Failed to swindle {0} {1}
+Desc_44
+Failed to swindle {0} {1} {2}
+Desc_45
+Failed to swindle {0} {1}
+Desc_46
+Failed to swindle {0} {1}
+Desc_47
+Failed to steal {0} {1}
+Desc_48
+Failed to steal {0} {1} {2}
+Desc_49
+Snatch {0}{1}
+Desc_50
+Snatch {0} {1} {2}
+Desc_51
+Poison {0}
+Desc_52
+Covertly harm {0}
+Desc_53
+Directly Attack {0}
+Desc_54
+Punish captive {0}
+Desc_55
+Forcible Rescue {0}
+Desc_58
+Base Initial Wariness{0}
+

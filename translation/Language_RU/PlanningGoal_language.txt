@@ -1,0 +1,547 @@
+Name_0
+Compassionate Ferry of Salvation
+Name_1
+Boundless Sea of Suffering
+Name_2
+Honor the Virtuous, Promote Goodness
+Name_3
+Punish Evil, Eradicate Corruption
+Name_4
+Compassionate Healer?
+Name_5
+Renowned Hero
+Name_6
+Defend Tao, Uphold Righteousness
+Name_7
+Exorcise Demons, Expel Evil Spirits
+Name_8
+Realm-Overawing
+Name_9
+Traveling Scholar
+Name_10
+Where Emotions Arise
+Name_11
+Where the Heart Is Severed
+Name_12
+Ingenious Craft
+Name_13
+Мастер снадобий и ядов
+Name_14
+Serve the Lord
+Name_15
+Path of Treachery
+Name_16
+Absolute Command
+Name_17
+True Dragon's Offering
+Name_18
+Do Not Approach
+Name_19
+Former Capital's Customs
+Name_20
+Leisurely Grace
+Name_21
+Primal Innocence
+Name_22
+Imperial Defense
+Name_23
+Plain and Sturdy
+Name_24
+Mercantile Honor
+Name_25
+Scholarly Heritage
+Name_26
+Bustling Hub
+Name_27
+Peak of Erudition
+Name_28
+Valorous and Warlike
+Name_29
+Western Regions Frontier
+Name_30
+Sacred Land of Incense
+Name_31
+Resilient Spirit
+Name_32
+Romantic Elegance
+Name_33
+Cold Moon, Late Spring
+Name_34
+Наставление в боевых искусствах
+Name_35
+Study martial arts
+Name_36
+Прорыв боевого искусства
+Name_37
+Наставление в ремесле
+Name_38
+Изучение ремёсел
+Name_39
+Inquire About Martial Arts
+Name_40
+Seek Fine Arts guidance
+Name_41
+Secluded Meditation
+Name_42
+Cultivating Zen and Martial Arts
+Name_43
+Admonish Disciple
+Name_44
+Translate Buddhist Sutra
+Name_45
+Sweep the floor and fetch water
+Name_46
+Practicing at Pagoda Forest
+Name_47
+Recite prayers and venerate the Buddha
+Name_48
+Preach at Jinding
+Name_49
+Seek enlightenment at Loong Pool
+Name_50
+Uphold Justice
+Name_51
+Righteous Blade
+Name_52
+Gathering firewood and planting crops
+Name_53
+Cleaning the Buddhist Temple
+Name_54
+Aid the common folk
+Name_55
+Study terminal diseases
+Name_56
+Teach Medicine and Arts
+Name_57
+Clear Death Aura
+Name_58
+Treat Illnesses
+Name_59
+Looking after White Deer
+Name_60
+Собирать травы
+Name_61
+Secluded Enlightenment
+Name_62
+Ascetic Grainfasting
+Name_63
+Administer rituals
+Name_64
+Guide followers
+Name_65
+Cleaning the Taoist Temple
+Name_66
+Cure the Bewitched
+Name_67
+Suppress demonic qi
+Name_68
+Demon Subduing Drill
+Name_69
+Guard Stone Cell
+Name_70
+Entering the Mountains for Arduous Cultivation
+Name_71
+Secluded Cultivation of Vows
+Name_72
+Gathering at Training Ground
+Name_73
+Three Halls Drill
+Name_74
+Wild Lion Contest
+Name_75
+Train Militia
+Name_76
+Utmost Righteousness
+Name_77
+Splendid Lion Contest
+Name_78
+Slumbering Lion Contest
+Name_79
+Contend for territory
+Name_80
+Visit the Market
+Name_81
+Pray for divine blessings.
+Name_82
+Cloud Dream Ritual
+Name_83
+Study Secret Collection
+Name_84
+Cultivate Qi to prolong life
+Name_85
+Indulge in revelry
+Name_86
+Commune with Heaven and Earth
+Name_87
+Sectmate Sparring
+Name_88
+Sectmate Debate
+Name_89
+Lone Summit Enlightenment
+Name_90
+Invite Talents
+Name_91
+Study Egarim
+Name_92
+Tune the Guqin
+Name_93
+Cleaning the Emerald Stairs
+Name_94
+Refining Demeanor
+Name_95
+Twin Meditation
+Name_96
+Open the Smithy to Test Sword
+Name_97
+Train Artisans
+Name_98
+Forge Masterpiece
+Name_99
+Стремление к совершенству
+Name_100
+Gather firewood and start a fire
+Name_101
+Sift Materials
+Name_102
+Equipment Maintenance
+Name_103
+Restore Antiques
+Name_104
+Absorb Blackstone Ash
+Name_105
+Treat Disciple's Aliment
+Name_106
+Seek a Subject for Medicine Testing
+Name_107
+Seek a Subject for Poison Testing
+Name_108
+Examine Medicine Recipe
+Name_109
+Test Poison Recipe
+Name_110
+Select Herbs
+Name_111
+Select Poison
+Name_112
+Brew medicinal soup
+Name_113
+Grand Ritual
+Name_114
+Preach the Sutras and Confer Enlightenment
+Name_115
+Miracle Trial
+Name_116
+Patrol the Area
+Name_117
+Collect Tribute
+Name_118
+Quell Resistance
+Name_119
+Cleaning the temple
+Name_120
+Вывести главного гу
+Name_121
+Holy River Bathing
+Name_122
+Guide the Divine Maiden
+Name_123
+Guide Miao people
+Name_124
+Worship Deities
+Name_125
+Offer tribute to Gu Immortal
+Name_126
+Gather Poisons
+Name_127
+Issue Assassination Order
+Name_128
+Verification
+Name_129
+Resolve Conflict
+Name_130
+Execute mission
+Name_131
+Gather Intelligence
+Name_132
+Guide the client
+Name_133
+Erase traces
+Name_134
+Volcano Practice
+Name_135
+Administer the loong ritual
+Name_136
+Refine: Refine loong's qi
+Name_137
+Lead the ranks in training
+Name_138
+Tallying the pirate loot
+Name_139
+Prepare a meal
+Name_140
+Train in the Blood Pool
+Name_141
+Midnight Market Master Blood Sacrifice
+Name_142
+Secret Infusion
+Name_143
+Test the Congregants
+Name_144
+Imprison Captive for Sacrifice
+Name_145
+Serve the Cult Head
+Name_146
+City Lord's Council Meeting
+Name_147
+Sect Council Meeting
+Name_148
+Guild Council Meeting
+Name_149
+Meet the City Lord
+Name_150
+Meet the Sect
+Name_151
+Oversee City Affairs
+Name_152
+Oversee Town Affairs
+Name_153
+Oversee Stockaded Village Affairs
+Name_154
+Oversee Village Affairs
+Name_155
+Befriend nobles
+Name_156
+Hosting Banquet
+Name_157
+Invest a Guild
+Name_158
+Give a lecture
+Name_159
+Promotional Selling
+Name_160
+Offer a tribute to the Guild
+Name_161
+Tend to own ailments
+Name_162
+Fixing Item
+Name_163
+Grooming
+Name_164
+Street Fight
+Name_165
+Begging for Silver
+Name_166
+Gather Secrets
+Name_167
+Till the soil
+Name_168
+Respond to Evil's Call
+Name_169
+Hate the Good, Envy Virtue
+Name_170
+Guided by Sin
+Name_171
+Chaotic Thoughts, Soul Harvesting
+Name_172
+Unrestrained Wickedness
+Name_173
+Heart Falls into Nine Abysses
+Name_174
+Strange Forms of All Beings
+Name_175
+Yama Burns Bones
+Name_176
+Mystic Corpse Seizes Soul
+Name_177
+Ночь близости
+Name_178
+Assist the Benevolent
+Name_179
+Punish the Treacherous
+Name_180
+Praise the Benevolent
+Name_181
+Curse the Treacherous
+Name_182
+Assist Others
+Name_183
+Punish Others
+Name_184
+Praise Others
+Name_185
+Curse Others
+Name_186
+Aid the Treacherous
+Name_187
+Punish the Benevolent
+Name_188
+Praise the Treacherous
+Name_189
+Curse the Benevolent
+Name_190
+Parent Interaction
+Name_191
+Sibling Interaction
+Name_192
+Friend Interaction
+Name_193
+Sworn Brotherhood Interaction
+Name_194
+Affection Interaction
+Name_195
+Spouse Interaction
+Name_196
+Child Interaction
+Name_197
+Master-Disciple Interaction
+Name_198
+Faction Interaction
+Name_199
+Foe Interaction
+Name_200
+Забава музыкой
+Name_201
+Забава вэйци
+Name_202
+Забава словесностью
+Name_203
+Забава живописью
+Name_204
+Collect Tea or Liquor
+Name_205
+Divination & Prediction
+Name_206
+Craft Medicine
+Name_207
+Craft Poison
+Name_208
+Отравить предмет
+Name_209
+Refine Metal
+Name_210
+Refine Wood
+Name_211
+Refine Fabric
+Name_212
+Refine Jade
+Name_213
+Select foodstuff
+Name_214
+Perform Smithing
+Name_215
+Perform Carpentry
+Name_216
+Perform Weaving
+Name_217
+Perform Jewelcrafting
+Name_218
+Food Cooked
+Name_219
+Secluded Meditation
+Name_220
+Даосское прозрение
+Name_221
+Zen Meditation
+Name_222
+Буддийское прозрение
+Name_223
+Бои сверчков
+Name_224
+Wander the Marketplace
+Name_225
+Extend Lifespan
+Name_226
+Remove Blackstone Ash
+Name_227
+Maintain Health
+Name_228
+Heal Injuries
+Name_229
+Вывести яд
+Name_230
+Eliminate Chaos
+Name_231
+Expel Gu
+Name_232
+Поправить настроение
+Name_233
+Восстановить ци
+Name_234
+Attribute Restored
+Name_235
+Получить опыт
+Name_236
+Получить ресурсы
+Name_237
+Потратить ресурсы
+Name_238
+Obtain Item
+Name_239
+Spend Items
+Name_240
+Починка предмета
+Name_241
+Отравить предмет
+Name_242
+Изучить боевое искусство
+Name_243
+Изучить ремесло
+Name_244
+Просить наставления в учении
+Name_245
+Просить наставления в прорыве
+Name_246
+[Мастерство в боевых искусствах]
+Name_247
+[Мастерство в ремёслах]
+Name_248
+Increase Carry Weight
+Name_249
+Завязать отношения
+Name_250
+Sever Relationships
+Name_251
+Завязать отношения
+Name_252
+Sever Relationships
+Name_272
+Ночь близости
+Name_253
+A Familiar Face
+Name_254
+Attend an Invitation
+Name_255
+Guard the Public Treasury
+Name_256
+Capture Fugitives
+Name_257
+Flee Justice
+Name_258
+Seeking Shelter
+Name_259
+Escorting Prisoners
+Name_260
+Занятия жителей
+Name_261
+Ученичество
+Name_262
+Защита близких
+Name_263
+Rescue Friends and Family
+Name_264
+Почтить память усопшего
+Name_265
+Искать сокровище
+Name_266
+Дар природы
+Name_267
+Secret Tome Contention
+Name_268
+Child Adopted
+Name_269
+Heal Deathly Qi
+Name_270
+Eliminate Enemies
+Name_271
+Hunt Down Taiwu
+

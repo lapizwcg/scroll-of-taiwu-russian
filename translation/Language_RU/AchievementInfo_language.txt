@@ -1,0 +1,1189 @@
+Name_0
+Authentic Boar
+Name_1
+Fresh Out
+Name_2
+A Dream of the Haven
+Name_3
+Return of Taiwu
+Name_4
+Legacy Rekindled
+Name_5
+Roads Reopened
+Name_6
+Вернувшийся клинок
+Name_7
+Печать духа
+Name_8
+Удар ледяного сердца
+Name_9
+Величавый фэнхуан
+Name_10
+Красота, губящая царства
+Name_11
+Отродье луна
+Name_12
+Jade Transmutation
+Name_13
+Octo-Limbed Fiend
+Name_14
+Небесный мандат
+Name_15
+Nine Swords as One
+Name_16
+Immortal's Tomes
+Name_17
+Турнир вольного света
+Name_18
+Fiends Purged
+Name_19
+Иной край
+Name_20
+Return of the Dreaming Soul
+Name_21
+Might of Divine Flame
+Name_22
+Way of Unity
+Name_23
+Mystic True Demon
+Name_24
+Большая обезьяна
+Name_25
+Journey with A'niu
+Name_26
+Journey with Xiaomao
+Name_27
+Journey with Guo Yan
+Name_28
+Journey with Huanyue
+Name_29
+Serpent Subdued
+Name_30
+Nameless Sword Mounds
+Name_31
+Taiwu Village is destroyed.
+Name_32
+Banisher of Evil
+Name_33
+A Sword Returned
+Name_34
+Evil Banisher
+Name_35
+Bound by Convention
+Name_36
+In Search of the Sage
+Name_37
+Blazing Sorrow
+Name_38
+At All Costs
+Name_39
+Flawless Will
+Name_40
+Forged by Wars
+Name_41
+Hard to Balance
+Name_42
+Path of Chan Arts
+Name_43
+Path of Chan Arts - Epilogue
+Name_44
+Отшельник-белая обезьяна
+Name_45
+White Ape Hermit - Epilogue
+Name_46
+Dark Owl & White Deer
+Name_47
+Dark Owl & White Deer - Epilogue
+Name_48
+Coiled Shellsnake
+Name_49
+Coiled Shellsnake - Epilogue
+Name_50
+Трое заточённых демонов
+Name_51
+Three Imprisoned Demons - Epilogue
+Name_52
+Cultured Warrior
+Name_53
+Cultured Warrior - Epilogue
+Name_54
+Павильон Цинлан
+Name_55
+Qinglang Pavilion - Epilogue
+Name_56
+Reflections in Reverse
+Name_57
+Reflections in Reverse - Epilogue
+Name_58
+Smithing Training
+Name_59
+Smithing Training - Epilogue
+Name_60
+Peerless Poison
+Name_61
+Peerless Poison - Epilogue
+Name_62
+Wordless Sutra
+Name_63
+Wordless Sutra - Epilogue
+Name_64
+Погибель сердца сути
+Name_65
+Quintessence Heartbane - Epilogue
+Name_66
+По ту сторону добра и зла
+Name_67
+Beyond Good and Evil - Epilogue
+Name_68
+Fuloong Plumes
+Name_69
+Fuloong Plumes - Epilogue
+Name_70
+Красавица кровавой гробницы
+Name_71
+Blood Tomb Beauty - Epilogue
+Name_72
+New Scroll Unfolded
+Name_73
+Отзвуки былого
+Name_74
+Memories in the Hilt
+Name_75
+Fate Renewed
+Name_76
+Abyss Calamity
+Name_77
+Let It Be
+Name_78
+Enduring Blessings
+Name_79
+Lineage Continued
+Name_80
+A Worthy Successor
+Name_81
+Legacy of Mastery
+Name_82
+Ascension in One
+Name_83
+Tenfold Legacy
+Name_84
+Return to the Old Path
+Name_85
+Fuyu's Protection
+Name_86
+All Forms Are Suffering
+Name_87
+Nobody Escapes
+Name_88
+Wicked Beyond Measure
+Name_89
+Renowned Across the Land
+Name_90
+True to Yourself
+Name_91
+Against Nature
+Name_92
+Overjoyed
+Name_93
+Разорванные кишки
+Name_94
+Долголетие
+Name_95
+Родственные души
+Name_96
+Bound in Union
+Name_97
+New Life Begins
+Name_98
+Many Children
+Name_99
+An Unnatural Birth
+Name_100
+Побег на крыльях
+Name_101
+Oath of Siblinghood
+Name_102
+Drifting Through Life
+Name_103
+Bound by Fate
+Name_104
+Defying the Nature
+Name_105
+Center of Admiration
+Name_106
+Target of All
+Name_107
+Mission Accomplished
+Name_108
+Бесплодие
+Name_109
+Love and Hatred
+Name_110
+Master of Rumors
+Name_111
+И довольно с того
+Name_112
+Seasoned in Battle
+Name_113
+Master of Timing
+Name_114
+Fight to Death
+Name_115
+Words of Praise
+Name_116
+Words That Wound
+Name_117
+Многообразие
+Name_118
+Best to Run for Now
+Name_119
+Your Skill Surpasses Mine
+Name_120
+Bound Tight
+Name_121
+Fuyu's Salvation
+Name_122
+Истребление зла и защита правды
+Name_123
+A Second Chance
+Name_124
+Righteous Blade
+Name_125
+Defy Me and Perish
+Name_126
+Crouching Tiger, Hidden Dragon
+Name_127
+Elusive Movements
+Name_128
+Immovable Mountain
+Name_129
+Непредсказуемо
+Name_130
+United We Stand
+Name_131
+Trouble from Within
+Name_132
+Stand Your Ground
+Name_133
+Overwhelming
+Name_134
+Piercing Power
+Name_135
+Relentless Kicks
+Name_136
+Deadly Precision
+Name_137
+Swords Unbound
+Name_138
+Cleave the Waves
+Name_139
+Reach Prevails
+Name_140
+Exotic Techniques
+Name_141
+Be Like Water
+Name_142
+Unerring Shot
+Name_143
+Devastating Tones
+Name_144
+Unstoppable
+Name_145
+Botched Strikes
+Name_146
+Crippling Blows
+Name_147
+Unbroken Will
+Name_148
+Сильный яд
+Name_149
+A Colorful Heart
+Name_150
+Surging Qi
+Name_151
+Qi Collapse
+Name_152
+Relentless Pursuing
+Name_153
+A Chosen Path
+Name_154
+Path Fulfilled
+Name_155
+Hermit of the Mountains
+Name_156
+King of Beasts
+Name_157
+Ingenious Craft
+Name_158
+Commanding Presence
+Name_159
+Boundless Talent
+Name_160
+Путь в сиянии природы
+Name_161
+Piety Perfected
+Name_162
+Hero of the Cup
+Name_163
+Noble Lineage
+Name_164
+Wanderer of the World
+Name_165
+Content Commoner
+Name_166
+Journey Without End
+Name_167
+Clear Mind and True Nature
+Name_168
+Healing Hands
+Name_169
+Beyond Bounds
+Name_170
+Wealth Unbound
+Name_171
+Refined Elegance
+Name_172
+Grand Dream
+Name_173
+Master of All Paths
+Name_174
+Novice
+Name_175
+Specialization Mastered
+Name_176
+Master of Music
+Name_177
+Master of Weiqi
+Name_178
+Master of Literature
+Name_179
+Master of Painting
+Name_180
+Master of Astrology
+Name_181
+Master of Appreciation
+Name_182
+Master of Smithing
+Name_183
+Master of Carpentry
+Name_184
+Master of Medical Arts
+Name_185
+Master of Toxicology
+Name_186
+Master of Weaving
+Name_187
+Master of Jewelcrafting
+Name_188
+Master of Taoism
+Name_189
+Master of Buddhism
+Name_190
+Master of Culinary Arts
+Name_191
+Master of Unorthodox Arts
+Name_192
+Master of All Knowledge
+Name_193
+I Am the Better One
+Name_194
+Silver Tongue
+Name_195
+First Steps
+Name_196
+True Inheritance
+Name_197
+Shaolin Supreme Arts
+Name_198
+Emei Supreme Arts
+Name_199
+Valley of Flowers Supreme Arts
+Name_200
+Wudang Supreme Arts
+Name_201
+Yuanshan Supreme Arts
+Name_202
+Lion-Face Supreme Arts
+Name_203
+Ranshan Supreme Arts
+Name_204
+Jade-Maiden Supreme Arts
+Name_205
+Swordsmith Supreme Arts
+Name_206
+Kongsang Supreme Arts
+Name_207
+Vajra Supreme Arts
+Name_208
+Five Immortals Supreme Arts
+Name_209
+Veil Scar Supreme Arts
+Name_210
+Fuloong Supreme Arts
+Name_211
+Sanguine Supreme Arts
+Name_212
+Master of All Martial Arts
+Name_213
+Shaolin Alliance
+Name_214
+Emei Alliance
+Name_215
+Valley of Flowers Alliance
+Name_216
+Wudang Alliance
+Name_217
+Yuanshan Alliance
+Name_218
+Lion-Face Alliance
+Name_219
+Ranshan Alliance
+Name_220
+Jade-Maiden Alliance
+Name_221
+Swordsmiths Alliance
+Name_222
+Kongsang Alliance
+Name_223
+Vajra Alliance
+Name_224
+Five Immortals Alliance
+Name_225
+Veil Scar Alliance
+Name_226
+Fuloong Alliance
+Name_227
+Sanguine Alliance
+Name_228
+Total Annihilation
+Name_229
+Неизмеримая быстрота
+Name_230
+Железная твердыня
+Name_231
+Восемь чудесных меридианов
+Name_232
+Through the Bottleneck
+Name_233
+Отклонение чистоты
+Name_234
+Practice Makes Perfect
+Name_235
+Безмолвный разум
+Name_236
+Мимолётный цвет
+Name_237
+Тысяча способов
+Name_238
+Volatile Loong Depiction
+Name_239
+Око разума
+Name_240
+Беспечальные
+Name_241
+Дивное искусство теней
+Name_242
+Безымянное искусство меча
+Name_243
+Смертоносная мара
+Name_244
+Sky Divider
+Name_245
+Изначальное
+Name_246
+Novem-resembler
+Name_247
+Творец чудес
+Name_248
+Celestial Melodist
+Name_249
+Fourteen Secret Tomes
+Name_250
+Land of Abundance
+Name_251
+Яшма земных богатств
+Name_252
+A Thriving Population
+Name_253
+Roles Assigned
+Name_254
+Well Stocked
+Name_255
+Crows Across the Land
+Name_256
+A Feast Prepared
+Name_257
+Feast for All
+Name_258
+Cycle of Life
+Name_259
+Samsara of Six Paths
+Name_260
+Silk Road Revival
+Name_261
+Oxback Caravan Honoree
+Name_262
+Vault of Volumes Honoree
+Name_263
+Yangtze Merchant League Honoree
+Name_264
+Champion's Armaments Honoree
+Name_265
+Revival Apothecary Honoree
+Name_266
+Gongshu's Caravan Honoree
+Name_267
+Pavilion of Wonders Honoree
+Name_268
+Испытание горна
+Name_269
+Masterwork Craft
+Name_270
+Woven Splendor
+Name_271
+Priceless Jade
+Name_272
+Perfect Pill
+Name_273
+Смертельный яд
+Name_274
+Imperial Cuisine
+Name_275
+Routes Unlocked
+Name_276
+Paths Across the Land
+Name_277
+Логово злых нищих
+Name_278
+Стан воров
+Name_279
+Разбойничье логово
+Name_280
+Логово отступников
+Name_281
+Долина злодеев
+Name_282
+Обольстительная ловушка
+Name_283
+Братская могила
+Name_284
+Дом чудаков
+Name_285
+Мёртвая земля
+Name_286
+Поле смерти
+Name_287
+Обитель демонов
+Name_288
+На краю гибели
+Name_289
+Зал странствующих воинов
+Name_290
+Союз ревнителей правды
+Name_291
+Диковинные тайные владения
+Name_292
+Autumn Chirps
+Name_293
+Chicken Feed
+Name_294
+A Stunning Chirp
+Name_295
+Compendium of Champions
+Name_296
+Way of Crickets
+Desc_0
+Gain the "Boar" material once.
+Desc_1
+Уход из долины
+Desc_2
+Leaving the Secluded Village.
+Desc_3
+Arrive at Taiwu Village.
+Desc_4
+Rebuild the Taiwu Ancestral Temple.
+Desc_5
+Rebuild the Way Station of Taiwu Village.
+Desc_6
+Defeat Xiangshu Incarnation [Monu]
+Desc_7
+Defeat Xiangshu Incarnation [Dayue Yaochang]
+Desc_8
+Defeat Xiangshu Incarnation [Jiu Han]
+Desc_9
+Defeat Xiangshu Incarnation [Jin Huang'er]
+Desc_10
+Defeat Xiangshu Incarnation [Yi Yihou]
+Desc_11
+Defeat Xiangshu Incarnation [Wei Qi]
+Desc_12
+Defeat Xiangshu Incarnation [Yi Xiang]
+Desc_13
+Defeat Xiangshu Incarnation [Blood Maple]
+Desc_14
+Defeat Xiangshu Incarnation [Spellwright]
+Desc_15
+Obtain all Divine Sword Hilts.
+Desc_16
+Secret Tomes are scattered across the world.
+Desc_17
+Encounter the unexpected incident at the Martial World Tournament.
+Desc_18
+Defeat the Three Fiends.
+Desc_19
+Face Xiangshu in the Land of Blackstones.
+Desc_20
+Achieve the ending: Return of the Dreaming Soul.
+Desc_21
+Achieve the ending: Might of Divine Flame.
+Desc_22
+Achieve the ending: Way of Unity
+Desc_23
+Achieve the ending: Mystic True Demon
+Desc_24
+Subdue the Great Monkey in the valley.
+Desc_25
+Invite A'niu as your companion.
+Desc_26
+Invite Xu Xiaomao as your companion.
+Desc_27
+Invite Guo Yan as your companion.
+Desc_28
+Invite Situ Huanyue as your companion.
+Desc_29
+Capture the Python in "Hidden Mountain River."
+Desc_30
+The Sword Mounds appear near Taiwu Village.
+Desc_31
+Taiwu Village is destroyed.
+Desc_32
+Defeat 9 Moundbreakers.
+Desc_33
+Witness the story of Monu.
+Desc_34
+Witness the story of Dayue Yaochang.
+Desc_35
+Witness the story of Jiu Han.
+Desc_36
+Witness the story of Jin Huang'er.
+Desc_37
+Witness the story of Yi Yihou.
+Desc_38
+Witness the story of Wei Qi.
+Desc_39
+Witness the story of Yi Xiang.
+Desc_40
+Witness the story of The Blood Maple.
+Desc_41
+Witness the story of Spellwright.
+Desc_42
+Complete the Regional Story: Path of Chan Arts.
+Desc_43
+Complete the Epilogue of the Regional Story: Path of Chan Arts.
+Desc_44
+Complete the Regional Story: White Ape Hermit.
+Desc_45
+Complete the Epilogue of the Regional Story: White Ape Hermit
+Desc_46
+Complete the Regional Story: Dark Owl & White Deer.
+Desc_47
+Complete the Epilogue of the Regional Story: Dark Owl & White Deer
+Desc_48
+Complete the Regional Story: Coiled Shellsnake.
+Desc_49
+Complete the Epilogue of the Regional Story: Coiled Shellsnake
+Desc_50
+Complete the Regional Story: Three Imprisoned Demons
+Desc_51
+Complete the Epilogue of the Regional Story: Three Imprisoned Demons
+Desc_52
+Complete the Regional Story: Cultured Warrior.
+Desc_53
+Complete the Epilogue of the Regional Story: Cultured Warrior
+Desc_54
+Complete the Regional Story: Qinglang Pavilion.
+Desc_55
+Complete the Epilogue of the Regional Story: Qinglang Pavilion
+Desc_56
+Complete the Regional Story: Reflections in Reverse.
+Desc_57
+Complete the Epilogue of the Regional Story: Reflections in Reverse
+Desc_58
+Complete the Regional Story: Smithing Training.
+Desc_59
+Complete the Epilogue of the Regional Story: Smithing Training
+Desc_60
+Complete the Regional Story: Peerless Poison.
+Desc_61
+Complete the Epilogue of the Regional Story: Peerless Poison
+Desc_62
+Complete the Regional Story: Wordless Sutra.
+Desc_63
+Complete the Epilogue of the Regional Story: Wordless Sutra
+Desc_64
+Complete the Regional Story: Quintessence Heartbane.
+Desc_65
+Complete the Epilogue of the Regional Story: Quintessence Heartbane
+Desc_66
+Complete the Regional Story: Beyond Good and Evil.
+Desc_67
+Complete the Epilogue of the Regional Story: Beyond Good and Evil
+Desc_68
+Complete the Regional Story: Fuloong Plumes.
+Desc_69
+Complete the Epilogue of the Regional Story: Fuloong Plumes
+Desc_70
+Complete the Regional Story: Blood Tomb Beauty.
+Desc_71
+Complete the Epilogue of the Regional Story: Blood Tomb Beauty
+Desc_72
+Start your journey as Taiwu.
+Desc_73
+Complete all tutorial volumes.
+Desc_74
+Imprint a character onto the Fuyu Hilt.
+Desc_75
+Have an imprinted character take part in evolution.
+Desc_76
+Enable Abyss Mode
+Desc_77
+Choose no Legacy during Taiwu Inheritance.
+Desc_78
+Spend 10000 Legacy Points in a single Taiwu Inheritance.
+Desc_79
+Designate a kinsman as the successor.
+Desc_80
+Pass the Fuyu Hilt to a stranger.
+Desc_81
+Designate a companion as the successor.
+Desc_82
+Clear all Sword Mounds without performing Taiwu Inheritance.
+Desc_83
+Perform Taiwu Inheritance 9 times in a single playthrough.
+Desc_84
+Designate a former Taiwu as the successor.
+Desc_85
+Use Fuyu's Will to delay the Blackstone Ash Erosion for someone.
+Desc_86
+Enter the "Xiangshu Mania" state.
+Desc_87
+Enter the "Possessed by Xiangshu" state.
+Desc_88
+Reach the "Villainous" reputation.
+Desc_89
+Reach the "Celebrated" reputation.
+Desc_90
+Perform actions that align with your Mindset.
+Desc_91
+Perform actions that conflict with your Mindset.
+Desc_92
+Reach the "Euphoric" mood.
+Desc_93
+Reach the "Miserable" mood.
+Desc_94
+Reach the age of 200.
+Desc_95
+Invite someone as your companion.
+Desc_96
+Marry another character.
+Desc_97
+Have a child with another character.
+Desc_98
+Have multiple children in a single birth.
+Desc_99
+Give birth to a cricket.
+Desc_100
+Fall in love with a sect member, violating sect rules.
+Desc_101
+Become sworn siblings with another character.
+Desc_102
+Adopt or be adopted as family.
+Desc_103
+Marry the reincarnation of a former spouse.
+Desc_104
+Be reincarnated as your own descendant.
+Desc_105
+Have love relationships from 9 characters at the same time.
+Desc_106
+Have vindictive relationships from 9 characters at the same time.
+Desc_107
+Commission the Veil Scar Sect to assassinate its leader, the Shadow Ruler.
+Desc_108
+Receive a failed "Grooming."
+Desc_109
+Have both "Love" and "Vindictive" relationships with the same character.
+Desc_110
+Obtain a total of 99 Secrets.
+Desc_111
+Win 99 sparring matches in actual combat.
+Desc_112
+Win 99 brawl battles in actual combat.
+Desc_113
+Win 99 timed battles in actual combat.
+Desc_114
+Win 99 duels in actual combat.
+Desc_115
+Successfully perform "Compliment" 99 times.
+Desc_116
+Successfully perform "Criticize" 99 times.
+Desc_117
+Win in actual combat while the enemy has 6 or more different Defeat Markers.
+Desc_118
+Successfully flee from actual combat.
+Desc_119
+Concede in actual combat.
+Desc_120
+Capture an enemy in real combat.
+Desc_121
+Cure the Bewitched
+Desc_122
+Defeat 99 Xiangshu underlings in actual combat.
+Desc_123
+Cure 99 bewitched individuals in actual combat.
+Desc_124
+Defeat 99 outlaws in actual combat.
+Desc_125
+Defeat 99 vigilantes in actual combat.
+Desc_126
+Defeat 99 animals in actual combat.
+Desc_127
+Cause enemy Annihilation attacks to miss 9 times in actual combat.
+Desc_128
+Mitigate enemy Annihilation attacks with Protection martial arts 9 times in actual combat.
+Desc_129
+Perform 9 pinpoint strikes in actual combat.
+Desc_130
+Refresh support commands 9 times in actual combat.
+Desc_131
+Trigger negative commands from companions 9 times in actual combat.
+Desc_132
+Win 9 battles while suppressed in Pure Essence level in actual combat.
+Desc_133
+Cast Fist Arts 99 times in actual combat.
+Desc_134
+Cast Finger Arts 99 times in actual combat.
+Desc_135
+Cast Kicking Arts 99 times in actual combat.
+Desc_136
+Cast Concealed Weapon Arts 99 times in actual combat.
+Desc_137
+Cast Sword Arts 99 times in actual combat.
+Desc_138
+Cast Blade Arts 99 times in actual combat.
+Desc_139
+Cast Polearm Arts 99 times in actual combat.
+Desc_140
+Cast Exotic Weapon Arts 99 times in actual combat.
+Desc_141
+Cast Whip Arts 99 times in actual combat.
+Desc_142
+Cast Ranged Weapon Arts 99 times in actual combat.
+Desc_143
+Cast Instrument Arts 99 times in actual combat.
+Desc_144
+Land Annihilation attacks at 100% power 9 times in actual combat.
+Desc_145
+Miss Annihilation attacks at 0% power 9 times in actual combat.
+Desc_146
+Maim an enemy's body part in actual combat.
+Desc_147
+Have one of your own body parts maimed in actual combat.
+Desc_148
+Trigger mixed toxin effects on enemies 9 times in actual combat.
+Desc_149
+Be afflicted with 6 types of toxin at the same time in actual combat.
+Desc_150
+Reach the "Surging" True Qi state in actual combat.
+Desc_151
+Reach the "Dissipation" True Qi state in actual combat.
+Desc_152
+Inflict 99 stacks of Wound in actual combat.
+Desc_153
+Unlock an Aspiration skill.
+Desc_154
+Unlock all skills of an Aspiration.
+Desc_155
+Unlock all skills of the "Mountain Dweller" Aspiration.
+Desc_156
+Unlock all skills of the "Hunter" Aspiration.
+Desc_157
+Unlock all skills of the "Artisan" Aspiration.
+Desc_158
+Unlock all skills of the "Martial Artist" Aspiration.
+Desc_159
+Unlock all skills of the "Scholar" Aspiration.
+Desc_160
+Unlock all skills of the "Taoist" Aspiration.
+Desc_161
+Unlock all skills of the "Eminent Monk" Aspiration.
+Desc_162
+Unlock all skills of the "Gallant" Aspiration.
+Desc_163
+Unlock all skills of the "Highborn" Aspiration.
+Desc_164
+Unlock all skills of the "Beggar" Aspiration.
+Desc_165
+Unlock all skills of the "Commoner" Aspiration.
+Desc_166
+Unlock all skills of the "Traveler" Aspiration.
+Desc_167
+Unlock all skills of the "Wandering Monk" Aspiration.
+Desc_168
+Unlock all skills of the "Doctor" Aspiration.
+Desc_169
+Unlock all skills of the "Wandering Taoist" Aspiration.
+Desc_170
+Unlock all skills of the "Magnate" Aspiration.
+Desc_171
+Unlock all skills of the "Noble" Aspiration.
+Desc_172
+Unlock all skills of the "Royalty" Aspiration.
+Desc_173
+Unlock all Aspiration skills.
+Desc_174
+Finish studying a Fine Arts book.
+Desc_175
+Finish studying all Fine Arts Books in one field.
+Desc_176
+Finish studying all books on Music.
+Desc_177
+Finish studying all books on Weiqi.
+Desc_178
+Finish studying all books on Literature.
+Desc_179
+Finish studying all books on Painting.
+Desc_180
+Finish studying all books on Astrology.
+Desc_181
+Finish studying all books on Appreciation.
+Desc_182
+Finish studying all books on Smithing.
+Desc_183
+Finish studying all books on Carpentry.
+Desc_184
+Finish studying all books on Medical Art.
+Desc_185
+Finish studying all books on Toxicology.
+Desc_186
+Finish studying all books on Weaving.
+Desc_187
+Finish studying all books on Jewelcrafting.
+Desc_188
+Finish studying all Taoism books.
+Desc_189
+Finish studying all books on Buddhism.
+Desc_190
+Finish studying all books on Culinary Arts.
+Desc_191
+Finish studying all books on Unorthodox Arts.
+Desc_192
+Finish studying all Fine Arts Books.
+Desc_193
+Win a debate.
+Desc_194
+Win 99 debates.
+Desc_195
+Finish studying a Martial Arts book.
+Desc_196
+Finish studying all Martial Arts books of one sect.
+Desc_197
+Finish studying all Martial Arts books of Shaolin Sect.
+Desc_198
+Finish studying all Martial Arts books of Emei Sect.
+Desc_199
+Finish studying all Martial Arts books of Valley of Flowers.
+Desc_200
+Finish studying all Martial Arts books of Wudang Sect.
+Desc_201
+Finish studying all Martial Arts books of Yuanshan Sect.
+Desc_202
+Finish studying all Martial Arts books of Lion-Face Clan.
+Desc_203
+Finish studying all Martial Arts books of Ranshan Sect.
+Desc_204
+Finish studying all Martial Arts books of Jade-Maiden Sect.
+Desc_205
+Finish studying all Martial Arts books of Swordsmith Villa.
+Desc_206
+Finish studying all Martial Arts books of Kongsang Sect.
+Desc_207
+Finish studying all Martial Arts books of Vajra Sect.
+Desc_208
+Finish studying all Martial Arts books of Five Immortals Sect.
+Desc_209
+Finish studying all Martial Arts books of Veil Scar Sect.
+Desc_210
+Finish studying all Martial Arts books of Fuloong Sanctuary.
+Desc_211
+Finish studying all Martial Arts books of Sanguine Sect.
+Desc_212
+Finish studying all Martial Arts books.
+Desc_213
+Reach 100% Support with the Shaolin Sect.
+Desc_214
+Emei Sect Support has reached 100%
+Desc_215
+Reach 100% Support with the Valley of Flowers.
+Desc_216
+Reach 100% Support with the Wudang Sect.
+Desc_217
+Yuanshan Sect Support has reached 100%
+Desc_218
+Lion-Face Clan Support has reached 100%
+Desc_219
+Ranshan Sect Support has reached 100%
+Desc_220
+Reach 100% Support with the Jade-Maiden Sect.
+Desc_221
+Reach 100% Support with the Swordsmith Villa.
+Desc_222
+Kongsang Sect Support has reached 100%
+Desc_223
+Reach 100% Support with the Vajra Sect.
+Desc_224
+Reach 100% Support with the Five Immortals Sect.
+Desc_225
+Reach 100% Support with the Veil Scar Sect.
+Desc_226
+Reach 100% Support with the Fuloong Sanctuary.
+Desc_227
+Reach 100% Support with the Sanguine Sect.
+Desc_228
+Reach 50 Circulation True Qi: Annihilation.
+Desc_229
+Reach 50 Circulation True Qi: Nimble.
+Desc_230
+Reach 50 Circulation True Qi: Protection.
+Desc_231
+Reach 50 Circulation True Qi: Acumen.
+Desc_232
+Achieve a Martial Art Breakthrough
+Desc_233
+Enter the "Pure Deviation" state while performing a Breakthrough.
+Desc_234
+Reach 999 Combat Efficiency with a single martial art.
+Desc_235
+Obtain "Chant of Wordless Mind."
+Desc_236
+Obtain "Collection of Fleeting Flare."
+Desc_237
+Obtain "Thousand Method Compendium."
+Desc_238
+Obtain "Volatile Loong Depiction."
+Desc_239
+Obtain "Mind's Eye."
+Desc_240
+Obtain "Classics of the Unfettered."
+Desc_241
+Получить "Трактат о дивном искусстве теней".
+Desc_242
+Получить "Безымянное искусство меча".
+Desc_243
+Obtain "Record of Lethal Mara."
+Desc_244
+Obtain "Sky Divider."
+Desc_245
+Obtain "Book of the Primordial."
+Desc_246
+Obtain "Novem-resembler."
+Desc_247
+Obtain "Maker of Miracles."
+Desc_248
+Obtain "Celestial Melodist."
+Desc_249
+Own all Secret Tomes.
+Desc_250
+Have a Lv.20 common resource point in Taiwu Village.
+Desc_251
+Have a Lv.20 rare resource point in Taiwu Village.
+Desc_252
+Have 100 Taiwu Villagers.
+Desc_253
+Assign a Profession to a Taiwu Villager.
+Desc_254
+Upgrade a Storehouse to Lv.9.
+Desc_255
+Collect all chickens.
+Desc_256
+Create any banquet theme.
+Desc_257
+Unlock all banquet themes.
+Desc_258
+Guide a character through reincarnation at the "Reincarnation Platform."
+Desc_259
+Upgrade the "Reincarnation Platform" to Lv.6.
+Desc_260
+Max out the reputation of the Tea-Horse Caravan.
+Desc_261
+Reach maximum favorability with Oxback Caravan.
+Desc_262
+Reach maximum favorability with Vault of Volumes.
+Desc_263
+Reach maximum favorability with Yangtze Merchant League.
+Desc_264
+Reach maximum favorability with Champion's Armaments.
+Desc_265
+Reach maximum favorability with Revival Apothecary.
+Desc_266
+Reach maximum favorability with Gongshu's Caravan.
+Desc_267
+Reach maximum favorability with Pavilion of Wonders.
+Desc_268
+Craft a piece of tier 1 metal equipment.
+Desc_269
+Craft a piece of tier 1 wood equipment.
+Desc_270
+Craft a piece of tier 1 fabric equipment.
+Desc_271
+Craft a piece of tier 1 jade equipment.
+Desc_272
+Craft a tier 1 concoction.
+Desc_273
+Craft a tier 1 poison.
+Desc_274
+Craft a tier 1 dish.
+Desc_275
+Unlock a Way Station.
+Desc_276
+Unlock all Way Stations.
+Desc_277
+Complete the encounter "Wicked Beggars' Lair."
+Desc_278
+Complete the encounter "Thieves' Camp."
+Desc_279
+Complete the encounter "Bandits' Stronghold."
+Desc_280
+Complete the encounter "Traitors' Hideout."
+Desc_281
+Complete the encounter "Villains' Valley."
+Desc_282
+Complete the encounter "Enthralling Trap."
+Desc_283
+Complete the encounter "Mass Grave."
+Desc_284
+Complete the encounter "House of Eccentrics."
+Desc_285
+Complete the encounter "Land of Death."
+Desc_286
+Complete the encounter "Killing Field."
+Desc_287
+Complete the encounter "Pandemonium."
+Desc_288
+Complete the encounter "Brink of Ruin."
+Desc_289
+Complete the encounter "Hall of Xiake."
+Desc_290
+Complete the encounter "Alliance of Vigilantes."
+Desc_291
+Complete the encounter "Outlandish Secret Realm."
+Desc_292
+Catch a cricket.
+Desc_293
+Catch a "Dullard" cricket.
+Desc_294
+Catch a Champion Cricket: Unique.
+Desc_295
+Catch all Champion Cricket: Unique.
+Desc_296
+Win a cricket duel.
+

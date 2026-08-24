@@ -1,0 +1,192 @@
+DisplayName_0
+Число самосбора
+DisplayName_1
+
+DisplayName_2
+Основная вероятность переноса
+DisplayName_3
+Добавочная вероятность переноса
+DisplayName_4
+Вероятность улучшить основной припас при переносе
+DisplayName_5
+Охват бесплатного лечения
+DisplayName_6
+
+DisplayName_7
+
+DisplayName_8
+
+DisplayName_9
+
+DisplayName_10
+Убавляет злую волю Сяншу
+DisplayName_11
+
+DisplayName_12
+
+DisplayName_13
+
+DisplayName_14
+
+DisplayName_15
+
+DisplayName_16
+Добавочные уложения
+DisplayName_17
+Расход на содержание уложений
+DisplayName_18
+
+DisplayName_19
+
+DisplayName_20
+
+DisplayName_21
+Число правок покоя и просвещения
+DisplayName_22
+Влияние на покой и просвещение:
+DisplayName_23
+Сколько людей затронуто
+DisplayName_24
+Изменение расположения
+DisplayName_25
+Наибольшее число торговых сделок
+DisplayName_26
+
+DisplayName_27
+
+DisplayName_28
+
+DisplayName_29
+
+DisplayName_30
+Цена покупки
+DisplayName_31
+Цена продажи
+DisplayName_32
+Расположение главного товарищества
+DisplayName_33
+Расположение отделения товарищества
+DisplayName_34
+
+DisplayName_35
+
+DisplayName_36
+Вероятность собрать сведения
+DisplayName_37
+Вероятность излечения:
+DisplayName_38
+
+DisplayName_39
+Вероятность получить особенность
+DisplayName_40
+Вероятность получить черту при ранении
+DisplayName_41
+Убавляет злую волю Сяншу
+DisplayName_42
+
+DisplayName_43
+
+DisplayName_44
+
+DisplayName_45
+
+DisplayName_46
+
+DisplayName_47
+
+DisplayFormat_0
+{0}
+DisplayFormat_1
+
+DisplayFormat_2
+{0}%
+DisplayFormat_3
+{0}%
+DisplayFormat_4
+{0}%
+DisplayFormat_5
+Rank {0}
+DisplayFormat_6
+
+DisplayFormat_7
+
+DisplayFormat_8
+
+DisplayFormat_9
+
+DisplayFormat_10
+-{0}
+DisplayFormat_11
+
+DisplayFormat_12
+
+DisplayFormat_13
+
+DisplayFormat_14
+
+DisplayFormat_15
+
+DisplayFormat_16
+{0}
+DisplayFormat_17
+{0}%
+DisplayFormat_18
+
+DisplayFormat_19
+
+DisplayFormat_20
+
+DisplayFormat_21
+{0}
+DisplayFormat_22
+{0}
+DisplayFormat_23
+{0}
+DisplayFormat_24
+{0}
+DisplayFormat_25
+Rank {0}
+DisplayFormat_26
+
+DisplayFormat_27
+
+DisplayFormat_28
+
+DisplayFormat_29
+
+DisplayFormat_30
+{0}%
+DisplayFormat_31
+{0}%
+DisplayFormat_32
++{0}
+DisplayFormat_33
++{0}
+DisplayFormat_34
+
+DisplayFormat_35
+
+DisplayFormat_36
+{0}%
+DisplayFormat_37
+{0}%
+DisplayFormat_38
+
+DisplayFormat_39
+{0}%
+DisplayFormat_40
+{0}%
+DisplayFormat_41
+-{0}%
+DisplayFormat_42
+
+DisplayFormat_43
+
+DisplayFormat_44
+
+DisplayFormat_45
+
+DisplayFormat_46
+
+DisplayFormat_47
+

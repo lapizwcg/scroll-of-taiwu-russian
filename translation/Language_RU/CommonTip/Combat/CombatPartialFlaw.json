@@ -1,0 +1,31 @@
+{
+  "title": "Уязвимость: {BodyPart.Name}",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "Уязвимость открыта",
+          "value": "{0}"
+        },
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 2
+        },
+        {
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Действие уязвимости"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "{2}Урон по части тела {BodyPart.Name} увеличен на <color=#pinkyellow>{1}%</color>."
+        }
+      ]
+    }
+  ]
+}

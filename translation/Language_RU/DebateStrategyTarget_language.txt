@@ -1,0 +1,37 @@
+Name_0
+Your repeatable Contention(s)
+Name_1
+Your non-repeating Contention(s)
+Name_2
+Opponent's repeatable Contention(s)
+Name_3
+Opponent's non-repeating Contention(s)
+Name_4
+Both sides' repeatable Contention(s)
+Name_5
+Both sides' non-repeating Contention(s)
+Name_6
+Non-opponent baseline empty square
+Name_7
+Non-friendly baseline empty square
+Name_8
+Empty square adjacent to your Contention
+Name_9
+Contention Level
+Name_10
+Strategy Card
+Name_11
+Relaxed Contention
+Name_12
+Contention with unrevealed Arguments
+Name_13
+Contention with unrevealed Strategy
+Name_14
+Contention with Removable Strategy
+Name_15
+Incoming Deck
+Name_16
+Discard Pile
+Name_17
+Opponent's Deck
+

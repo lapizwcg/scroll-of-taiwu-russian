@@ -1,0 +1,17 @@
+{"ui_language.txt":{
+"LK_Gender_Child_He": "мальчик",
+"LK_Gender_Child_She": "девочка",
+"LK_Gender_Adult_He": "герой",
+"LK_Gender_Adult_She": "героиня",
+"LK_Gender_Young_He": "господин",
+"LK_Gender_Old_She": "тётушка",
+"LK_Gender_RanXinduSpecial_He": "братец",
+"LK_Gender_RanXinduSpecial_She": "сестрица",
+"Event_JuniorGenderFemale": "младшая сестра",
+"Event_JuniorGenderMale": "младший брат",
+"Event_PronounGenderMale": "Мужчина",
+"LK_FulongServant_GenderFemale_NoTransgender": "Грациозная",
+"LK_FulongServant_GenderMale_NoTransgender": "Обаятельный",
+"LK_JiaoPool_GenderMismatch": "Пол не подходит",
+"LK_Making_Weave_Change_Gender": "Показ по полу"
+}}

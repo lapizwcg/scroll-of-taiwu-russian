@@ -1,0 +1,109 @@
+Name_0
+Rejoinder
+Name_1
+Assertion
+Name_2
+Digression
+Name_3
+Exposition
+Name_4
+Chain Argument
+Name_5
+Substantiation
+Name_6
+Rebuttal
+Name_7
+Circumlocution
+Name_8
+Paralipsis
+Name_9
+Intimidation
+Name_10
+Slander
+Name_11
+Invective
+Name_12
+Prebuttal
+Name_13
+Hyperbole
+Name_14
+Litotes
+Name_15
+Insight
+Name_16
+Sophistry
+Name_17
+Empathy
+Name_18
+Contemplation
+Name_19
+Раззадорить
+Name_20
+Озарение
+Name_21
+Wide Citation
+Name_22
+Allusion
+Name_23
+Quotation
+Name_24
+Restatement
+Name_25
+Заключение
+Name_26
+Co-optation
+Desc_0
+A Query can be placed on the surrounding eight squares of the opponent's Contention with lower Arguments.
+Desc_1
+A Query can be placed on any horizontal or vertical squares of your Contention (can't cross the opponent's Contention with higher Arguments).
+Desc_2
+A Query can be placed on any diagonal squares of your Contention (can't cross the opponent's Contention with higher Arguments).
+Desc_3
+Your Contentions can increase the Arguments of all your pieces placed on the surrounding eight squares.
+Desc_4
+Answering the opponent's Queries or Counters increases the current piece's Arguments.
+Desc_5
+Your Contentions can increase the Arguments of all your pieces placed on the horizontal and vertical squares (can't cross the opponent's Contentions).
+Desc_6
+If the opponent chooses to answer your Queries or Counters, decreases their answer's Arguments.
+Desc_7
+Your Contentions can decrease the Arguments of the opponent's pieces placed on the surrounding eight squares.
+Desc_8
+Your Contentions can decrease the Arguments of the opponent's pieces placed on the horizontal and vertical squares.
+Desc_9
+When your Queries or Counters are converted into your Contentions, eliminates the opponent's Contentions with lower Arguments on the surrounding eight squares.
+Desc_10
+Can be used on your Contentions to select and eliminate an opponent's Contention with lower Arguments on one of the surrounding eight squares.
+Desc_11
+When your Queries or Counters are converted into your Contentions, eliminates the opponent's Contentions with lower Arguments on the horizontal and vertical squares (can't cross the opponent's Contention with higher Arguments).
+Desc_12
+When your Queries or Counters are answered, increases the cooldown of the books used by the opponent by 1 turn.
+Desc_13
+Displayed books in cool down +3 when making Queries or Counters.
+Desc_14
+Displayed books in cool down -3 when making Queries or Counters.
+Desc_15
+Can be used on an opponent's Contention that they have used Strategies on to remove all the Strategy effects on that square.
+Desc_16
+When your Queries or Counters are converted into your Contentions, removes all the Strategy effects of all the opponent's Contentions on the surrounding eight squares.
+Desc_17
+When your Queries or Counters are converted into your Contentions, removes all the Strategy effects of all the opponent's Contentions on the horizontal and vertical squares.
+Desc_18
+Decreases the cooldowns of three random books of yours by 1 turn.
+Desc_19
+Increases the cooldowns of three random books of the opponent's by 1 turn.
+Desc_20
+Can be used to select and end the cooldown of one of your books.
+Desc_21
+When your Queries or Counters are converted into your Contentions, draws Strategies based on the number of your Contentions on the surrounding eight squares.
+Desc_22
+Can be used on your Contentions to draw a number of Strategies equal to the Arguments value on the square.
+Desc_23
+When your Queries or Counters are converted into your Contentions, draws Strategies based on the number of your Contentions on the horizontal and vertical squares (can't cross the opponent's Contentions).
+Desc_24
+Can be placed on one of your Contentions to recall all your Strategies used on it and convert it into the same state as the current piece.
+Desc_25
+Books used by the current piece won't gain more cooldown turns.
+Desc_26
+A Query can be placed on an opponent's Contention with lower Arguments to turn it directly into your Contention.
+

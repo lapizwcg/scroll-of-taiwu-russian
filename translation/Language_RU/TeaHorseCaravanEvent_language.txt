@@ -1,0 +1,85 @@
+Name_0
+Witnessed Mirage
+Name_1
+Найден человек-обезьяна
+Name_2
+Найден зверь
+Name_3
+Найдено растение
+Name_4
+Сведения возвращены
+Name_5
+Найдено поселение
+Name_6
+Встречена непогода
+Name_7
+Got Lost
+Name_8
+This should not be displayed.
+Name_9
+Ran into Bandits
+Name_10
+Ran into Bandits
+Name_11
+Ran into Bandits
+Name_12
+Товар побился в дороге
+Name_13
+Останки каравана
+Name_14
+Помощь прохожему
+Name_15
+Непривычный климат
+Name_16
+Получена помощь
+Name_17
+Найдена дичь
+Name_18
+Найден сад
+Name_19
+Обнаружена деревня
+Name_20
+Встреча с караваном
+Desc_0
+Witnessed a mirage fade into nothingness and Fame increased by {0}...
+Desc_1
+Discovered traces of a towering, fur-covered apeman and Fame increased by {0}...
+Desc_2
+Discovered a rare animal seldom seen in the Central Plains and Fame increased by {0}...
+Desc_3
+Found a rare plant in a remote, untraveled area and Fame increased by {0}...
+Desc_4
+Shared insights from the Western Regions, astonishing all, and Fame increased by {0}...
+Desc_5
+Discovered a mysterious settlement and Fame increased by {0}...
+Desc_6
+Encountered rare weather but suffered no losses and Fame increased by {0}...
+Desc_7
+Lost the way due to a damaged map and Fame decreased by {0}...
+Desc_8
+This should not be displayed.
+Desc_9
+Encountered bandits and lost goods due to poor vigilance: {0}...
+Desc_10
+Encountered bandits and lost goods due to poor vigilance: {0}, {1}...
+Desc_11
+Encountered bandits and lost goods due to poor vigilance: {0}, {1}, {2}...
+Desc_12
+Experienced rough travel and lost goods due to loosened packs: {0}...
+Desc_13
+Discovered the remains of a caravan and buried them properly, gaining goods: {0}...
+Desc_14
+Helped a lost traveler, losing {0} Provisions and gaining {1} Fame...
+Desc_15
+Experienced acclimation issues and fatigue, and Provisions decreased by {0}...
+Desc_16
+Received aid from a nearby settlement and Provisions increased by {0}...
+Desc_17
+Hunted wild game and Provisions increased by {0}...
+Desc_18
+Discovered an orchard with sweet fruits and can gather up to {0} Provisions...
+Desc_19
+Discovered a populated village and can trade for up to {0} Provisions...
+Desc_20
+Encountered a well-stocked caravan and can trade for up to {0} Provisions...
+

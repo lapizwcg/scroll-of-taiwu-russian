@@ -1,0 +1,9 @@
+Name_0
+<color=#b1b1b1>No Awareness</color>
+Name_1
+<color=#9fe0dc>Faint Perception</color>
+Name_2
+<color=#b975ff>Stirring Sense</color>
+Name_3
+<color=#ff5331>Enlightenment Reached</color>
+

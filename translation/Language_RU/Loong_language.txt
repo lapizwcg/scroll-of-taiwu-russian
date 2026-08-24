@@ -1,0 +1,11 @@
+BlockEffectTip_0
+Currently affected by <color=#pinkyellow>[Stacks]</color> stacks of <color=#Jingang>Thunder Marsh</color> divine power... In battles with the White Loong and Little White Loong, each layer of <color=#Jingang>Thunder Marsh</color> Divine Arts will cause the character to <color=#brightred>suffer 2 to 4 Internal Injuries to a random part of the user's body; the more Internal Injuries, the greater the damage to Health...</color>
+BlockEffectTip_1
+Currently affected by <color=#pinkyellow>[Stacks]</color> stacks of <color=#Xuanyin>Flood Marsh</color> divine power... In battles with the Black Loong and Little Black Loong, each layer of <color=#Xuanyin>Flood Marsh</color> Divine Arts will cause the character to <color=#brightred>randomly suffer 500 to 1000 of 3 types of deadly poison; the more Poison Markers, the greater the damage to Health...</color>
+BlockEffectTip_2
+Currently affected by <color=#pinkyellow>[Stacks]</color> stacks of <color=#Zixia>Wind Marsh</color> divine power... In battles with the Green Loong and Little Green Loong, each layer of <color=#Zixia>Wind Marsh</color> Divine Arts will cause the character to <color=#brightred>suffer a random Inner Breath Chaos of 40 to 80; the higher the Inner Breath Chaos, the greater the damage to Health...</color>
+BlockEffectTip_3
+Currently affected by <color=#pinkyellow>[Stacks]</color> stacks of <color=#Chunyang>Flame Marsh</color> divine power... In battles with the Red Loong and Little Red Loong, each layer of <color=#Chunyang>Flame Marsh</color> Divine Arts will cause the character to <color=#brightred>suffer 2 to 4 External Injuries to a random part of the user's body; the more External Injuries, the greater the damage to Health...</color>
+BlockEffectTip_4
+Currently affected by <color=#pinkyellow>[Stacks]</color> stacks of <color=#Guiyuan>Sand Marsh</color> divine power... In battles with the Yellow Loong and Little Yellow Loong, each layer of <color=#Guiyuan>Sand Marsh</color> Divine Arts will cause the character's <color=#brightred>Health to be significantly damaged...</color>
+

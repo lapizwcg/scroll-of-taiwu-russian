@@ -1,0 +1,13 @@
+{
+  "ui_language.txt": {
+    "LK_WeaponTrick": "Приём",
+    "LK_Disassemble_Item": "Разобрать",
+    "LK_CraftStorageToDisassemble": "Разобрать"
+  },
+  "TrickType_language.txt": {
+    "Name_10": "Захлёст",
+    "Name_12": "Ведение",
+    "Name_18": "Глотание",
+    "Name_21": "Дух"
+  }
+}

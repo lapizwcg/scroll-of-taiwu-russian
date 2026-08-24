@@ -1,0 +1,2997 @@
+Name_0
+Qi Art Stimulation
+Name_1
+Footwork Arts Stimulation
+Name_2
+Unique Arts Stimulation
+Name_3
+Fist Arts Stimulation
+Name_4
+Finger Arts Stimulation
+Name_5
+Kicking Arts Stimulation
+Name_6
+Concealed Weapons Stimulation
+Name_7
+Sword Arts Stimulation
+Name_8
+Blade Arts Stimulation
+Name_9
+Polearm Arts Stimulation
+Name_10
+Exotic Weapons Stimulation
+Name_11
+Whip Arts Stimulation
+Name_12
+Ranged Weapons Stimulation
+Name_13
+Instrument Arts Stimulation
+Name_14
+Music Stimulation
+Name_15
+Weiqi Stimulation
+Name_16
+Literature Stimulation
+Name_17
+Painting Stimulation
+Name_18
+Astrology Stimulation
+Name_19
+Appreciation Stimulation
+Name_20
+Smithing Stimulation
+Name_21
+Carpentry Stimulation
+Name_22
+Medical Art Stimulation
+Name_23
+Toxicology Stimulation
+Name_24
+Weaving Stimulation
+Name_25
+Jewelcrafting Stimulation
+Name_26
+Taoism Stimulation
+Name_27
+Buddhism Stimulation
+Name_28
+Culinary Arts Stimulation
+Name_29
+Unorthodox Arts Stimulation
+Name_30
+Qi Art Stimulation
+Name_31
+Footwork Arts Stimulation
+Name_32
+Unique Arts Stimulation
+Name_33
+Fist Arts Stimulation
+Name_34
+Finger Arts Stimulation
+Name_35
+Kicking Arts Stimulation
+Name_36
+Concealed Weapons Stimulation
+Name_37
+Sword Arts Stimulation
+Name_38
+Blade Arts Stimulation
+Name_39
+Polearm Arts Stimulation
+Name_40
+Exotic Weapons Stimulation
+Name_41
+Whip Arts Stimulation
+Name_42
+Ranged Weapons Stimulation
+Name_43
+Instrument Arts Stimulation
+Name_44
+Music Stimulation
+Name_45
+Weiqi Stimulation
+Name_46
+Literature Stimulation
+Name_47
+Painting Stimulation
+Name_48
+Astrology Stimulation
+Name_49
+Appreciation Stimulation
+Name_50
+Smithing Stimulation
+Name_51
+Carpentry Stimulation
+Name_52
+Medical Art Stimulation
+Name_53
+Toxicology Stimulation
+Name_54
+Weaving Stimulation
+Name_55
+Jewelcrafting Stimulation
+Name_56
+Taoism Stimulation
+Name_57
+Buddhism Stimulation
+Name_58
+Culinary Arts Stimulation
+Name_59
+Unorthodox Arts Stimulation
+Name_60
+Qi Art Stimulation
+Name_61
+Footwork Arts Stimulation
+Name_62
+Unique Arts Stimulation
+Name_63
+Fist Arts Stimulation
+Name_64
+Finger Arts Stimulation
+Name_65
+Kicking Arts Stimulation
+Name_66
+Concealed Weapons Stimulation
+Name_67
+Sword Arts Stimulation
+Name_68
+Blade Arts Stimulation
+Name_69
+Polearm Arts Stimulation
+Name_70
+Exotic Weapons Stimulation
+Name_71
+Whip Arts Stimulation
+Name_72
+Ranged Weapons Stimulation
+Name_73
+Instrument Arts Stimulation
+Name_74
+Music Stimulation
+Name_75
+Weiqi Stimulation
+Name_76
+Literature Stimulation
+Name_77
+Painting Stimulation
+Name_78
+Astrology Stimulation
+Name_79
+Appreciation Stimulation
+Name_80
+Smithing Stimulation
+Name_81
+Carpentry Stimulation
+Name_82
+Medical Art Stimulation
+Name_83
+Toxicology Stimulation
+Name_84
+Weaving Stimulation
+Name_85
+Jewelcrafting Stimulation
+Name_86
+Taoism Stimulation
+Name_87
+Buddhism Stimulation
+Name_88
+Culinary Arts Stimulation
+Name_89
+Unorthodox Arts Stimulation
+Name_90
+Qi Art Stimulation
+Name_91
+Footwork Arts Stimulation
+Name_92
+Unique Arts Stimulation
+Name_93
+Fist Arts Stimulation
+Name_94
+Finger Arts Stimulation
+Name_95
+Kicking Arts Stimulation
+Name_96
+Concealed Weapons Stimulation
+Name_97
+Sword Arts Stimulation
+Name_98
+Blade Arts Stimulation
+Name_99
+Polearm Arts Stimulation
+Name_100
+Exotic Weapons Stimulation
+Name_101
+Whip Arts Stimulation
+Name_102
+Ranged Weapons Stimulation
+Name_103
+Instrument Arts Stimulation
+Name_104
+Music Stimulation
+Name_105
+Weiqi Stimulation
+Name_106
+Literature Stimulation
+Name_107
+Painting Stimulation
+Name_108
+Astrology Stimulation
+Name_109
+Appreciation Stimulation
+Name_110
+Smithing Stimulation
+Name_111
+Carpentry Stimulation
+Name_112
+Medical Art Stimulation
+Name_113
+Toxicology Stimulation
+Name_114
+Weaving Stimulation
+Name_115
+Jewelcrafting Stimulation
+Name_116
+Taoism Stimulation
+Name_117
+Buddhism Stimulation
+Name_118
+Culinary Arts Stimulation
+Name_119
+Unorthodox Arts Stimulation
+Name_120
+Qi Art Stimulation
+Name_121
+Footwork Arts Stimulation
+Name_122
+Unique Arts Stimulation
+Name_123
+Fist Arts Stimulation
+Name_124
+Finger Arts Stimulation
+Name_125
+Kicking Arts Stimulation
+Name_126
+Concealed Weapons Stimulation
+Name_127
+Sword Arts Stimulation
+Name_128
+Blade Arts Stimulation
+Name_129
+Polearm Arts Stimulation
+Name_130
+Exotic Weapons Stimulation
+Name_131
+Whip Arts Stimulation
+Name_132
+Ranged Weapons Stimulation
+Name_133
+Instrument Arts Stimulation
+Name_134
+Music Stimulation
+Name_135
+Weiqi Stimulation
+Name_136
+Literature Stimulation
+Name_137
+Painting Stimulation
+Name_138
+Astrology Stimulation
+Name_139
+Appreciation Stimulation
+Name_140
+Smithing Stimulation
+Name_141
+Carpentry Stimulation
+Name_142
+Medical Art Stimulation
+Name_143
+Toxicology Stimulation
+Name_144
+Weaving Stimulation
+Name_145
+Jewelcrafting Stimulation
+Name_146
+Taoism Stimulation
+Name_147
+Buddhism Stimulation
+Name_148
+Culinary Arts Stimulation
+Name_149
+Unorthodox Arts Stimulation
+Name_150
+Give up Qi Art
+Name_151
+Give up Footwork Arts
+Name_152
+Give up Unique Arts
+Name_153
+Give up Fist Arts
+Name_154
+Give up Finger Arts
+Name_155
+Give up Kicking Arts
+Name_156
+Give up Concealed Weapons
+Name_157
+Give up Sword Arts
+Name_158
+Give up Blade Arts
+Name_159
+Give up Polearm Arts
+Name_160
+Give up Exotic Weapons
+Name_161
+Give up Whip Arts
+Name_162
+Give up Ranged Weapons
+Name_163
+Give up Instrument Arts
+Name_164
+Give up Music
+Name_165
+Give up Weiqi
+Name_166
+Give up Literature
+Name_167
+Give up Painting
+Name_168
+Give up Astrology
+Name_169
+Give up Appreciation
+Name_170
+Give up Smithing
+Name_171
+Give up Carpentry
+Name_172
+Give up Medical Art
+Name_173
+Give up Toxicology
+Name_174
+Give up Weaving
+Name_175
+Give up Jewelcrafting
+Name_176
+Give up Taoism
+Name_177
+Give up Buddhism
+Name_178
+Give up Culinary Arts
+Name_179
+Give up Unorthodox Arts
+Name_180
+Give up Qi Art
+Name_181
+Give up Footwork Arts
+Name_182
+Give up Unique Arts
+Name_183
+Give up Fist Arts
+Name_184
+Give up Finger Arts
+Name_185
+Give up Kicking Arts
+Name_186
+Give up Concealed Weapons
+Name_187
+Give up Sword Arts
+Name_188
+Give up Blade Arts
+Name_189
+Give up Polearm Arts
+Name_190
+Give up Exotic Weapons
+Name_191
+Give up Whip Arts
+Name_192
+Give up Ranged Weapons
+Name_193
+Give up Instrument Arts
+Name_194
+Give up Music
+Name_195
+Give up Weiqi
+Name_196
+Give up Literature
+Name_197
+Give up Painting
+Name_198
+Give up Astrology
+Name_199
+Give up Appreciation
+Name_200
+Give up Smithing
+Name_201
+Give up Carpentry
+Name_202
+Give up Medical Art
+Name_203
+Give up Toxicology
+Name_204
+Give up Weaving
+Name_205
+Give up Jewelcrafting
+Name_206
+Give up Taoism
+Name_207
+Give up Buddhism
+Name_208
+Give up Culinary Arts
+Name_209
+Give up Unorthodox Arts
+Name_210
+Give up Qi Art
+Name_211
+Give up Footwork Arts
+Name_212
+Give up Unique Arts
+Name_213
+Give up Fist Arts
+Name_214
+Give up Finger Arts
+Name_215
+Give up Kicking Arts
+Name_216
+Give up Concealed Weapons
+Name_217
+Give up Sword Arts
+Name_218
+Give up Blade Arts
+Name_219
+Give up Polearm Arts
+Name_220
+Give up Exotic Weapons
+Name_221
+Give up Whip Arts
+Name_222
+Give up Ranged Weapons
+Name_223
+Give up Instrument Arts
+Name_224
+Give up Music
+Name_225
+Give up Weiqi
+Name_226
+Give up Literature
+Name_227
+Give up Painting
+Name_228
+Give up Astrology
+Name_229
+Give up Appreciation
+Name_230
+Give up Smithing
+Name_231
+Give up Carpentry
+Name_232
+Give up Medical Art
+Name_233
+Give up Toxicology
+Name_234
+Give up Weaving
+Name_235
+Give up Jewelcrafting
+Name_236
+Give up Taoism
+Name_237
+Give up Buddhism
+Name_238
+Give up Culinary Arts
+Name_239
+Give up Unorthodox Arts
+Name_240
+Give up Qi Art
+Name_241
+Give up Footwork Arts
+Name_242
+Give up Unique Arts
+Name_243
+Give up Fist Arts
+Name_244
+Give up Finger Arts
+Name_245
+Give up Kicking Arts
+Name_246
+Give up Concealed Weapons
+Name_247
+Give up Sword Arts
+Name_248
+Give up Blade Arts
+Name_249
+Give up Polearm Arts
+Name_250
+Give up Exotic Weapons
+Name_251
+Give up Whip Arts
+Name_252
+Give up Ranged Weapons
+Name_253
+Give up Instrument Arts
+Name_254
+Give up Music
+Name_255
+Give up Weiqi
+Name_256
+Give up Literature
+Name_257
+Give up Painting
+Name_258
+Give up Astrology
+Name_259
+Give up Appreciation
+Name_260
+Give up Smithing
+Name_261
+Give up Carpentry
+Name_262
+Give up Medical Art
+Name_263
+Give up Toxicology
+Name_264
+Give up Weaving
+Name_265
+Give up Jewelcrafting
+Name_266
+Give up Taoism
+Name_267
+Give up Buddhism
+Name_268
+Give up Culinary Arts
+Name_269
+Give up Unorthodox Arts
+Name_270
+Give up Qi Art
+Name_271
+Give up Footwork Arts
+Name_272
+Give up Unique Arts
+Name_273
+Give up Fist Arts
+Name_274
+Give up Finger Arts
+Name_275
+Give up Kicking Arts
+Name_276
+Give up Concealed Weapons
+Name_277
+Give up Sword Arts
+Name_278
+Give up Blade Arts
+Name_279
+Give up Polearm Arts
+Name_280
+Give up Exotic Weapons
+Name_281
+Give up Whip Arts
+Name_282
+Give up Ranged Weapons
+Name_283
+Give up Instrument Arts
+Name_284
+Give up Music
+Name_285
+Give up Weiqi
+Name_286
+Give up Literature
+Name_287
+Give up Painting
+Name_288
+Give up Astrology
+Name_289
+Give up Appreciation
+Name_290
+Give up Smithing
+Name_291
+Give up Carpentry
+Name_292
+Give up Medical Art
+Name_293
+Give up Toxicology
+Name_294
+Give up Weaving
+Name_295
+Give up Jewelcrafting
+Name_296
+Give up Taoism
+Name_297
+Give up Buddhism
+Name_298
+Give up Culinary Arts
+Name_299
+Give up Unorthodox Arts
+Name_300
+Physical Strength Stimulation
+Name_301
+Agility Stimulation
+Name_302
+Constitution Stimulation
+Name_303
+Root Bone Stimulation
+Name_304
+Comprehension Stimulation
+Name_305
+Willpower Stimulation
+Name_306
+Physical Strength Stimulation
+Name_307
+Agility Stimulation
+Name_308
+Constitution Stimulation
+Name_309
+Root Bone Stimulation
+Name_310
+Comprehension Stimulation
+Name_311
+Willpower Stimulation
+Name_312
+Physical Strength Stimulation
+Name_313
+Agility Stimulation
+Name_314
+Constitution Stimulation
+Name_315
+Root Bone Stimulation
+Name_316
+Comprehension Stimulation
+Name_317
+Willpower Stimulation
+Name_318
+Physical Strength Stimulation
+Name_319
+Agility Stimulation
+Name_320
+Constitution Stimulation
+Name_321
+Root Bone Stimulation
+Name_322
+Comprehension Stimulation
+Name_323
+Willpower Stimulation
+Name_324
+Physical Strength Stimulation
+Name_325
+Agility Stimulation
+Name_326
+Constitution Stimulation
+Name_327
+Root Bone Stimulation
+Name_328
+Comprehension Stimulation
+Name_329
+Willpower Stimulation
+Name_330
+Give up Strength
+Name_331
+Give up Agility
+Name_332
+Give up Constitution
+Name_333
+Give up Root Bone
+Name_334
+Give up Comprehension
+Name_335
+Give up Willpower
+Name_336
+Give up Strength
+Name_337
+Give up Agility
+Name_338
+Give up Constitution
+Name_339
+Give up Root Bone
+Name_340
+Give up Comprehension
+Name_341
+Give up Willpower
+Name_342
+Give up Strength
+Name_343
+Give up Agility
+Name_344
+Give up Constitution
+Name_345
+Give up Root Bone
+Name_346
+Give up Comprehension
+Name_347
+Give up Willpower
+Name_348
+Give up Strength
+Name_349
+Give up Agility
+Name_350
+Give up Constitution
+Name_351
+Give up Root Bone
+Name_352
+Give up Comprehension
+Name_353
+Give up Willpower
+Name_354
+Give up Strength
+Name_355
+Give up Agility
+Name_356
+Give up Constitution
+Name_357
+Give up Root Bone
+Name_358
+Give up Comprehension
+Name_359
+Give up Willpower
+Name_360
+Charm Stimulation
+Name_361
+Lifespan Stimulation
+Name_362
+Charm Stimulation
+Name_363
+Lifespan Stimulation
+Name_364
+Charm Stimulation
+Name_365
+Lifespan Stimulation
+Name_366
+Charm Stimulation
+Name_367
+Lifespan Stimulation
+Name_368
+Charm Stimulation
+Name_369
+Lifespan Stimulation
+Name_370
+Charm Stimulation
+Name_371
+Lifespan Stimulation
+Name_372
+Charm Stimulation
+Name_373
+Lifespan Stimulation
+Name_374
+Charm Stimulation
+Name_375
+Lifespan Stimulation
+Name_376
+Give up Charm
+Name_377
+Give up Lifespan
+Name_378
+Give up Charm
+Name_379
+Give up Lifespan
+Name_380
+Give up Charm
+Name_381
+Give up Lifespan
+Name_382
+Give up Charm
+Name_383
+Give up Lifespan
+Name_384
+Give up Charm
+Name_385
+Give up Lifespan
+Name_386
+Give up Charm
+Name_387
+Give up Lifespan
+Name_388
+Give up Charm
+Name_389
+Give up Lifespan
+Name_390
+Give up Charm
+Name_391
+Give up Lifespan
+Name_392
+Qi Infusion
+Name_393
+Qi Infusion
+Name_394
+Qi Infusion
+Name_395
+Qi Infusion
+Name_396
+Qi Infusion
+Name_397
+Qi Infusion
+Name_398
+Qi Infusion
+Name_399
+Qi Infusion
+Name_400
+Крепкая стать
+Name_401
+Звериная сила
+Name_402
+Исполинская мощь
+Name_403
+Слабоват
+Name_404
+Хилое сложение
+Name_405
+Жалкая немощь
+Name_406
+Отменное здоровье
+Name_407
+Крепок как дуб
+Name_408
+Божественное тело
+Name_409
+Ивовый стан
+Name_410
+Изрядно хворый
+Name_411
+Хрупок и немощен
+Name_412
+Острые чувства
+Name_413
+Быстрый ум
+Name_414
+Непостижимый разум
+Name_415
+Clumsy
+Name_416
+Косноязычный
+Name_417
+Туп как чурбан
+Name_418
+Необычный костяк
+Name_419
+Праведная стать
+Name_420
+Бессмертная жизненная сила
+Name_421
+Недостаток ци
+Name_422
+Застой ци
+Name_423
+Косная ци
+Name_424
+Острый ум
+Name_425
+Врождённая смышлёность
+Name_426
+Несравненная мудрость
+Name_427
+Туповат
+Name_428
+Глуп как пробка
+Name_429
+Свиные мозги
+Name_430
+Упорный
+Name_431
+Ясность духа
+Name_432
+Хрустальная воля
+Name_433
+Мятущийся ум
+Name_434
+Слабоволен
+Name_435
+Переменчивое сердце
+Name_436
+Природный дар
+Name_437
+Редкое дарование
+Name_438
+Небесный дар
+Name_439
+Бездарен
+Name_440
+Почти ни на что не годен
+Name_441
+Совсем убог
+Name_442
+Чуткий
+Name_443
+Приветливый нрав
+Name_444
+Несравненное обаяние
+Name_445
+Вздорный нрав
+Name_446
+До крайности несносен
+Name_447
+Невыносимо спесив
+Name_448
+Удачлив
+Name_449
+Благословенная удача
+Name_450
+Избранник судьбы
+Name_451
+Удача надломлена
+Name_452
+Злосчастный
+Name_453
+Под несчастливой звездой
+Name_454
+Живучий
+Name_455
+Твёрд как кремень
+Name_456
+Неукротимый
+Name_457
+Дурной вид
+Name_458
+Медленно заживает
+Name_459
+Хрупкое тело
+Name_460
+Лад меридианов
+Name_461
+Согласные токи
+Name_462
+Всеобщее согласие
+Name_463
+Закупорка меридианов
+Name_464
+Разлад ци
+Name_465
+Омертвевшие меридианы
+Name_466
+glowing health
+Name_467
+Полон сил
+Name_468
+Хвори не берут
+Name_469
+Слабое здоровье
+Name_470
+Истрёпан жизнью
+Name_471
+Изъеден хворями
+Name_472
+Ровный нрав
+Name_473
+Твёрдый дух
+Name_474
+Незыблем как скала
+Name_475
+Порывист
+Name_476
+Упрям как бык
+Name_477
+Отъявленный горячка
+Name_478
+Сосредоточенная ци
+Name_479
+Врождённые силы
+Name_480
+Обильные токи
+Name_481
+Разлад сил
+Name_482
+Раздор стихий
+Name_483
+Рассеяние сути
+Name_484
+Незыблемый покой
+Name_485
+Внутренний лад
+Name_486
+Божественные меридианы
+Name_487
+Неустойчивый рассудок
+Name_488
+Затаённая тоска
+Name_489
+Полное смятение
+Name_490
+Безмятежный
+Name_491
+Спокоен и собран
+Name_492
+Непоколебимая стойкость
+Name_493
+Растерянный
+Name_494
+Плохо владеет собой
+Name_495
+Совершенный сумбур
+Name_496
+Упреждающее внимание
+Name_497
+Великая прозорливость
+Name_498
+Всевидящая зоркость
+Name_499
+Нерешительный ум
+Name_500
+Вечные сомнения
+Name_501
+Ходячее бедствие
+Name_502
+Быстрые движения
+Name_503
+Безупречная точность
+Name_504
+Бесшумная поступь
+Name_505
+Медленная реакция
+Name_506
+Сбит с толку
+Name_507
+Полная нескладность
+Name_508
+Дерзкий
+Name_509
+Бесстрашный вид
+Name_510
+Ничего не боится
+Name_511
+Робкий
+Name_512
+Пал духом
+Name_513
+Дрожащий трус
+Name_514
+Приноровчивый
+Name_515
+Внимательный глаз
+Name_516
+Изобретательный ум
+Name_517
+Вялый
+Name_518
+Слишком опрометчив
+Name_519
+Невероятно взбалмошен
+Name_520
+Nimble
+Name_521
+Молниеносный шаг
+Name_522
+Неизмеримая быстрота
+Name_523
+Медлительный
+Name_524
+Мучительно ленив
+Name_525
+Сонный дух
+Name_526
+Свирепый вид
+Name_527
+Безжалостное сердце
+Name_528
+Воинственный ракшас
+Name_529
+Нежное сердце
+Name_530
+Кроткий миролюбец
+Name_531
+Чересчур мягкосердечен
+Name_532
+Здоровые токи
+Name_533
+Кипучие силы
+Name_534
+Чистая истинная ци
+Name_535
+Порочные токи
+Name_536
+Иссякающие силы
+Name_537
+Разлад истинной ци
+Name_538
+Слаженность
+Name_539
+Согласие ци
+Name_540
+Проводник изначальной силы
+Name_541
+Рассеянный
+Name_542
+Запертые токи
+Name_543
+Закоснелое железное тело
+Name_544
+Лёгок на ногу
+Name_545
+Величавая поступь
+Name_546
+Змеиная гибкость
+Name_547
+Хромая походка
+Name_548
+Шаткая поступь
+Name_549
+Черепаший шаг
+Name_550
+Необычное сложение
+Name_551
+Благороден и незапятнан
+Name_552
+Яды не берут
+Name_553
+Скверна проникла в тело
+Name_554
+Ослабленная защита
+Name_555
+Врождённый скрытый недуг
+Name_556
+Долгие руки и ноги
+Name_557
+Строен и величав
+Name_558
+Тонок в поясе, широк в плечах
+Name_559
+Тяжёл сверху
+Name_560
+Странной наружности
+Name_561
+Нескладного сложения
+Name_562
+Увлечённый
+Name_563
+Целеустремлённый
+Name_564
+Непоколебимая верность
+Name_565
+Колеблющаяся воля
+Name_566
+Непостоянный
+Name_567
+Своенравный
+Name_568
+Path of the Principled
+Name_569
+Path of Benevolence
+Name_570
+Path of Moderation
+Name_571
+Path of Treachery
+Name_572
+Путь себялюбия
+Name_573
+Изгнание скверны
+Name_574
+Благодатная ци
+Name_575
+Тёмная инь
+Name_576
+Чистый ян
+Name_577
+Небесная мощь
+Name_578
+Изначальное единство
+Name_579
+Jingji Genius
+Name_580
+Bashu Genius
+Name_581
+Guangnan Genius
+Name_582
+Jingbei Genius
+Name_583
+Shanxi Genius
+Name_584
+Guangdong Genius
+Name_585
+Shandong Genius
+Name_586
+Jingnan Genius
+Name_587
+Fujian Genius
+Name_588
+Liaodong Genius
+Name_589
+Western Regions Genius
+Name_590
+Yunnan Genius
+Name_591
+Huainan Genius
+Name_592
+Jiangnan Genius
+Name_593
+Jiangbei Genius
+Name_594
+Jingji Favor
+Name_595
+Bashu Favor
+Name_596
+Guangnan Favor
+Name_597
+Jingbei Favor
+Name_598
+Shanxi Favor
+Name_599
+Guangdong Favor
+Name_600
+Shandong Favor
+Name_601
+Jingnan Favor
+Name_602
+Fujian Favor
+Name_603
+Liaodong Favor
+Name_604
+Western Regions Favor
+Name_605
+Yunnan Favor
+Name_606
+Huainan Favor
+Name_607
+Jiangnan Favor
+Name_608
+Jiangbei Favor
+Name_609
+Jingji Favor
+Name_610
+Bashu Favor
+Name_611
+Guangnan Favor
+Name_612
+Jingbei Favor
+Name_613
+Shanxi Favor
+Name_614
+Guangdong Favor
+Name_615
+Shandong Favor
+Name_616
+Jingnan Favor
+Name_617
+Fujian Favor
+Name_618
+Liaodong Favor
+Name_619
+Western Regions Favor
+Name_620
+Yunnan Favor
+Name_621
+Huainan Favor
+Name_622
+Jiangnan Favor
+Name_623
+Jiangbei Favor
+Name_624
+Jingji Favor
+Name_625
+Bashu Favor
+Name_626
+Guangnan Favor
+Name_627
+Jingbei Favor
+Name_628
+Shanxi Favor
+Name_629
+Guangdong Favor
+Name_630
+Shandong Favor
+Name_631
+Jingnan Favor
+Name_632
+Fujian Favor
+Name_633
+Liaodong Favor
+Name_634
+Western Regions Favor
+Name_635
+Yunnan Favor
+Name_636
+Huainan Favor
+Name_637
+Jiangnan Favor
+Name_638
+Jiangbei Favor
+Name_639
+Shaolin Command
+Name_640
+Emei Sect Command
+Name_641
+Valley of Flowers Command
+Name_642
+Wudang Command
+Name_643
+Yuanshan Command
+Name_644
+Lion-Face Clan Command
+Name_645
+Ranshan Command
+Name_646
+Jade-Maiden Sect Command
+Name_647
+Swordsmiths Command
+Name_648
+Kongsang Command
+Name_649
+Metal Command
+Name_650
+the Five Immortals Command
+Name_651
+Veil Scar Command
+Name_652
+Fuloong Sanctuary Command
+Name_653
+Sanguine Command
+Name_654
+Shaolin Command
+Name_655
+Emei Sect Command
+Name_656
+Valley of Flowers Command
+Name_657
+Wudang Command
+Name_658
+Yuanshan Command
+Name_659
+Lion-Face Clan Command
+Name_660
+Ranshan Command
+Name_661
+Jade-Maiden Sect Command
+Name_662
+Swordsmiths Command
+Name_663
+Kongsang Command
+Name_664
+Metal Command
+Name_665
+the Five Immortals Command
+Name_666
+Veil Scar Command
+Name_667
+Fuloong Sanctuary Command
+Name_668
+Sanguine Command
+Name_669
+Shaolin Command
+Name_670
+Emei Sect Command
+Name_671
+Valley of Flowers Command
+Name_672
+Wudang Command
+Name_673
+Yuanshan Command
+Name_674
+Lion-Face Clan Command
+Name_675
+Ranshan Command
+Name_676
+Jade-Maiden Sect Command
+Name_677
+Swordsmiths Command
+Name_678
+Kongsang Command
+Name_679
+Metal Command
+Name_680
+the Five Immortals Command
+Name_681
+Veil Scar Command
+Name_682
+Fuloong Sanctuary Command
+Name_683
+Sanguine Command
+Name_684
+Discover Weed Pile
+Name_685
+Discover Pile of Rubble
+Name_686
+Discover Ruins
+Name_687
+Discover Waters
+Name_688
+Discover Stone Ridge
+Name_689
+Discover Woodland
+Name_690
+Discover Lone Summit
+Name_691
+Discover Herbs
+Name_692
+Discover Toxic Swamp
+Name_693
+Discover Floral Valley
+Name_694
+Discover Gemstones
+Name_695
+Discover Fertile Land
+Name_696
+Discover Beast Pack
+Name_697
+Discover Flame Pond
+Name_698
+Discover Meteoric Iron Crater
+Name_699
+Discover Thick Woods
+Name_700
+Discover Ancient Forest
+Name_701
+Discover Everspring Gorge
+Name_702
+Discover Mystic Serpent Lair
+Name_703
+Discover Aromatic Meadow
+Name_704
+Discover Fengshui Loong Lair
+Name_705
+Discover Spirit Vein
+Name_706
+Discover Permafrost
+Name_707
+Balanced Fine Art
+Name_708
+Early Blooming Fine Arts
+Name_709
+Late Blooming Fine Arts
+Name_710
+Balanced Martial Arts
+Name_711
+Early Blooming Martial Arts
+Name_712
+Late Bloomer Martial Arts
+Name_713
+Вернувшийся клинок
+Name_714
+Печать духа
+Name_715
+Удар ледяного сердца
+Name_716
+Величавый фэнхуан
+Name_717
+Красота, губящая царства
+Name_718
+Отродье луна
+Name_719
+Jade Transmutation
+Name_720
+Octo-Limbed Fiend
+Name_721
+Небесный мандат
+Name_722
+Вернувшийся клинок
+Name_723
+Печать духа
+Name_724
+Удар ледяного сердца
+Name_725
+Величавый фэнхуан
+Name_726
+Красота, губящая царства
+Name_727
+Отродье луна
+Name_728
+Jade Transmutation
+Name_729
+Octo-Limbed Fiend
+Name_730
+Небесный мандат
+Name_731
+Вернувшийся клинок
+Name_732
+Печать духа
+Name_733
+Удар ледяного сердца
+Name_734
+Величавый фэнхуан
+Name_735
+Красота, губящая царства
+Name_736
+Отродье луна
+Name_737
+Jade Transmutation
+Name_738
+Octo-Limbed Fiend
+Name_739
+Небесный мандат
+Name_740
+Вернувшийся клинок
+Name_741
+Печать духа
+Name_742
+Удар ледяного сердца
+Name_743
+Величавый фэнхуан
+Name_744
+Красота, губящая царства
+Name_745
+Отродье луна
+Name_746
+Jade Transmutation
+Name_747
+Octo-Limbed Fiend
+Name_748
+Небесный мандат
+Desc_0
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Qi Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_1
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Footwork Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_2
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Unique Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_3
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Fist Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_4
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Finger Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_5
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Kicking Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_6
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Concealed Weapons Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_7
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Sword Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_8
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Blade Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_9
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Polearm Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_10
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Exotic Weapons Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_11
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Whip Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_12
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Ranged Weapons Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_13
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Instrument Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_14
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Music Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_15
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Weiqi Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_16
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Literature Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_17
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Painting Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_18
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Astrology Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_19
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Appreciation Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_20
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Smithing Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_21
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Carpentry Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_22
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Medical Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_23
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Toxicology Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_24
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Weaving Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_25
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Jewelcrafting Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_26
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Taoism Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_27
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Buddhism Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_28
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Culinary Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_29
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Unorthodox Arts Talent by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_30
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Qi Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_31
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Footwork Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_32
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Unique Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_33
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Fist Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_34
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Finger Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_35
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Kicking Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_36
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Concealed Weapons Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_37
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Sword Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_38
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Blade Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_39
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Polearm Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_40
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Exotic Weapons Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_41
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Whip Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_42
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Ranged Weapons Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_43
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Instrument Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_44
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Music Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_45
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Weiqi Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_46
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Literature Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_47
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Painting Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_48
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Astrology Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_49
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Appreciation Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_50
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Smithing Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_51
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Carpentry Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_52
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Medical Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_53
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Toxicology Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_54
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Weaving Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_55
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Jewelcrafting Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_56
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Taoism Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_57
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Buddhism Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_58
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Culinary Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_59
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Unorthodox Arts Talent by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_60
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Qi Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_61
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Footwork Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_62
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Unique Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_63
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Fist Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_64
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Finger Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_65
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Kicking Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_66
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Concealed Weapons Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_67
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Sword Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_68
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Blade Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_69
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Polearm Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_70
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Exotic Weapons Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_71
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Whip Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_72
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Ranged Weapons Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_73
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Instrument Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_74
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Music Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_75
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Weiqi Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_76
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Literature Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_77
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Painting Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_78
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Astrology Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_79
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Appreciation Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_80
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Smithing Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_81
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Carpentry Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_82
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Medical Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_83
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Toxicology Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_84
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Weaving Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_85
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Jewelcrafting Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_86
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Taoism Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_87
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Buddhism Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_88
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Culinary Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_89
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Unorthodox Arts Talent by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_90
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Qi Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_91
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Footwork Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_92
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Unique Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_93
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Fist Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_94
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Finger Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_95
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Kicking Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_96
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Concealed Weapons Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_97
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Sword Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_98
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Blade Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_99
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Polearm Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_100
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Exotic Weapons Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_101
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Whip Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_102
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Ranged Weapons Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_103
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Instrument Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_104
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Music Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_105
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Weiqi Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_106
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Literature Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_107
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Painting Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_108
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Astrology Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_109
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Appreciation Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_110
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Smithing Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_111
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Carpentry Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_112
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Medical Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_113
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Toxicology Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_114
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Weaving Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_115
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Jewelcrafting Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_116
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Taoism Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_117
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Buddhism Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_118
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Culinary Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_119
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Unorthodox Arts Talent by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_120
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Qi Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_121
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Footwork Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_122
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Unique Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_123
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Fist Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_124
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Finger Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_125
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Kicking Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_126
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Concealed Weapons Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_127
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Sword Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_128
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Blade Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_129
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Polearm Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_130
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Exotic Weapons Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_131
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Whip Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_132
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Ranged Weapons Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_133
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Instrument Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_134
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Music Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_135
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Weiqi Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_136
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Literature Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_137
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Painting Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_138
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Astrology Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_139
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Appreciation Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_140
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Smithing Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_141
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Carpentry Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_142
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Medical Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_143
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Toxicology Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_144
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Weaving Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_145
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Jewelcrafting Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_146
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Taoism Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_147
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Buddhism Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_148
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Culinary Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_149
+Spend Legacy Points to stimulate Successor of Taiwu's Potential, increasing their <color=#lightblue>Unorthodox Arts Talent by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_150
+Give up Successor of Taiwu's <color=#brightred>Qi Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_151
+Give up Successor of Taiwu's <color=#brightred>Footwork Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_152
+Give up Successor of Taiwu's <color=#brightred>Unique Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_153
+Give up Successor of Taiwu's <color=#brightred>Fist Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_154
+Give up Successor of Taiwu's <color=#brightred>Finger Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_155
+Give up Successor of Taiwu's <color=#brightred>Kicking Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_156
+Give up Successor of Taiwu's <color=#brightred>Concealed Weapons Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_157
+Give up Successor of Taiwu's <color=#brightred>Sword Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_158
+Give up Successor of Taiwu's <color=#brightred>Blade Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_159
+Give up Successor of Taiwu's <color=#brightred>Polearm Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_160
+Give up Successor of Taiwu's <color=#brightred>Exotic Weapons Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_161
+Give up Successor of Taiwu's <color=#brightred>Whip Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_162
+Give up Successor of Taiwu's <color=#brightred>Ranged Weapons Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_163
+Give up Successor of Taiwu's <color=#brightred>Instrument Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_164
+Give up Successor of Taiwu's <color=#brightred>Music Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_165
+Give up Successor of Taiwu's <color=#brightred>Weiqi Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_166
+Give up Successor of Taiwu's <color=#brightred>Literature Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_167
+Give up Successor of Taiwu's <color=#brightred>Painting Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_168
+Give up Successor of Taiwu's <color=#brightred>Astrology Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_169
+Give up Successor of Taiwu's <color=#brightred>Appreciation Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_170
+Give up Successor of Taiwu's <color=#brightred>Smithing Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_171
+Give up Successor of Taiwu's <color=#brightred>Carpentry Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_172
+Give up Successor of Taiwu's <color=#brightred>Medical Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_173
+Give up Successor of Taiwu's <color=#brightred>Toxicology Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_174
+Give up Successor of Taiwu's <color=#brightred>Weaving Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_175
+Give up Successor of Taiwu's <color=#brightred>Jewelcrafting Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_176
+Give up Successor of Taiwu's <color=#brightred>Taoism Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_177
+Give up Successor of Taiwu's <color=#brightred>Buddhism Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_178
+Give up Successor of Taiwu's <color=#brightred>Culinary Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_179
+Give up Successor of Taiwu's <color=#brightred>Unorthodox Arts Talent by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_180
+Give up Successor of Taiwu's <color=#brightred>Qi Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_181
+Give up Successor of Taiwu's <color=#brightred>Footwork Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_182
+Give up Successor of Taiwu's <color=#brightred>Unique Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_183
+Give up Successor of Taiwu's <color=#brightred>Fist Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_184
+Give up Successor of Taiwu's <color=#brightred>Finger Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_185
+Give up Successor of Taiwu's <color=#brightred>Kicking Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_186
+Give up Successor of Taiwu's <color=#brightred>Concealed Weapon Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_187
+Give up Successor of Taiwu's <color=#brightred>Sword Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_188
+Give up Successor of Taiwu's <color=#brightred>Blade Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_189
+Give up Successor of Taiwu's <color=#brightred>Polearm Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_190
+Give up Successor of Taiwu's <color=#brightred>Exotic Weapons Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_191
+Give up Successor of Taiwu's <color=#brightred>Whip Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_192
+Give up Successor of Taiwu's <color=#brightred>Ranged Weapons Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_193
+Give up Successor of Taiwu's <color=#brightred>Instrument Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_194
+Give up Successor of Taiwu's <color=#brightred>Music Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_195
+Give up Successor of Taiwu's <color=#brightred>Weiqi Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_196
+Give up Successor of Taiwu's <color=#brightred>Literature Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_197
+Give up Successor of Taiwu's <color=#brightred>Painting Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_198
+Give up Successor of Taiwu's <color=#brightred>Astrology Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_199
+Give up Successor of Taiwu's <color=#brightred>Appreciation Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_200
+Give up Successor of Taiwu's <color=#brightred>Smithing Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_201
+Give up Successor of Taiwu's <color=#brightred>Carpentry Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_202
+Give up Successor of Taiwu's <color=#brightred>Medical Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_203
+Give up Successor of Taiwu's <color=#brightred>Toxicology Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_204
+Give up Successor of Taiwu's <color=#brightred>Weaving Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_205
+Give up Successor of Taiwu's <color=#brightred>Jewelcrafting Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_206
+Give up Successor of Taiwu's <color=#brightred>Taoism Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_207
+Give up Successor of Taiwu's <color=#brightred>Buddhism Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_208
+Give up Successor of Taiwu's <color=#brightred>Culinary Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_209
+Give up Successor of Taiwu's <color=#brightred>Unorthodox Arts Talent by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_210
+Give up Successor of Taiwu's <color=#brightred>Qi Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_211
+Give up Successor of Taiwu's <color=#brightred>Footwork Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_212
+Give up Successor of Taiwu's <color=#brightred>Unique Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_213
+Give up Successor of Taiwu's <color=#brightred>Fist Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_214
+Give up Successor of Taiwu's <color=#brightred>Finger Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_215
+Give up Successor of Taiwu's <color=#brightred>Kicking Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_216
+Give up Successor of Taiwu's <color=#brightred>Concealed Weapons Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_217
+Give up Successor of Taiwu's <color=#brightred>Sword Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_218
+Give up Successor of Taiwu's <color=#brightred>Blade Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_219
+Give up Successor of Taiwu's <color=#brightred>Polearm Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_220
+Give up Successor of Taiwu's <color=#brightred>Exotic Weapons Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_221
+Give up Successor of Taiwu's <color=#brightred>Whip Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_222
+Give up Successor of Taiwu's <color=#brightred>Ranged Weapons Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_223
+Give up Successor of Taiwu's <color=#brightred>Instrument Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_224
+Give up Successor of Taiwu's <color=#brightred>Music Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_225
+Give up Successor of Taiwu's <color=#brightred>Weiqi Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_226
+Give up Successor of Taiwu's <color=#brightred>Literature Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_227
+Give up Successor of Taiwu's <color=#brightred>Painting Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_228
+Give up Successor of Taiwu's <color=#brightred>Astrology Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_229
+Give up Successor of Taiwu's <color=#brightred>Appreciation Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_230
+Give up Successor of Taiwu's <color=#brightred>Smithing Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_231
+Give up Successor of Taiwu's <color=#brightred>Carpentry Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_232
+Give up Successor of Taiwu's <color=#brightred>Medical Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_233
+Give up Successor of Taiwu's <color=#brightred>Toxicology Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_234
+Give up Successor of Taiwu's <color=#brightred>Weaving Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_235
+Give up Successor of Taiwu's <color=#brightred>Jewelcrafting Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_236
+Give up Successor of Taiwu's <color=#brightred>Taoism Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_237
+Give up Successor of Taiwu's <color=#brightred>Buddhism Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_238
+Give up Successor of Taiwu's <color=#brightred>Culinary Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_239
+Give up Successor of Taiwu's <color=#brightred>Unorthodox Arts Talent by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_240
+Give up Successor of Taiwu's <color=#brightred>Qi Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_241
+Give up Successor of Taiwu's <color=#brightred>Footwork Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_242
+Give up Successor of Taiwu's <color=#brightred>Unique Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_243
+Give up Successor of Taiwu's <color=#brightred>Fist Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_244
+Give up Successor of Taiwu's <color=#brightred>Finger Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_245
+Give up Successor of Taiwu's <color=#brightred>Kicking Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_246
+Give up Successor of Taiwu's <color=#brightred>Concealed Weapons Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_247
+Give up Successor of Taiwu's <color=#brightred>Sword Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_248
+Give up Successor of Taiwu's <color=#brightred>Blade Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_249
+Give up Successor of Taiwu's <color=#brightred>Polearm Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_250
+Give up Successor of Taiwu's <color=#brightred>Exotic Weapons Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_251
+Give up Successor of Taiwu's <color=#brightred>Whip Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_252
+Give up Successor of Taiwu's <color=#brightred>Ranged Weapons Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_253
+Give up Successor of Taiwu's <color=#brightred>Instrument Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_254
+Give up Successor of Taiwu's <color=#brightred>Music Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_255
+Give up Successor of Taiwu's <color=#brightred>Weiqi Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_256
+Give up Successor of Taiwu's <color=#brightred>Literature Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_257
+Give up Successor of Taiwu's <color=#brightred>Painting Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_258
+Give up Successor of Taiwu's <color=#brightred>Astrology Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_259
+Give up Successor of Taiwu's <color=#brightred>Appreciation Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_260
+Give up Successor of Taiwu's <color=#brightred>Smithing Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_261
+Give up Successor of Taiwu's <color=#brightred>Carpentry Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_262
+Give up Successor of Taiwu's <color=#brightred>Medical Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_263
+Give up Successor of Taiwu's <color=#brightred>Toxicology Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_264
+Give up Successor of Taiwu's <color=#brightred>Weaving Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_265
+Give up Successor of Taiwu's <color=#brightred>Jewelcrafting Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_266
+Give up Successor of Taiwu's <color=#brightred>Taoism Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_267
+Give up Successor of Taiwu's <color=#brightred>Buddhism Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_268
+Give up Successor of Taiwu's <color=#brightred>Culinary Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_269
+Give up Successor of Taiwu's <color=#brightred>Unorthodox Arts Talent by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_270
+Give up Successor of Taiwu's <color=#brightred>Qi Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_271
+Give up Successor of Taiwu's <color=#brightred>Footwork Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_272
+Give up Successor of Taiwu's <color=#brightred>Unique Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_273
+Give up Successor of Taiwu's <color=#brightred>Fist Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_274
+Give up Successor of Taiwu's <color=#brightred>Finger Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_275
+Give up Successor of Taiwu's <color=#brightred>Kicking Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_276
+Give up Successor of Taiwu's <color=#brightred>Concealed Weapons Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_277
+Give up Successor of Taiwu's <color=#brightred>Sword Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_278
+Give up Successor of Taiwu's <color=#brightred>Blade Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_279
+Give up Successor of Taiwu's <color=#brightred>Polearm Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_280
+Give up Successor of Taiwu's <color=#brightred>Exotic Weapons Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_281
+Give up Successor of Taiwu's <color=#brightred>Whip Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_282
+Give up Successor of Taiwu's <color=#brightred>Ranged Weapons Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_283
+Give up Successor of Taiwu's <color=#brightred>Instrument Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_284
+Give up Successor of Taiwu's <color=#brightred>Music Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_285
+Give up Successor of Taiwu's <color=#brightred>Weiqi Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_286
+Give up Successor of Taiwu's <color=#brightred>Literature Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_287
+Give up Successor of Taiwu's <color=#brightred>Painting Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_288
+Give up Successor of Taiwu's <color=#brightred>Astrology Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_289
+Give up Successor of Taiwu's <color=#brightred>Appreciation Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_290
+Give up Successor of Taiwu's <color=#brightred>Smithing Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_291
+Give up Successor of Taiwu's <color=#brightred>Carpentry Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_292
+Give up Successor of Taiwu's <color=#brightred>Medical Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_293
+Give up Successor of Taiwu's <color=#brightred>Toxicology Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_294
+Give up Successor of Taiwu's <color=#brightred>Weaving Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_295
+Give up Successor of Taiwu's <color=#brightred>Jewelcrafting Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_296
+Give up Successor of Taiwu's <color=#brightred>Taoism Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_297
+Give up Successor of Taiwu's <color=#brightred>Buddhism Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_298
+Give up Successor of Taiwu's <color=#brightred>Culinary Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_299
+Give up Successor of Taiwu's <color=#brightred>Unorthodox Arts Talent by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_300
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Physical Strength ability by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_301
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Agility ability by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_302
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Constitution ability by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_303
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Root Bone ability by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_304
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Comprehension ability by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_305
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Willpower ability by 1!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_306
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Physical Strength ability by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_307
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Agility ability by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_308
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Constitution ability by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_309
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Root Bone ability by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_310
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Comprehension ability by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_311
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Willpower ability by 2!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_312
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Physical Strength ability by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_313
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Agility ability by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_314
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Constitution ability by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_315
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Root Bone ability by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_316
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Comprehension ability by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_317
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Willpower ability by 3!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_318
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Physical Strength ability by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_319
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Agility ability by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_320
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Constitution ability by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_321
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Root Bone ability by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_322
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Comprehension ability by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_323
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Willpower ability by 4!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_324
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Physical Strength ability by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_325
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Agility ability by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_326
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Constitution ability by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_327
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Root Bone ability by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_328
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Comprehension ability by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_329
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>Willpower ability by 5!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_330
+Give up Successor of Taiwu's <color=#brightred>Physical Strength ability by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_331
+Give up Successor of Taiwu's <color=#brightred>Agility ability by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_332
+Give up Successor of Taiwu's <color=#brightred>Constitution ability by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_333
+Give up Successor of Taiwu's <color=#brightred>Root Bone ability by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_334
+Give up Successor of Taiwu's <color=#brightred>Comprehension ability by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_335
+Give up Successor of Taiwu's <color=#brightred>Willpower ability by 2 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_336
+Give up Successor of Taiwu's <color=#brightred>Physical Strength ability by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_337
+Give up Successor of Taiwu's <color=#brightred>Agility ability by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_338
+Give up Successor of Taiwu's <color=#brightred>Constitution ability by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_339
+Give up Successor of Taiwu's <color=#brightred>Root Bone ability by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_340
+Give up Successor of Taiwu's <color=#brightred>Comprehension ability by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_341
+Give up Successor of Taiwu's <color=#brightred>Willpower ability by 4 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_342
+Give up Successor of Taiwu's <color=#brightred>Physical Strength ability by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_343
+Give up Successor of Taiwu's <color=#brightred>Agility ability by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_344
+Give up Successor of Taiwu's <color=#brightred>Constitution ability by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_345
+Give up Successor of Taiwu's <color=#brightred>Root Bone ability by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_346
+Give up Successor of Taiwu's <color=#brightred>Comprehension ability by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_347
+Give up Successor of Taiwu's <color=#brightred>Willpower ability by 6 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_348
+Give up Successor of Taiwu's <color=#brightred>Physical Strength ability by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_349
+Give up Successor of Taiwu's <color=#brightred>Agility ability by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_350
+Give up Successor of Taiwu's <color=#brightred>Constitution ability by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_351
+Give up Successor of Taiwu's <color=#brightred>Root Bone ability by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_352
+Give up Successor of Taiwu's <color=#brightred>Comprehension ability by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_353
+Give up Successor of Taiwu's <color=#brightred>Willpower ability by 8 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_354
+Give up Successor of Taiwu's <color=#brightred>Physical Strength ability by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_355
+Give up Successor of Taiwu's <color=#brightred>Agility ability by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_356
+Give up Successor of Taiwu's <color=#brightred>Constitution ability by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_357
+Give up Successor of Taiwu's <color=#brightred>Root Bone ability by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_358
+Give up Successor of Taiwu's <color=#brightred>Comprehension ability by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_359
+Give up Successor of Taiwu's <color=#brightred>Willpower ability by 10 points</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_360
+Spend Legacy Points to stimulate Successor of Taiwu's glowing health, <color=#lightblue>Charm by 2%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_361
+Spend Legacy Points to stimulate Successor of Taiwu's longevity, increasing their <color=#lightblue>Lifespan increases by 2%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_362
+Spend Legacy Points to stimulate Successor of Taiwu's glowing health, increasing their <color=#lightblue>Charm by 3%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_363
+Spend Legacy Points to stimulate Successor of Taiwu's longevity, increasing their <color=#lightblue>Lifespan increases by 3%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_364
+Spend Legacy Points to stimulate Successor of Taiwu's glowing health, increasing their <color=#lightblue>Charm by 4%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_365
+Spend Legacy Points to stimulate Successor of Taiwu's longevity, increasing their <color=#lightblue>Lifespan increases by 4%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_366
+Spend Legacy Points to stimulate Successor of Taiwu's vim and vigor, increasing their <color=#lightblue>Charm by 6%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_367
+Spend Legacy Points to stimulate Successor of Taiwu's longevity, increasing their <color=#lightblue>Lifespan increases by 6%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_368
+Spend Legacy Points to stimulate Successor of Taiwu's vim and vigor, increasing their <color=#lightblue>Charm by 8%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_369
+Spend Legacy Points to stimulate Successor of Taiwu's longevity, increasing their <color=#lightblue>Lifespan increases by 8%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_370
+Spend Legacy Points to stimulate Successor of Taiwu's vim and vigor, increasing their <color=#lightblue>Charm by 10%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_371
+Spend Legacy Points to stimulate Successor of Taiwu's longevity, increasing their <color=#lightblue>Lifespan increases by 10%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_372
+Spend Legacy Points to stimulate Successor of Taiwu's youthful rejuvenation, increasing their <color=#lightblue>Charm by 12%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_373
+Spend Legacy Points to stimulate Successor of Taiwu's longevity, increasing their <color=#lightblue>Lifespan increases by 12%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_374
+Spend Legacy Points to stimulate Successor of Taiwu's youthful rejuvenation, increasing their <color=#lightblue>Charm by 15%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_375
+Spend Legacy Points to stimulate Successor of Taiwu's longevity, increasing their <color=#lightblue>Lifespan increases by 15%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_376
+Give up Successor of Taiwu's <color=#brightred>2% Charm</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_377
+Give up Successor of Taiwu's <color=#brightred>2% Lifespan</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_378
+Give up Successor of Taiwu's <color=#brightred>3% Charm</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_379
+Give up Successor of Taiwu's <color=#brightred>3% Lifespan</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_380
+Give up Successor of Taiwu's <color=#brightred>4% Charm</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_381
+Give up Successor of Taiwu's <color=#brightred>4% Lifespan</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_382
+Give up Successor of Taiwu's <color=#brightred>6% Charm</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_383
+Give up Successor of Taiwu's <color=#brightred>6% Lifespan</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_384
+Give up Successor of Taiwu's <color=#brightred>8% Charm</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_385
+Give up Successor of Taiwu's <color=#brightred>8% Lifespan</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_386
+Give up Successor of Taiwu's <color=#brightred>10% Charm</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_387
+Give up Successor of Taiwu's <color=#brightred>10% Lifespan</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_388
+Give up Successor of Taiwu's <color=#brightred>12% Charm</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_389
+Give up Successor of Taiwu's <color=#brightred>12% Lifespan</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_390
+Give up Successor of Taiwu's <color=#brightred>15% Charm</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_391
+Give up Successor of Taiwu's <color=#brightred>15% Lifespan</color>, gain more <color=#lightblue>Legacy Points!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_392
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>maximum Qi by 50!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_393
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>maximum Qi by 100!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_394
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>maximum Qi by 150!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_395
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>maximum Qi by 200!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_396
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>maximum Qi by 250!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_397
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>maximum Qi by 300!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_398
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>maximum Qi by 350!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_399
+Spend Legacy Points to stimulate Successor of Taiwu's potential, increasing their <color=#lightblue>maximum Qi by 400!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_400
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Physical Might</color> trait!
+Desc_401
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Beastly Strength</color> trait!
+Desc_402
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Colossal Strength</color> trait!
+Desc_403
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Somewhat Feeble</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_404
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Weak Physique</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_405
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Pitiably Puny</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_406
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>In Rude Health</color> trait!
+Desc_407
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Fit as a Fiddle</color> trait!
+Desc_408
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Divine Body</color> trait!
+Desc_409
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Willowy Frame</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_410
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Significantly Sickly</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_411
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Frail and Feeble</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_412
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Acute Senses</color> trait!
+Desc_413
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Rapid Reasoning</color> trait!
+Desc_414
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Unfathomable Intellect</color> trait!
+Desc_415
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Clumsy</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_416
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Tongue-Tied</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_417
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Dull as a Puppet</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_418
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Peculiar Skeleton</color> trait!
+Desc_419
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Righteous Form</color> trait!
+Desc_420
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Immortal Vitality</color> trait!
+Desc_421
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Qi Deficiency</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_422
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Qi Congestion</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_423
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Qi Stagnation</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_424
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Sharp Wit</color> trait!
+Desc_425
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Inherent Intelligence</color> trait!
+Desc_426
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Wisdom Unparalleled</color> trait!
+Desc_427
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Dim-minded</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_428
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Thick as a Plank</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_429
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Pig-Brained</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_430
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Tenacious</color> trait!
+Desc_431
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Clarity of Mind</color> trait!
+Desc_432
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Crystal Will</color> trait!
+Desc_433
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Restless Mind</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_434
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Weak-willed</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_435
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Fickle Heart</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_436
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Innately Able</color> trait!
+Desc_437
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Rare Genius</color> trait!
+Desc_438
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Heavenly Gifted</color> trait!
+Desc_439
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Lacking Talent</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_440
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Almost Useless</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_441
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Severely Handicapped</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_442
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Empathetic</color> trait!
+Desc_443
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Affable Nature</color> trait!
+Desc_444
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Peerless Glamour</color> trait!
+Desc_445
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Fickle-Tempered</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_446
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Thoroughly Disagreeable</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_447
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Agonizingly Arrogant</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_448
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Good Fortune</color> trait!
+Desc_449
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Blessed Luck</color> trait!
+Desc_450
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Chosen One</color> trait!
+Desc_451
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Fortune-Broken</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_452
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Wretched Luck</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_453
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Star-Crossed</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_454
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Resilient</color> trait!
+Desc_455
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Tough as Nails</color> trait!
+Desc_456
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Indomitable</color> trait!
+Desc_457
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Poor Complexion</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_458
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Slow Self-healing</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_459
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Fragile Frame</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_460
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Meridian Harmony</color> trait!
+Desc_461
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Attuned Flows</color> trait!
+Desc_462
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Universal Alignment</color> trait!
+Desc_463
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Meridian Blockage</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_464
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Qi Disharmony</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_465
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Deadened Meridians</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_466
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Glowing Health</color> trait!
+Desc_467
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Vim and Vigor</color> trait!
+Desc_468
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Impervious to Ills</color> trait!
+Desc_469
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Poor Health</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_470
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Worn and Torn</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_471
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Disease-Ridden</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_472
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Steady Nature</color> trait!
+Desc_473
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Resolute Spirit</color> trait!
+Desc_474
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Solid as a Rock</color> trait!
+Desc_475
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Somewhat Impulsive</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_476
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Bullheaded</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_477
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Absolute Hothead</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_478
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Focused Qi</color> trait!
+Desc_479
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Inborn Energies</color> trait!
+Desc_480
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Abundant Flows</color> trait!
+Desc_481
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Energy Imbalance</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_482
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Elemental Conflict</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_483
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Essence Dissipation</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_484
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Steadfast Calm</color> trait!
+Desc_485
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Inner Harmony</color> trait!
+Desc_486
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Divine Meridians</color> trait!
+Desc_487
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Mental Instability</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_488
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Pent Up Melancholy</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_489
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Complete Disorder</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_490
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Tranquil</color> trait!
+Desc_491
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Calm and Collected</color> trait!
+Desc_492
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Unflinching Resilience</color> trait!
+Desc_493
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Flustered</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_494
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Poor Composure</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_495
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Utter Mess</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_496
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Preemptive Focus</color> trait!
+Desc_497
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Great Foresight</color> trait!
+Desc_498
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Almighty Acuity</color> trait!
+Desc_499
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Unsure Mind</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_500
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Second-Guessing</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_501
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Walking Catastrophe</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_502
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Quick Reflexes</color> trait!
+Desc_503
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Pinpoint Precision</color> trait!
+Desc_504
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Stealthy Movement</color> trait!
+Desc_505
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Poor Reactions</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_506
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Disoriented</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_507
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Uncoordinated Mess</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_508
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Daring</color> trait!
+Desc_509
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Dauntless Aura</color> trait!
+Desc_510
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Utterly Fearless</color> trait!
+Desc_511
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Meek</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_512
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Down and Out</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_513
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Quivering Coward</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_514
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Adaptable</color> trait!
+Desc_515
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Attentive Eye</color> trait!
+Desc_516
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Ingenious Mind</color> trait!
+Desc_517
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Listless</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_518
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Overly Rash</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_519
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Incredibly Impetuous</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_520
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Nimble</color> trait!
+Desc_521
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Lightning Pace</color> trait!
+Desc_522
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Speed Immeasurable</color> trait!
+Desc_523
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Slow Mover</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_524
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Painfully Indolent</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_525
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Drowsy Spirit</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_526
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Fierce Aura</color> trait!
+Desc_527
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Merciless Heart</color> trait!
+Desc_528
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Warlike Rakshasa</color> trait!
+Desc_529
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Tender Heart</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_530
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Placid Pacifist</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_531
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Overly Tender-hearted</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_532
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Healthy Pulses</color> trait!
+Desc_533
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Bristling Energies</color> trait!
+Desc_534
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Pure True Qi</color> trait!
+Desc_535
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Flawed Pulses</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_536
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Failing Energies</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_537
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>True Qi Discordance</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_538
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Synergy</color> trait!
+Desc_539
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Qi Harmony</color> trait!
+Desc_540
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Primal Energy Conduit</color> trait!
+Desc_541
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Scatterbrained</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_542
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Blocked Flows</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_543
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Obdurate Iron Constitution</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_544
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Fleet of Foot</color> trait!
+Desc_545
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Magnificent Strides</color> trait!
+Desc_546
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Serpentine Agility</color> trait!
+Desc_547
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Limping Walk</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_548
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Staggering Gait</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_549
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Snail's Pace</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_550
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Unusual Constitution</color> trait!
+Desc_551
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Noble and Unspoiled</color> trait!
+Desc_552
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Toxin Impervious</color> trait!
+Desc_553
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>「Corrupt Essence Invades the Body」</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_554
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Lowered Defenses</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_555
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Congenital Hidden Ailment</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_556
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Long Limbs</color> trait!
+Desc_557
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Elegant and Statuesque</color> trait!
+Desc_558
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Slender-waisted and Broad-backed</color> trait!
+Desc_559
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Top-heavy</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_560
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Strange-looking</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_561
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Weirdly Shaped</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_562
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Enthusiast</color> trait!
+Desc_563
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Single-minded</color> trait!
+Desc_564
+Spend Legacy Points so Successor of Taiwu gains the <color=#lightblue>Unswerving Loyalty</color> trait!
+Desc_565
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Wavering Will</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_566
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Fickle</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_567
+In life, blessings may come in disguise. Grants Successor of Taiwu the <color=#brightred>Capricious</color> trait, but they gain more <color=#lightblue>Legacy Points!</color>
+Desc_568
+Spend Legacy Points to change Successor of Taiwu's mindset to <color=#ffe78f>Principled</color>!
+Desc_569
+Spend Legacy Points to change Successor of Taiwu's mindset to <color=#9fe0dc>Benevolent</color>!
+Desc_570
+Spend Legacy Points to change Successor of Taiwu's mindset to <color=#ffffff>Moderate</color>!
+Desc_571
+Spend Legacy Points to change Successor of Taiwu's mindset to <color=#b975ff>Rebellious</color>!
+Desc_572
+Spend Legacy Points to change Successor of Taiwu's mindset to <color=#c6272e>Egocentric</color>!
+Desc_573
+Spend Legacy Points to change Successor of Taiwu's Qi to <color=#c6272e>Metal Qi</color>!
+Desc_574
+Spend Legacy Points to change Successor of Taiwu's Qi to <color=#c682ff>Wood Qi</color>!
+Desc_575
+Spend Legacy Points to change Successor of Taiwu's Qi to <color=#acd5ff>Water Qi</color>!
+Desc_576
+Spend Legacy Points to change Successor of Taiwu's Qi to <color=#fc514c>Fire Qi</color>!
+Desc_577
+Spend Legacy Points to change Successor of Taiwu's Qi to <color=#68eb6b>Earth Qi</color>!
+Desc_578
+Spend Legacy Points to change Successor of Taiwu's Qi to <color=#e3edff>Hunyuan Qi</color>!
+Desc_579
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Jingji]</color> region!
+Desc_580
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Bashu]</color> region!
+Desc_581
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Guangnan]</color> region!
+Desc_582
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Jingbei]</color> region!
+Desc_583
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Shanxi]</color> region!
+Desc_584
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Guangdong]</color> region!
+Desc_585
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Shandong]</color> region!
+Desc_586
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Jingnan]</color> region!
+Desc_587
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Fujian]</color> region!
+Desc_588
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Liaodong]</color> region!
+Desc_589
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Western Regions]</color>!
+Desc_590
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Yunnan]</color> region!
+Desc_591
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Huainan]</color> region!
+Desc_592
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Jiangnan]</color> region!
+Desc_593
+Spend Legacy Points and <color=#lightblue>Several geniuses emerge</color> successively in the <color=#orange>[Jiangbei]</color> region!
+Desc_594
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Jingji</color> Region!
+Desc_595
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Bashu</color> Region!
+Desc_596
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Guangnan</color> Region!
+Desc_597
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Jingbei</color> Region!
+Desc_598
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Shanxi</color> Region!
+Desc_599
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Guangdong</color> Region!
+Desc_600
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Shandong</color> Region!
+Desc_601
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Jingnan</color> Region!
+Desc_602
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Fujian</color> Region!
+Desc_603
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Liaodong</color> Region!
+Desc_604
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Western Regions</color>!
+Desc_605
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Yunnan</color> Region!
+Desc_606
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Huainan</color> Region!
+Desc_607
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Jiangnan</color> Region!
+Desc_608
+Spend Legacy Points to immediately <color=#brightblue>increase 300 Regional Favor</color> for <color=#orange>Jiangbei</color> Region!
+Desc_609
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Jingji</color> Region!
+Desc_610
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Bashu</color> Region!
+Desc_611
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Guangnan</color> Region!
+Desc_612
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Jingbei</color> Region!
+Desc_613
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Shanxi</color> Region!
+Desc_614
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Guangdong</color> Region!
+Desc_615
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Shandong</color> Region!
+Desc_616
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Jingnan</color> Region!
+Desc_617
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Fujian</color> Region!
+Desc_618
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Liaodong</color> Region!
+Desc_619
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Western Regions</color>!
+Desc_620
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Yunnan</color> Region!
+Desc_621
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Huainan</color> Region!
+Desc_622
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Jiangnan</color> Region!
+Desc_623
+Spend Legacy Points to immediately <color=#brightblue>increase 600 Regional Favor</color> for <color=#orange>Jiangbei</color> Region!
+Desc_624
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Jingji</color> Region!
+Desc_625
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Bashu</color> Region!
+Desc_626
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Guangnan</color> Region!
+Desc_627
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Jingbei</color> Region!
+Desc_628
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Shanxi</color> Region!
+Desc_629
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Guangdong</color> Region!
+Desc_630
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Shandong</color> Region!
+Desc_631
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Jingnan</color> Region!
+Desc_632
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Fujian</color> Region!
+Desc_633
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Liaodong</color> Region!
+Desc_634
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Western Regions</color>!
+Desc_635
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Yunnan</color> Region!
+Desc_636
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Huainan</color> Region!
+Desc_637
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Jiangnan</color> Region!
+Desc_638
+Spend Legacy Points to immediately <color=#brightblue>increase 900 Regional Favor</color> for <color=#orange>Jiangbei</color> Region!
+Desc_639
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color></color> of the <color=#orange>[Shaolin Sect]!</color>
+Desc_640
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Emei Sect]!</color>
+Desc_641
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Valley of Flowers]!</color>
+Desc_642
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Wudang Sect]!</color>
+Desc_643
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Yuanshan Sect]!</color>
+Desc_644
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Lion-Face Clan]!</color>
+Desc_645
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Ranshan Sect]!</color>
+Desc_646
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Jade-Maiden Sect]!</color>
+Desc_647
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Swordsmith Villa]!</color>
+Desc_648
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>Kongsang Sect!</color>
+Desc_649
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Vajra Sect]!</color>
+Desc_650
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Five Immortals Sect]!</color>
+Desc_651
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Veil Scar Sect]!</color>
+Desc_652
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Fuloong Sanctuary]!</color>
+Desc_653
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some low-ranking disciples</color> of the <color=#orange>[Sanguine Sect]!</color>
+Desc_654
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Shaolin Sect]!</color>
+Desc_655
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Emei Sect]!</color>
+Desc_656
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Valley of Flowers]!</color>
+Desc_657
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Wudang Sect]!</color>
+Desc_658
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Yuanshan Sect]!</color>
+Desc_659
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Lion-Face Clan]!</color>
+Desc_660
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Ranshan Sect]!</color>
+Desc_661
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Jade-Maiden Sect]!</color>
+Desc_662
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Swordsmith Villa]!</color>
+Desc_663
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>Kongsang Sect!</color>
+Desc_664
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Vajra Sect]!</color>
+Desc_665
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Five Immortals Sect]!</color>
+Desc_666
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Veil Scar Sect]!</color>
+Desc_667
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Fuloong Sanctuary]!</color>
+Desc_668
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some mid-ranking disciples</color> of the <color=#orange>[Sanguine Sect]!</color>
+Desc_669
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Shaolin Sect]!</color>
+Desc_670
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Emei Sect]!</color>
+Desc_671
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Valley of Flowers]!</color>
+Desc_672
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Wudang Sect]!</color>
+Desc_673
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Yuanshan Sect]!</color>
+Desc_674
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Lion-Face Clan]!</color>
+Desc_675
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Ranshan Sect]!</color>
+Desc_676
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Jade-Maiden Sect]!</color>
+Desc_677
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Swordsmith Villa]!</color>
+Desc_678
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>Kongsang Sect!</color>
+Desc_679
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Vajra Sect]!</color>
+Desc_680
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Five Immortals Sect]!</color>
+Desc_681
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Veil Scar Sect]!</color>
+Desc_682
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Fuloong Sanctuary]!</color>
+Desc_683
+Spend Legacy Points to immediately gain <color=#lightblue>Sect Support from some high-ranking disciples</color> of the <color=#orange>[Sanguine Sect]!</color>
+Desc_684
+Spend Legacy Points to immediately discover a <color=#orange>Weed Pile</color> in Taiwu Village!\n<color=#yellow>Needs to be constructed in the building space...</color>
+Desc_685
+Spend Legacy Points to immediately discover a <color=#orange>Pile of Rubble</color> in Taiwu Village!\n<color=#yellow>Needs to be constructed in the building space...</color>
+Desc_686
+Spend Legacy Points to immediately discover a tile of <color=#orange>Ruins</color> in Taiwu Village!\n<color=#yellow>Needs to be constructed in the building space...</color>
+Desc_687
+Spend Legacy Points to immediately obtain the core material for <color=#orange>Waters</color>!
+Desc_688
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Stone Ridge</color>!
+Desc_689
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Woodland</color>!
+Desc_690
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Lone Summit</color>!
+Desc_691
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Herbs</color>!
+Desc_692
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Toxic Swamp</color>!
+Desc_693
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Floral Valley</color>!
+Desc_694
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Gemstones</color>!
+Desc_695
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Fertile Land</color>!
+Desc_696
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Beast Pack</color>!
+Desc_697
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Flame Pond</color>!
+Desc_698
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Meteoric Iron Crater</color>!
+Desc_699
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Thick Woods</color>!
+Desc_700
+Spend Legacy Points to immediately obtain the core material for an <color=#orange>Ancient Forest</color>!
+Desc_701
+Spend Legacy Points to immediately obtain the core material for an <color=#orange>Everspring Gorge</color>!
+Desc_702
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Mystic Serpent Lair</color>!
+Desc_703
+Spend Legacy Points to immediately obtain the core material for an <color=#orange>Aromatic Meadow</color>!
+Desc_704
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Fengshui Loong Lair</color>!
+Desc_705
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Spirit Vein</color>!
+Desc_706
+Spend Legacy Points to immediately obtain the core material for a <color=#orange>Permafrost</color>!
+Desc_707
+Spend Legacy Points to change Successor of Taiwu's Fine Arts Talent-growth into <color=#orange>[Balanced]</color>!
+Desc_708
+Spend Legacy Points to change Successor of Taiwu's Fine Arts Talent-growth into <color=#orange>[Early Bloomer]</color>!
+Desc_709
+Spend Legacy Points to change Successor of Taiwu's Fine Arts Talent-growth into <color=#orange>[Late Bloomer]</color>!
+Desc_710
+Spend Legacy Points to change Successor of Taiwu's Martial Arts Talent-growth into <color=#orange>[Balanced]</color>!
+Desc_711
+Spend Legacy Points to change Successor of Taiwu's Martial Arts Talent-growth into <color=#orange>[Early Bloomer]</color>!
+Desc_712
+Spend Legacy Points to change Successor of Taiwu's Martial Arts Talent-growth into <color=#orange>[Late Bloomer]</color>!
+Desc_713
+By harnessing the divine art of <color=#orange>Monu Weave</color>, Successor of Taiwu's <color=#lightblue>Toxin resistance increases by 200!</color>\n<color=#yellow>This legacy may affect the Fuyu Hilt...</color>
+Desc_714
+By harnessing the divine art of <color=#orange>Spiritsealer</color>, Successor of Taiwu's <color=#lightblue>Willpower increases by 10!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_715
+By harnessing the divine art of <color=#orange>Dark Frost</color>, Successor of Taiwu's <color=#lightblue>Root Bone increases by 10!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_716
+By harnessing the divine art of <color=#orange>Fenghuang Cocoon</color>, Successor of Taiwu's <color=#lightblue>Comprehension increases by 10!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_717
+By harnessing the divine art of <color=#orange>Ignideus Blaze</color>, Successor of Taiwu's <color=#lightblue>Charm increases by 10%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_718
+By harnessing the divine art of <color=#orange>Candelor's Tail</color>, Successor of Taiwu's <color=#lightblue>Constitution increases by 10!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_719
+By harnessing the divine art of <color=#orange>Vitalos</color>, Successor of Taiwu's <color=#lightblue>Agility increases by 10!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_720
+By harnessing the divine art of <color=#orange>Demonbind</color>, Successor of Taiwu's <color=#lightblue>Strength increases by 10!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_721
+By harnessing the divine art of <color=#orange>Rainbow Ultima</color>, Successor of Taiwu's <color=#lightblue>lifespan increases by 10%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_722
+By harnessing the divine art of <color=#orange>Monu Weave</color>, Successor of Taiwu's <color=#lightblue>Toxin Resistance increases by 400!</color>\n<color=#yellow>This legacy may affect the Fuyu Hilt...</color>
+Desc_723
+By harnessing the divine art of <color=#orange>Spiritsealer</color>, Successor of Taiwu's <color=#lightblue>Willpower increases by 15!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_724
+By harnessing the divine art of <color=#orange>Dark Frost</color>, Successor of Taiwu's <color=#lightblue>Root Bone increases by 15!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_725
+By harnessing the divine art of <color=#orange>Fenghuang Cocoon</color>, Successor of Taiwu's <color=#lightblue>Comprehension increases by 15!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_726
+By harnessing the divine art of <color=#orange>Ignideus Blaze</color>, Successor of Taiwu's <color=#lightblue>Charm increases by 15%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_727
+By harnessing the divine art of <color=#orange>Candelor's Tail</color>, Successor of Taiwu's <color=#lightblue>Constitution increases by 15!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_728
+By harnessing the divine art of <color=#orange>Vitalos</color>, Successor of Taiwu's <color=#lightblue>Agility increases by 15!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_729
+By harnessing the divine art of <color=#orange>Demonbind</color>, Successor of Taiwu's <color=#lightblue>Strength increases by 15!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_730
+By harnessing the divine art of <color=#orange>Rainbow Ultima</color>, Successor of Taiwu's <color=#lightblue>lifespan increases by 15%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_731
+By harnessing the divine art of <color=#orange>Monu Weave</color>, Successor of Taiwu's <color=#lightblue>Toxin Resistance increases by 600!</color>\n<color=#yellow>This legacy may affect the Fuyu Hilt...</color>
+Desc_732
+By harnessing the divine art of <color=#orange>Spiritsealer</color>, Successor of Taiwu's <color=#lightblue>Willpower increases by 20!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_733
+By harnessing the divine art of <color=#orange>Dark Frost</color>, Successor of Taiwu's <color=#lightblue>Root Bone increases by 20!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_734
+By harnessing the divine art of <color=#orange>Fenghuang Cocoon</color>, Successor of Taiwu's <color=#lightblue>Comprehension increases by 20!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_735
+By harnessing the divine art of <color=#orange>Ignideus Blaze</color>, Successor of Taiwu's <color=#lightblue>Charm increases by 20%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_736
+By harnessing the divine art of <color=#orange>Candelor's Tail</color>, Successor of Taiwu's <color=#lightblue>Constitution increases by 20!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_737
+By harnessing the divine art of <color=#orange>Vitalos</color>, Successor of Taiwu's <color=#lightblue>Agility increases by 20!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_738
+By harnessing the divine art of <color=#orange>Demonbind</color>, Successor of Taiwu's <color=#lightblue>Strength increases by 20!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_739
+By harnessing the divine art of <color=#orange>Rainbow Ultima</color>, Successor of Taiwu's <color=#lightblue>lifespan increases by 20%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_740
+By harnessing the divine art of <color=#orange>Monu Weave</color>, Successor of Taiwu's <color=#lightblue>Toxin Resistance increases by 800!</color>\n<color=#yellow>This legacy may affect the Fuyu Hilt...</color>
+Desc_741
+By harnessing the divine art of <color=#orange>Spiritsealer</color>, Successor of Taiwu's <color=#lightblue>Willpower increases by 30!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_742
+By harnessing the divine art of <color=#orange>Dark Frost</color>, Successor of Taiwu's <color=#lightblue>Root Bone increases by 30!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_743
+By harnessing the divine art of <color=#orange>Fenghuang Cocoon</color>, Successor of Taiwu's <color=#lightblue>Comprehension increases by 30!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_744
+By harnessing the divine art of <color=#orange>Ignideus Blaze</color>, Successor of Taiwu's <color=#lightblue>Charm increases by 30%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_745
+By harnessing the divine art of <color=#orange>Candelor's Tail</color>, Successor of Taiwu's <color=#lightblue>Constitution increases by 30!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_746
+By harnessing the divine art of <color=#orange>Vitalos</color>, Successor of Taiwu's <color=#lightblue>Agility increases by 30!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_747
+By harnessing the divine art of <color=#orange>Demonbind</color>, Successor of Taiwu's <color=#lightblue>Strength increases by 30!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+Desc_748
+By harnessing the divine art of <color=#orange>Rainbow Ultima</color>, Successor of Taiwu's <color=#lightblue>lifespan increases by 30%!</color>\n<color=#yellow>This Legacy may affect the Fuyu Hilt...</color>
+

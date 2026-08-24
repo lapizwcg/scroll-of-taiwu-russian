@@ -1,0 +1,269 @@
+Name_0
+Basic Attack
+Name_1
+Прицельный удар
+Name_2
+Pinpoint Strike Openings
+Name_3
+Pinpoint Strike Sealed Acupoint
+Name_4
+Pinpoint Strike Attribute Shift
+Name_5
+Боевое искусство
+Name_6
+Optimal Annihilation
+Name_7
+Optimal Protection
+Name_8
+Protection Parry
+Name_9
+Footwork Arts Enhancement
+Name_10
+Footwork Arts Speed Boost
+Name_11
+Cast Amplification
+Name_12
+Move to attack range
+Name_13
+Дистанция
+Name_14
+Move to specified location
+Name_15
+Movement Distance
+Name_16
+Temporary Text
+Name_17
+Memory Boolean
+Name_18
+Memory Integer
+Name_19
+Companion Command
+Name_20
+Смена оружия
+Name_21
+Schedule Action
+Name_22
+Use Healing Medicine
+Name_23
+Use Detox Medicine
+Name_24
+Use Inner Breath Medicine
+Name_25
+Use Boosting medicine
+Name_26
+Use Poison
+Name_27
+Use Souldew
+Name_28
+Use Liquor
+Name_29
+Repair Weapon
+Name_30
+Починить предмет
+Name_31
+Switch Weapon Index
+Name_32
+Смена оружия
+Name_33
+Switch Weapon Type
+Name_34
+Memory Add
+Name_35
+Прервать применение
+Name_36
+Автопрерывание Защиты
+Name_37
+Temporary assign text
+Name_38
+Memory assign boolean
+Name_39
+Memory assign integer
+Name_40
+Memory Total Markers
+Name_41
+Memory Injury Markers
+Name_42
+Memory Opening Markers
+Name_43
+Memory Sealed Acupoint Markers
+Name_44
+Memory Toxin Markers
+Name_45
+Memory Daze Markers
+Name_46
+Memory Wound Markers
+Name_47
+Memory Available Pinpoint Strike Opening Count
+Name_48
+Memorize specific Martial Art
+Name_49
+Move to attack range edge
+Name_50
+Memorize Martial Arts Cast
+Name_51
+Set high priority
+Name_52
+Set low priority
+Name_53
+Reset priority
+Name_54
+Memory Optimal Annihilation
+Name_55
+Cast memory Martial Art
+Name_56
+Прервать искусства Ловкости
+Name_57
+Раскрыть оружие
+Name_58
+Unleashed weapon type
+Name_59
+Consume the first unavailable style
+Name_60
+Consume the first unneeded style stored in memory
+Name_61
+Consume any style for the first time
+Name_62
+Use sundries
+Name_63
+Memorize Currently Scheduled Martial Art
+Name_64
+Charged Footwork Arts (Jump)
+Name_65
+Qi/Physical Ratio Annihilation Martial Art
+Name_66
+Reflection Martial Art
+Desc_0
+Execute basic attack
+Desc_1
+Execute pinpoint strike, use memorized Martial Art {0} section and charging style
+Desc_2
+Cast pinpoint strike openings, use memorized Martial Art {0} section and charging style
+Desc_3
+Cast pinpoint strike sealed acupoint {1}, use memory Martial Art {0} charging style
+Desc_4
+Cast pinpoint strike for Qi attribute shift, use memory Martial Art {0} charging style
+Desc_5
+Cast Martial Art {0}
+Desc_6
+Cast the optimal annihilation Martial Art
+Desc_7
+Cast optimal protection Martial Art
+Desc_8
+Cast protection parry restoration
+Desc_9
+Cast footwork arts enhancement
+Desc_10
+Cast the fastest footwork arts
+Desc_11
+Activate Cast Amplification
+Desc_12
+Set target distance to the center of attack range + {0}
+Desc_13
+Set target distance to opponent's attack range edge
+Desc_14
+Set target distance to {0} Move to maximum distance 
+Desc_15
+Set target distance to the farthest distance on the battlefield
+Desc_16
+Set memory {0} to {1} 
+Desc_17
+Set memory {0} to {1} 
+Desc_18
+Set memory {0} to {1} 
+Desc_19
+Приказ: {0}
+Desc_20
+Switch to current distance weapon from index {0} - {1}
+Desc_21
+Schedule action {0}
+Desc_22
+Use Healing Medicine
+Desc_23
+Use Detox Medicine
+Desc_24
+Use Inner Breath Medicine
+Desc_25
+Use Boosting medicine
+Desc_26
+Use Poison
+Desc_27
+Use Souldew
+Desc_28
+Use Liquor
+Desc_29
+Repair Weapon
+Desc_30
+Починить предмет
+Desc_31
+Switch to weapon at index {0}
+Desc_32
+Switch to weapon {0}
+Desc_33
+Switch to weapon type {0}
+Desc_34
+Add {1} to the corresponding value of memory {0}, if not found, take zero for addition
+Desc_35
+Interrupt the currently casting Martial Art
+Desc_36
+Stop current technique being cast Interrupt body protection Interrupt current protection being used 
+Desc_37
+Set memory {0} corresponding text to {1}
+Desc_38
+Set memory {0} corresponding boolean to {1}
+Desc_39
+Set memory {0} corresponding value to {1}
+Desc_40
+Set {0} in memory to the number of all {1} Markers
+Desc_41
+Set {0} in memory to the number of {1} Injury Markers for all sections
+Desc_42
+Set {0} in memory to the number of {1} Opening Markers for all sections
+Desc_43
+Set {0} in memory to the number of {1} Sealed Acupoint Markers for all sections
+Desc_44
+Set {0} in memory to the number of all {1} Toxin Markers
+Desc_45
+Set {0} in memory to the number of all {1} Daze Markers
+Desc_46
+Set {0} in memory to the number of all {1} Wound Markers
+Desc_47
+Set memory {0} to the current count of available pinoint strike opening count {1} (used for killing)
+Desc_48
+Set memory {0} to Martial Art {1}
+Desc_49
+Set target distance to attack range {0} edge + {1}
+Desc_50
+Set memory {0} to current or last executed Martial Art {1}, default to -1
+Desc_51
+Set memory {0} corresponding Martial Art to high priority
+Desc_52
+Set memory {0} corresponding Martial Art to low priority
+Desc_53
+Reset the priority set for memory Martial Art {0}
+Desc_54
+Set memory {0} to the optimal Annihilation Martial Art that can be cast, default to -1
+Desc_55
+Cast memory Martial Art {0}
+Desc_56
+Stop current footwork arts being used
+Desc_57
+Use weapon {0} to perform Unleashing
+Desc_58
+Use weapon type {0} to perform Unleashing
+Desc_59
+Consume the first unavailable style
+Desc_60
+Consume the first unneeded style stored in memory {0}
+Desc_61
+Consume any style for the first time
+Desc_62
+Use sundries {0}
+Desc_63
+Set memorized {0} as currently scheduled Martial Art to use. Default value: -1.
+Desc_64
+Cast the {0} Footwork Art with the shortest jump charge time.
+Desc_65
+Cast the optimal Annihilation Martial Art with an Qi/Physical Ratio of {0} to {1}.
+Desc_66
+Cast the Protection Martial Art with the highest {0} reflection multiplier.
+

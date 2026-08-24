@@ -1,0 +1,40 @@
+{
+  "title": "Усиление применения",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "atoms": []
+    },
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Расход истинной ци"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "<SpName={Icon}> {Name}",
+          "value": "{Current}/{Cost}"
+        },
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 2
+        },
+        {
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Действие усиления"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "{SpecialEffect.Desc}"
+        }
+      ]
+    }
+  ]
+}

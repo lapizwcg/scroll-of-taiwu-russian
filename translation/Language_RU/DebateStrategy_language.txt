@@ -1,0 +1,481 @@
+Name_0
+Narrative-Driven
+Name_1
+Emotional Manipulation
+Name_2
+Great Sound in Silence
+Name_3
+Strategic Formation
+Name_4
+Strategic Planning
+Name_5
+Deceptive Tactics
+Name_6
+Speech like Prose
+Name_7
+Energy Surge
+Name_8
+Citing Classics
+Name_9
+Drawing Shapes and Colors
+Name_10
+Mastery of Brushwork
+Name_11
+Imitating Reality
+Name_12
+Divining the Future
+Name_13
+Fortune-Telling and Avoiding Disasters
+Name_14
+Цимэнь дуньцзя
+Name_15
+Leisurely Pursuit
+Name_16
+Clouds and Winds
+Name_17
+Wine and Song
+Name_18
+Железная твердыня
+Name_19
+Unwavering Determination
+Name_20
+Испытание горна
+Name_21
+Inventive Mind
+Name_22
+Understanding through Observation
+Name_23
+Ремесленная сноровка
+Name_24
+Four Diagnostic Methods
+Name_25
+Doctor's Benevolence
+Name_26
+Rejuvenation
+Name_27
+Poisonous Words
+Name_28
+Life and Death Together
+Name_29
+Do Not Approach
+Name_30
+Floral Splendor
+Name_31
+Бессчётные нити
+Name_32
+Seamless
+Name_33
+Polishing
+Name_34
+Pearl-Like Radiance
+Name_35
+Mutual Destruction
+Name_36
+Возврат к покою
+Name_37
+Harmonize with the World
+Name_38
+Путь в сиянии природы
+Name_39
+Clear Mind and True Nature
+Name_40
+Nothing in the Mind
+Name_41
+Amitabha
+Name_42
+Daily Essentials
+Name_43
+Feasting Delightfully
+Name_44
+Ox Dissection
+Name_45
+Wild Imagination
+Name_46
+Extensive References
+Name_47
+Thousands of Forms
+Desc_0
+Attach to 1 enemy Contention, <color=#brightred>reducing its Arguments</color>.
+Desc_1
+Attach to up to 3 non-repeating enemy Contentions, <color=#brightred>reducing their Arguments</color>.
+Desc_2
+Attach to up to 6 repeatable enemy Contentions, <color=#brightred>causing them to reduce their Arguments based on the number of this Strategy</color>.
+Desc_3
+Place 1 new Contention <color=#brightblue>in any empty square to the top, bottom, left, or right of your Contention</color>.
+Desc_4
+Select 2 non-repeating Contentions of yours and <color=#brightblue>swap their positions</color>.
+Desc_5
+Select 1 Contention of yours and <color=#brightblue>move it to any empty square except the enemy's Contemplation</color>.
+Desc_6
+Attach to 1 Contention of yours, causing it to <color=#brightblue>eliminate 1 additional enemy Peroration when eliminating enemy Perorations</color>.
+Desc_7
+Attach to up to 2 non-repeating Contentions of yours, causing them to <color=#brightblue>advance 1 extra square forward if the square in front is empty when winning a debate</color>.
+Desc_8
+Attach to up to 3 non-repeating Contentions of yours, causing them to <color=#brightblue>gain Arguments equal to 50% of the enemy Contention's Arguments at the start of a debate</color>.
+Desc_9
+Attach to 1 Contention of yours, <color=#brightblue>increasing its Arguments</color>.
+Desc_10
+Attach to up to 3 non-repeating Contentions of yours, <color=#brightblue>increasing their Arguments</color>.
+Desc_11
+Attach to up to 6 repeatable Contentions of yours, <color=#brightblue>causing them to increase their Arguments based on the number of this strategy</color>.
+Desc_12
+<color=#brightblue>Randomly draw 1 Strategy</color> from the Strategies to Use of both sides.
+Desc_13
+Attach to up to 3 non-repeating Contentions (regardless of side), causing the effects that increase or decrease their Arguments to be reversed.
+Desc_14
+Select 1 enemy Contention and <color=#brightblue>move it to any empty square except your Contemplation</color>.
+Desc_15
+Attach to 1 enemy Contention, <color=#brightred>causing the enemy side to lose Available Arguments equal to 10% of the enemy's Total Arguments each round</color>.
+Desc_16
+Attach to 1 enemy Contention, <color=#brightred>causing the enemy side to lose 1 Strategy Point each round</color>.
+Desc_17
+Attach to up to 2 non-repeating Contentions of yours, <color=#brightblue>causing them to not be eliminated when eliminating enemy Perorations, but instead have their Arguments halved and return to a random friendly empty square</color>.
+Desc_18
+Attach to 1 Contention of yours, <color=#brightblue>causing its Arguments to not be damaged when winning a debate</color>. This effect can trigger only once.
+Desc_19
+Attach to 1 Contention of yours, <color=#brightblue>causing it to not be eliminated when losing a debate. If your Contemplation is empty, it returns to your Contemplation</color>. This effect can trigger only once.
+Desc_20
+Attach to up to 3 non-repeating Contentions of yours, <color=#brightblue>causing their Arguments to increase for each square they advance</color>.
+Desc_21
+Attach to 1 Contention of yours, <color=#brightblue>causing it to recover Available Arguments equal to 10% of your Total Arguments each round</color>.
+Desc_22
+Attach to 1 Contention of yours, <color=#brightblue>causing it to recover 1 Strategy Point each round for you</color>.
+Desc_23
+Select up to 3 non-repeating Contentions of yours. If the square in front is empty, <color=#brightblue>cause them to immediately advance 1 square</color>.
+Desc_24
+Select up to 3 non-repeating enemy Contentions, <color=#brightred>revealing their Arguments</color>.
+Desc_25
+Select up to 2 non-repeating Contentions (regardless of side), <color=#brightred>eliminate them</color>, and <color=#brightblue>restore 1 Peroration to the side the eliminated Contention belonged to</color>.
+Desc_26
+Attach to up to 3 non-repeating Contentions of yours, <color=#brightblue>causing them to restore an equal amount of your Perorations when eliminating enemy Perorations</color>.
+Desc_27
+Attach to 1 enemy Contention, <color=#brightred>preventing the enemy from placing new Contentions to its top, bottom, left, or right</color>.
+Desc_28
+Attach to 2 non-repeating Contentions (regardless of side). <color=#brightred>When one Contention is eliminated, the other Contention is also eliminated</color>.
+Desc_29
+Attach to up to 3 non-repeating enemy Contentions, <color=#brightred>causing them to eliminate an equal amount of enemy Perorations when eliminating your Perorations</color>.
+Desc_30
+Attach to 1 Contention of yours. <color=#brightblue>The more your Contentions there are, the more its Arguments increase</color>.
+Desc_31
+Attach to 1 Contention of yours. <color=#brightblue>When winning a debate, create 1 new Contention with halved Arguments in the empty square behind it</color>.
+Desc_32
+Attach to up to 3 non-repeating Contentions of yours, <color=#brightblue>setting their Arguments equal to the highest Arguments among all your Contentions with this Strategy</color>.
+Desc_33
+Select 1 Contention (regardless of side), <color=#brightred>eliminate it</color>, and <color=#brightblue>allow its owner to reclaim its Arguments</color>.
+Desc_34
+Attach to up to 3 repeatable Contentions (regardless of side). <color=#brightred>Using a Strategy on it requires an additional cost of Strategy Points equal to the number of this Strategy, otherwise it cannot be targeted</color>.
+Desc_35
+Attach to 1 Contention (regardless of side). <color=#brightred>When it eliminates enemy Perorations, both sides additionally lose 3 Perorations simultaneously</color>.
+Desc_36
+Select 1 Contention (regardless of side) and <color=#brightred>move it back to any empty square within up to 3 squares behind it</color>.
+Desc_37
+<color=#brightred>Discard up to 3 of your available Strategies,</color> <color=#brightblue>and gain all the Strategy Points required to use those discarded Strategies</color>
+Desc_38
+<color=#brightblue>Randomly draw 3 Strategies (excluding this one)</color> from the Strategies already discarded by both sides.
+Desc_39
+Select up to 3 non-repeating Contentions (regardless of side), <color=#brightred>revealing their attached Strategies</color>.
+Desc_40
+Attach to 1 Contention (regardless of side), <color=#brightblue>preventing it from engaging in a debate with the opponent's Contention. Instead, when a debate would occur, swap positions with the opponent</color>.
+Desc_41
+Attach to up to 3 non-repeating enemy Contentions, <color=#brightred>allowing them to advance only 1 square on odd-numbered rounds</color>.
+Desc_42
+Attach to up to 3 repeatable Contentions (regardless of side). <color=#brightred>This Strategy cannot be eliminated, transferred, or copied</color>.
+Desc_43
+Select 2 non-repeating Contentions (regardless of side). <color=#brightred>Eliminate the second-selected Contention</color> and <color=#brightblue>merge its Arguments into the first-selected Contention</color>.
+Desc_44
+Select one Contention (friendly or enemy) and break it down into up to 3 new Contentions scattered randomly in empty squares belonging to the original owner, with its Arguments divided equally.
+Desc_45
+Select 1 Contention (regardless of side) and <color=#brightred>immediately eliminate all Strategies attached to it</color>.
+Desc_46
+Select 2 non-repeating Contentions (regardless of side) and swap the Strategies attached to them.
+Desc_47
+Exchange the Strategies owned by both sides.
+StyleDesc_0
+A gentle stream flowing, slowly infiltrating the mind. A word unfinished, causing the enemy's thoughts to waver, making it hard to focus...
+StyleDesc_1
+Melodies transform, as if weeping and lamenting. As the song reaches its depth, the enemy's heart follows the melody, their emotions stirred, unknowingly led by their thoughts...
+StyleDesc_2
+The greatest sound is scarcely heard, and meaning forms naturally of itself. The melody has reached its peak; the sound is unheard, yet the heart stirs, and the shape is unseen but causes sorrow...
+StyleDesc_3
+The pieces fall into formation, like a general commanding troops. By noticing the small details, you can grasp the entire situation and seize the initiative...
+StyleDesc_4
+Sitting still, plans are made in the heart, knowing ten steps ahead without battle...
+StyleDesc_5
+Where the chess piece falls, cunning stratagems spring forth. Feigning weakness while being strong, avoiding the real and striking at the weak, making the enemy fall into confusion and lose their footing...
+StyleDesc_6
+When speaking, words flow like pearls, each sentence becomes a perfect composition. In the moment of eloquence, the enemy collapses without fighting...
+StyleDesc_7
+Thoughts flow like a stream, words waiting to be written. Talent shines through, making the enemy unprepared, unable to defend...
+StyleDesc_8
+With the classics at hand, summoning the wise and the learned, the enemy can only admire, ashamed of their inferiority...
+StyleDesc_9
+With a skilled hand, shapes are drawn with life and colors convey meaning, making the enemy's heart race and be moved...
+StyleDesc_10
+Drawing fish as though they swim, birds as though they fly, every stroke filled with subtlety, making mountains and rivers come to life, and trees carry emotions...
+StyleDesc_11
+Within inches, a thousand miles; within a single stroke, myriad forms. When looking, it feels as though one has entered a painting, making the enemy captivated, unable to distinguish reality from illusion...
+StyleDesc_12
+With the hands calculating, keeping track of the elements, seeing the future before it arrives, and understanding the situation even before making a move...
+StyleDesc_13
+Knowing the doors of fortune and misfortune, recognizing the signs of reversals, guiding the enemy into a disadvantageous situation, making them lose control of their balance...
+StyleDesc_14
+The strange and mysterious path, blending the essence of the trinity, is in your grasp. You can control fate's changes before they happen, it's a path of extraordinary wisdom...
+StyleDesc_15
+The sound of the spring washes the jade, purifying the ear. Observing the enemy's weaknesses as if looking into a clear mirror, causing them to collapse without attack...
+StyleDesc_16
+The clouds sweep the clothes, the heart is as empty as a valley, causing the enemy to lose their composure in the midst of idle strolling, and their strategy falters...
+StyleDesc_17
+Pouring a cup to the moon, a thousand years of singing and farewells. Poetry and wine fill the chest, words shine like the lotus in bloom, breaking through, causing the enemy to collapse without fighting...
+StyleDesc_18
+A thousand li of fortress, a thousand feet deep pool. The words are tightly woven, without a leak, causing the enemy to retreat in defeat...
+StyleDesc_19
+With a combination of firmness and flexibility, a soldier of unwavering resolve is created. Even though the enemy's words are sharp as swords, they cannot break my steadfast argument...
+StyleDesc_20
+Words like tempered steel, reasoning like pure gold. With divine weapon in hand, in a verbal battle, all opponents will be defeated...
+StyleDesc_21
+Finding brilliance in the ordinary, and beauty in simplicity, a unique craft is born, not bound by tradition...
+StyleDesc_22
+By understanding the essence of objects, wisdom is achieved; by knowing, one can act appropriately...
+StyleDesc_23
+Revealing things and illuminating the Way begins from nothingness. Once complete, the divine craftsmanship is apparent, blending with nature's perfection...
+StyleDesc_24
+Through the four diagnostic methods, one can understand the symptoms. The pulse, color, and signs can reveal the source of illness even before it's fully manifested...
+StyleDesc_25
+With benevolent skills, reaching through the heavens, human affairs, and perceiving the suffering of spirits, healing both the body and the heart...
+StyleDesc_26
+In harmony with the heavens, life and death are entwined, with the forces of creation, sickness dissipates, and vitality reappears...
+StyleDesc_27
+Words like poisoned arrows, each one strikes at the heart. Words like poisoned arrows, each one strikes at the heart. Words enter the ears like poison to the heart, disturbing the enemy's mind and damaging their morale...
+StyleDesc_28
+The enemy's core is subtly poisoned by one's own, connecting the fate of both sides—if one is hurt, both are hurt, and those who attack will first hurt themselves...
+StyleDesc_29
+In the midst of verbal combat, one becomes a source of poison, and wherever they go, opposing contentions disappear, with all living beings avoiding within the vicinity...
+StyleDesc_30
+The loom hums in spring, weaving a beautiful tapestry. As threads cross, a floral pattern emerges, and one feels as if surrounded by a sea of blooming flowers...
+StyleDesc_31
+Words like delicate threads can bind strong contentions, like fine lines drawing a thousand truths. Those caught in the net feel like birds trapped in a cage, unable to move freely...
+StyleDesc_32
+Threads cross without leaving a mark, and the pattern connects without a needle being visible. What began without an argument quickly turns into a compelling debate, a seamless connection...
+StyleDesc_33
+Meticulously crafted, removing the rough to retain the fine. The stone is stubborn, but after chiseling, it becomes a tool; the jade is hard, but when polished, it shines...
+StyleDesc_34
+Pearl-light scatters in brilliance, and treasured aura lingers in the air. The brilliance turns, causing the enemy to become dizzy and enchanted, even though it is within arm's reach, it is still unattainable...
+StyleDesc_35
+The beauty of jade becomes empty, the simplicity of stone also disappears, the noble and humble both return to dust, and glory and decay both turn to nothingness...
+StyleDesc_36
+Mind and spirit empty and still, acting in effortless accord with nature. Knowing when to advance and when to retreat, one can change freely within the space, bending and stretching at will...
+StyleDesc_37
+Expanding and contracting with the times, lying low or rising with the tide. Conceal sharp edges in the invisible, keenly observe the times without confusion, like a hidden loong in the abyss, silently waiting for the thunderclouds to form...
+StyleDesc_38
+Emulating Heaven and Earth, following the way of nature. Everything has its use, where it belongs, so no person or thing is ever discarded...
+StyleDesc_39
+By practicing the way, one understands their true heart, sees their true nature, and can cleanse the dust to reveal the light within, thus realizing the ultimate truth...
+StyleDesc_40
+Unshaken in mind and spirit, untouched by worldly dust. Like a gentle breeze passing through bamboo, the bamboo forest makes no sound; the heart does not dwell, the mind does not cling...
+StyleDesc_41
+Reciting "Amitabha" is the supreme and profound meditation. In the place of boundless light, the heavens and earth stand in solemnity, and even ghosts and gods are filled with reverence...
+StyleDesc_42
+People are often busy with the daily essentials of life: rice, oil, salt, soy sauce, vinegar, and tea. When discussing matters of livelihood, people often understand one another and have no desire for debate...
+StyleDesc_43
+Sour from the East, spicy from the West, sweet from the South, salty from the North, all flavors can be savored in a feast. The taste is broad and varied, yet it also contains a harmony that accepts all...
+StyleDesc_44
+The butcher skillfully uses divine will, the knife flows effortlessly through the meat. In debates, if one performs as such, insights naturally arise, and many arguments are held...
+StyleDesc_45
+Well-versed and broad-minded, versed in the learning of a hundred schools. Let the mind roam beyond the boundaries, free and unrestrained, with questions and answers like the wild horse galloping through the sky...
+StyleDesc_46
+In discussions and debates, one should not be overly rigid. Instead, one can draw upon a wide range of references, using flexible and adaptable strategies to illuminate the highest truths and principles.
+StyleDesc_47
+All knowledge stems from a single truth. When the principles are thoroughly understood, one can realize the unity of all methods, and there is no distinction between the strategies of the enemy and oneself...
+PawnEffectDesc_0
+Reduces this Contention's Arguments.
+PawnEffectDesc_1
+Reduces this Contention's Arguments.
+PawnEffectDesc_2
+Reduces this Contention's Arguments.
+PawnEffectDesc_3
+
+PawnEffectDesc_4
+
+PawnEffectDesc_5
+
+PawnEffectDesc_6
+When eliminating the opponent's Peroration, this Contention will eliminate an extra one.
+PawnEffectDesc_7
+When this Contention wins a Clash, if there is an empty square ahead, it will advance by an extra one.
+PawnEffectDesc_8
+When this Contention encounters a Clash, its Arguments at start increase by 50% of those of its opponent Contention.
+PawnEffectDesc_9
+Increases this Contention's Arguments.
+PawnEffectDesc_10
+Increases this Contention's Arguments.
+PawnEffectDesc_11
+Increases this Contention's Arguments.
+PawnEffectDesc_12
+
+PawnEffectDesc_13
+Reverses the increased or decreased effects on this Contention's Arguments.
+PawnEffectDesc_14
+
+PawnEffectDesc_15
+Every round, the owner of this Contention loses their available Arguments by 10% of their Total Arguments.
+PawnEffectDesc_16
+Every round, the owner of this Contention loses 1 Strategy Point.
+PawnEffectDesc_17
+After eliminating the opponent's Peroration, this Contention returns to a random empty space on your side with its Arguments halved.
+PawnEffectDesc_18
+When this Contention wins a Clash, its Arguments will not be deducted. This effect can be triggered only once.
+PawnEffectDesc_19
+When this Contention loses a Clash, it will not be eliminated but return to your heart square if empty. This effect can be triggered only once.
+PawnEffectDesc_20
+Every square this Contention advances increases its Arguments.
+PawnEffectDesc_21
+The owner of this Contention restores their available Arguments by 10% of their Total Arguments each round.
+PawnEffectDesc_22
+The owner of this Contention restores 1 Strategy Point each round.
+PawnEffectDesc_23
+
+PawnEffectDesc_24
+
+PawnEffectDesc_25
+
+PawnEffectDesc_26
+When this Contention eliminates the opponent Perorations, its owner restores their Perorations by an equivalent number.
+PawnEffectDesc_27
+The opponent cannot place new Contentions in any of the empty squares above, below, to the left, or to the right of this Contention.
+PawnEffectDesc_28
+When this Contention is eliminated, the other Contention with this Strategy will also be eliminated.
+PawnEffectDesc_29
+When this Contention eliminates its opponent's Perorations, it will also eliminate its owner's Perorations by an equivalent number.
+PawnEffectDesc_30
+The more the Contentions you have, the more this Contention's Arguments will be.
+PawnEffectDesc_31
+When winning a Clash, this Contention creates a new Contention with half the Arguments in an empty square behind it.
+PawnEffectDesc_32
+The Arguments of this Contention will not be lower than those of other Contentions with this Strategy on the same side.
+PawnEffectDesc_33
+
+PawnEffectDesc_34
+Apply a Strategy to this Contention requires additional Strategy Points, otherwise it cannot be selected as target.
+PawnEffectDesc_35
+When this Contention eliminates its opponent's Peroration, both sides will lose 3 additional Perorations.
+PawnEffectDesc_36
+
+PawnEffectDesc_37
+
+PawnEffectDesc_38
+
+PawnEffectDesc_39
+
+PawnEffectDesc_40
+This Contention will not engage in a Clash with the opponent's Contention, but instead, swap positions with its opponent when that occurs.
+PawnEffectDesc_41
+This Contention can only advance automatically in odd-numbered rounds.
+PawnEffectDesc_42
+This Strategy cannot be discarded, transferred, or copied.
+PawnEffectDesc_43
+
+PawnEffectDesc_44
+
+PawnEffectDesc_45
+
+PawnEffectDesc_46
+
+PawnEffectDesc_47
+
+NoTargetTip_0
+No enemy Contention available to attach...
+NoTargetTip_1
+No enemy Contention available to attach...
+NoTargetTip_2
+No enemy Contention available to attach...
+NoTargetTip_3
+No available slot to place your Contention...
+NoTargetTip_4
+No friendly Contention available to swap...
+NoTargetTip_5
+No friendly Contention available to move...
+NoTargetTip_6
+No friendly Contention available to attach...
+NoTargetTip_7
+No friendly Contention available to attach...
+NoTargetTip_8
+No friendly Contention available to attach...
+NoTargetTip_9
+No friendly Contention available to attach...
+NoTargetTip_10
+No friendly Contention available to attach...
+NoTargetTip_11
+No friendly Contention available to attach...
+NoTargetTip_12
+No Strategies in both-side Incoming Strategies...
+NoTargetTip_13
+No Contention available to attach...
+NoTargetTip_14
+No enemy Contention available to move...
+NoTargetTip_15
+No enemy Contention available to attach...
+NoTargetTip_16
+No enemy Contention available to attach...
+NoTargetTip_17
+No friendly Contention available to attach...
+NoTargetTip_18
+No friendly Contention available to attach...
+NoTargetTip_19
+No friendly Contention available to attach...
+NoTargetTip_20
+No friendly Contention available to attach...
+NoTargetTip_21
+No friendly Contention available to attach...
+NoTargetTip_22
+No friendly Contention available to attach...
+NoTargetTip_23
+No friendly Contention available to select...
+NoTargetTip_24
+No enemy Contention available to reveal...
+NoTargetTip_25
+No Contention available to select...
+NoTargetTip_26
+No friendly Contention available to attach...
+NoTargetTip_27
+No enemy Contention available to attach...
+NoTargetTip_28
+No Contention available to attach...
+NoTargetTip_29
+No Contention available to attach...
+NoTargetTip_30
+No friendly Contention available to attach...
+NoTargetTip_31
+No friendly Contention available to attach...
+NoTargetTip_32
+No friendly Contention available to attach...
+NoTargetTip_33
+No Contention available to select...
+NoTargetTip_34
+No Contention available to attach...
+NoTargetTip_35
+No Contention available to attach...
+NoTargetTip_36
+No Contention available to select...
+NoTargetTip_37
+No Strategies available to discard...
+NoTargetTip_38
+There are no other Strategies, except this one, in both-side Discarded Strategies...
+NoTargetTip_39
+No Contention available to reveal...
+NoTargetTip_40
+No Contention available to attach...
+NoTargetTip_41
+No enemy Contention available to attach...
+NoTargetTip_42
+No Contention available to attach...
+NoTargetTip_43
+No Contention available to select...
+NoTargetTip_44
+No Contention available to select...
+NoTargetTip_45
+No Contention available to select...
+NoTargetTip_46
+No Contention available to select...
+NoTargetTip_47
+The opponent has no available Strategies...
+

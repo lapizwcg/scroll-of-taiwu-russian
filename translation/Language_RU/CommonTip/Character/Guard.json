@@ -1,0 +1,36 @@
+{
+  "title": "Защитник",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "\"У этого человека есть защитник. При первом нападении защитник либо вступит в бой на его стороне, либо будет биться вместо него.\nЕсли это житель города, то и всякое враждебное общение с ним пройдёт через защитника…\nВ неосвоенных и разорённых краях это не действует. Защита одержимых краем не ограничена…\""
+        },
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 2
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "Защитник: {GuardNameStr}\nБьётся ли сам: {IsMain}\nВлияет ли на враждебное общение: {GuardCanAffectInteract}"
+        }
+      ]
+    },
+    {
+      "type": "Default",
+      "name": "Disable",
+      "atoms": [
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<color=#brightred>Защитника этого человека нет поблизости…</color>"
+        }
+      ]
+    }
+  ]
+}

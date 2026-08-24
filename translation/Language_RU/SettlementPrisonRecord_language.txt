@@ -1,0 +1,49 @@
+Name_0
+Prison Trespassing
+Name_1
+Unauthorized Imprisonment
+Name_2
+Prison Break
+Name_3
+Official Imprisonment
+Name_4
+Prisoner Rescue
+Name_5
+Plea for Release
+Name_6
+Voluntary Surrender
+Name_7
+Get Imprisoned
+Name_8
+Release After Sentence
+Name_9
+Prison Escape
+Name_10
+Sent to Prison
+Name_11
+Pardon Granted
+Desc_0
+{0} entered the prison without permission...
+Desc_1
+{0} broke into the prison and imprisoned {1}...
+Desc_2
+{0} broke into the prison and freed {1}...
+Desc_3
+With proper authorization, {0} imprisoned {1}...
+Desc_4
+{0} entered the prison and freed {1}...
+Desc_5
+Thanks to {0} pleading with the sect, {1} was released early...
+Desc_6
+After committing {1}, {0} turned themselves in and was imprisoned...
+Desc_7
+After committing {1}, {0} was caught and imprisoned...
+Desc_8
+{0} has served their sentence and is now released...
+Desc_9
+{0} managed to break out of prison...
+Desc_10
+{0} was sent to prison by {1}...
+Desc_11
+Thanks to {1}'s reputation, {0} was granted a special pardon...
+

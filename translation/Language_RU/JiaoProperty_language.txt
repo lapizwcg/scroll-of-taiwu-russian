@@ -1,0 +1,79 @@
+Name_0
+Стоимость пути
+Name_1
+Вес дорожной сумки
+Name_2
+Loot Drop
+Name_3
+Пленение
+Name_4
+Prisoner Slots
+Name_5
+Награды за разведку
+Name_6
+Ценность
+Name_7
+Настроение от подарка
+Name_8
+Gifting Favorability
+Name_9
+Body Length
+Name_10
+Body Weight
+Name_11
+Lifespan
+Name_12
+Цена
+EventDescUp_0
+Travel costs have decreased.
+EventDescUp_1
+Inventory limit has increased.
+EventDescUp_2
+Loot drop ability has increased
+EventDescUp_3
+Prisoner Capture ability up
+EventDescUp_4
+Prisoner Slots have increased
+EventDescUp_5
+Exploration Reward Enrichment ability up
+EventDescUp_6
+Value has increased
+EventDescUp_7
+Gifting Mood has increased
+EventDescUp_8
+Gifting Favorability has increased
+EventDescUp_9
+
+EventDescUp_10
+
+EventDescUp_11
+
+EventDescUp_12
+Price has increased
+EventDescDown_0
+Travel costs have increased.
+EventDescDown_1
+Inventory limit has decreased.
+EventDescDown_2
+Loot drop ability has decreased
+EventDescDown_3
+Prisoner Capture ability down
+EventDescDown_4
+Prisoner Slots have decreased
+EventDescDown_5
+Exploration Reward Enrichment ability down
+EventDescDown_6
+Value has decreased
+EventDescDown_7
+Gifting Mood has declined
+EventDescDown_8
+Gifting Favorability has declined
+EventDescDown_9
+
+EventDescDown_10
+
+EventDescDown_11
+
+EventDescDown_12
+Price has decreased
+

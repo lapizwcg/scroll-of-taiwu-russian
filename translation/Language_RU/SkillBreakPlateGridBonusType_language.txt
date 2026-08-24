@@ -1,0 +1,533 @@
+Name_0
+Напор
+Name_1
+Искусность
+Name_2
+Стремительность
+Name_3
+Чарование
+Name_4
+Физ. пробитие
+Name_5
+Пробитие ци
+Name_6
+Сопротивление
+Name_7
+Парирование
+Name_8
+Уклонение
+Name_9
+Твёрдость
+Name_10
+Физ. защита
+Name_11
+Защита ци
+Name_12
+Стойка
+Name_13
+Дыхание
+Name_14
+Скорость перемещения
+Name_15
+Steadiness
+Name_16
+Скорость применения
+Name_17
+Всплеск ци
+Name_18
+Оружие
+Name_19
+Скорость атаки
+Name_20
+Искусства ци
+Name_21
+Qi Steadiness
+Name_22
+Крепость
+Name_23
+Беспрепятственное
+Name_24
+Warmth
+Name_25
+Flowing Blood
+Name_26
+Pure Heart
+Name_27
+Ясность разума
+Name_28
+Обаяние
+Name_29
+Плодовитость
+Name_30
+Greater Power
+Name_31
+Lifted Limit
+Name_32
+Smooth Cast
+Name_33
+Lower Cost
+Name_34
+Отвод ци
+Name_35
+Adaptability
+Name_36
+Qi Gaining
+Name_37
+Qi Efficiency
+Name_38
+Elemental Conversion
+Name_39
+Greater Utility
+Name_40
+Light Pace
+Name_41
+Speedy Pace
+Name_42
+Forceful Pace
+Name_43
+Accurate Pace
+Name_44
+Agile Pace
+Name_45
+Driving Pace
+Name_46
+Calm Footwork
+Name_47
+Nimble Footwork
+Name_48
+Greater Defense
+Name_49
+Greater Qi Defense
+Name_50
+Greater Resistance
+Name_51
+Form Shift
+Name_52
+Greater Dodge
+Name_53
+Greater Integrity
+Name_54
+Greater Counterattack
+Name_55
+Greater Clash
+Name_56
+Recoil
+Name_57
+Tiangang Qi
+Name_58
+Greater Enduring
+Name_59
+Penetrating Annihilation
+Name_60
+Accurate Annihilation
+Name_61
+Accuracy to Force
+Name_62
+Agility to Force
+Name_63
+Force to Accuracy
+Name_64
+Prolonged Protection
+Name_65
+Force to Agility
+Name_66
+Accuracy to Agility
+Name_67
+Ranged Annihilation
+Name_68
+Torso Annihilation
+Name_69
+Abdomen Annihilation
+Name_70
+Head Annihilation
+Name_71
+Hands Annihilation
+Name_72
+Feet Annihilation
+Name_73
+Acupoint Annihilation
+Name_74
+Слом Сокрушения
+Name_75
+Potent Annihilation
+Name_76
+Depressant Annihilation
+Name_77
+Вечная мерзлота
+Name_78
+Nerve Annihilation
+Name_79
+Cadaver Poison
+Name_80
+Psychoactive Annihilation
+Name_81
+Universal Harmony
+Name_82
+Сокрушение
+Name_83
+Nimble
+Name_84
+Защита
+Name_85
+Прозорливость
+Name_86
+Throwing Annihilation
+Name_87
+Flicking Annihilation
+Name_88
+Impelling Annihilation
+Name_89
+Hacking Annihilation
+Name_90
+Stabbing Annihilation
+Name_91
+Upswinging Annihilation
+Name_92
+Punching Annihilation
+Name_93
+Jabbing Annihilation
+Name_94
+Grabbing Annihilation
+Name_95
+Tone Annihilation
+Name_96
+Entangling Annihilation
+Name_97
+Spell Annihilation
+Name_98
+Harnessing Annihilation
+Name_99
+Medicine Annihilation
+Name_100
+Poison Annihilation
+Name_101
+Sweeping Annihilation
+Name_102
+Quick Charge-up
+Name_103
+Power Throw
+Name_104
+Power Flick
+Name_105
+Power Impel
+Name_106
+Power Hack
+Name_107
+Power Stab
+Name_108
+Power Upswing
+Name_109
+Power Punch
+Name_110
+Power Jab
+Name_111
+Power Grab
+Name_112
+Power Entangle
+Name_113
+Power Harness
+Name_114
+Power Medicine
+Name_115
+Power Poison
+Name_116
+Power Sweep
+Name_117
+Spirit Throw
+Name_118
+Spirit Flick
+Name_119
+Spirit Impel
+Name_120
+Spirit Hack
+Name_121
+Spirit Stab
+Name_122
+Spirit Upswing
+Name_123
+Spirit Punch
+Name_124
+Spirit Jab
+Name_125
+Spirit Grab
+Name_126
+Spirit Tone
+Name_127
+Spirit Entangle
+Name_128
+Spirit Spell
+Name_129
+Spirit Harness
+Name_130
+Spirit Medicine
+Name_131
+Spirit Poison
+Name_132
+Spirit Sweep
+Desc_0
+<color=#brightblue>Boosts character's Force</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_1
+<color=#brightblue>Boosts character's Precision</color> after practicing a technique. Applies to all types of Martial Arts...
+Desc_2
+<color=#brightblue>Boosts character's Dexterity</color> after practicing a technique. Applies to all types of Martial Arts...
+Desc_3
+<color=#brightblue>Boosts character's Sway</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_4
+<color=#brightblue>Boosts character's Phy. Penetration</color> after practicing a technique. Applies to all types of Martial Arts...
+Desc_5
+<color=#brightblue>Boosts character's Qi Penetration</color> after practicing a technique. Applies to all types of Martial Arts...
+Desc_6
+<color=#brightblue>Boosts character's Resistance</color> after practicing a technique. Applies to all types of Martial Arts...
+Desc_7
+<color=#brightblue>Boosts character's Parry</color> after practicing a technique. Applies to all types of Martial Arts...
+Desc_8
+<color=#brightblue>Boosts character's Dodge</color> after practicing a technique. Applies to all types of Martial Arts...
+Desc_9
+<color=#brightblue>Boosts character's Poise</color> after practicing a technique. Applies to all types of Martial Arts...
+Desc_10
+<color=#brightblue>Boosts character's Phy. Defense</color> after practicing a technique. Applies to all types of Martial Arts...
+Desc_11
+<color=#brightblue>Boosts character's Qi Defense</color> after practicing a technique. Applies to all types of Martial Arts...
+Desc_12
+<color=#brightblue>Boosts character's Stance Recovery</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_13
+<color=#brightblue>Boosts character's Inhale Recovery</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_14
+<color=#brightblue>Boosts character's Movement Speed</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_15
+<color=#brightblue>Boosts character's Footing Steadiness</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_16
+<color=#brightblue>Boosts character's Cast Speed</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_17
+<color=#brightblue>Boosts character's Qi Burst</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_18
+<color=#brightblue>Boosts the attribute bonus from Weapon</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_19
+<color=#brightblue>Boosts character's Attack Speed</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_20
+<color=#brightblue>Boosts character's Qi Art Efficacy</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_21
+<color=#brightblue>Boosts character's Breath Control</color> after practicing a Martial Art. Applies to all types of Martial Arts...
+Desc_22
+<color=#brightblue>Boosts character's <color=#hotpoison>Acritoxin</color> Resistance</color> after practicing a technique. Only applies to Qi Arts and passive Unique Arts...
+Desc_23
+<color=#brightblue>Boosts character's <color=#gloomypoison>Umbritoxin</color> Resistance</color> after practicing a technique. Only applies to Qi Arts or passive Unique Arts...
+Desc_24
+<color=#brightblue>Boosts character's <color=#coldpoison>Cryotoxin</color> Resistance</color> after practicing a technique. Only applies to Qi Arts or passive Unique Arts...
+Desc_25
+<color=#brightblue>Boosts character's <color=#redpoison>Pyrotoxin</color> Resistance</color> after practicing a technique. Only applies to Qi Arts or passive Unique Arts...
+Desc_26
+<color=#brightblue>Boosts character's <color=#rottenpoison>Necrotoxin</color> Resistance</color> after practicing a technique. Only applies to Qi Arts or passive Unique Arts...
+Desc_27
+<color=#brightblue>Boosts character's <color=#illusorypoison>Oneirotoxin</color> Resistance</color> after practicing a technique. Only applies to Qi Arts or passive Unique Arts...
+Desc_28
+<color=#brightblue>Boosts character's Charm</color> after practicing a technique. Only applies to Qi Art or passive Unique Arts...
+Desc_29
+<color=#brightblue>Boosts character's Fertility</color> after practicing a technique. Only applies to Qi Art or passive Unique Arts...
+Desc_30
+<color=#brightblue>Boosts the power of this Martial Art</color>. Applies to all types of Martial Arts...
+Desc_31
+<color=#brightblue>Raises the power cap of this Martial Art</color>. Applies to all types of Martial Arts...
+Desc_32
+<color=#brightblue>Lowers the casting time required to perform this Martial Art</color>. Applies to all types of Martial Arts...
+Desc_33
+<color=#brightblue>Decreases the Inhale & Stance cost when casting this Martial Art</color>. Cannot apply to Footwork Arts.
+Desc_34
+<color=#brightblue>Raises the max Qi Art Ratio for this Martial Art</color>. Cannot apply to Qi Art or passive Unique Arts...
+Desc_35
+<color=#brightblue>Increases the adjustable range of Qi/Physical Martial Arts Ratio of this Martial Art</color>. Cannot apply to Qi Art or passive Unique Arts...
+Desc_36
+<color=#brightblue>Increases the total Qi gained from Microcosmic Circulation</color>. Only applies to Qi Arts...
+Desc_37
+<color=#brightblue>Enhances the efficiency of gaining Qi from Microcosmic Circulation for this Martial Art</color>. Only applies to Qi Art...
+Desc_38
+<color=#brightblue>Enhances the efficiency of transferring elemental attributes from Microcosmic Circulation for this Martial Art</color>. Only applies to non-Hunyuan Qi Art...
+Desc_39
+<color=#brightblue>Provides an additional Utility Slot for this Martial Art</color>. Only applies to Qi Art...
+Desc_40
+<color=#brightblue>Decreases Stamina cost when performing this martial art</color>. Only applies to Footwork Arts and Kicking Arts...
+Desc_41
+<color=#brightblue>Enhances the movement speed bonus after casting this Martial Art</color>. Only applies to Footwork Arts...
+Desc_42
+<color=#brightblue>Increases Force bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Stamina</color>. Only applies to Footwork Arts that already grant Force bonus (excluding bonus from breakthrough achievements)...
+Desc_43
+<color=#brightblue>Increases Precision bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Stamina</color>. Only applies to Footwork Arts that already grant Precision bonus (excluding bonus from breakthrough achievements)...
+Desc_44
+<color=#brightblue>Increases Agility bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Stamina</color>. Only applies to Footwork Arts that already grant Agility bonus (excluding bonus from breakthrough achievements)...
+Desc_45
+<color=#brightblue>Increases Sway bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Stamina</color>. Only applies to Footwork Arts that already grant Sway bonus (excluding bonus from breakthrough achievements)...
+Desc_46
+<color=#brightblue>Lowers the ongoing Stamina cost while the Footwork Art is active</color>. Only applies to Footwork Arts...
+Desc_47
+<color=#brightblue>Lowers the Stamina movement cost while the Footwork Art is active</color>. Only applies to Footwork Arts...
+Desc_48
+<color=#brightblue>Increases the Defense bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection martial arts that grant Phy. Defense...
+Desc_49
+<color=#brightblue>Increases the Qi Defense bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection martial arts that grant Qi Defense...
+Desc_50
+<color=#brightblue>Increases the Resistance bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection martial arts that grant Resistance...
+Desc_51
+<color=#brightblue>Increases the Parry bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection martial arts that grant Parry...
+Desc_52
+<color=#brightblue>Increases the Dodge bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection martial arts that grant Dodge...
+Desc_53
+<color=#brightblue>Increases the Poise bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection martial arts that grant Poise...
+Desc_54
+<color=#brightblue>Increases the Counter Power bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection martial arts that grant Counter Power...
+Desc_55
+<color=#brightblue>Increases the External Injury Reflection bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection martial arts that grant External Injury Reflection...
+Desc_56
+<color=#brightblue>Increases the Internal Injury Reflection bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection martial arts that grant Internal Injury Reflection...
+Desc_57
+<color=#brightblue>Increases the Reflection Distance bonus after casting this Martial Art</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection martial arts that grant Reflection Distance...
+Desc_58
+<color=#brightblue>Increases the duration of this Martial Art after casting it</color> but <color=#brightred>consumes extra Inhale & Stance</color>. Only applies to Protection Martial Arts...
+Desc_59
+<color=#brightblue>Boosts Phy. Penetration and Qi Penetration bonus after casting this Martial Art</color>. Only applies to Annihilation Martial Arts...
+Desc_60
+<color=#brightblue>Boosts overall Hit bonus after casting this Martial Art</color>. Only applies to Annihilation Martial Arts...
+Desc_61
+<color=#brightblue>Converts a portion of Precision from this Martial Art into Force</color> but <color=#brightred>reduces overall Hit</color>. Only applies to Annihilation techniques with at least 10% Precision...
+Desc_62
+<color=#brightblue>Converts a portion of Dexterity from this Martial Art into Force</color> but <color=#brightred>reduces overall Hit</color>. Only applies to Annihilation techniques with at least 10% Dexterity...
+Desc_63
+<color=#brightblue>Converts a portion of Force from this Martial Art into Precision</color> but <color=#brightred>reduces overall Hit</color>. Only applies to Annihilation techniques with at least 10% Force...
+Desc_64
+<color=#brightblue>Converts a portion of Dexterity from this Martial Art into Precision</color> but <color=#brightred>reduces overall Hit</color>. Only applies to Annihilation techniques with at least 10% Dexterity...
+Desc_65
+<color=#brightblue>Converts a portion of Force from this Martial Art into Dexterity</color> but <color=#brightred>reduces overall Hit</color>. Only applies to Annihilation techniques with at least 10% Force...
+Desc_66
+<color=#brightblue>Converts a portion of Precision from this Martial Art into Dexterity</color> but <color=#brightred>reduces overall Hit</color>. Only applies to Annihilation techniques with at least 10% Precision...
+Desc_67
+<color=#brightblue>Increases the attack range of this Martial Art</color> but <color=#brightred>reduces its Phy. Penetration and Qi Penetration</color>. Only applies to Annihilation Martial Arts...
+Desc_68
+<color=#brightblue>Raises the chance of attacking Torso for this Martial Art</color> but <color=#brightred>reduces the attack range bonus</color>. Only applies to Annihilation Martial Arts that already grant the chance to attack Torso...
+Desc_69
+<color=#brightblue>Raises the chance of attacking Midsection for this Martial Art</color> but <color=#brightred>reduces the attack range bonus</color>. Only applies to Annihilation Martial Arts that already grant the chance to attack Midsection...
+Desc_70
+<color=#brightblue>Raises the chance of attacking Head for this Martial Art</color> but <color=#brightred>reduces the attack range bonus</color>. Only applies to Annihilation Martial Arts that already grant the chance to attack Head...
+Desc_71
+<color=#brightblue>Raises the chance of attacking Hands for this Martial Art</color> but <color=#brightred>reduces the attack range bonus</color>. Only applies to Annihilation Martial Arts that already grant the chance to attack Hands...
+Desc_72
+<color=#brightblue>Raises the chance of attacking Feet for this Martial Art</color> but <color=#brightred>reduces the attack range bonus</color>. Only applies to Annihilation Martial Arts that already grant the chance to attack Feet...
+Desc_73
+<color=#brightblue>Increases the level of acupoint strikes for this Martial Art</color> but <color=#brightred>extends the casting time</color>. Only applies to Annihilation Martial Arts with acupoint effects...
+Desc_74
+<color=#brightblue>Increases the level of Openings for this Martial Art</color> but <color=#brightred>extends the casting time</color>. Only applies to Annihilation martial arts...
+Desc_75
+<color=#brightblue>Increases the quantity of <color=#hotpoison>Acritoxin</color> for this Martial Art</color> but <color=#brightred>lowers the caster's resistance to <color=#hotpoison>Acritoxin</color></color>. Only applies to Annihilation martial arts with <color=#hotpoison>Acritoxin</color>...
+Desc_76
+<color=#brightblue>Increases the quantity of <color=#gloomypoison>Umbritoxin</color> for this Martial Art</color> but <color=#brightred>lowers the caster's resistance to <color=#gloomypoison>Umbritoxin</color></color>. Only applies to Annihilation Martial Arts with <color=#gloomypoison>Umbritoxin</color>...
+Desc_77
+<color=#brightblue>Increases the quantity of <color=#coldpoison>Cryotoxin</color> for this Martial Art</color> but <color=#brightred>lowers the caster's resistance to <color=#coldpoison>Cryotoxin</color></color>. Only applies to Annihilation Martial Arts with <color=#coldpoison>Cryotoxin</color>...
+Desc_78
+<color=#brightblue>Increases the quantity of <color=#redpoison>Pyrotoxin</color> for this Martial Art</color> but <color=#brightred>lowers the caster's resistance to <color=#redpoison>Pyrotoxin</color></color>. Only applies to Annihilation martial arts with <color=#redpoison>Pyrotoxin</color>...
+Desc_79
+<color=#brightblue>Increases the quantity of <color=#rottenpoison>Necrotoxin</color> for this Martial Art</color> but <color=#brightred>lowers the caster's resistance to <color=#rottenpoison>Necrotoxin</color></color>. Only applies to Annihilation Martial Arts with <color=#rottenpoison>Necrotoxin</color>...
+Desc_80
+<color=#brightblue>Increases the quantity of <color=#illusorypoison>Oneirotoxin</color> for this Martial Art</color> but <color=#brightred>lowers the caster's resistance to <color=#illusorypoison>Oneirotoxin</color></color>. Only applies to Annihilation Martial Arts with <color=#illusorypoison>Oneirotoxin</color>...
+Desc_81
+<color=#brightblue>Reduces the usage requirements of this Martial Art</color>. Applies to all types of Martial Arts...
+Desc_82
+<color=#brightblue>Increases the Annihilation slots provided by this Martial Art</color>, but <color=#brightred>reduces the caster's Stance Recovery and Inhale Recovery after practicing the martial art</color>. Only applies to Qi Art...
+Desc_83
+<color=#brightblue>Increases the Nimble slots provided by this Martial Art</color>, but <color=#brightred>reduces the caster's Movement Speed and Footing Steadiness after practicing the martial art</color>. Only applies to Qi Art...
+Desc_84
+<color=#brightblue>Increases the Protection slots provided by this Martial Art</color>, but <color=#brightred>reduces the caster's Equipment Mastery and Attack Speed after practicing the martial art</color>. Only applies to Qi Art...
+Desc_85
+<color=#brightblue>Increases the Acumen slots provided by this Martial Art</color>, but <color=#brightred>reduces the caster's Cast Speed and Qi Burst after practicing the martial art</color>. Only applies to Qi Art...
+Desc_86
+<color=#brightblue>Decreases the number of [Throw] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Throw] and currently have at least [Throw] ×1...
+Desc_87
+<color=#brightblue>Decreases the number of [Flick] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Flick] and currently have at least [Flick] ×1...
+Desc_88
+<color=#brightblue>Decreases the number of [Impel] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Impel] and currently have at least [Impel] ×1...
+Desc_89
+<color=#brightblue>Decreases the number of [Hack] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation Martial Arts that require [Hack] and currently have at least [Hack] ×1...
+Desc_90
+<color=#brightblue>Decreases the number of [Stab] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation Martial Arts that require [Stab] and currently have at least [Stab] ×1...
+Desc_91
+<color=#brightblue>Decreases the number of [Upswing] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Upswing] and currently have at least [Upswing] ×1...
+Desc_92
+<color=#brightblue>Decreases the number of [Punch] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Punch] and currently have at least [Punch] ×1...
+Desc_93
+<color=#brightblue>Decreases the number of [Jab] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Jab] and currently have at least [Jab] ×1...
+Desc_94
+<color=#brightblue>Decreases the number of [Grab] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Grab] and currently have at least [Grab] ×1...
+Desc_95
+<color=#brightblue>Decreases the number of [Tone Forms] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Tone Forms] and currently have at least [Tone Forms] ×1...
+Desc_96
+<color=#brightblue>Decreases the number of [Entangle] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Entangle] and currently have at least [Entangle] ×1...
+Desc_97
+<color=#brightblue>Decreases the number of [Spell] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation Martial Arts that require [Spell] and currently have at least [Spell] ×1...
+Desc_98
+<color=#brightblue>Decreases the number of [Harness] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Harness] and currently have at least [Harness] ×1...
+Desc_99
+<color=#brightblue>Decreases the number of [Medicine] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Medicine] and currently have at least [Medicine] ×1...
+Desc_100
+<color=#brightblue>Decreases the number of [Poison] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Poison] and currently have at least [Poison] ×1...
+Desc_101
+<color=#brightblue>Decreases the number of [Sweep] consumed when casting this Martial Art</color> but <color=#brightred>introduces a chance of temporarily sealing this Martial Art</color> if the casting is done or interrupted. Only applies to Annihilation martial arts that require [Sweep] and currently have at least [Sweep] ×1...
+Desc_102
+<color=#brightblue>Reduces the time needed to use Charged Movement</color>. Only applies to Footwork Arts that require charging...
+Desc_103
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Throw" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Throw" Charges...
+Desc_104
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Flick" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Flick" Charges...
+Desc_105
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Impel" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Impel" Charges...
+Desc_106
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Hack" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Hack" Charges...
+Desc_107
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Stab" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Stab" Charges...
+Desc_108
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Upswing" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Upswing" Charges...
+Desc_109
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Punch" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Punch" Charges...
+Desc_110
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Jab" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Jab" Charges...
+Desc_111
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Grab" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Grab" Charges...
+Desc_112
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Entangle" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Entangle" Charges...
+Desc_113
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Harness" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Harness" Charges...
+Desc_114
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Medicine" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Medicine" Charges...
+Desc_115
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Poison" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Poison" Charges...
+Desc_116
+<color=#brightblue>Adds to and raises the Phy./Qi Penetration bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Sweep" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Sweep" Charges...
+Desc_117
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Throw" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Throw" Charges...
+Desc_118
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Flick" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Flick" Charges...
+Desc_119
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Impel" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Impel" Charges...
+Desc_120
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Hack" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Hack" Charges...
+Desc_121
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Stab" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Stab" Charges...
+Desc_122
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Upswing" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Upswing" Charges...
+Desc_123
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Punch" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Punch" Charges...
+Desc_124
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Jab" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Jab" Charges...
+Desc_125
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Grab" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Grab" Charges...
+Desc_126
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Tone" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Tone" Charges...
+Desc_127
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Entangle" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Entangle" Charges...
+Desc_128
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Spell" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Spell" Charges...
+Desc_129
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Harness" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Harness" Charges...
+Desc_130
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Medicine" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Medicine" Charges...
+Desc_131
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Poison" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Poison" Charges...
+Desc_132
+<color=#brightblue>Adds to and raises the overall Hit bonus this Art grants upon casting</color>, but <color=#brightred>increases the "Sweep" Charges required to invoke it</color>. Applicable only to Annihilations that originally consume "Sweep" Charges...
+

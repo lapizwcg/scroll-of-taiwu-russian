@@ -1,0 +1,13 @@
+Name_0
+＝
+Name_1
+≠
+Name_2
+＞
+Name_3
+＜
+Name_4
+≥
+Name_5
+≤
+

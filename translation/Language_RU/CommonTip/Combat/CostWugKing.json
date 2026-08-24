@@ -1,0 +1,42 @@
+{
+  "title": "Пробуждение главного гу",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Расход главного гу"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "{Medicine.Name}",
+          "value": "{Count}/1"
+        },
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 2
+        },
+        {
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Действие усиления"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "<SpName=ui9_icon_mousetip_point_0> Мощь боевого искусства",
+          "value": "40%"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "\"<SpName=ui9_icon_mousetip_point_0> После попадания по врагу, смотря по действию прямого или обратного пути, выращивается выбранный <color=#wugking>главный гу</color>…\""
+        }
+      ]
+    }
+  ]
+}

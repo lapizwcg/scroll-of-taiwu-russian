@@ -1,0 +1,193 @@
+ShortName_0
+
+ShortName_1
+
+ShortName_2
+
+ShortName_3
+
+ShortName_4
+
+ShortName_5
+
+ShortName_6
+
+ShortName_7
+
+ShortName_8
+
+ShortName_9
+
+ShortName_10
+
+ShortName_11
+
+ShortName_12
+
+ShortName_13
+
+ShortName_14
+
+ShortName_15
+
+Name_0
+
+Name_1
+
+Name_2
+
+Name_3
+
+Name_4
+
+Name_5
+
+Name_6
+
+Name_7
+
+Name_8
+
+Name_9
+
+Name_10
+
+Name_11
+
+Name_12
+
+Name_13
+
+Name_14
+
+Name_15
+
+Desc_0
+<color=#pinkyellow>Assigning a Farmer as the Steward of the <color=#orange>[Kitchen]</color> allows them to prepare dishes on your behalf...</color>
+Desc_1
+<color=#pinkyellow>Farmers can be deployed to regions with active Way Stations to gather resources...</color>
+Desc_2
+<color=#pinkyellow>Selecting "Relocate" when dispatching Farmers will obtain the corresponding Resource Core Materials at the cost of destroying resource-rich terrain...</color>\n - The higher the Farmer's <SpName=mousetip_qiyuan_6>"Harmony", the higher the relocation success rate...
+Desc_3
+<color=#pinkyellow>When relocating resources, Farmers have a chance to obtain higher-tier [Resource Core Materials]...</color>\n - The higher the Farmer's <SpName=mousetip_qiyuan_6>[Harmony], the higher the chance of obtaining high-tier [Resource Core Materials]...
+Desc_4
+<color=#pinkyellow>Assigning an Artisan as the Steward of a <color=#orange>[Forge]</color>, <color=#orange>[Carpentry Shed]</color>, <color=#orange>[Embroidery Edifice]</color>, or <color=#orange>[Jewelcrafter Workshop]</color> allows them to craft items of the corresponding material...</color>
+Desc_5
+<color=#pinkyellow>Assigning a Doctor as the Steward of a <color=#orange>[Pharmacy]</color> or <color=#orange>[Secluded Chamber]</color> allows them to prepare medicines and poisons...</color>
+Desc_6
+<color=#pinkyellow>Doctors can be dispatched to regions with active Way Stations to perform <color=#orange>[Medical Care]</color> for characters in that region and gain <SpName=mousetip_enyi>[Regional Favor]...</color>\n - The higher the Doctor's <SpName=mousetip_qiyuan_0>[Composure], the higher the <SpName=mousetip_character>[Rank] of patient they can treat...\n - The higher the Doctor's Attainment in <SpName=mousetip_jiyi_8>[Medical Art] or <SpName=mousetip_jiyi_9>[Toxicology], or the higher the patient's <SpName=mousetip_character>[Rank], the more <SpName=mousetip_enyi>[Regional Favor] is gained...
+Desc_7
+<color=#pinkyellow>When a Doctor is dispatched for [Charitable Healing], the <SpName=mousetip_rumo>[Xiangshu's Evil Will] of those in Mania in the region can be reduced...</color>\n - The higher the Doctor's <SpName=mousetip_qiyuan_0>[Composure], and the higher their Attainment in <SpName=mousetip_jiyi_8>[Medical Art] or <SpName=mousetip_jiyi_9>[Toxicology], the more <SpName=mousetip_rumo>[Xiangshu's Evil Will] is reduced...
+Desc_8
+<color=#pinkyellow>Merchants can be dispatched to regions with active Way Stations to buy and sell items...</color>\n - The higher the Merchant's <SpName=mousetip_qiyuan_2>[Enthusiasm], the higher the <SpName=mousetip_character>[Rank] of local characters they can trade with...\n - The higher the Merchant's <SpName=mousetip_jiyi_15>[Unorthodox Arts] Attainment, the lower the buying price and the higher the selling price...
+Desc_9
+<color=#pinkyellow>While a Merchant is dispatched for [Merchant Trade], the <SpName=mousetip_multilove>[Guild Favorability] of the dispatched region increases each month...</color>\n - The higher the Merchant's <SpName=mousetip_qiyuan_2>[Enthusiasm] and <SpName=mousetip_jiyi_15>[Unorthodox Arts] Attainment, the more <SpName=mousetip_multilove>[Guild Favorability] is gained...\n - Dispatching a Merchant to the headquarters of a guild grants even more <SpName=mousetip_multilove>[Favorability] with that guild...
+Desc_10
+<color=#pinkyellow>Assigning a Scholar as the Steward of a <color=#orange>[Tea Plantation]</color> or <color=#orange>[Distillery]</color> allows them to prepare tea and liquor on your behalf...</color>
+Desc_11
+<color=#pinkyellow>Scholars can be dispatched to regions with active Way Stations to influence the <SpName=mousetip_development_0>[Stability] and <SpName=mousetip_development_1>[Culture] of local towns and villages...</color>\n - The higher the Scholar's <SpName=mousetip_qiyuan_1>[Wit], the more times they can exert influence each month...\n - The higher the Scholar's Attainment in <SpName=mousetip_jiyi_0>[Music], <SpName=mousetip_jiyi_1>[Weiqi], <SpName=mousetip_jiyi_2>[Literature], or <SpName=mousetip_jiyi_3>[Painting], the more <SpName=mousetip_development_0>[Stability] and <SpName=mousetip_development_1>[Culture] change...\n - The Scholar's mindset determines the effect of [Martial World Arts]: <SpName=mousetip_lichang_0><color=#ffe78f>Principled</color> Scholars likely increase local Stability or Culture; <SpName=mousetip_lichang_1><color=#9fe0dc>Benevolent</color> Scholars always increase them; <SpName=mousetip_lichang_2><color=#ffffff>Moderate</color> Scholars may randomly increase or decrease them; <SpName=mousetip_lichang_3><color=#b975ff>Rebellious</color> Scholars always decrease them; <SpName=mousetip_lichang_4><color=#c6272e>Egocentric</color> Scholars likely decrease them...
+Desc_12
+<color=#pinkyellow>While a Scholar is dispatched for [Martial World Arts], they change the <SpName=mousetip_multilove>[Favorability]</color> toward Taiwu of random characters within the corresponding settlement's range each month...\n - The higher the Scholar's <SpName=mousetip_qiyuan_1>[Wit], the more characters are affected...\n - The higher the Scholar's Attainment in <SpName=mousetip_jiyi_0>[Music], <SpName=mousetip_jiyi_1>[Weiqi], <SpName=mousetip_jiyi_2>[Literature], or <SpName=mousetip_jiyi_3>[Painting], the more <SpName=mousetip_multilove>[Favorability] changes...\n - <SpName=mousetip_lichang_0><color=#ffe78f>Principled</color> Scholars likely increase Favorability toward Taiwu; <SpName=mousetip_lichang_1><color=#9fe0dc>Benevolent</color> Scholars always increase it; <SpName=mousetip_lichang_2><color=#ffffff>Moderate</color> Scholars may randomly increase or decrease it; <SpName=mousetip_lichang_3><color=#b975ff>Rebellious</color> Scholars always decrease it; <SpName=mousetip_lichang_4><color=#c6272e>Egocentric</color> Scholars likely decrease it...
+Desc_13
+<color=#pinkyellow>Dispatch Mound Wardens to guard Sword Mounds, investigate Sword Mound insights, and block Xiangshu Incarnations that emerge from them...</color>\n - Each month, the stationed Mound Warden suffers 5 points of <SpName=mousetip_rumo>[Deviation]...\n - Mound Wardens may sustain injuries when blocking a Moundbreaker; the higher the invasion progress, the more severe the injuries. All Mound Wardens dispatched to the same Sword Mound share the resulting damage...\n - When successfully gathering Sword Mound insights or blocking a Moundbreaker, Mound Wardens may obtain corresponding Guarding Sword Mound traits...\n - The higher the Mound Warden's <SpName=mousetip_qiyuan_3>[Valor], and Attainment in <SpName=mousetip_jiyi_13>[Buddhism] or <SpName=mousetip_jiyi_12>[Taoism], the higher the chance of gathering insights, the lower the chance of injury when blocking a Moundbreaker, and the higher the chance of obtaining Guarding Sword Mound traits...
+Desc_14
+<color=#pinkyellow>Dispatching Mound Wardens to guard Sword Mounds reduces the accumulation of <SpName=mousetip_rumo>[Xiangshu's Evil Will]...</color>\n - The higher the Mound Warden's <SpName=mousetip_qiyuan_3>[Valor], and the higher their Proficiency in <SpName=mousetip_jiyi_13>[Buddhism] or <SpName=mousetip_jiyi_12>[Taoism], the greater the reduction of <SpName=mousetip_rumo>[Xiangshu's Evil Will]...
+Desc_15
+<color=#pinkyellow>Dispatch envoys to a Provincial Capital or Sect region with an active Way Station. When the Taiwu Successor uses the [Provincial Regulations] or [Sect Regulations] interaction in that region, the Crime Level modification range can be expanded by an additional grade...</color>\n - Regulations with an expanded modification range consume <SpName=mousetip_ziyuan_7>[Prestige] each month. <color=#brightred>If Prestige is insufficient, the modification ceases to take effect...</color>\n - The higher the envoy's <SpName=mousetip_qiyuan_5>[Luck], the more regulations can have their modification range expanded...
+DescName_0
+Meal Preparation
+DescName_1
+Сбор припасов
+DescName_2
+Relocate Resource
+DescName_3
+Intensive Cultivation
+DescName_4
+Изготовленный предмет
+DescName_5
+Medicine and Poison Making
+DescName_6
+Charitable Healing
+DescName_7
+Mind and Spirit Regulation
+DescName_8
+Merchant Trade
+DescName_9
+Guild Liaison
+DescName_10
+Collect Tea or Liquor
+DescName_11
+Странствие по свету
+DescName_12
+Martial World Interaction
+DescName_13
+Guard Sword Mound
+DescName_14
+Brave the Demon
+DescName_15
+Посольство
+DescShort_0
+Short Description Placeholder
+DescShort_1
+Short Description Placeholder
+DescShort_2
+Short Description Placeholder
+DescShort_3
+Short Description Placeholder
+DescShort_4
+Short Description Placeholder
+DescShort_5
+Short Description Placeholder
+DescShort_6
+Short Description Placeholder
+DescShort_7
+Short Description Placeholder
+DescShort_8
+Short Description Placeholder
+DescShort_9
+Short Description Placeholder
+DescShort_10
+Short Description Placeholder
+DescShort_11
+Short Description Placeholder
+DescShort_12
+Short Description Placeholder
+DescShort_13
+Short Description Placeholder
+DescShort_14
+Short Description Placeholder
+DescShort_15
+Short Description Placeholder
+DescContent_0
+<color=#pinkyellow>Meal Preparation: Assigning a Farmer as the Steward of the <color=#orange>[Kitchen]</color> allows them to prepare dishes on your behalf...</color>
+DescContent_1
+<color=#pinkyellow>Gather Resources: Farmers can be dispatched to regions with active Way Stations to gather resources...</color>
+DescContent_2
+<color=#pinkyellow>Relocate Resources: Selecting "Relocation" when dispatching Farmers will obtain the corresponding Resource Core Materials at the cost of destroying resource-rich terrain...</color>\n - The higher the Farmer's <SpName=mousetip_qiyuan_6>"Harmony", the higher the relocation success rate...
+DescContent_3
+<color=#pinkyellow>Precision Farming: When relocating resources, Farmers have a chance to obtain higher-tier [Resource Core Materials]...</color>\n - The higher the Farmer's <SpName=mousetip_qiyuan_6>[Harmony], the higher the chance of obtaining high-tier [Resource Core Materials]...
+DescContent_4
+<color=#pinkyellow>Crafting Items: Assigning an Artisan as the Steward of a <color=#orange>[Forge]</color>, <color=#orange>[Carpentry Shed]</color>, <color=#orange>[Embroidery Edifice]</color>, or <color=#orange>[Jewelcrafter Workshop]</color> allows them to craft items of the corresponding material...</color>
+DescContent_5
+<color=#pinkyellow>Medicine and Poison Making: Assigning a Doctor as the Steward of a <color=#orange>[Pharmacy]</color> or <color=#orange>[Secluded Chamber]</color> allows them to prepare medicines and poisons...</color>
+DescContent_6
+<color=#pinkyellow>Charitable Healing: Doctors can be dispatched to regions with active Way Stations to perform <color=#orange>[Medical Care]</color> for characters in that region and gain <SpName=mousetip_enyi>[Regional Favor]...</color>\n - The higher the Doctor's <SpName=mousetip_qiyuan_0>[Composure], the higher the <SpName=mousetip_character>[Rank] of patient they can treat...\n - The higher the Doctor's Attainment in <SpName=mousetip_jiyi_8>[Medical Art] or <SpName=mousetip_jiyi_9>[Toxicology], or the higher the patient's <SpName=mousetip_character>[Rank], the more <SpName=mousetip_enyi>[Regional Favor] is gained...
+DescContent_7
+<color=#pinkyellow>Mind and Spirit Regulation: When a Doctor is dispatched for [Charitable Healing], the <SpName=mousetip_rumo>[Xiangshu's Evil Will] of those in Mania in the region can be reduced...</color>\n - The higher the Doctor's <SpName=mousetip_qiyuan_0>[Composure], and the higher their Attainment in <SpName=mousetip_jiyi_8>[Medical Art] or <SpName=mousetip_jiyi_9>[Toxicology], the more <SpName=mousetip_rumo>[Xiangshu's Evil Will] is reduced...
+DescContent_8
+<color=#pinkyellow>Merchant Trade: Merchants can be dispatched to regions with active Way Stations to buy and sell items...</color>\n - The higher the Merchant's <SpName=mousetip_qiyuan_2>[Enthusiasm], the higher the <SpName=mousetip_character>[Rank] of local characters they can trade with...\n - The higher the Merchant's <SpName=mousetip_jiyi_15>[Unorthodox Arts] Attainment, the lower the buying price and the higher the selling price...
+DescContent_9
+<color=#pinkyellow>Guild Liaison: While a Merchant is dispatched for [Merchant Trade], the <SpName=mousetip_multilove>[Guild Favorability] of the dispatched region increases each month...</color>\n - The higher the Merchant's <SpName=mousetip_qiyuan_2>[Enthusiasm] and <SpName=mousetip_jiyi_15>[Unorthodox Arts] Attainment, the more <SpName=mousetip_multilove>[Guild Favorability] is gained...\n - Dispatching a Merchant to the headquarters of a guild grants even more <SpName=mousetip_multilove>[Favorability] with that guild...
+DescContent_10
+<color=#pinkyellow>Collect Tea or Liquor: Assigning a Scholar as the Steward of a <color=#orange>[Tea Plantation]</color> or <color=#orange>[Distillery]</color> allows them to prepare tea and liquor on your behalf...</color>
+DescContent_11
+<color=#pinkyellow>Martial World Arts: Scholars can be dispatched to regions with active Way Stations to influence the <SpName=mousetip_development_0>[Stability] and <SpName=mousetip_development_1>[Culture] of local towns and villages...</color>\n - The higher the Scholar's <SpName=mousetip_qiyuan_1>[Wit], the more times they can exert influence each month...\n - The higher the Scholar's Attainment in <SpName=mousetip_jiyi_0>[Music], <SpName=mousetip_jiyi_1>[Weiqi], <SpName=mousetip_jiyi_2>[Literature], or <SpName=mousetip_jiyi_3>[Painting], the more <SpName=mousetip_development_0>[Stability] and <SpName=mousetip_development_1>[Culture] change...\n - The Scholar's mindset determines the effect of [Martial World Arts]: <SpName=mousetip_lichang_0><color=#ffe78f>Principled</color> Scholars likely increase local Stability or Culture; <SpName=mousetip_lichang_1><color=#9fe0dc>Benevolent</color> Scholars always increase them; <SpName=mousetip_lichang_2><color=#ffffff>Moderate</color> Scholars may randomly increase or decrease them; <SpName=mousetip_lichang_3><color=#b975ff>Rebellious</color> Scholars always decrease them; <SpName=mousetip_lichang_4><color=#c6272e>Egocentric</color> Scholars likely decrease them...
+DescContent_12
+<color=#pinkyellow>Martial World Interaction: While a Scholar is dispatched for [Martial World Arts], they change the <SpName=mousetip_multilove>[Favorability]</color> toward Taiwu of random characters within the corresponding settlement's range each month...\n - The higher the Scholar's <SpName=mousetip_qiyuan_1>[Wit], the more characters are affected...\n - The higher the Scholar's Attainment in <SpName=mousetip_jiyi_0>[Music], <SpName=mousetip_jiyi_1>[Weiqi], <SpName=mousetip_jiyi_2>[Literature], or <SpName=mousetip_jiyi_3>[Painting], the more <SpName=mousetip_multilove>[Favorability] changes...\n - <SpName=mousetip_lichang_0><color=#ffe78f>Principled</color> Scholars likely increase Favorability toward Taiwu; <SpName=mousetip_lichang_1><color=#9fe0dc>Benevolent</color> Scholars always increase it; <SpName=mousetip_lichang_2><color=#ffffff>Moderate</color> Scholars may randomly increase or decrease it; <SpName=mousetip_lichang_3><color=#b975ff>Rebellious</color> Scholars always decrease it; <SpName=mousetip_lichang_4><color=#c6272e>Egocentric</color> Scholars likely decrease it...
+DescContent_13
+<color=#pinkyellow>Guarding Sword Mound: Dispatch Mound Wardens to guard Sword Mounds, investigate Sword Mound insights, and block Xiangshu Incarnations that emerge from them...</color>\n - Each month, the stationed Mound Warden suffers 5 points of <SpName=mousetip_rumo>[Deviation]...\n - Mound Wardens may sustain injuries when blocking a Moundbreaker; the higher the invasion progress, the more severe the injuries. All Mound Wardens dispatched to the same Sword Mound share the resulting damage...\n - When successfully gathering Sword Mound insights or blocking a Moundbreaker, Mound Wardens may obtain corresponding Guarding Sword Mound traits...\n - The higher the Mound Warden's <SpName=mousetip_qiyuan_3>[Valor], and Attainment in <SpName=mousetip_jiyi_13>[Buddhism] or <SpName=mousetip_jiyi_12>[Taoism], the higher the chance of gathering insights, the lower the chance of injury when blocking a Moundbreaker, and the higher the chance of obtaining Guarding Sword Mound traits...
+DescContent_14
+<color=#pinkyellow>Brave the Demon: Dispatching Mound Wardens to guard Sword Mounds reduces the accumulation of <SpName=mousetip_rumo>[Xiangshu's Evil Will]...</color>\n - The higher the Mound Warden's <SpName=mousetip_qiyuan_3>[Valor], and the higher their Proficiency in <SpName=mousetip_jiyi_13>[Buddhism] or <SpName=mousetip_jiyi_12>[Taoism], the greater the reduction of <SpName=mousetip_rumo>[Xiangshu's Evil Will]...
+DescContent_15
+<color=#pinkyellow>Visit & Negotiate: Dispatch envoys to a Provincial Capital or Sect region with an active Way Station. When the Taiwu Successor uses the [Provincial Regulations] or [Sect Regulations] interaction in that region, the Crime Level modification range can be expanded by an additional grade...</color>\n - Regulations with an expanded modification range consume <SpName=mousetip_ziyuan_7>[Prestige] each month. <color=#brightred>If Prestige is insufficient, the modification ceases to take effect...</color>\n - The higher the envoy's <SpName=mousetip_qiyuan_5>[Luck], the more regulations can have their modification range expanded...
+

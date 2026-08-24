@@ -1,0 +1,1333 @@
+Name_0
+Выдвинуться
+Name_1
+Ободрить
+Name_2
+Сблизиться
+Name_3
+Отступить
+Name_4
+Атаковать
+Name_5
+Обороняться
+Name_6
+Лечить раны
+Name_7
+Вывести яд
+Name_8
+Прикрыть
+Name_9
+Раскрыть точку
+Name_10
+Вызвать на себя
+Name_11
+Остеречься
+Name_12
+Истинная ци
+Name_13
+Жертва
+Name_14
+Отвлечь
+Name_15
+Сокрушение
+Name_16
+Выдвинуться
+Name_17
+Ободрить
+Name_18
+Сблизиться
+Name_19
+Отступить
+Name_20
+Атаковать
+Name_21
+Обороняться
+Name_22
+Лечить раны
+Name_23
+Вывести яд
+Name_24
+Прикрыть
+Name_25
+Раскрыть точку
+Name_26
+Вызвать на себя
+Name_27
+Остеречься
+Name_28
+Истинная ци
+Name_29
+Отвлечь
+Name_30
+Сокрушение
+Name_31
+Прерывание
+Name_32
+Западня
+Name_33
+Внезапный удар
+Name_34
+Рассеяние сил
+Name_35
+Скрытый вред
+Name_36
+Опутывание
+Name_37
+Расстройство
+Name_38
+Рассеяние ци
+Name_39
+Выдвинуться
+Name_40
+Ободрить
+Name_41
+Сблизиться
+Name_42
+Сблизиться
+Name_43
+Отступить
+Name_44
+Отступить
+Name_45
+Прикрыть
+Name_46
+Раскрыть точку
+Name_47
+Вызвать на себя
+Name_48
+Остеречься
+Name_49
+Истинная ци
+Name_50
+Отвлечь
+Name_51
+Выдвинуться
+Name_52
+Ободрить
+Name_53
+Сблизиться
+Name_54
+Сблизиться
+Name_55
+Отступить
+Name_56
+Отступить
+Name_57
+Прикрыть
+Name_58
+Раскрыть точку
+Name_59
+Вызвать на себя
+Name_60
+Остеречься
+Name_61
+Истинная ци
+Name_62
+Отвлечь
+Name_63
+Освоение
+Name_64
+Освоение
+Name_65
+Освоение
+Name_66
+Освоение
+Name_67
+Освоение
+Name_68
+Освоение
+Name_69
+Освоение
+Name_70
+Освоение
+Name_71
+Освоение
+Name_72
+Строй первый
+Name_73
+Строй второй
+Name_74
+Строй третий
+Name_84
+Строй четвёртый
+Name_85
+Строй пятый
+Name_86
+Строй шестой
+Name_75
+Раскрытие оружия
+Name_76
+Заменить
+Name_77
+Починить
+Name_78
+Выдвинуться
+Name_79
+Обороняться
+Name_80
+Сокрушение
+Name_81
+Изначальное учение
+Name_82
+Небесное учение
+Name_83
+Земное учение
+Name_87
+Пропуск хода
+Name_88
+Ядовитый шип
+Name_89
+Парирование
+Name_90
+Ловец душ
+Name_91
+Скачка
+Name_92
+Взращивание меча
+Name_93
+Лучезарный доспех
+Name_94
+Отвага
+Name_95
+Багровая злоба
+Name_96
+Бесформенность
+Name_97
+Поворот
+Name_98
+Жертва телом
+Name_99
+Слом натиска
+Name_100
+Сотня битв
+Name_101
+Царская кровь
+Name_102
+Чуждая кровь
+Name_103
+Призрачный облик
+Name_104
+Предельный натиск
+Name_105
+Очищающее небо
+Name_106
+Величие
+Name_107
+Пылающий лотос
+Name_108
+Обращение судьбы
+Description_0
+[Deploy] allows the companion to temporarily boost Attack, Defense, Hit, and Deflect, taking the main combatant's place in battle.
+Description_1
+[Encourage] increases the Cast Progress of the main combatant's Martial Arts.
+Description_2
+[Advance] closes the distance between the main combatant and the enemy.
+Description_3
+[Retreat] increases the distance between the main combatant and the enemy.
+Description_4
+[Attack] can be used to attack the enemy.
+Description_5
+[Defend] blocks enemy attacks for the main combatant with a reinforced protection Martial Art.
+Description_6
+[Heal Injuries] treats the main combatant's injuries.
+Description_7
+[Detox] removes poison from the main combatant.
+Description_8
+[Cover] eliminates Openings from the main combatant.
+Description_9
+[Unseal Acupoint] releases sealed acupoints for the main combatant.
+Description_10
+[Aggro] temporarily boosts the main combatant's Force, Precision, Dexterity, and Sway.
+Description_11
+[Caution] temporarily boosts the main combatant's Resistance, Parry, Dodge, and Poise.
+Description_12
+[True Qi] transfers the companion's True Qi to the main combatant.
+Description_13
+[Sacrifice] allows the companion to share the Injuries and Wounds with the main combatant.
+Description_14
+[Distract] temporarily prevents enemy companions from using support commands.
+Description_15
+[Annihilation] executes a reinforced annihilation Martial Art to attack enemies.
+Description_16
+[Deploy] allows the companion to temporarily increase Attack, Defense, Hit, and Deflect, taking the main combatant's place in battle. <color=#brightblue>Boosted by the Lion's Drum, the deployed unit's Attack, Defense, Hit, and Deflect grow even greater.</color>
+Description_17
+[Encourage] accelerates the Cast Progress of the main combatant's Martial Arts. <color=#brightblue>Boosted by the Lion's Drum, the Cast Progress of the main combatant grows even greater.</color>
+Description_18
+[Advance] closes the distance between the main combatant and the enemy. <color=#brightblue>Boosted by the Lion's Drum, [Advance] can be used 2 times</color> before entering a <color=#brightred>longer cooldown</color>.
+Description_19
+[Retreat] increases the distance between the main combatant and the enemy. <color=#brightblue>Boosted by the Lion's Drum, [Retreat] can be used 2 times</color> before entering a <color=#brightred>longer cooldown</color>.
+Description_20
+[Attack] can be used to attack the enemy. <color=#brightblue>Boosted by the Lion's Drum, the probability of [Attack] resulting in a critical hit is significantly increased.</color>
+Description_21
+[Defend] blocks enemy attacks for the main combatant with a reinforced protection Martial Art. <color=#brightblue>The Lion's Drum boosts the power of the protection Martial Art.</color>
+Description_22
+[Heal Injuries] treats the main combatant's injuries. <color=#brightblue>Boosted by the Lion's Drum, [Heal Injuries] can be completed much faster.</color>
+Description_23
+[Detox] removes poison from the main combatant. <color=#brightblue>Boosted by the Lion's Drum, [Detox] can be completed much faster.</color>
+Description_24
+[Cover] eliminates Openings from the main combatant. <color=#brightblue>Boosted by the Lion's Drum, [Cover] can remove more Openings from the main combatant.</color>
+Description_25
+[Unseal Acupoint] releases sealed acupoints. <color=#brightblue>Boosted by the Lion's Drum, [Unseal Acupoint] can release more sealed acupoints for the main combatant.</color>
+Description_26
+[Aggro] temporarily boosts the main combatant's Force, Precision, Dexterity, and Sway. <color=#brightblue>Boosted by the Lion's Drum, [Aggro] has stronger effects</color> <color=#brightred>but shorter duration.</color>
+Description_27
+[Caution] temporarily boosts the main combatant's Resistance, Parry, Dodge, and Poise. <color=#brightblue>Boosted by the Lion's Drum, [Caution] has stronger effects</color> <color=#brightred>but shorter duration.</color>
+Description_28
+[True Qi] transfers the companion's True Qi to the main combatant. <color=#brightblue>Boosted by the Lion's Drum, [True Qi] can transfer more True Qi.</color>
+Description_29
+[Distract] temporarily prevents enemy companions from using support commands.<color=#brightblue>Boosted by the Lion's Drum, [Distract] has a longer duration.</color>
+Description_30
+[Annihilation] executes a reinforced annihilation Martial Art to attack enemies. <color=#brightblue>The Lion's Drum boosts the Martial Art power of [Annihilation].</color>
+Description_31
+Due to growing hostility, the companion may interrupt the main combatant's Martial Art casting.
+Description_32
+Due to growing hostility, the companion may push or pull the main combatant into the enemy's attack range.
+Description_33
+Due to growing hostility, the companion may launch an weapon attack against the main combatant, causing Openings and sealed acupoints.
+Description_34
+Due to growing hostility, the companion may nullify the main combatant's Protection and Footwork Arts during their practice.
+Description_35
+Due to growing hostility, the companion may use medical art or toxicology to inflict Impairment or Poison on the main combatant.
+Description_36
+Due to growing hostility, the companion may temporarily reduce the main combatant's Force, Precision, Dexterity, Sway, Resistance, Parry, Dodge, and Poise.
+Description_37
+Due to growing hostility, the companion may interrupt the main combatant's actions, such as using items, healing, detoxifying, commanding beasts, or fleeing from battle.
+Description_38
+Due to growing hostility, the companion may disperse the main combatant's True Qi.
+Description_39
+[Deploy] allows the companion to temporarily increase Attack, Defense, Hit, and Deflect, taking the main combatant's place in battle. The duration and cooldown are both halved.
+Description_40
+[Encourage] increases the Cast Progress of the main combatant's Martial Arts.
+Description_41
+[Advance] closes the distance between the main combatant and the enemy.
+Description_42
+[Advance] closes the distance between the main combatant and the enemy.
+Description_43
+[Retreat] increases the distance between the main combatant and the enemy.
+Description_44
+[Retreat] increases the distance between the main combatant and the enemy.
+Description_45
+[Cover] eliminates Openings from the main combatant.
+Description_46
+[Unseal Acupoint] releases sealed acupoints for the main combatant.
+Description_47
+[Aggro] temporarily boosts the main combatant's Force, Precision, Dexterity, and Sway.
+Description_48
+[Caution] temporarily boosts the main combatant's Resistance, Parry, Dodge, and Poise.
+Description_49
+[True Qi] transfers the companion's True Qi to the main combatant.
+Description_50
+[Distract] temporarily prevents enemy companions from using support commands.
+Description_51
+[Deploy] allows the companion to temporarily increase Attack, Defense, Hit, and Deflect, taking the main combatant's place in battle. The duration and cooldown are both halved.
+Description_52
+[Encourage] increases the Cast Progress of the main combatant's Martial Arts.
+Description_53
+[Advance] closes the distance between the main combatant and the enemy.
+Description_54
+[Advance] closes the distance between the main combatant and the enemy.
+Description_55
+[Retreat] increases the distance between the main combatant and the enemy.
+Description_56
+[Retreat] increases the distance between the main combatant and the enemy.
+Description_57
+[Cover] eliminates Openings from the main combatant.
+Description_58
+[Unseal Acupoint] releases sealed acupoints for the main combatant.
+Description_59
+[Aggro] temporarily boosts the main combatant's Force, Precision, Dexterity, and Sway.
+Description_60
+[Caution] temporarily boosts the main combatant's Resistance, Parry, Dodge, and Poise.
+Description_61
+[True Qi] transfers the companion's True Qi to the main combatant.
+Description_62
+[Distract] temporarily prevents enemy companions from using support commands.
+Description_63
+With [Mastery], the effects that increase the user's Martial Art power are enhanced, while those that reduce the user's Martial Art power are weakened.
+Description_64
+With [Mastery], the greater the distance from the enemy, the higher the user's chance to land a fatal strike.
+Description_65
+With [Mastery], the closer the distance from the enemy, the higher the user's chance to land a fatal strike.
+Description_66
+With [Mastery], the user deals more Direct Wound Damage to enemies while taking less Direct Wound Damage from them.
+Description_67
+With [Mastery], the user's Reflection power is increased.
+Description_68
+With [Mastery], the user's Healing and Detox effects are enhanced, while enemies' Healing and Detox effects are weakened.
+Description_69
+With [Mastery], the user's Counterattack is increased.
+Description_70
+With [Mastery], the user's ability to weaken the enemy's Footwork Arts, Stamina, Inhale, and Stance is enhanced, while those weakening effects inflicted on the user by the enemy are reduced.
+Description_71
+With [Mastery], the user's Follow-up Damage dealt to enemies accrues until the end of Follow-up.
+Description_72
+[Formation Alpha] continuously attacks the enemy for a short duration.
+Description_73
+[Formation Beta] allows automatons to cast protection Martial Arts for a while, blocking enemy Annihilation attacks for the main combatant.
+Description_74
+[Formation Gamma] restricts the enemy from using Acumen Martial Arts equipped by Tongsheng.
+Description_84
+[Formation Delta] temporarily boosts the main combatant's Hit and Deflection.
+Description_85
+[Formation Epsilon] removes all Openings and Sealed Acupoints from the main combatant and makes them temporarily immune to those effects.
+Description_86
+[Formation Zeta] reduces the remaining cooldown on all allies' commands except the user.
+Description_75
+[Unleash] advances the Unleashing Progress of the main combatant's current weapon.
+Description_76
+[Replace] shares Injuries, Poison, and Inner Breath Chaos for the main combatant.
+Description_77
+[Repair] restores the durability of the main combatant's equipment used in battle.
+Description_78
+[Deploy] allows the companion to temporarily boost Attack, Defense, Hit, and Deflection, taking the main combatant's place in battle.
+Description_79
+[Defend] blocks enemy attacks for the main combatant with a reinforced protection Martial Art.
+Description_80
+[Annihilation] executes a reinforced annihilation Martial Art to attack enemies.
+Description_81
+[Primordial Doctrine] allows weapon attacks from the user and their allies to absorb 3 True Qi of each type from the enemy for a short duration, and briefly seals 1 random type of the enemy's Martial Art.
+Description_82
+For a short duration, [Heavenly Doctrine] triples the number of available styles for weapon attacks from the user and their allies, and expands their attack range to the maximum.
+Description_83
+For a short duration, [Earthly Doctrine] triples Direct DMG dealt by weapon attacks from the user and their allies, and converts any Injury Markers inflicted by their weapon attacks into Pre-existing Injuries.
+Description_87
+Using the 'Skip Turn' command allows the enemy to voluntarily cancel a Martial Art they are in the process of casting. Each successful use reduces the success rate for the next use, by at least 20%.
+Description_88
+Using the 'Poison Spike' command allows you to attack the enemy. If the attack contains toxin, the toxin applied by the attack is increased tenfold and can ignore the enemy's toxin Resistance.
+Description_89
+[Parry] blocks enemy attacks for the main combatant with a reinforced protection Martial Art.
+Description_90
+Using the 'Soulcatcher' command allows you to directly induce a state of Mental Damage in the enemy.
+Description_91
+Using the 'Gallop' command allows you to exchange Stamina between the main combatant and the enemy.
+Description_92
+Using the 'Sword Nurturing' command temporarily increases the main combatant's chance to hit enemy vital points by 33% and the damage dealt by such hits by 33%.
+Description_93
+Using the 'Radiant Armor' command allows Direct DMG from the main combatant's Weapon Attacks to deal an additional 33% Wound damage.
+Description_94
+Using the 'Valor' command allows the main combatant's Counterattack to ignore distance limitations temporarily and increases Counter Power by 33%.
+Description_95
+Using the 'Crimson Balefulness' command inflicts 1 External Injury on one random Body Part of the enemy without an External Injury, and 1 Internal Injury on one random Body Part without an Internal Injury.
+Description_96
+Using the 'Formlessness' command causes 1 Sealed Acupoint to appear on up to 2 of the enemy's Body Parts with Openings, and 1 Opening to appear on up to 2 of the enemy's Body Parts with Sealed Acupoints.
+Description_97
+Using the 'Turnabout' command allows the main combatant to have a 33% chance to inflict 1 Sealed Acupoint on the enemy when Counterattacking, and a 33% chance to inflict 1 Opening on the enemy when reflecting damage.
+Description_98
+Using the "Body Sacrifice" command increases the Power of an Annihilation Martial Art based on the number of Injury Markers on the Body Parts required for that Martial Art, lasting until the main combatant uses that Annihilation Martial Art.
+Description_99
+Using the 'Momentum Break' command allows you to frequently use Annihilation Martial Arts to attack the enemy.
+Description_100
+Using the 'Hundred Battles' command allows the main combatant's reflect damage to ignore distance limitations temporarily and increases reflect damage Power by 33%.
+Description_101
+Using the 'Royal Blood' command temporarily increases the main combatant's Attack and Defense based on the number of their Wound Markers.
+Description_102
+Using the 'Aberrant Blood' command transforms half of the Wound Markers into 1 Doom Marker.
+Description_103
+Using the 'Illusory Form' command temporarily reduces Direct External and Internal Injuries received by the main combatant in all Body Parts by 33% of the Direct External and Internal Injury damage inflicted on the enemy.
+Description_104
+Using the 'Extreme Momentum' command allows Direct DMG from the main combatant's Weapon Attacks to deal an additional 66% Daze damage.
+Description_105
+Using the 'Purifying Heaven' command removes up to 3 Impairments from the main combatant and up to 3 Buffs from the enemy.
+Description_106
+Using the 'Dignity' command temporarily changes 3 random secondary attributes of the enemy to their minimum values.
+Description_107
+Using the 'Burning Lotus' command instantly drains 33% of the enemy's True Qi exceeding their initial value and transfers it to the main combatant.
+Description_108
+Using the 'Reverse Fate' command temporarily replaces the main combatant in battle with enhanced Attack, Defense, Hit, and Deflection. Each time they Deploy, the enhancement stacks, up to a maximum increase of 80%.
+BubbleText_0
+I am ready. Let me fight in your stead!
+BubbleText_1
+Let me lend you my strength!
+BubbleText_2
+Mind and body as one—swiftly advancing!
+BubbleText_3
+Close combat is perilous—stay vigilant!
+BubbleText_4
+I have a move that catches foes off guard!
+BubbleText_5
+Let me block this attack for you!
+BubbleText_6
+Your injuries are dire—let me tend to them at once!
+BubbleText_7
+Severe Poison—allow me to detox!
+BubbleText_8
+With my aid, your Openings shall be erased!
+BubbleText_9
+Let my True Qi flow through you to unseal acupoints!
+BubbleText_10
+I shall support you—strike with all your might!
+BubbleText_11
+I will keep watch—let no openings remain!
+BubbleText_12
+I bestow my True Qi upon you—use it well!
+BubbleText_13
+
+BubbleText_14
+I'll hold them off—keep your mind on the fight!
+BubbleText_15
+My practice is complete—watch this move!
+BubbleText_16
+I am ready. Let me fight in your stead!
+BubbleText_17
+Let me lend you my strength!
+BubbleText_18
+Mind and body as one—swiftly advancing!
+BubbleText_19
+Close combat is perilous—stay vigilant!
+BubbleText_20
+I have a move that catches foes off guard!
+BubbleText_21
+Let me block this attack for you!
+BubbleText_22
+Your injuries are dire—let me tend to them at once!
+BubbleText_23
+Severe Poison—allow me to detox!
+BubbleText_24
+With my aid, your Openings shall be erased!
+BubbleText_25
+Let my True Qi flow through you to unseal acupoints!
+BubbleText_26
+I shall support you—strike with all your might!
+BubbleText_27
+I will keep watch—let no openings remain!
+BubbleText_28
+I bestow my True Qi upon you—use it well!
+BubbleText_29
+I'll hold them off—keep your mind on the fight!
+BubbleText_30
+My practice is complete—watch this move!
+BubbleText_31
+I'll interrupt your technique and ruin your focus!
+BubbleText_32
+Let me put you in danger!
+BubbleText_33
+You let your guard down—don't blame me for striking!
+BubbleText_34
+The flaw in your Protection and Footwork Arts lies here!
+BubbleText_35
+Our grudge is deep—don't blame me for my ruthless approach!
+BubbleText_36
+Let me distract you—defeat will follow on its own!
+BubbleText_37
+Let me throw you into chaos!
+BubbleText_38
+Your True Qi is scattered—how will you fight now?
+BubbleText_39
+
+BubbleText_40
+
+BubbleText_41
+
+BubbleText_42
+
+BubbleText_43
+
+BubbleText_44
+
+BubbleText_45
+
+BubbleText_46
+
+BubbleText_47
+
+BubbleText_48
+
+BubbleText_49
+
+BubbleText_50
+
+BubbleText_51
+
+BubbleText_52
+
+BubbleText_53
+
+BubbleText_54
+
+BubbleText_55
+
+BubbleText_56
+
+BubbleText_57
+
+BubbleText_58
+
+BubbleText_59
+
+BubbleText_60
+
+BubbleText_61
+
+BubbleText_62
+
+BubbleText_63
+
+BubbleText_64
+
+BubbleText_65
+
+BubbleText_66
+
+BubbleText_67
+
+BubbleText_68
+
+BubbleText_69
+
+BubbleText_70
+
+BubbleText_71
+
+BubbleText_72
+
+BubbleText_73
+
+BubbleText_74
+
+BubbleText_84
+
+BubbleText_85
+
+BubbleText_86
+
+BubbleText_75
+
+BubbleText_76
+
+BubbleText_77
+
+BubbleText_78
+I am ready. Let me fight in your stead!
+BubbleText_79
+(Retreat before the impossible...)
+BubbleText_80
+Practice complete. Nowhere left to run!
+BubbleText_81
+Heaven abides by the Way, circling without end.
+BubbleText_82
+Earth imitates Heaven, revealing myriad phenomena.
+BubbleText_83
+Humans follow Earth, with life and death unfolding.
+BubbleText_87
+Stay your hand—let it go for now!
+BubbleText_88
+Mere ants! Have a taste of my spike!
+BubbleText_89
+Yin and Yang in perfect harmony—my defense is absolute!
+BubbleText_90
+The melody of the Secluded Orchid shall bewitch your soul!
+BubbleText_91
+Shall we play a little game of switching places?
+BubbleText_92
+A sword nurtured for a thousand days—now is the time to unsheathe it!
+BubbleText_93
+Smash through... crush them to pieces...
+BubbleText_94
+Near or far, it matters not—every grievance shall be repaid!
+BubbleText_95
+Venomous jaws lock tight—we shall fight to the bitter end!
+BubbleText_96
+The Heart is the Buddha!
+BubbleText_97
+Defense as offense—invincible and unrivaled!
+BubbleText_98
+Let the fires blaze upon Mount Kun—I shall burn together with my foes!
+BubbleText_99
+Shatter the strong and break the sharp—all shall fall before me!
+BubbleText_100
+Touch not the dragon's reverse scale! My majesty shall not be transgressed!
+BubbleText_101
+The righteous Qi of Heaven and Earth, the true-colored Royal Blood!
+BubbleText_102
+It seems this is the vital point...
+BubbleText_103
+Sheathe the blade and conceal its edge—await the perfect moment to strike...
+BubbleText_104
+Such trivial tricks—how could they possibly catch my eye...
+BubbleText_105
+The foul filth scatters; the Taoist Qi shall endure forever!
+BubbleText_106
+Why not swallow the world whole and break their spirits?
+BubbleText_107
+Karmic fire burns the temple—reborn upon the lotus!
+BubbleText_108
+Born of lingering thoughts... defying fate, refusing to die!
+EffectDisplayTextList_0_0
+Атака
+EffectDisplayTextList_0_1
+Обороняться
+EffectDisplayTextList_0_2
+Меткость
+EffectDisplayTextList_0_3
+Отклонение
+EffectDisplayTextList_1_0
+Cast Progress
+EffectDisplayTextList_2_0
+Movement Distance
+EffectDisplayTextList_2_1
+Передышка
+EffectDisplayTextList_3_0
+Movement Distance
+EffectDisplayTextList_3_1
+Передышка
+EffectDisplayTextList_5_0
+Martial Art Power
+EffectDisplayTextList_8_0
+Eliminate Openings
+EffectDisplayTextList_8_1
+Передышка
+EffectDisplayTextList_9_0
+Unleash Sealed Acupoint
+EffectDisplayTextList_9_1
+Передышка
+EffectDisplayTextList_10_0
+Напор
+EffectDisplayTextList_10_1
+Искусность
+EffectDisplayTextList_10_2
+Стремительность
+EffectDisplayTextList_10_3
+Чарование
+EffectDisplayTextList_10_4
+Длительность
+EffectDisplayTextList_11_0
+Сопротивление
+EffectDisplayTextList_11_1
+Парирование
+EffectDisplayTextList_11_2
+Уклонение
+EffectDisplayTextList_11_3
+Твёрдость
+EffectDisplayTextList_11_4
+Длительность
+EffectDisplayTextList_12_0
+True Qi Increase
+EffectDisplayTextList_12_1
+Передышка
+EffectDisplayTextList_14_0
+Длительность
+EffectDisplayTextList_15_0
+Martial Art Power
+EffectDisplayTextList_16_0
+Атака
+EffectDisplayTextList_16_1
+Обороняться
+EffectDisplayTextList_16_2
+Меткость
+EffectDisplayTextList_16_3
+Отклонение
+EffectDisplayTextList_17_0
+Cast Progress
+EffectDisplayTextList_18_0
+Movement Distance
+EffectDisplayTextList_18_1
+Применения
+EffectDisplayTextList_18_2
+Передышка
+EffectDisplayTextList_19_0
+Movement Distance
+EffectDisplayTextList_19_1
+Применения
+EffectDisplayTextList_19_2
+Передышка
+EffectDisplayTextList_20_0
+Решающий удар
+EffectDisplayTextList_21_0
+Martial Art Power
+EffectDisplayTextList_22_0
+Healing Time
+EffectDisplayTextList_23_0
+Detox Time
+EffectDisplayTextList_24_0
+Eliminate Openings
+EffectDisplayTextList_24_1
+Передышка
+EffectDisplayTextList_25_0
+Unleash Sealed Acupoint
+EffectDisplayTextList_25_1
+Передышка
+EffectDisplayTextList_26_0
+Напор
+EffectDisplayTextList_26_1
+Искусность
+EffectDisplayTextList_26_2
+Стремительность
+EffectDisplayTextList_26_3
+Чарование
+EffectDisplayTextList_26_4
+Длительность
+EffectDisplayTextList_27_0
+Сопротивление
+EffectDisplayTextList_27_1
+Парирование
+EffectDisplayTextList_27_2
+Уклонение
+EffectDisplayTextList_27_3
+Твёрдость
+EffectDisplayTextList_27_4
+Длительность
+EffectDisplayTextList_28_0
+True Qi Increase
+EffectDisplayTextList_28_1
+Передышка
+EffectDisplayTextList_29_0
+Длительность
+EffectDisplayTextList_30_0
+Martial Art Power
+EffectDisplayTextList_39_0
+Атака
+EffectDisplayTextList_39_1
+Обороняться
+EffectDisplayTextList_39_2
+Меткость
+EffectDisplayTextList_39_3
+Отклонение
+EffectDisplayTextList_40_0
+Cast Progress
+EffectDisplayTextList_41_0
+Movement Distance
+EffectDisplayTextList_42_0
+Movement Distance
+EffectDisplayTextList_43_0
+Movement Distance
+EffectDisplayTextList_44_0
+Movement Distance
+EffectDisplayTextList_45_0
+Eliminate Openings
+EffectDisplayTextList_46_0
+Unleash Sealed Acupoint
+EffectDisplayTextList_47_0
+Напор
+EffectDisplayTextList_47_1
+Искусность
+EffectDisplayTextList_47_2
+Стремительность
+EffectDisplayTextList_47_3
+Чарование
+EffectDisplayTextList_47_4
+Длительность
+EffectDisplayTextList_48_0
+Сопротивление
+EffectDisplayTextList_48_1
+Парирование
+EffectDisplayTextList_48_2
+Уклонение
+EffectDisplayTextList_48_3
+Твёрдость
+EffectDisplayTextList_48_4
+Длительность
+EffectDisplayTextList_49_0
+True Qi Increase
+EffectDisplayTextList_50_0
+Длительность
+EffectDisplayTextList_51_0
+Атака
+EffectDisplayTextList_51_1
+Обороняться
+EffectDisplayTextList_51_2
+Меткость
+EffectDisplayTextList_51_3
+Отклонение
+EffectDisplayTextList_52_0
+Cast Progress
+EffectDisplayTextList_53_0
+Movement Distance
+EffectDisplayTextList_54_0
+Movement Distance
+EffectDisplayTextList_55_0
+Movement Distance
+EffectDisplayTextList_56_0
+Movement Distance
+EffectDisplayTextList_57_0
+Eliminate Openings
+EffectDisplayTextList_58_0
+Unleash Sealed Acupoint
+EffectDisplayTextList_59_0
+Напор
+EffectDisplayTextList_59_1
+Искусность
+EffectDisplayTextList_59_2
+Стремительность
+EffectDisplayTextList_59_3
+Чарование
+EffectDisplayTextList_59_4
+Длительность
+EffectDisplayTextList_60_0
+Сопротивление
+EffectDisplayTextList_60_1
+Парирование
+EffectDisplayTextList_60_2
+Уклонение
+EffectDisplayTextList_60_3
+Твёрдость
+EffectDisplayTextList_60_4
+Длительность
+EffectDisplayTextList_61_0
+True Qi Increase
+EffectDisplayTextList_62_0
+Длительность
+EffectDisplayTextList_78_0
+Атака
+EffectDisplayTextList_78_1
+Обороняться
+EffectDisplayTextList_78_2
+Меткость
+EffectDisplayTextList_78_3
+Отклонение
+EffectDisplayTextList_79_0
+Martial Art Power
+EffectDisplayTextList_80_0
+Martial Art Power
+EffectDisplayValueList_0_0
+0.2
+EffectDisplayValueList_0_1
+0.2
+EffectDisplayValueList_0_2
+0.2
+EffectDisplayValueList_0_3
+0.2
+EffectDisplayValueList_1_0
+0.3
+EffectDisplayValueList_2_0
+1
+EffectDisplayValueList_2_1
+60
+EffectDisplayValueList_3_0
+1
+EffectDisplayValueList_3_1
+60
+EffectDisplayValueList_5_0
+0.3
+EffectDisplayValueList_8_0
+2
+EffectDisplayValueList_8_1
+9
+EffectDisplayValueList_9_0
+2
+EffectDisplayValueList_9_1
+9
+EffectDisplayValueList_10_0
++40% of Companion
+EffectDisplayValueList_10_1
++40% of Companion
+EffectDisplayValueList_10_2
++40% of Companion
+EffectDisplayValueList_10_3
++40% of Companion
+EffectDisplayValueList_10_4
+30
+EffectDisplayValueList_11_0
++20% of Companion
+EffectDisplayValueList_11_1
++20% of Companion
+EffectDisplayValueList_11_2
++20% of Companion
+EffectDisplayValueList_11_3
++20% of Companion
+EffectDisplayValueList_11_4
+30
+EffectDisplayValueList_12_0
+5
+EffectDisplayValueList_12_1
+18
+EffectDisplayValueList_14_0
+15
+EffectDisplayValueList_15_0
+0.3
+EffectDisplayValueList_16_0
+0.4
+EffectDisplayValueList_16_1
+0.4
+EffectDisplayValueList_16_2
+0.4
+EffectDisplayValueList_16_3
+0.4
+EffectDisplayValueList_17_0
+0.45
+EffectDisplayValueList_18_0
+1
+EffectDisplayValueList_18_1
+2
+EffectDisplayValueList_18_2
+120
+EffectDisplayValueList_19_0
+1
+EffectDisplayValueList_19_1
+2
+EffectDisplayValueList_19_2
+120
+EffectDisplayValueList_20_0
+1
+EffectDisplayValueList_21_0
+0.6
+EffectDisplayValueList_22_0
+-0.3
+EffectDisplayValueList_23_0
+-0.3
+EffectDisplayValueList_24_0
+4
+EffectDisplayValueList_24_1
+9
+EffectDisplayValueList_25_0
+4
+EffectDisplayValueList_25_1
+9
+EffectDisplayValueList_26_0
++60% of Companion
+EffectDisplayValueList_26_1
++60% of Companion
+EffectDisplayValueList_26_2
++60% of Companion
+EffectDisplayValueList_26_3
++60% of Companion
+EffectDisplayValueList_26_4
+15
+EffectDisplayValueList_27_0
++30% of Companion
+EffectDisplayValueList_27_1
++30% of Companion
+EffectDisplayValueList_27_2
++30% of Companion
+EffectDisplayValueList_27_3
++30% of Companion
+EffectDisplayValueList_27_4
+15
+EffectDisplayValueList_28_0
+10
+EffectDisplayValueList_28_1
+18
+EffectDisplayValueList_29_0
+30
+EffectDisplayValueList_30_0
+0.6
+EffectDisplayValueList_39_0
+0.2
+EffectDisplayValueList_39_1
+0.2
+EffectDisplayValueList_39_2
+0.2
+EffectDisplayValueList_39_3
+0.2
+EffectDisplayValueList_40_0
+0.3
+EffectDisplayValueList_41_0
+1
+EffectDisplayValueList_42_0
+1
+EffectDisplayValueList_43_0
+1
+EffectDisplayValueList_44_0
+1
+EffectDisplayValueList_45_0
+2
+EffectDisplayValueList_46_0
+2
+EffectDisplayValueList_47_0
+0.4
+EffectDisplayValueList_47_1
+0.4
+EffectDisplayValueList_47_2
+0.4
+EffectDisplayValueList_47_3
+0.4
+EffectDisplayValueList_47_4
+30
+EffectDisplayValueList_48_0
+0.2
+EffectDisplayValueList_48_1
+0.2
+EffectDisplayValueList_48_2
+0.2
+EffectDisplayValueList_48_3
+0.2
+EffectDisplayValueList_48_4
+30
+EffectDisplayValueList_49_0
+5
+EffectDisplayValueList_50_0
+15
+EffectDisplayValueList_51_0
+0.2
+EffectDisplayValueList_51_1
+0.2
+EffectDisplayValueList_51_2
+0.2
+EffectDisplayValueList_51_3
+0.2
+EffectDisplayValueList_52_0
+0.3
+EffectDisplayValueList_53_0
+1
+EffectDisplayValueList_54_0
+1
+EffectDisplayValueList_55_0
+1
+EffectDisplayValueList_56_0
+1
+EffectDisplayValueList_57_0
+2
+EffectDisplayValueList_58_0
+2
+EffectDisplayValueList_59_0
+0.4
+EffectDisplayValueList_59_1
+0.4
+EffectDisplayValueList_59_2
+0.4
+EffectDisplayValueList_59_3
+0.4
+EffectDisplayValueList_59_4
+30
+EffectDisplayValueList_60_0
+0.2
+EffectDisplayValueList_60_1
+0.2
+EffectDisplayValueList_60_2
+0.2
+EffectDisplayValueList_60_3
+0.2
+EffectDisplayValueList_60_4
+30
+EffectDisplayValueList_61_0
+5
+EffectDisplayValueList_62_0
+15
+EffectDisplayValueList_78_0
+0.2
+EffectDisplayValueList_78_1
+0.2
+EffectDisplayValueList_78_2
+0.2
+EffectDisplayValueList_78_3
+0.2
+EffectDisplayValueList_79_0
+0.3
+EffectDisplayValueList_80_0
+0.3
+ShixiangEffectDisplayValueList_0_0
+0.2
+ShixiangEffectDisplayValueList_0_1
+0.2
+ShixiangEffectDisplayValueList_0_2
+0.2
+ShixiangEffectDisplayValueList_0_3
+0.2
+ShixiangEffectDisplayValueList_1_0
+0.3
+ShixiangEffectDisplayValueList_2_0
+1
+ShixiangEffectDisplayValueList_2_1
+60
+ShixiangEffectDisplayValueList_3_0
+1
+ShixiangEffectDisplayValueList_3_1
+60
+ShixiangEffectDisplayValueList_5_0
+0.3
+ShixiangEffectDisplayValueList_8_0
+2
+ShixiangEffectDisplayValueList_8_1
+9
+ShixiangEffectDisplayValueList_9_0
+2
+ShixiangEffectDisplayValueList_9_1
+9
+ShixiangEffectDisplayValueList_10_0
+0.4
+ShixiangEffectDisplayValueList_10_1
+0.4
+ShixiangEffectDisplayValueList_10_2
+0.4
+ShixiangEffectDisplayValueList_10_3
+0.4
+ShixiangEffectDisplayValueList_10_4
+30
+ShixiangEffectDisplayValueList_11_0
+0.2
+ShixiangEffectDisplayValueList_11_1
+0.2
+ShixiangEffectDisplayValueList_11_2
+0.2
+ShixiangEffectDisplayValueList_11_3
+0.2
+ShixiangEffectDisplayValueList_11_4
+30
+ShixiangEffectDisplayValueList_12_0
+5
+ShixiangEffectDisplayValueList_12_1
+18
+ShixiangEffectDisplayValueList_14_0
+15
+ShixiangEffectDisplayValueList_15_0
+0.3
+ShixiangEffectDisplayValueList_16_0
+0.4
+ShixiangEffectDisplayValueList_16_1
+0.4
+ShixiangEffectDisplayValueList_16_2
+0.4
+ShixiangEffectDisplayValueList_16_3
+0.4
+ShixiangEffectDisplayValueList_17_0
+0.45
+ShixiangEffectDisplayValueList_18_0
+1
+ShixiangEffectDisplayValueList_18_1
+2
+ShixiangEffectDisplayValueList_18_2
+120
+ShixiangEffectDisplayValueList_19_0
+1
+ShixiangEffectDisplayValueList_19_1
+2
+ShixiangEffectDisplayValueList_19_2
+120
+ShixiangEffectDisplayValueList_20_0
+1
+ShixiangEffectDisplayValueList_21_0
+0.6
+ShixiangEffectDisplayValueList_22_0
+-0.3
+ShixiangEffectDisplayValueList_23_0
+-0.3
+ShixiangEffectDisplayValueList_24_0
+4
+ShixiangEffectDisplayValueList_24_1
+9
+ShixiangEffectDisplayValueList_25_0
+4
+ShixiangEffectDisplayValueList_25_1
+9
+ShixiangEffectDisplayValueList_26_0
+0.6
+ShixiangEffectDisplayValueList_26_1
+0.6
+ShixiangEffectDisplayValueList_26_2
+0.6
+ShixiangEffectDisplayValueList_26_3
+0.6
+ShixiangEffectDisplayValueList_26_4
+15
+ShixiangEffectDisplayValueList_27_0
+0.3
+ShixiangEffectDisplayValueList_27_1
+0.3
+ShixiangEffectDisplayValueList_27_2
+0.3
+ShixiangEffectDisplayValueList_27_3
+0.3
+ShixiangEffectDisplayValueList_27_4
+15
+ShixiangEffectDisplayValueList_28_0
+10
+ShixiangEffectDisplayValueList_28_1
+18
+ShixiangEffectDisplayValueList_29_0
+30
+ShixiangEffectDisplayValueList_30_0
+0.6
+ShixiangEffectDisplayValueList_39_0
+0.2
+ShixiangEffectDisplayValueList_39_1
+0.2
+ShixiangEffectDisplayValueList_39_2
+0.2
+ShixiangEffectDisplayValueList_39_3
+0.2
+ShixiangEffectDisplayValueList_40_0
+0.3
+ShixiangEffectDisplayValueList_41_0
+1
+ShixiangEffectDisplayValueList_42_0
+1
+ShixiangEffectDisplayValueList_43_0
+1
+ShixiangEffectDisplayValueList_44_0
+1
+ShixiangEffectDisplayValueList_45_0
+2
+ShixiangEffectDisplayValueList_46_0
+2
+ShixiangEffectDisplayValueList_47_0
+0.4
+ShixiangEffectDisplayValueList_47_1
+0.4
+ShixiangEffectDisplayValueList_47_2
+0.4
+ShixiangEffectDisplayValueList_47_3
+0.4
+ShixiangEffectDisplayValueList_47_4
+30
+ShixiangEffectDisplayValueList_48_0
+0.2
+ShixiangEffectDisplayValueList_48_1
+0.2
+ShixiangEffectDisplayValueList_48_2
+0.2
+ShixiangEffectDisplayValueList_48_3
+0.2
+ShixiangEffectDisplayValueList_48_4
+30
+ShixiangEffectDisplayValueList_49_0
+5
+ShixiangEffectDisplayValueList_50_0
+15
+ShixiangEffectDisplayValueList_51_0
+0.2
+ShixiangEffectDisplayValueList_51_1
+0.2
+ShixiangEffectDisplayValueList_51_2
+0.2
+ShixiangEffectDisplayValueList_51_3
+0.2
+ShixiangEffectDisplayValueList_52_0
+0.3
+ShixiangEffectDisplayValueList_53_0
+1
+ShixiangEffectDisplayValueList_54_0
+1
+ShixiangEffectDisplayValueList_55_0
+1
+ShixiangEffectDisplayValueList_56_0
+1
+ShixiangEffectDisplayValueList_57_0
+2
+ShixiangEffectDisplayValueList_58_0
+2
+ShixiangEffectDisplayValueList_59_0
+0.4
+ShixiangEffectDisplayValueList_59_1
+0.4
+ShixiangEffectDisplayValueList_59_2
+0.4
+ShixiangEffectDisplayValueList_59_3
+0.4
+ShixiangEffectDisplayValueList_59_4
+30
+ShixiangEffectDisplayValueList_60_0
+0.2
+ShixiangEffectDisplayValueList_60_1
+0.2
+ShixiangEffectDisplayValueList_60_2
+0.2
+ShixiangEffectDisplayValueList_60_3
+0.2
+ShixiangEffectDisplayValueList_60_4
+30
+ShixiangEffectDisplayValueList_61_0
+5
+ShixiangEffectDisplayValueList_62_0
+15
+ShixiangEffectDisplayValueList_78_0
+0.2
+ShixiangEffectDisplayValueList_78_1
+0.2
+ShixiangEffectDisplayValueList_78_2
+0.2
+ShixiangEffectDisplayValueList_78_3
+0.2
+ShixiangEffectDisplayValueList_79_0
+0.3
+ShixiangEffectDisplayValueList_80_0
+0.3
+

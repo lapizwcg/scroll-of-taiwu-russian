@@ -1,0 +1,993 @@
+Desc_0
+Increase the base resources of Resource Spots...
+Desc_1
+Increase the base resources of Resource Spots...
+Desc_2
+Increase the base resources of Resource Spots...
+Desc_3
+Increase the base resources of Resource Spots...
+Desc_4
+Increase the base resources of Resource Spots...
+Desc_5
+Increase the base resources of Resource Spots...
+Desc_6
+Increase the base resources of Resource Spots...
+Desc_7
+Increase the base resources of Resource Spots...
+Desc_8
+Increase the base resources of Resource Spots...
+Desc_9
+Increase the base resources of Resource Spots...
+Desc_10
+Increase the base resources of Resource Spots...
+Desc_11
+Increase the base resources of Resource Spots...
+Desc_12
+Increase the base resources of Resource Spots...
+Desc_13
+Increase the base resources of Resource Spots...
+Desc_14
+Increase the base resources of Resource Spots...
+Desc_15
+Increase the base resources of Resource Spots...
+Desc_16
+Increase the base resources of Resource Spots...
+Desc_17
+Increase the base resources of Resource Spots...
+Desc_18
+Increase the base resources of Resource Spots...
+Desc_19
+Increase the base resources of Resource Spots...
+Desc_20
+Increase the monthly Foodstuff provided to characters of the faction...
+Desc_21
+Increase the monthly metals provided to characters of the faction...
+Desc_22
+Increase the monthly wood provided to characters of the faction...
+Desc_23
+Increase the monthly metals provided to characters of the faction...
+Desc_24
+Increase the monthly jade provided to characters of the faction...
+Desc_25
+Increase the monthly Herb resources provided to characters of the faction...
+Desc_26
+Increase the monthly Herb resources provided to characters of the faction...
+Desc_27
+Increase the monthly fabric provided to characters of the faction...
+Desc_28
+Increase the monthly jade provided to characters of the faction...
+Desc_29
+Increase the monthly Foodstuff provided to characters of the faction...
+Desc_30
+Increase the monthly wood provided to characters of the faction...
+Desc_31
+Increase the monthly Foodstuff provided to characters of the faction...
+Desc_32
+Increase the monthly fabric provided to characters of the faction...
+Desc_33
+Increase the success rate of resource relocation for characters of this faction...
+Desc_34
+Increase the monthly Prestige provided to characters of the faction...
+Desc_35
+Improve the character's gathering income within the faction's influence area...
+Desc_36
+Increase the chance to find Reagents and Divine Tree seeds during gathering within the faction's influence area...
+Desc_37
+Increase the Aspiration Seniority acquired by faction characters...
+Desc_38
+Improve the effects of healing, detox, regulate breathing, and curing performed by faction characters...
+Desc_39
+Increase the monthly XP gained by characters within the faction's influence area...
+Desc_40
+Increase the rate at which faction characters improve their Favorability with others...
+Desc_41
+Reduce the rate at which faction characters lose Favorability with others...
+Desc_42
+Increase the monthly Silver provided to faction characters...
+Desc_43
+Increase the resource recovery rate of tiles within the faction's influence area...
+Desc_44
+Accelerate the summoning of beasts outside the faction's influence area...
+Desc_45
+Improve the management efficiency of faction buildings...
+Desc_46
+Improve the commission efficiency of the faction or its characters...
+Desc_47
+Improve the resource gathering building income of the faction or its characters...
+Desc_48
+Increase the construction space of the faction...
+Desc_49
+Increase the extra energy recovered by characters within the faction's influence area at the turn of each month...
+Desc_50
+Increase the income of prestige-related buildings of the faction...
+Desc_51
+Increase the income of Silver-related buildings of the faction...
+Desc_52
+Increase the speed to attract crickets within the faction's influence area...
+Desc_53
+Increase the speed to discover Nature's Gifts within the faction's influence area...
+Desc_54
+Increase the chance of discovering characters with higher Charm, Attributes, or Talents...
+Desc_55
+Increase the number of temporary harvest storage slots...
+Desc_56
+Increase the number of temporary harvest storage slots...
+Desc_57
+Increase the number of temporary harvest storage slots...
+Desc_58
+Increase the number of temporary harvest storage slots...
+Desc_59
+Increase the number of temporary harvest storage slots...
+Desc_60
+Increase the number of temporary harvest storage slots...
+Desc_61
+Increase the number of temporary harvest storage slots...
+Desc_62
+Increase the number of temporary harvest storage slots...
+Desc_63
+Increase the number of temporary harvest storage slots...
+Desc_64
+Increase the number of temporary harvest storage slots...
+Desc_65
+Increase the number of temporary harvest storage slots...
+Desc_66
+Increase the number of temporary harvest storage slots...
+Desc_67
+Increase the number of temporary harvest storage slots...
+Desc_68
+Increase the number of temporary harvest storage slots...
+Desc_69
+Increase the number of temporary harvest storage slots...
+Desc_70
+Increase the number of temporary harvest storage slots...
+Desc_71
+Increase the number of temporary harvest storage slots...
+Desc_72
+Increase the number of temporary harvest storage slots...
+Desc_73
+Increase the number of temporary harvest storage slots...
+Desc_74
+Increase the number of temporary harvest storage slots...
+Desc_75
+Increase the number of slots for recruiting characters...
+Desc_76
+Increase the number of temporary harvest storage slots...
+Desc_77
+Increase the number of temporary harvest storage slots...
+Desc_78
+Increase the Max Capacity bonus for characters within the faction's influence area...
+Desc_79
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_80
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_81
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_82
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_83
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_84
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_85
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_86
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_87
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_88
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_89
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_90
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_91
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_92
+Increase the efficiency bonus when characters study {0} book within the faction's influence area...
+Desc_93
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_94
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_95
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_96
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_97
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_98
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_99
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_100
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_101
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_102
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_103
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_104
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_105
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_106
+Increase the breakthrough success rate bonus when characters within the faction's influence area attempt a {0} breakthrough...
+Desc_107
+Increase Taiwu Village Construction Space...
+Desc_108
+Increase the maximum number of the Bewitched people that can be housed in Stone Houses...
+Desc_109
+Increase the number of Jiao Pools that can be opened...
+Desc_110
+Increase the total weight limit for stored items...
+Desc_111
+Increase the prestige gained for Taiwu at the turn of each month...
+Desc_112
+Increase the total weight limit for stored items...
+Desc_113
+Increase the number of villagers who can reside in the village...
+Desc_114
+Increases the number of guests who can participate in the feast simultaneously...
+Desc_115
+Increase the number of reincarnation slots...
+Desc_116
+Increase the number of cargo slots...
+Desc_117
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_118
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_119
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_120
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_121
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_122
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_123
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_124
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_125
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_126
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_127
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_128
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_129
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_130
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_131
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_132
+Increase the efficiency when characters study {0} book within the faction's influence area...
+Desc_133
+Increase the number of selling slots for items...
+Desc_134
+Increase the number of selling slots for items...
+Desc_135
+Increase the number of selling slots for items...
+Desc_136
+Increase the number of selling slots for items...
+Desc_137
+Increase the number of selling slots for items...
+Desc_138
+Increase the number of selling slots for items...
+Desc_139
+Increase the number of selling slots for items...
+Desc_140
+Increase the number of selling slots for items...
+Desc_141
+Increase the number of selling slots for items...
+Desc_142
+Increase the number of selling slots for items...
+Desc_143
+Increase the number of temporary harvest storage slots...
+Desc_144
+Increase the number of temporary harvest storage slots...
+Desc_145
+Increase the number of temporary harvest storage slots...
+Desc_146
+Increase the number of temporary harvest storage slots...
+Desc_147
+Increase the number of temporary harvest storage slots...
+Desc_148
+Increase the number of temporary harvest storage slots...
+Desc_149
+Increase the number of temporary harvest storage slots...
+Desc_150
+Increase the number of temporary harvest storage slots...
+Desc_151
+Increase the number of temporary harvest storage slots...
+Desc_152
+Increase the number of temporary harvest storage slots...
+Desc_153
+Increase the number of temporary harvest storage slots...
+Desc_154
+Increase the number of temporary harvest storage slots...
+Desc_155
+Increase the number of temporary harvest storage slots...
+Desc_156
+Increase the number of temporary harvest storage slots...
+Desc_157
+Increase the number of selling slots for items...
+Desc_158
+Increase the number of temporary harvest storage slots...
+Desc_159
+Increase the number of temporary harvest storage slots...
+Desc_160
+Increase the number of selling slots for items...
+Desc_161
+Increase the number of temporary harvest storage slots...
+Desc_162
+Increase the number of selling slots for items...
+Desc_163
+Increase the number of selling slots for items...
+Desc_164
+Increase the number of selling slots for items...
+Desc_165
+Increase the number of selling slots for items...
+Desc_166
+Increase the number of selling slots for items...
+Desc_167
+Increase the number of selling slots for items...
+Desc_168
+Increase the number of slots for recruiting characters...
+Desc_169
+Increase the number of slots for recruiting characters...
+Desc_170
+Increase the number of slots for recruiting characters...
+Desc_171
+Increase the number of slots for recruiting characters...
+Desc_172
+Increase the number of slots for recruiting characters...
+Desc_173
+Increase the number of slots for recruiting characters...
+Desc_174
+Increase the number of slots for recruiting characters...
+Desc_175
+Increase the number of slots for recruiting characters...
+Desc_176
+Increase the number of slots for recruiting characters...
+Desc_177
+Increase the number of slots for recruiting characters...
+Desc_178
+Increase the number of slots for recruiting characters...
+Desc_179
+Increase the number of slots for recruiting characters...
+Desc_180
+Increase the number of slots for recruiting characters...
+Desc_181
+Increase the number of slots for recruiting characters...
+Desc_182
+Increase the number of slots for recruiting characters...
+Desc_183
+Increase the number of slots for recruiting characters...
+Desc_184
+Increase the number of slots for recruiting characters...
+Desc_185
+Increase the number of slots for recruiting characters...
+Desc_186
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_187
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_188
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_189
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_190
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_191
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_192
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_193
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_194
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_195
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_196
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_197
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_198
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_199
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_200
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_201
+Increase the chance of Talent growth when faction characters practice {0}...
+Desc_202
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_203
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_204
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_205
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_206
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_207
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_208
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_209
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_210
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_211
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_212
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_213
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_214
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_215
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_216
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_217
+Increase the {0} attainment of characters within the faction's influence area...
+Desc_218
+Reduce the {0} Attainment required when using the connected Forge Room to <color=#orange>Craft</color>, <color=#orange>Refine</color>, <color=#orange>Repair</color>, or <color=#orange>Commission</color> items...
+Desc_219
+Reduce the {0} Attainment required when using the connected Carpentry Shed to <color=#orange>Craft</color>, <color=#orange>Refine</color>, <color=#orange>Repair</color>, or <color=#orange>Commission</color> items...
+Desc_220
+Reduce the {0} Attainment required when using the connected Alchemy Lab to <color=#orange>Craft</color>, <color=#orange>Refine</color>, <color=#orange>Repair</color>, or <color=#orange>Commission</color> items...
+Desc_221
+Reduce the {0} Attainment required when using the connected Secluded Chamber to <color=#orange>Craft</color>, <color=#orange>Refine</color>, <color=#orange>Repair</color>, or <color=#orange>Commission</color> items...
+Desc_222
+Reduce the {0} Attainment required when using the connected Embroidery Edifice to <color=#orange>Craft</color>, <color=#orange>Refine</color>, <color=#orange>Repair</color>, or <color=#orange>Commission</color> items...
+Desc_223
+Reduce the {0} Attainment required when using the connected Jewelcrafter Workshop to <color=#orange>Craft</color>, <color=#orange>Refine</color>, <color=#orange>Repair</color>, or <color=#orange>Commission</color> items...
+Desc_224
+Reduce the {0} Attainment required when using the connected Kitchen to <color=#orange>Craft</color>, <color=#orange>Refine</color>, <color=#orange>Repair</color>, or <color=#orange>Commission</color> items...
+Desc_225
+Increase inner breath recovery for characters within the faction's influence area at the turn of each month...
+Desc_226
+Increase the maximum number of companions Taiwu can have...
+Desc_227
+Increases new characters' Initial Favorability value with Taiwu...
+Desc_228
+Increase Taiwu's gains and cap from Life's Legacy...
+Desc_229
+Increase health recovery for characters within the faction's influence area at the turn of each month...
+Desc_230
+Reduce the comprehension cost when Taiwu chooses to study strategies...
+Desc_231
+Increase the number of temporary harvest storage slots...
+Desc_232
+Increase the number of temporary harvest storage slots...
+Desc_233
+Increase the number of temporary harvest storage slots...
+Desc_234
+Increase the number of temporary harvest storage slots...
+Desc_235
+Increase the number of temporary harvest storage slots...
+Desc_236
+Increase the number of temporary harvest storage slots...
+Desc_237
+Increase the number of temporary harvest storage slots...
+Desc_238
+Increase the number of temporary harvest storage slots...
+Desc_239
+Increase the number of temporary harvest storage slots...
+Desc_240
+Increase the number of temporary harvest storage slots...
+Desc_241
+Increase the number of temporary harvest storage slots...
+Desc_242
+Increase the number of temporary harvest storage slots...
+Desc_243
+Increase the number of temporary harvest storage slots...
+Desc_244
+Increase the number of temporary harvest storage slots...
+Desc_245
+Increase the number of temporary harvest storage slots...
+Desc_246
+Increase the number of temporary harvest storage slots...
+Desc_247
+Increase the number of temporary harvest storage slots...
+Name_0
+Basic Resources
+Name_1
+Basic Resources
+Name_2
+Basic Resources
+Name_3
+Basic Resources
+Name_4
+Basic Resources
+Name_5
+Basic Resources
+Name_6
+Basic Resources
+Name_7
+Basic Resources
+Name_8
+Basic Resources
+Name_9
+Basic Resources
+Name_10
+Basic Resources
+Name_11
+Basic Resources
+Name_12
+Basic Resources
+Name_13
+Basic Resources
+Name_14
+Basic Resources
+Name_15
+Basic Resources
+Name_16
+Basic Resources
+Name_17
+Basic Resources
+Name_18
+Basic Resources
+Name_19
+Basic Resources
+Name_20
+Foodstuff Income
+Name_21
+Metal Income
+Name_22
+Wood Income
+Name_23
+Metal Income
+Name_24
+Jade Income
+Name_25
+Herb Income
+Name_26
+Herb Income
+Name_27
+Fabric Income
+Name_28
+Jade Income
+Name_29
+Foodstuff Income
+Name_30
+Wood Income
+Name_31
+Foodstuff Income
+Name_32
+Fabric Income
+Name_33
+Relocation Chance
+Name_34
+Prestige Income
+Name_35
+Доход от сбора
+Name_36
+Gathering Chance
+Name_37
+Опыт призвания
+Name_38
+Healing Effectiveness
+Name_39
+Получить опыт
+Name_40
+Increase Favorability
+Name_41
+Reduce Favorability
+Name_42
+Silver Income
+Name_43
+Resource Recovery
+Name_44
+Beast Increase
+Name_45
+Management Efficiency
+Name_46
+Commission Efficiency
+Name_47
+Resource Income
+Name_48
+Место под застройку
+Name_49
+Energy Recovery
+Name_50
+Prestige Income
+Name_51
+Silver Income
+Name_52
+Cricket Attraction
+Name_53
+Encounter Discovery
+Name_54
+Outstanding Characters
+Name_55
+Storage Slot
+Name_56
+Storage Slot
+Name_57
+Storage Slot
+Name_58
+Storage Slot
+Name_59
+Storage Slot
+Name_60
+Storage Slot
+Name_61
+Storage Slot
+Name_62
+Storage Slot
+Name_63
+Storage Slot
+Name_64
+Storage Slot
+Name_65
+Storage Slot
+Name_66
+Storage Slot
+Name_67
+Storage Slot
+Name_68
+Storage Slot
+Name_69
+Storage Slot
+Name_70
+Storage Slot
+Name_71
+Storage Slot
+Name_72
+Storage Slot
+Name_73
+Storage Slot
+Name_74
+Storage Slot
+Name_75
+Recruitment Slots
+Name_76
+Storage Slot
+Name_77
+Storage Slot
+Name_78
+Наибольшая ёмкость
+Name_79
+Study Efficiency
+Name_80
+Study Efficiency
+Name_81
+Study Efficiency
+Name_82
+Study Efficiency
+Name_83
+Study Efficiency
+Name_84
+Study Efficiency
+Name_85
+Study Efficiency
+Name_86
+Study Efficiency
+Name_87
+Study Efficiency
+Name_88
+Study Efficiency
+Name_89
+Study Efficiency
+Name_90
+Study Efficiency
+Name_91
+Study Efficiency
+Name_92
+Study Efficiency
+Name_93
+Вероятность успеха прорыва
+Name_94
+Вероятность успеха прорыва
+Name_95
+Вероятность успеха прорыва
+Name_96
+Вероятность успеха прорыва
+Name_97
+Вероятность успеха прорыва
+Name_98
+Вероятность успеха прорыва
+Name_99
+Вероятность успеха прорыва
+Name_100
+Вероятность успеха прорыва
+Name_101
+Вероятность успеха прорыва
+Name_102
+Вероятность успеха прорыва
+Name_103
+Вероятность успеха прорыва
+Name_104
+Вероятность успеха прорыва
+Name_105
+Вероятность успеха прорыва
+Name_106
+Вероятность успеха прорыва
+Name_107
+Место под застройку
+Name_108
+Stone House Expansion
+Name_109
+Total Jiao Pools
+Name_110
+Weight Limit
+Name_111
+Prestige Collection
+Name_112
+Weight Limit
+Name_113
+Total Residents
+Name_114
+Affinity Bonus
+Name_115
+Reincarnation Slot
+Name_116
+Cargo Slot
+Name_117
+Study Efficiency
+Name_118
+Study Efficiency
+Name_119
+Study Efficiency
+Name_120
+Study Efficiency
+Name_121
+Study Efficiency
+Name_122
+Study Efficiency
+Name_123
+Study Efficiency
+Name_124
+Study Efficiency
+Name_125
+Study Efficiency
+Name_126
+Study Efficiency
+Name_127
+Study Efficiency
+Name_128
+Study Efficiency
+Name_129
+Study Efficiency
+Name_130
+Study Efficiency
+Name_131
+Study Efficiency
+Name_132
+Study Efficiency
+Name_133
+Selling Slots
+Name_134
+Selling Slots
+Name_135
+Selling Slots
+Name_136
+Selling Slots
+Name_137
+Selling Slots
+Name_138
+Selling Slots
+Name_139
+Selling Slots
+Name_140
+Selling Slots
+Name_141
+Selling Slots
+Name_142
+Selling Slots
+Name_143
+Storage Slot
+Name_144
+Storage Slot
+Name_145
+Storage Slot
+Name_146
+Storage Slot
+Name_147
+Storage Slot
+Name_148
+Storage Slot
+Name_149
+Storage Slot
+Name_150
+Storage Slot
+Name_151
+Storage Slot
+Name_152
+Storage Slot
+Name_153
+Storage Slot
+Name_154
+Storage Slot
+Name_155
+Storage Slot
+Name_156
+Storage Slot
+Name_157
+Storage Slot
+Name_158
+Storage Slot
+Name_159
+Storage Slot
+Name_160
+Selling Slots
+Name_161
+Storage Slot
+Name_162
+Selling Slots
+Name_163
+Selling Slots
+Name_164
+Selling Slots
+Name_165
+Selling Slots
+Name_166
+Selling Slots
+Name_167
+Selling Slots
+Name_168
+Recruitment Slots
+Name_169
+Recruitment Slots
+Name_170
+Recruitment Slots
+Name_171
+Recruitment Slots
+Name_172
+Recruitment Slots
+Name_173
+Recruitment Slots
+Name_174
+Recruitment Slots
+Name_175
+Recruitment Slots
+Name_176
+Recruitment Slots
+Name_177
+Recruitment Slots
+Name_178
+Recruitment Slots
+Name_179
+Recruitment Slots
+Name_180
+Recruitment Slots
+Name_181
+Recruitment Slots
+Name_182
+Recruitment Slots
+Name_183
+Recruitment Slots
+Name_184
+Recruitment Slots
+Name_185
+Recruitment Slots
+Name_186
+Growth Chance
+Name_187
+Growth Chance
+Name_188
+Growth Chance
+Name_189
+Growth Chance
+Name_190
+Growth Chance
+Name_191
+Growth Chance
+Name_192
+Growth Chance
+Name_193
+Growth Chance
+Name_194
+Growth Chance
+Name_195
+Growth Chance
+Name_196
+Growth Chance
+Name_197
+Growth Chance
+Name_198
+Growth Chance
+Name_199
+Growth Chance
+Name_200
+Growth Chance
+Name_201
+Growth Chance
+Name_202
+Прибавка к мастерству
+Name_203
+Прибавка к мастерству
+Name_204
+Прибавка к мастерству
+Name_205
+Прибавка к мастерству
+Name_206
+Прибавка к мастерству
+Name_207
+Прибавка к мастерству
+Name_208
+Прибавка к мастерству
+Name_209
+Прибавка к мастерству
+Name_210
+Прибавка к мастерству
+Name_211
+Прибавка к мастерству
+Name_212
+Прибавка к мастерству
+Name_213
+Прибавка к мастерству
+Name_214
+Прибавка к мастерству
+Name_215
+Прибавка к мастерству
+Name_216
+Прибавка к мастерству
+Name_217
+Прибавка к мастерству
+Name_218
+Требования к мастерству
+Name_219
+Требования к мастерству
+Name_220
+Требования к мастерству
+Name_221
+Требования к мастерству
+Name_222
+Требования к мастерству
+Name_223
+Требования к мастерству
+Name_224
+Требования к мастерству
+Name_225
+Восстановление внутреннего дыхания
+Name_226
+Предел числа спутников
+Name_227
+Initial Favorability
+Name_228
+Наследие
+Name_229
+Восстановление здоровья
+Name_230
+Comprehension Cost
+Name_231
+Storage Slot
+Name_232
+Storage Slot
+Name_233
+Storage Slot
+Name_234
+Storage Slot
+Name_235
+Storage Slot
+Name_236
+Storage Slot
+Name_237
+Storage Slot
+Name_238
+Storage Slot
+Name_239
+Storage Slot
+Name_240
+Storage Slot
+Name_241
+Storage Slot
+Name_242
+Storage Slot
+Name_243
+Storage Slot
+Name_244
+Storage Slot
+Name_245
+Storage Slot
+Name_246
+Storage Slot
+Name_247
+Storage Slot
+

@@ -1,0 +1,43 @@
+Name_0
+Shuffle Option Order
+Name_1
+Use alias for left character
+Name_2
+Use alias for right character
+Name_3
+Hide left character portrait
+Name_4
+Hide right character portrait
+Name_5
+Disable viewing of left character
+Name_6
+Disable viewing of right character
+Name_7
+Hide left character Favorability
+Name_8
+Hide right character Favorability
+Name_9
+Show blushing for left character
+Name_10
+Show blushing for right character
+Name_11
+Show Health Status tips button for left character
+Name_12
+Show Health Status tips button for right character
+Name_13
+Set right character as silhouette
+Name_14
+Disable display of the right character's Pure Essence
+Name_15
+Show Favorability change effect on left character
+Name_16
+Show Favorability change effect on right character
+Name_17
+Show wedding garment 1 for left performer
+Name_18
+Show wedding garment 2 for left performer
+Name_19
+Show wedding garment 1 for right performer
+Name_20
+Show wedding garment 2 for right performer
+

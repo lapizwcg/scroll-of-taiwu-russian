@@ -1,0 +1,52 @@
+{
+  "title": "Усиление применения",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Цена усиления"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "<SpName=ui_mousetip_qi_0> Рост смятения дыхания",
+          "value": "{Current}/{Cost}"
+        },
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 2
+        },
+        {
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Действие усиления"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "\"Отменить искусство [Защиты] врага и нанести ему урон отдачи от отменённого искусства [Защиты].\""
+        }
+      ]
+    },
+    {
+      "type": "Default",
+      "name": "NoDefend",
+      "atoms": [
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 2
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<color=#brightred>Враг ещё не применял искусство Защиты…</color>"
+        }
+      ]
+    }
+  ]
+}

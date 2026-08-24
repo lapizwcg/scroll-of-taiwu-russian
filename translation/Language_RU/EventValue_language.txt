@@ -1,0 +1,216 @@
+Name_0
+Taiwu Character
+Name_1
+Game Time
+Name_2
+Current Month
+Name_3
+Current Year
+Name_4
+Remaining Days
+Name_5
+Invasion Level
+Name_7
+Секта Шаолинь
+Name_8
+Секта Эмэй
+Name_9
+Долина Сотни Цветов
+Name_10
+Секта Удан
+Name_11
+Секта Юаньшань
+Name_12
+Клан Львиноликих
+Name_13
+Секта Жаньшань
+Name_14
+Секта Нефритовой Девы
+Name_15
+Усадьба Ковки Мечей
+Name_16
+Секта Кунсан
+Name_17
+Секта Ваджры
+Name_18
+Секта Пяти Бессмертных
+Name_19
+Секта Вуали-Шрама
+Name_20
+Обитель Фулун
+Name_21
+Кровавая секта
+Name_22
+Деревня Тайу
+Name_23
+Столица
+Name_24
+Чэнду
+Name_25
+Гуйчжоу
+Name_26
+Сянъян
+Name_27
+Тайюань
+Name_28
+Гуанчжоу
+Name_29
+Цинчжоу
+Name_30
+Цзянлин
+Name_31
+Фучжоу
+Name_32
+Ляоян
+Name_33
+Циньчжоу
+Name_34
+Дали
+Name_35
+Шоучунь
+Name_36
+Ханчжоу
+Name_37
+Янчжоу
+Name_46
+Tutorial Bamboo Hut
+Name_47
+Main Story Bamboo Hut in Deep Valley
+Name_6
+Chat History
+Name_38
+Current Encounter Element
+Name_39
+Left Event Character
+Name_40
+Right Event Character
+Name_41
+Character captured in combat
+Name_42
+Character initiating capture in combat
+Name_43
+Rope used in capture in combat
+Name_44
+Default constant event - empty event
+Name_45
+Default constant event - exit Encounter
+Name_48
+Taiwu Current Tile
+Name_49
+Taiwu Village Current Tile
+Name_50
+Taiwu Village Way Station Tile
+Name_51
+Conversation Character Tier
+Name_52
+Former Location of Taiwu Village
+Name_53
+Mt. Chai Divine Furnace Tile
+Desc_0
+The character controlled by the player
+Desc_1
+The total timestamp of the current in-game date.
+Desc_2
+The month of the current in-game date.
+Desc_3
+The year of the current in-game date.
+Desc_4
+The remaining days of the current in-game month.
+Desc_5
+The current world's invasion level [0, 9].
+Desc_7
+
+Desc_8
+
+Desc_9
+
+Desc_10
+
+Desc_11
+
+Desc_12
+
+Desc_13
+
+Desc_14
+
+Desc_15
+
+Desc_16
+
+Desc_17
+
+Desc_18
+
+Desc_19
+
+Desc_20
+
+Desc_21
+
+Desc_22
+
+Desc_23
+
+Desc_24
+
+Desc_25
+
+Desc_26
+
+Desc_27
+
+Desc_28
+
+Desc_29
+
+Desc_30
+
+Desc_31
+
+Desc_32
+
+Desc_33
+
+Desc_34
+
+Desc_35
+
+Desc_36
+
+Desc_37
+
+Desc_46
+
+Desc_47
+
+Desc_6
+An actual case of the tile character talking to the player. Only events triggered by tapping the tile character will insert the parameter.
+Desc_38
+The Encounter Element being processed currently. Only events triggered through Encounter Element will insert the parameter.
+Desc_39
+An actual case of character on the left in event settings.
+Desc_40
+An actual case of character on the right in event settings.
+Desc_41
+An actual case of a captured character in the previous battle in the current event chain.
+Desc_42
+An actual case of a character initiating a capture in the previous battle in the current event chain.
+Desc_43
+An actual case of the rope used in a capture in the previous battle in the current event chain.
+Desc_44
+Skip to an empty event to end the event chain. This is mainly used in ending a pure-logic event that is not shown when there is no event page for the next level, or in situations where there are no completed events after switching other systems.
+Desc_45
+Mainly used in situations where an Encounter must be exited directly after returning from switching to another system (such as Sword Passing) in an event chain
+Desc_48
+
+Desc_49
+
+Desc_50
+
+Desc_51
+An actual tier case of the tile character talking to the player. Only events triggered by tapping the tile character will insert the parameter.
+Desc_52
+
+Desc_53
+

@@ -1,0 +1,224 @@
+Name_0
+Туман
+Name_1
+Водные врата
+Name_2
+Clouds Dispersed
+Name_3
+Delusion
+Name_4
+Burning haystack
+Name_5
+Жаровня
+Name_6
+Струящееся сияние
+Name_7
+Flora
+Name_8
+Jade & Metal
+Name_9
+Точка отдыха
+Name_10
+Не пройти
+Name_11
+Ловушка
+Name_12
+Enter Array
+Name_13
+Array Cycle
+Name_14
+Array Dissipation
+Name_15
+Лазурное пламя
+Name_16
+Dukkha Sword
+Name_17
+Dukkha Sword - Cyan
+Name_18
+Building Burning 0
+Name_19
+Building Burning 1
+Name_20
+Building Burning 2
+Name_21
+Building Burning 3
+Name_22
+Building Burning 4
+Name_23
+Martial Contest Smoke
+Name_24
+Ground-Spike Trap
+Name_25
+Explosion Effect 1
+Name_26
+Explosion Effect 2
+Name_27
+White Poison Mist
+Name_28
+Green Poison Mist
+Name_29
+Ghost-Whistle Trap
+Name_30
+Divinity-Demon White Light and Black Mist
+Name_31
+Divinity-Demon White Light
+Name_32
+Divinity-Demon Threefold White Mist
+Name_33
+Divinity-Demon Threefold Black Mist
+Name_34
+Blue Star Sparkle
+Name_35
+Golden Star Sparkle
+Name_36
+Golden Erupting Mist
+Name_37
+Blue Burning Flame
+Name_38
+White Gap Light
+Name_39
+White Glimmer
+Name_40
+Dukkha Sword Small Halo
+Name_41
+Dukkha Sword Large Halo
+Name_42
+12 Black Light Enter
+Name_43
+12 Black Light Loop
+Name_44
+12 Black Light Disappear
+Name_45
+Sword Qi
+Name_46
+Gold Lightning Enter
+Name_47
+Gold Lightning Loop
+Name_48
+Gold Lightning Disappear
+Name_49
+Intense Light Enter
+Name_50
+Intense Light Loop
+Name_51
+Intense Light Disappear
+Name_52
+Black Mist Loop
+Name_53
+Divine Light Array_Not Active
+Name_54
+Divine Light Array_Activated Successfully
+Name_55
+Divine Light Array_Activation Failed
+Desc_0
+
+Desc_1
+
+Desc_2
+
+Desc_3
+
+Desc_4
+
+Desc_5
+
+Desc_6
+
+Desc_7
+
+Desc_8
+
+Desc_9
+
+Desc_10
+
+Desc_11
+
+Desc_12
+
+Desc_13
+
+Desc_14
+
+Desc_15
+
+Desc_16
+
+Desc_17
+
+Desc_18
+
+Desc_19
+
+Desc_20
+
+Desc_21
+
+Desc_22
+
+Desc_23
+
+Desc_24
+
+Desc_25
+
+Desc_26
+
+Desc_27
+
+Desc_28
+
+Desc_29
+
+Desc_30
+
+Desc_31
+
+Desc_32
+
+Desc_33
+
+Desc_34
+
+Desc_35
+
+Desc_36
+
+Desc_37
+
+Desc_38
+
+Desc_39
+
+Desc_40
+
+Desc_41
+
+Desc_42
+
+Desc_43
+
+Desc_44
+
+Desc_45
+
+Desc_46
+
+Desc_47
+
+Desc_48
+
+Desc_49
+
+Desc_50
+
+Desc_51
+
+Desc_52
+
+Desc_53
+
+Desc_54
+
+Desc_55
+

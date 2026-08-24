@@ -1,0 +1,132 @@
+Name_0
+Старый деревянный болван
+Name_1
+Monu Wooden Dummy
+Name_2
+Dayue Yaochang Wooden Dummy
+Name_3
+Jiu Han Wooden Dummy
+Name_4
+Jin Huang'er's Wooden Dummy
+Name_5
+Yi Yihou Wooden Dummy
+Name_6
+Wei Qi Wooden Dummy
+Name_7
+Yi Xiang Wooden Dummy
+Name_8
+The Blood Maple Wooden Dummy
+Name_9
+Spellwright Wooden Dummy
+Name_10
+Red Robed Corpse Wooden Dummy
+Name_11
+Young Jixi Wooden Dummy
+Name_12
+Teen Jixi Wooden Dummy
+Name_13
+Adult Jixi Wooden Dummy
+Name_14
+Bodhidharma Wooden Dummy
+Name_15
+Unkempt Taoist Wooden Dummy
+Name_16
+Yun'er Wooden Dummy
+Name_17
+Lei Kun Wooden Dummy
+Name_18
+Ran Xindu Wooden Dummy
+Name_19
+Divine Matron's Wooden Dummy
+Name_20
+Shi Houjiu Wooden Dummy
+Name_21
+White Ape Wooden Dummy
+Name_22
+Candle Immortal Wooden Dummy
+Name_23
+Grimlord Skeleton Monk Wooden Dummy
+Name_24
+Bai Wuyang Wooden Dummy
+Name_25
+Xuan Wuyou Wooden Dummy
+Name_26
+The One Reborn Wooden Dummy
+Name_27
+Seventy-Seventh Wooden Dummy
+Name_28
+Puppet Master Wooden Dummy
+Name_29
+Liao Wuming Wooden Dummy
+Name_30
+Heavenly Demon's Dummy
+Name_31
+Earthly Demon's Dummy
+Name_32
+Humanly Demon's Dummy
+Desc_0
+
+Desc_1
+
+Desc_2
+
+Desc_3
+
+Desc_4
+
+Desc_5
+
+Desc_6
+
+Desc_7
+
+Desc_8
+
+Desc_9
+
+Desc_10
+
+Desc_11
+
+Desc_12
+
+Desc_13
+
+Desc_14
+
+Desc_15
+
+Desc_16
+
+Desc_17
+
+Desc_18
+
+Desc_19
+
+Desc_20
+
+Desc_21
+
+Desc_22
+
+Desc_23
+
+Desc_24
+
+Desc_25
+
+Desc_26
+
+Desc_27
+
+Desc_28
+
+Desc_29
+
+Desc_30
+
+Desc_31
+
+Desc_32
+

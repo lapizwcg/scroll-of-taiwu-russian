@@ -1,0 +1,81 @@
+Name_0
+Blunt Speaking
+Name_1
+Wit's End
+Name_2
+Shrewd Judgment
+Name_3
+Hollow Words
+Name_4
+Kind Persuasion
+Name_5
+Too Tedious to Bear
+Name_6
+Relentless Pursuing
+Name_7
+Offensive Words
+Name_8
+Piercing Words and Sparkling Wit
+Name_9
+Everything Has Its Limits
+Desc_0
+When one side in a Debate has not yet used any Strategies by the end of a round, the audience will make this comment with a chance, increasing their Favorability of the Contender, and affecting the Contender's Mood based on their Mindset.
+Desc_1
+When one side in a Debate has not yet used any Strategies by the end of a round, the audience will make this comment with a chance, decreasing their Favorability of the Contender, and affecting the Contender's Mood based on their Mindset.
+Desc_2
+For every 2 Contentions of one side with their Arguments revealed as 0 in a Debate, the audience will make this comment with a chance, increasing their Favorability of the Contender, and affecting the Contender's Mood based on their Mindset.
+Desc_3
+For every 2 Contentions of one side with their Arguments revealed as 0 in a Debate, the audience will make this comment with a chance, decreasing their Favorability of the Contender, and affecting the Contender's Mood based on their Mindset.
+Desc_4
+When one side in a Debate has 5 or more Contentions on the stage and places a new Contention, the audience will make this comment with a chance, increasing their Favorability of the Contender, and affecting the Contender's Mood based on their Mindset.
+Desc_5
+When one side in a Debate has 5 or more Contentions on the stage and places a new Contention, the audience will make this comment with a chance, decreasing their Favorability of the Contender, and affecting the Contender's Mood based on their Mindset.
+Desc_6
+When one side in a Debate eliminates at least 2 of the opponent's Contentions in one round, the audience will make this comment with a chance, increasing their Favorability of the Contender, and affecting the Contender's Mood based on their Mindset.
+Desc_7
+When one side in a Debate eliminates at least 2 of the opponent's Contentions in one round, the audience will make this comment with a chance, decreasing their Favorability of the Contender, and affecting the Contender's Mood based on their Mindset.
+Desc_8
+When one side in a Debate has used up all Strategies by the end of a round, the audience will make this comment with a chance, increasing their Favorability of the Contender, and affecting the Contender's Mood based on their Mindset.
+Desc_9
+When one side in a Debate has used up all Strategies by the end of a round, the audience will make this comment with a chance, decreasing their Favorability of the Contender, and affecting the Contender's Mood based on their Mindset.
+ResultTip_0
+At the end of the round, no Strategies have been used.
+ResultTip_1
+At the end of the round, no Strategies have been used.
+ResultTip_2
+Two placed Contentions with 0 Arguments are revealed.
+ResultTip_3
+Two placed Contentions with 0 Arguments are revealed.
+ResultTip_4
+A new Contention was placed when there were at least 5 friendly Contentions on the board.
+ResultTip_5
+A new Contention was placed when there were at least 5 friendly Contentions on the board.
+ResultTip_6
+In one round, eliminate at least 2 of the opponent's Contentions.
+ResultTip_7
+In one round, eliminate at least 2 of the opponent's Contentions.
+ResultTip_8
+By the end of the round, all Strategies are used.
+ResultTip_9
+By the end of the round, all Strategies are used.
+BubbleContent_0
+No tricks, just pure class. Respect, {0}!
+BubbleContent_1
+Hmph, {0} is so clumsy with words, quite boring...
+BubbleContent_2
+All's fair in war; bluffs are also {0}'s good strategy...
+BubbleContent_3
+{0}'s boastful words are just sophistry...
+BubbleContent_4
+{0} explains it so thoroughly, one can't help but understand...
+BubbleContent_5
+{0} keeps rambling, making it quite tiresome...
+BubbleContent_6
+Well, well! {0} truly has the momentum of a tidal wave!
+BubbleContent_7
+Why not give people a little grace whenever possible, {0}?
+BubbleContent_8
+How marvelous, {0} indeed has some skill with words!
+BubbleContent_9
+{0} talks so eloquently, but it may end up being counterproductive...
+

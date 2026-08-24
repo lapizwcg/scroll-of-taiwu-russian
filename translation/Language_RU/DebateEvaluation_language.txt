@@ -1,0 +1,21 @@
+Name_0
+Debates Won
+Name_1
+Debates Lost
+Name_2
+Kind Enlightenment
+Name_3
+Underdog Triumph
+Name_4
+Speechless
+ResultTip_0
+Debates Won!
+ResultTip_1
+Debates Lost!
+ResultTip_2
+Defeat an opponent whose Attainment is much lower than yours.
+ResultTip_3
+Defeat an opponent whose Attainment is much higher than yours.
+ResultTip_4
+Speechless...
+

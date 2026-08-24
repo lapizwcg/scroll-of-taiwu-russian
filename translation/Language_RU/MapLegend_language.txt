@@ -1,0 +1,93 @@
+Name_0
+Main Story
+Name_1
+Местные истории
+Name_2
+Secret Tome Holder
+Name_3
+Божественный лун
+Name_4
+Bamboo Incarnation
+Name_5
+Одержимые
+Name_17
+Обезумевший демон
+Name_6
+Dreaming of Old Friends
+Name_7
+Escape Jiao Loong
+Name_8
+Вылазка
+Name_18
+Звездочётная терраса
+Name_19
+Star Fortune Count
+Name_20
+Escape Beast
+Name_21
+Могильник мечей
+Name_22
+Major Event
+Name_9
+Villager
+Name_10
+Земледелец
+Name_11
+Ремесленник
+Name_12
+Лекарь
+Name_13
+Торговец
+Name_14
+Книжник
+Name_15
+Страж могильника
+Name_16
+Envoy
+Desc_0
+Main Story Encounters and Events
+Desc_1
+Regional Story Encounters and Events
+Desc_2
+Secret tome holders in this region
+Desc_3
+You will find a Divine Loong in this region
+Desc_4
+В этом краю есть Бамбуковое воплощение
+Desc_5
+Bewitched cured in this region
+Desc_17
+Mindless Fiends in this region
+Desc_6
+Dreamed Old Friends in this region
+Desc_7
+Escaped Jiao and Loong Offspring in this region
+Desc_8
+Encounters in this region
+Desc_18
+
+Desc_19
+
+Desc_20
+
+Desc_21
+
+Desc_22
+
+Desc_9
+Taiwu villagers dispatched to this region
+Desc_10
+Farmers dispatched to this region
+Desc_11
+Artisans dispatched to this region
+Desc_12
+Doctors dispatched to this region
+Desc_13
+Merchants dispatched to this region
+Desc_14
+Scholars dispatched to this region
+Desc_15
+Mound Wardens dispatched to this region
+Desc_16
+Envoys dispatched to this region
+

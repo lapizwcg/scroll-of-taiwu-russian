@@ -1,0 +1,47 @@
+RefuseAppointment_0
+
+RefuseAppointment_1
+
+RefuseAppointment_2
+"I must protect loved ones—not a moment to spare. Forgive my refusal..."
+RefuseAppointment_3
+"I must rescue kinsmen—no room for error. Forgive my refusal..."
+RefuseAppointment_4
+
+RefuseAppointment_5
+
+RefuseAppointment_6
+
+RefuseAppointment_7
+
+RefuseAppointment_8
+
+RefuseAppointment_9
+"I must seek secret tomes—this permits no negligence. Forgive my refusal..."
+RefuseAppointment_10
+"I must adopt abandoned infants—this brooks no lapse. Forgive my refusal..."
+RefuseAppointment_11
+"I must repel the Three Demons—no margin for failure. Forgive my refusal..."
+RefuseAppointment_12
+"I must drive back invaders—vigilance is paramount. Forgive my refusal..."
+RefuseAppointment_13
+"I must challenge my sectmate—this demands full focus. Forgive my refusal..."
+RefuseAppointment_14
+
+RefuseAppointment_15
+"I must guard the warehouse—not a moment's lapse allowed. Forgive my refusal..."
+RefuseAppointment_16
+"I must treat the afflicted—no delay permissible. Forgive my refusal..."
+RefuseAppointment_17
+"I must apprehend fugitives—this allows no distraction. Forgive my refusal..."
+RefuseAppointment_18
+"A life-and-death matter presses me—no room for error. Forgive my refusal..."
+RefuseAppointment_19
+"A life-and-death matter presses me—no room for error. Forgive my refusal..."
+RefuseAppointment_20
+"I must escort prisoners—this permits no negligence. Forgive my refusal..."
+RefuseAppointment_21
+"Taiwu Village affairs demand me—not a moment to spare. Forgive my refusal..."
+RefuseAppointment_22
+"Urgent matters press me—no lapse permissible. Forgive my refusal..."
+

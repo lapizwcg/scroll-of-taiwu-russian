@@ -1,0 +1,721 @@
+Name_0
+Unhindered by Terrain
+Name_1
+Rest and Recuperation
+Name_2
+Adaptive Mind
+Name_3
+Treasure Hunter
+Name_4
+Beast Hunter
+Name_5
+Beast Taming
+Name_6
+Beast Tracking
+Name_7
+Ascending Beasts
+Name_8
+Master Crafter
+Name_9
+Proper Use by the Rules
+Name_10
+Inventive Mind
+Name_11
+Finishing Touch
+Name_12
+Martial World Wanderer
+Name_13
+Unyielding Spirit
+Name_14
+Righteous Blade
+Name_15
+Tides Turn
+Name_16
+Renaming Service
+Name_17
+Master of Knowledge
+Name_18
+Words of Utmost Authority
+Name_19
+Lively Conversation
+Name_20
+Qi Regulation
+Name_21
+Evil Repelling Ritual
+Name_22
+Небесные письмена
+Name_23
+Final Tribulation
+Name_24
+Meditation for Clarity
+Name_25
+Preach Buddhism
+Name_26
+Liberation Ritual
+Name_27
+Enlightenment on Reincarnation
+Name_28
+Wine Duel
+Name_29
+Unfazed Drinker
+Name_30
+Immortal Tipsy
+Name_31
+Martial Bond
+Name_32
+Endorsement
+Name_33
+Promotion Advocate
+Name_34
+Claim to Fame
+Name_35
+Pardon Granted
+Name_36
+Seeking Alms
+Name_37
+Nasty Slang
+Name_38
+Worldwide Brotherhood
+Name_39
+Taker's Feast
+Name_40
+Fellow Neighbors
+Name_41
+Peaceful Living
+Name_42
+Withdrawal from the Fray
+Name_43
+Legacy of Mastery
+Name_44
+Dine with Wind, Sleep under Stars
+Name_45
+Map Making
+Name_46
+Secret Paths
+Name_47
+The Immortal's Mansion Beyond the Mortal World
+Name_48
+Serene Mind
+Name_49
+Guiding to Goodness
+Name_50
+Безграничное искание Дхармы
+Name_51
+Divine Radiance
+Name_52
+Medical Consultation
+Name_53
+Traveling Doctor
+Name_54
+Seek Longevity
+Name_55
+Golden needle deliverance
+Name_56
+Natural Ease
+Name_57
+Diviner of Fate
+Name_58
+Destiny Alterer
+Name_59
+Beyond Bounds
+Name_60
+Keen Eyes
+Name_61
+Caravan Summoning
+Name_62
+Treasure and Fortune Gathering
+Name_63
+Patron of the Guilds
+Name_64
+Tea Tasting
+Name_65
+Immersion in Tea Essence
+Name_66
+The Years in Tea
+Name_67
+Innate Genius
+Name_68
+Распознание сверчка
+Name_69
+Пожалование титулов
+Name_70
+Crickets Reviver
+Name_71
+Grand Dream
+Desc_0
+The Mountain Dweller carries a bamboo staff and a basket on their back, venturing deep into the thick woods to chop wood, digging up bamboo shoots in the secluded hills. They climb steep, rugged peaks with ease and cross rushing rivers without hesitation. While others would struggle on these paths, the Mountain Dweller moves with ease, at home in the wild...
+Desc_1
+All things grow in their own time, and the Mountain Dweller harvests in harmony with the seasons. Thriving plants are gathered with care, while tender and fragile ones are left to grow. Under the Mountain Dweller's careful tending, the land remains lush and bountiful...
+Desc_2
+The Mountain Dweller knows the terrain like the back of their hand. In battle, they use cliffs to evade attacks and turn defense into offense. Hidden among the open woods, they wait for the perfect moment to strike. With the terrain on their side, victory is often decided before the battle even begins...
+Desc_3
+With a keen sense for hidden riches, the Mountain Dweller can pinpoint buried treasures beneath the earth. While others search in vain, they simply perform an excavation in the right spot and claim their prize effortlessly...
+Desc_4
+A skilled Hunter moves silently, tracking beasts before closing in for the capture. Wild animals are often cunning and fierce, but the Hunter strikes fast, dodging with agility and seizing the moment before the beast can react...
+Desc_5
+With years of experience in the wild, the Hunter knows the nature of beasts and how to command them. In battle, a simple call is enough to summon beasts to strike down enemies...
+Desc_6
+Years of roaming the wilderness have given the Hunter a deep understanding of animal behavior. By examining broken branches and faint tracks in the grass, they can uncover the hidden presence of wildlife...
+Desc_7
+The Hunter doesn't just tame beasts—they form a deep connection with them. Through trust and care, the Hunter earns their loyalty, and in return, the beasts fight by their side...
+Desc_8
+Most need tools to craft, but a true Artisan relies on skill alone. With precision and instinct, they can measure, cut, and shape materials with nothing but their hands...
+Desc_9
+A skilled artisan knows that the right tools make all the difference. Even an amateur can create masterpieces with the proper equipment...
+Desc_10
+Master crafters don't just follow tradition—they innovate. With skill and insight, they create things that stand apart from the ordinary...
+Desc_11
+An artisan's touch brings lifeless materials to life. Even the simplest bead, once refined, can radiate elegance and spirit...
+Desc_12
+In bustling cities or remote villages, wherever people gather, the Martial World thrives. A Martial Artist is always mingling with heroes, forging deep bonds. A thoughtful gift or gesture of goodwill strengthens these connections, turning them into lasting friendships...
+Desc_13
+The Martial World is full of fierce warriors, and only the strongest can carve their path. The Martial Artist trains relentlessly, mastering the secret of Microcosmic Circulation. With this mastery, their techniques are superior to others, allowing them to roam the Martial World freely and with a sense of unrestrained resolve...
+Desc_14
+The Martial World is full of injustice, and a true Martial Artist never turns a blind eye. With unwavering courage, they draw their sword to right the wrongs, earning respect and admiration from those who value honor and righteousness...
+Desc_15
+The Martial Artist's charisma is undeniable—when they call, allies rally without hesitation. Standing at the center of the gathered forces, the Martial Artist commands awe and respect...
+Desc_16
+Finding the perfect name—one that sounds good, looks good, and holds meaning—is no easy task. But a Scholar's sharp mind and refined taste make their name suggestions widely admired. People flock to them, hoping for a name that suits them best...
+Desc_17
+A true Scholar wanders through the sea of books, mastering countless disciplines. People praise their sharp wit, but few know the relentless effort behind their wisdom...
+Desc_18
+A Scholar's speech is sharp and compelling—sometimes thought-provoking, sometimes amusing, but always captivating. Their words spread like wildfire, and when they speak of Secrets, the world listens...
+Desc_19
+A Scholar's vast knowledge never fails to amaze. The stories they tell spark endless discussions, spreading through communities and influencing minds with just a few well-placed words...
+Desc_20
+Only those in tune with nature can truly master the art of absorbing the essence from the universe. The Taoist sits in deep meditation, breathing in the energy of the world, channeling it through their body...
+Desc_21
+With the Xiangshu chaos spreading and demons running rampant, the Taoist who walks the righteous path cannot stand by as innocent lives suffer. Armed with sacred talismans and the power of the Three Pure Bells, they step forward to banish evil and restore balance to the world...
+Desc_22
+A true Taoist roams the world, slaying demons and protecting the innocent. Through these righteous deeds, they accumulate unseen merit, which manifests as powerful talismans. These mystical symbols strengthen the body and can even ward off divine tribulations.
+Desc_23
+Mortals who defy the natural cycle of life and death invite heavenly tribulation. Only those of great virtue and enlightenment can withstand such tribulations, reclaim their youth, and attain the legendary status of a true immortal. Though the path to immortality is no secret, few succeed, as most remain blinded by worldly desires, caring little for the greater good...
+Desc_24
+A monk's mind is steadfast—no matter how noisy the world around them, they can enter a deep meditative state in an instant. The bustling streets become as serene as a temple, and the clamor of the world fades into the sound of chanting...
+Desc_25
+A Buddhist's heart is filled with compassion. Seeing others struggle in the endless cycle of suffering, they feel sorrow and wish to lead them toward peace. By spreading Buddhist teachings, they guide people to renounce worldly life and walk the path of enlightenment...
+Desc_26
+When people die, their souls wander the world, gradually losing all memory of their past life, left to drift alone. But the Eminent Monk, well-versed in Buddhist teachings, can offer them salvation. By performing a Liberation Ritual, they help lost souls hear the teaching and be reborn, offering them a chance at a new life..
+Desc_27
+Buddhist teachings speak of karma and the cycle of rebirth—those who commit evil fall into the lower realms, while those who cultivate virtue ascend. But a truly enlightened eminent monk transcends this cycle, freeing themselves from karma and choosing their own path after death...
+Desc_28
+A full cup, a hearty toast, and good company—what could be better? The Gallant lives for these moments, raising their glass with friends, singing, laughing, and letting all worries fade away. Most people can't resist sharing a drink with such a bold spirit, drawn in by the lively atmosphere...
+Desc_29
+No matter how much they drink, the Gallant never seems to get drunk. While others pass out for days, they keep going as if nothing happened. People line up to challenge their legendary tolerance, offering cup after cup, only to watch in amazement as they down each one like water—laughing, chatting, completely unfazed...
+Desc_30
+A gallant drinker understands the subtleties of every kind of fine wine. In the morning, a fragrant sip awakens the spirit; in the evening, rich liquor soothes the heart; in gatherings, fine brews enhance festivity; in solitude, clear wine calms the mind. Having tasted a thousand cups, one attains the true essence within the cup... and becomes a wine immortal...
+Desc_31
+A few drinks, a few swings of the blade—nothing brings the Gallant together like good wine and shared martial arts. With every toast, friendships are formed, and with every duel, skills are sharpened. But not every meeting ends in camaraderie—some become lifelong allies, while others turn into bitter rivals...
+Desc_32
+The Highborn carries great weight. Over time, both wandering warriors and high-ranking nobles have come to admire and heed their words. A single endorsement can elevate someone to greatness, while a single condemnation can bring their influence crashing down.
+Desc_33
+With the court in ruins and the emperor gone, where can the ambitious find their place? As the Highborn known across the land, there's no shortage of capable individuals seeking guidance. Use this reputation to attract the finest talents, mentor them, and turn them into valuable allies...
+Desc_34
+Dynasties may rise and fall, and nobles may fade into history, but the prestige of the highborn lineage endures, standing the test of time. Wherever they go, all eyes turn toward it in admiration, with many eager to forge connections...
+Desc_35
+Rivalries and feuds run deep, but there are few whose influence can truly bring peace. Even martial sects, bound by old grudges, show deference to such a name. With the right words from the Highborn, long-standing grudges dissolve, prisoners walk free, and old enemies become allies...
+Desc_36
+Wandering the bustling streets, the Beggar sings old tunes and pleads for charity. With a clatter, a silver coin drops into their bowl...
+Desc_37
+Sharp words, crude insults, and wild ramblings—enough to scare people away. No one dares to linger, and only the Beggar is here, feeling carefree...
+Desc_38
+The Beggar's got countless brothers in the streets, ears in every corner. If someone's lost in the crowd, these connections can track them down...
+Desc_39
+No silver for food? No problem! But that full pack of yours—chickens, fish, fine wine—why not share? A feast for me, a lighter load for you!
+Desc_40
+The Commoner lives a simple, honest life. They care more about their neighborly bonds than wealth, understanding that a small gift can carry great meaning...
+Desc_41
+In any community, tensions can build over time, but the Commoner often knows how to smooth things over. Their wisdom and familiarity with one another help resolve conflicts, encouraging harmony and understanding...
+Desc_42
+Living a quiet life away from the hustle and bustle, the Commoner speaks of the joys of simplicity, and their peaceful existence often draws the envy of wandering heroes. Even if they've had grudges against their sectmates in the past, they're content to withdraw and live in peace...
+Desc_43
+The Commoner's life is like a thriving forest—when their time comes to pass, they ensure their legacy is carried on through the generations. They pass on their knowledge, experiences, and teachings, unknowingly aligning with the Fuyu Hilt, mastering it over time...
+Desc_44
+The Traveler roams far and wide, crossing mountains and rivers, growing accustomed to life under the open sky. Whether deep in the woods, by a cold stream, or atop a windy ridge, they make do. Even exhaustion fades after a night's rest, ready to journey on...
+Desc_45
+By reading the stars and the sun's path, the Traveler always knows their direction. With a keen eye, they naturally sketch maps, marking trails and landmarks. By the time they look up, the road ahead is already clear—never again will they fear losing their way.
+Desc_46
+Experienced travelers know the land like the back of their hand. Every shortcut, every hidden path through forests and hills—they know it all. While others struggle through rough terrain, they slip through secret routes, covering great distances with ease...
+Desc_47
+Having wandered through sacred mountains and untouched lands, the Traveler gains a deep understanding of the natural order. By studying the earth's energy, they can build mansions, linking them together like portals. From now on, these places will be known as traveler's Immortal's Mansion...
+Desc_48
+A Wandering Monk finds peace within. Whether walking, sitting, or resting, as long as their heart is calm, wisdom naturally follows. As the saying goes, "A still mind brings clarity, and clarity brings wisdom."
+Desc_49
+If all people turned toward kindness, conflict would cease. When the Wandering Monk encounters those with ill intent, they simply clasp their hands together, smile gently, and share a story—guiding them toward a better path...
+Desc_50
+Across the land, countless temples and monasteries stand—some hidden deep in forests, others perched atop towering peaks. Reaching them all is no easy task. Yet for a Wandering Monk, every journey is a form of practice, and no mountain or river can stand in their way...
+Desc_51
+It is said: "Amitabha Buddha shines infinite light, illuminating all worlds." The Wandering Monk has walked beneath this divine glow, comprehending the teachings of the Dharma. Over time, they have attained enlightenment, now shielded by sacred light. No evil shall shake their resolve...
+Desc_52
+The Doctor has studied countless medical texts, tested countless herbs, and mastered the art of healing. When tending to the sick and wounded, they can diagnose ailments and prescribe the right medicine, earning a reputation for their selfless service.
+Desc_53
+A traveling Doctor cannot turn a blind eye to suffering. Whenever they see people in pain, their compassion compels them to help, asking for nothing in return. Over time, their kindness spreads, earning them a name of great honor...
+Desc_54
+After years of medical practice, the Doctor gains deep insight into the properties of every herb. With advanced knowledge, they can refine medicines that not only heal but also extend life, strengthening the body over time.
+Desc_55
+A true master of medicine understands not only how to heal—but how to manipulate life itself. With unparalleled skill in acupuncture and the knowledge of meridians and vital points, the Doctor can use golden needles to transfer their own lifespan to another, altering fate itself.
+Desc_56
+Through mountains and rivers, the Wandering Taoist roams carefree. Trekking through rugged paths, climbing vines, and venturing into thick woods in search of wisdom, their body and mind grow ever lighter, moving with an almost otherworldly grace...
+Desc_57
+Some stumble into unexpected fortune, while others face sudden loss. Though it may seem like chance, fate is always at play. Ordinary people can't foresee what's ahead, but a seasoned Wandering Taoist who understands the flow of destiny may just catch a glimpse...
+Desc_58
+Is life truly set in stone? Are wealth and longevity simply left to fate? Through years of studying destiny, the Wandering Taoist has unlocked the secrets of changing fate itself. Now, they can rewrite destiny—not just for themselves, but for others. Even if it comes at a cost, what's a little divine punishment in exchange for control over one's own fate?
+Desc_59
+Kings and emperors have spent entire lifetimes chasing immortality, yet all have failed. Meanwhile, the Wandering Taoist simply roams as they please, sometimes lost in nature, sometimes amidst bustling streets—yet, without realizing it, they have already transcended the limits of human lifespan...
+Desc_60
+The world is full of hidden gems—many just don't recognize their worth. But the sharp-eyed Magnate knows value when they see it, never hesitating to spend a few extra silver coins to claim a rare find...
+Desc_61
+With vast wealth and a reputation that echoes far and wide, the Magnate only needs to summon, and caravans will eagerly respond. In hopes of earning favor, trade guilds often offer special deals—after all, successful business thrives on mutual benefit...
+Desc_62
+Every major trade guild knows the wealth of a successful Magnate. To maintain good relations, they often offer gifts and favors, sometimes even sharing a portion of their revenue as a gesture of goodwill.
+Desc_63
+The magnate maintains close ties with trade guilds, acting as a honored guest of the guild. Whenever rare and exotic goods arrive, only the magnate is granted the first look—an exclusive advantage no ordinary buyer can access...
+Desc_64
+No matter the setting—whether in a bustling marketplace or a quiet retreat—the rich aroma of tea and the gentle bubbling of a bamboo kettle bring people together. As Nobles sip and savor, the chaos of the world fades, leaving only the shared moment between them...
+Desc_65
+The first sip refreshes the throat. The second sip lifts the spirit. The third sip sparks creativity. The fourth sip breaks away misfortune. The fifth sip cleanses the body. The sixth sip touches the divine. The seventh sip... perhaps too much, as it feels like floating into the heavens...
+Desc_66
+With fine tea in hand, the Noble and their companions wander in search of beauty—sailing under the moon, enjoying incense at dawn, or listening to a melody at dusk. As fatigue settles on friends, the Noble remains refreshed and energized. They asked for the secret, and the Noble simply smiles, takes another sip, and says nothing.
+Desc_67
+With such outstanding talent, the Noble always attracts those eager to learn. Over time, more people gather to study together. While discussions can be lively and insightful, they can also spark disagreements. However, through these exchanges, everyone gains something...
+Desc_68
+In the past, royalty indulged in extravagant pastimes—not just horse racing and cockfighting, but also cricket duels. With a single glance, they could tell a cricket's worth, knowing exactly how to train it to become stronger and fiercer...
+Desc_69
+Receiving the royal title might be symbolic, but status and privilege often go hand in hand. Even in uncertain times, the powerful hesitate to offend those with royal ties, ensuring them certain conveniences...
+Desc_70
+Crickets are born to fight, but battles often lead to injuries—or even death. Ordinary doctors may know how to heal them, but only the royal peer understands how to revive a fallen champion, bringing it back as if touched by divine hands...
+Desc_71
+After the fall of the empire, royalty had little left but their crickets for amusement. But sometimes, in their grandest dreams, they imagined themselves surrounded not just by insects—but by devoted followers.
+FunctionalDesc_0
+<color=#brightblue>Increases <SpName=mousetip_zhuyao_0><color=#pinkyellow>Strength</color>, and at the start of each month, improve <SpName=mousetip_zhuyao_0><color=#pinkyellow>Strength</color> recovery.</color>\nThe higher the <color=#orange>Mountain Dweller's Seniority</color>, the greater the<SpName=mousetip_zhuyao_0><color=#pinkyellow>Strength</color> bonus and recovery.
+FunctionalDesc_1
+<color=#brightblue>Proceed with gathering after restoring all resource types within 1-tile range.</color>\nThe higher the <color=#orange>Mountain Dweller's Seniority,</color> the more resources are restored.
+FunctionalDesc_2
+<color=#brightblue>Gain different battle effects from the surrounding terrain within 1 tile.</color>
+FunctionalDesc_3
+<color=#brightblue>Choose and directly obtain any item that can be excavated from the current tile.</color>
+FunctionalDesc_4
+<color=#brightblue>Increase Attack, Defense, Hit, and Deflection when fighting beasts.</color>\nThe higher the <color=#orange>Hunter's Seniority</color>, the greater the attribute boosts.
+FunctionalDesc_5
+<color=#brightblue>Summons a beast mount in battle to attack enemies at the cost of Vehicle Durability.</color>\nThe higher <color=#orange>the Hunter's <SpName=mousetip_qibuff><color=#pinkyellow>Pure Essence</color></color>, the greater the beast's ATK and Hit bonus.
+FunctionalDesc_6
+<color=#brightblue>Found hidden beasts in explored tiles within the current region.</color>\nThe higher the <color=#orange>Hunter's Seniority</color>, the more beasts can be found and the greater the chance of discovering beasts with higher <SpName=mousetip_qibuff><color=#pinkyellow>Pure Essence</color>.
+FunctionalDesc_7
+<color=#brightblue>Upgrade a beast vehicle into a battle companion.</color>\nThe awakened beast can now support the battle and follow special Support Commands.
+FunctionalDesc_8
+<color=#brightblue>Reduce Attainment penalties for <SpName=mousetip_jiyi_6><color=#pinkyellow>Smithing</color>, <SpName=mousetip_jiyi_7><color=#pinkyellow>Carpentry</color>, <SpName=mousetip_jiyi_11><color=#pinkyellow>Jewelcrafting</color>, and <SpName=mousetip_jiyi_10><color=#pinkyellow>Weaving</color> when crafting by hand.</color>\nThe higher the <color=#orange>Artisan's Seniority</color>, the lower the Attainment penalty.
+FunctionalDesc_9
+<color=#brightblue>Increase the Attainment bonus when performing <SpName=mousetip_jiyi_6><color=#pinkyellow>Smithing</color>, <SpName=mousetip_jiyi_7><color=#pinkyellow>Carpentry</color>, <SpName=mousetip_jiyi_11><color=#pinkyellow>Jewelcrafting</color>, and <SpName=mousetip_jiyi_10><color=#pinkyellow>Weaving</color> from crafting tools.</color>\nThe higher the <color=#orange>Artisan's Seniority</color>, the greater the Attainment bonus.
+FunctionalDesc_10
+<color=#brightblue>When your Attainment meets the weapon's repair requirement, you can alter the weapon's techniques;</color>\n<color=#orange>The higher the Artisan Seniority, the fewer resources are needed to alter the techniques.</color>
+FunctionalDesc_11
+<color=#brightblue>Enhance the <SpName=mousetip_refine><color=#pinkyellow>Refinement</color> Effects of worn equipment.</color>
+FunctionalDesc_12
+<color=#brightblue>Increases the <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color> gain when meeting a sect member for the first time and sending gifts to them. Also increases the selected items' Gift Level, allowing characters with higher <SpName=mousetip_character><color=#pinkyellow>rank</color> to accept items of lower tier.</color>\nThe higher <color=#orange>Martial Artist Seniority</color> is, the more <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color> will be gained from first meeting and gifting, and characters with higher <SpName=mousetip_character><color=#pinkyellow>Rank</color> will accept items of lower tier.
+FunctionalDesc_13
+<color=#brightblue>Enhance the overall effect of Microcosmic Circulation and grant additional random Circulation Strategies.</color>\nThe higher the <color=#orange>Martial Artist's Seniority</color>, the stronger the effect and the more extra Strategies you receive.
+FunctionalDesc_14
+<color=#brightblue>Greatly increase the rewards for capturing and delivering wanted criminals, with additional item bonuses.</color>\nThe higher the <color=#orange>Martial Artist's Seniority</color>, the higher tier the rewards and the better the extra item gained.
+FunctionalDesc_15
+<color=#brightblue>Based on the Martial Artist's <SpName=mousetip_mingyu_3><color=#pinkyellow>Reputation</color>, summon a large number of <SpName=mousetip_heterodoxy><color=#pinkyellow>Outlaws</color> or <SpName=mousetip_chivalrousperson><color=#pinkyellow>Xiakes</color> to attack <SpName=mousetip_rumo><color=#pinkyellow>Xiangshu Underlings</color> and those with opposing <SpName=mousetip_mingyu_3><color=#pinkyellow>Reputations</color> nearby.</color>\nThe Martial Artist gains all loots from the battle.\nSummoned <SpName=mousetip_heterodoxy><color=#pinkyellow>Outlaws</color> and <SpName=mousetip_chivalrousperson><color=#pinkyellow>Xiakes</color> will leave at the start of next month.
+FunctionalDesc_16
+<color=#brightblue>Propose new names for others.</color>\nThe higher the <color=#orange>Scholar Seniority</color>, the higher the <SpName=mousetip_character><color=#pinkyellow>Rank</color> of individuals for you to rename, and the more <SpName=mousetip_ziyuan_7><color=#pinkyellow>Prestige</color> is gained.
+FunctionalDesc_17
+<color=#brightblue>Increase the overall effect of book study and provides additional random Study Strategies.</color>\nThe higher the <color=#orange>Scholar Seniority</color>, the better the study efficiency and the more Strategies are gained.
+FunctionalDesc_18
+<color=#brightblue>Spend a large amount of <SpName=mousetip_ziyuan_7><color=#pinkyellow>Prestige</color> to instantly disclose one of the Secrets, significantly increasing its impact.</color>
+FunctionalDesc_19
+<color=#brightblue>Instantly share 1 Insight of Fine Arts, Sect, Regions, or Western Regions with all characters in the area, greatly increasing the effectiveness of the insight.</color>
+FunctionalDesc_20
+<color=#brightblue>Increase <SpName=mousetip_zhuyao_4><color=#pinkyellow>Root Bone</color>, and at the start of each month, improve <SpName=mousetip_zhuyao_4><color=#pinkyellow>Root Bone</color> recovery.</color>\nThe higher the <color=#orange>Taoist's Seniority</color>, the greater the increase and recovery of <SpName=mousetip_zhuyao_4><color=#pinkyellow>Root Bone</color>.
+FunctionalDesc_21
+<color=#brightblue>Trigger a character's latent corruption and then perform an Evil Repelling Ritual.</color>\nThe higher the <color=#orange>Taoist's Seniority</color>, the higher the <SpName=mousetip_character><color=#pinkyellow>Rank</color> of characters that can be purified, and the greater the <SpName=mousetip_ziyuan_7><color=#pinkyellow>Prestige</color> is gained from a successful Ritual.
+FunctionalDesc_22
+<color=#brightblue>When saving or eliminating the Bewitched, based on their <SpName=mousetip_qibuff><color=#pinkyellow>Pure Essence</color>, gain a certain number of <color=#ff5331>Celestial Runes</color>.</color>\n<color=#ff5331>Celestial Runes</color> can be consumed to enhance abilities, available once every 9 runes.\n<color=#ff5331>Celestial Runes</color> serve a crucial role in overcoming heavenly tribulations.
+FunctionalDesc_23
+<color=#brightblue>When Final Tribulation is used actively, tribulations will be triggered at the next turn of months. </color>\nCrossing each tribulation consumes 99 <color=#ff5331>Celestial Runes</color> and adds a post-tribulation trait. Several <color=#ff5331>Celestial Runes</color> will be granted based on the number of crossed tribulations each month.\nWhen the final Celestial Tribulation is crossed, all post-tribulation traits will be cleared and the character will revert back to youth, with the <SpName=mousetip_age_0><color=#pinkyellow>Current Age</color> returned to 16. Henceforth the character will grow 1 year older every 3 years. The character can re-cross the tribulations after the reversion to youth.
+FunctionalDesc_24
+<color=#brightblue>Increase <SpName=mousetip_zhuyao_2><color=#pinkyellow>Willpower</color> and at the start of each month, improve <SpName=mousetip_zhuyao_2><color=#pinkyellow>Willpower</color> recovery.</color>\nThe higher the <color=#orange>Buddhist Monk's Seniority</color>, the greater the increase and recovery of <SpName=mousetip_zhuyao_2><color=#pinkyellow>Willpower</color>.
+FunctionalDesc_25
+<color=#brightblue>Engage in <SpName=mousetip_lifeskill><color=#pinkyellow>Debates</color> to persuade others to become monks or nuns. Successfully converting someone allows to take them as a disciple.</color>\nThe higher the <color=#orange>Buddhist Monk's Seniority</color>, the higher the <SpName=mousetip_character><color=#pinkyellow>Rank</color> of characters can be guided into the monastic life.
+FunctionalDesc_26
+<color=#brightblue>Perform the ritual to guide spirits to reincarnation,</color>\nensuring they are reborn with the same appearance and gender as in their past life while improving their Talent.
+FunctionalDesc_27
+<color=#brightblue>Upon death, be reborn into the womb of a chosen adult woman,</color>\nretaining past life's appearance, gender, and an additional reincarnation trait.
+FunctionalDesc_28
+<color=#brightblue>Invite others to drink together, greatly increasing their <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color>. However, once both sides have had a little too much and your <color=#brightred>Inner Breath become unstable, things might escalate into a </color><SpName=mousetip_combat><color=#pinkyellow>Friendly Brawl</color>.</color>\nThe higher the <color=#orange>Gallant's Seniority</color>, the higher the <SpName=mousetip_character><color=#pinkyellow>Rank</color> of characters can be invited for a drink.
+FunctionalDesc_29
+<color=#brightblue>Drinking causes no negative effects, but this will not take effect in <color=#brightred><SpName=mousetip_professionskill_0><color=#pinkyellow>Wine Duel</color></color></color>.
+FunctionalDesc_30
+<color=#brightblue>For each different type of liquor in the Consumable Slot, the effect of consumed liquor is enhanced further.</color>\nThe higher the <color=#orange>Gallant Seniority</color>, the greater the enhancement of consumed liquor effects.
+FunctionalDesc_31
+<color=#brightblue>Select a Martial Arts book from your collection and organize collective study sessions with others on the current town or village tile to cultivate relationships through shared practice. The more participants engaged in the study, and the higher their corresponding Attainment with the book, the greater the progress in mastering the Martial Arts.</color>
+FunctionalDesc_32
+<color=#brightblue>Freely modify a character's <SpName=mousetip_settlementinformation_0><color=#pinkyellow>Influence</color>, affecting their chances of promotion when the Faction reorganizes.</color>\nThe higher the <color=#orange>Highborn's Seniority</color>, the greater the ability to alter higher <SpName=mousetip_character><color=#pinkyellow>Rank</color> characters' <SpName=mousetip_settlementinformation_0><color=#pinkyellow>Influence</color>, allowing for more significant changes to their <SpName=mousetip_settlementinformation_0><color=#pinkyellow>Influence</color>.
+FunctionalDesc_33
+<color=#brightblue>Train the companions to enhance their <color=#pinkyellow>Primary Attributes</color>, <SpName=mousetip_combatcircular><color=#pinkyellow>Martial Arts</color>, and <SpName=mousetip_lifeskillcircular><color=#pinkyellow>Fine Arts</color> Aptitude. Add positive traits or remove negative ones for them.</color>\nThe higher the <color=#orange>Highborn's Seniority</color>, the greater the chance of nurturing the companions into talents with higher Aptitude, improving their traits, or granting them new traits.
+FunctionalDesc_34
+<color=#brightblue>Greatly increases the chance of becoming someone's target.</color>
+FunctionalDesc_35
+<color=#brightblue>Release all prisoners from this sect, recruit them into the sect, and gain all of their <SpName=mousetip_sectsupport><color=#pinkyellow>Sect Support</color> and a great amount of <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color></color>.
+FunctionalDesc_36
+<color=#brightblue>When begging for <SpName=mousetip_ziyuan_6><color=#pinkyellow>Silver</color>, the worse the <SpName=mousetip_moodlcircular><color=#pinkyellow>mood</color>, <SpName=mousetip_injury><color=#pinkyellow>injuries</color>, or <SpName=mousetip_poison><color=#pinkyellow>poison</color>, the more <SpName=mousetip_ziyuan_6><color=#pinkyellow>Silver</color> you'll get.</color>\nThe higher the <color=#orange>Beggar's Seniority</color>, the more settlements you can choose and the more <SpName=mousetip_ziyuan_6><color=#pinkyellow>Silver</color> you can get.
+FunctionalDesc_37
+<color=#brightblue>Drive out all characters in the tile and prevent anyone from entering until the next month.</color>
+FunctionalDesc_38
+<color=#brightblue>Offer the true name, and summon the Worldwide Brotherhood to search every corner for this person. They may bring that person before you at the month's turn.</color>
+FunctionalDesc_39
+<color=#brightblue>Consume any edible item from anyone in the current tile and increase their <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color> and <SpName=mousetip_moodlcircular><color=#pinkyellow>Mood</color>.</color>
+FunctionalDesc_40
+<color=#brightblue>Increases the <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color> gain when meeting non-sect characters for the first time and sending gifts to non-sect characters. Also increases the selected items' Gift Level, allowing characters with higher rank to accept items of lower tier.</color>\nThe higher <color=#orange>Commoner Seniority</color> is, the more <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color> will be gained from first meeting and gifting, and characters with higher <SpName=mousetip_character><color=#pinkyellow>Rank</color> will accept items of lower tier.
+FunctionalDesc_41
+<color=#brightblue>Resolve a certain amount of grudges between people in the tile.</color>\nThe higher the <color=#orange>Commoner's Seniority</color>, the more grudges you can help resolve.
+FunctionalDesc_42
+<color=#brightblue>Convince a character to leave their sect and settle in the Town, <color=#brightred>though this could cause them to make enemies with their former sectmates</color>.</color>\nThe higher the <color=#orange>Commoner's Seniority</color>, the more likely you can convince even higher-<SpName=mousetip_character><color=#pinkyellow>Rank</color> characters to leave their sect, and the fewer enemy sectmates they'll have after leaving.
+FunctionalDesc_43
+<color=#brightblue>The attributes gained from the <SpName=mousetip_fuyusword><color=#pinkyellow>Fuyu Hilt</color> due to Taiwu's Legacy greatly increase.</color>
+FunctionalDesc_44
+<color=#brightblue>Increase <SpName=mousetip_zhuyao_3><color=#pinkyellow>Constitution</color> and at the start of each month, improve <SpName=mousetip_zhuyao_3><color=#pinkyellow>Constitution</color> recovery.</color>\nThe higher the <color=#orange>Traveler's Seniority</color>, the greater the increase and recovery of <SpName=mousetip_zhuyao_3><color=#pinkyellow>Constitution</color>.
+FunctionalDesc_45
+<color=#brightblue>Expands <SpName=mousetip_view><color=#pinkyellow>Visibility</color> range when exploring the map.</color>\nThe higher the <color=#orange>Traveler's Seniority</color>, the wider the <SpName=mousetip_view><color=#pinkyellow>Visibility</color> range.
+FunctionalDesc_46
+<color=#brightblue>Instantly move to any chosen tile within the current region.</color>\nThe higher the <color=#orange>Traveler's Seniority</color>, the broader the range of destinations.
+FunctionalDesc_47
+<color=#brightblue>Grants the ability to construct up to three Immortal's Mansions, between which instant travel is possible.</color>\nTraveling between Mansions causes random injuries to the entire team.
+FunctionalDesc_48
+<color=#brightblue>Increase <SpName=mousetip_zhuyao_5><color=#pinkyellow>Comprehension</color> and at the start of each month, improve <SpName=mousetip_zhuyao_5><color=#pinkyellow>Comprehension</color> recovery.</color>\nThe higher the <color=#orange>Wandering Monk's Seniority</color>, the greater the increase and recovery of <SpName=mousetip_zhuyao_5><color=#pinkyellow>Comprehension</color>.
+FunctionalDesc_49
+<color=#brightblue>Allow persuasion through <SpName=mousetip_lifeskill><color=#pinkyellow>Debates</color> to change the target's Mindset to any chosen one.</color>\nThe higher the <color=#orange>Wandering Monk's Seniority</color>, the higher <SpName=mousetip_character><color=#pinkyellow>Rank</color> characters you can persuade, earning more <SpName=mousetip_ziyuan_7><color=#pinkyellow>Prestige</color> with each success.
+FunctionalDesc_50
+<color=#brightblue>Visit temples throughout the towns and villages of the land to gain <SpName=mousetip_lilian><color=#pinkyellow>XP</color> and improve <SpName=mousetip_combatcircular><color=#pinkyellow>Martial Arts</color> or <SpName=mousetip_lifeskillcircular><color=#pinkyellow>Fine Art</color> Talent.</color>
+FunctionalDesc_51
+<color=#brightblue>Grant immunity to effects from the Wicked, Evil, Sinister, Demonic, Calamitous, Vengeful, Faceless, Reaper, Soultaker, and Phenomena Core.</color>
+FunctionalDesc_52
+<color=#brightblue>Allow the use of medicine to <SpName=mousetip_injury><color=#pinkyellow>Heal Injuries</color>, <SpName=mousetip_poison><color=#pinkyellow>Detoxify</color>, <SpName=mousetip_neixiwenluan><color=#pinkyellow>Regulate Breathing</color>, and <SpName=mousetip_jiankang><color=#pinkyellow>Restore</color> for others and earn <SpName=mousetip_ziyuan_6><color=#pinkyellow>Silver</color>;</color>\nThe higher the <color=#orange>Doctor's Seniority</color>, the higher <SpName=mousetip_character><color=#pinkyellow>Rank</color> patients you can treat, and the more <SpName=mousetip_ziyuan_6><color=#pinkyellow>Silver</color> and <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color> you can earn.
+FunctionalDesc_53
+<color=#brightblue>Heal all characters in the current settlement and gain <SpName=mousetip_enyi><color=#pinkyellow>Regional Favor</color>.</color>\nThe higher the <color=#orange>Doctor's Seniority</color>, the more types of settlements you can offer treatment in. Treating higher <SpName=mousetip_character><color=#pinkyellow>Rank</color> patients also grants greater <SpName=mousetip_enyi><color=#pinkyellow>Regional Seniority</color>.
+FunctionalDesc_54
+<color=#brightblue>Consume <color=#c16927>Tier 2</color> Herb reagent grants certain benefits and slightly extends the Doctor's <SpName=mousetip_shouming><color=#pinkyellow>Lifespan</color> permanently.</color>
+FunctionalDesc_55
+<color=#brightblue>Transfer a portion of the Doctor's <SpName=mousetip_shouming><color=#pinkyellow>Lifespan</color> to extend another's <SpName=mousetip_shouming><color=#pinkyellow>Lifespan</color> and increase their <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color>.</color>
+FunctionalDesc_56
+<color=#brightblue>Increase <SpName=mousetip_zhuyao_1><color=#pinkyellow>Agility</color> and at the start of each month, improve <SpName=mousetip_zhuyao_1><color=#pinkyellow>Agility</color> recovery.</color>\nThe higher the <color=#orange>Wandering Taoist's Seniority</color>, the greater the increase and recovery of <SpName=mousetip_zhuyao_1><color=#pinkyellow>Agility</color>.
+FunctionalDesc_57
+<color=#brightblue>Foretell whether someone will receive Unexpected Fortune or Disaster. After revealing their fate, you can choose to intervene or remain silent and let fate take its course.</color>\nThe higher the <color=#orange>Wandering Taoist's Seniority</color>, the higher the <SpName=mousetip_character><color=#pinkyellow>Rank</color> of those you can read fortunes for.
+FunctionalDesc_58
+<color=#brightblue>Exchange a chosen trait with another character's at the cost of your own <SpName=mousetip_shouming><color=#pinkyellow>Lifespan</color>.</color>\nThe higher the <color=#orange>Wandering Taoist's Seniority</color>, the less <SpName=mousetip_shouming><color=#pinkyellow>Lifespan</color> is consumed.
+FunctionalDesc_59
+<color=#brightred>The age grows 3 years older with each year, </color>\n<color=#brightblue>but the Wandering Taoist's <SpName=mousetip_shouming><color=#pinkyellow>lifespan</color> will increase by 3 years.</color>
+FunctionalDesc_60
+<color=#brightblue>Purchase items from others at a higher price.</color>\nThe higher the <color=#orange>Magnate Seniority</color>, the higher <SpName=mousetip_character><color=#pinkyellow>Rank</color> of characters you can buy from.
+FunctionalDesc_61
+<color=#brightblue>Summon a specific caravan to the current tile.</color>\nThe caravan summoned will have more low-priced items for sale and pay more for what you sell.
+FunctionalDesc_62
+<color=#brightblue>View all caravans belonging to each Merchant Guild, and choose to invest in any caravan. You will eventually receive that guild's investment returns and gain its Favorability.</color>\nIf you spend <SpName=mousetip_ziyuan_7><color=#pinkyellow>Prestige</color> on a caravan you have invested in, you may also prevent the guild from being attacked.
+FunctionalDesc_63
+<color=#brightblue>All shops now display additional goods. Meanwhile, guilds gain <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color> at triple the usual rate.</color>
+FunctionalDesc_64
+<color=#brightblue>Invite others to taste tea together, greatly increasing their Favorability. <color=#brightred>Yet, should both sides' Inner Breath become unstable, a <SpName=mousetip_lifeskill><color=#pinkyellow>Quarrel of Words</color> may ensue</color></color>.\nThe higher the <color=#orange>Noble's Seniority</color>, the higher the <SpName=mousetip_character><color=#pinkyellow>Rank</color> of characters you can invite.
+FunctionalDesc_65
+<color=#brightblue>Drinking tea causes no negative effects, <color=#brightred>but this will not take effect in <SpName=mousetip_professionskill_1><color=#pinkyellow>Tea Tasting</color>.</color></color>
+FunctionalDesc_66
+<color=#brightblue>Drinking tea restores the available <SpName=mousetip_shijian><color=#pinkyellow>Energy</color> for the month.</color>
+FunctionalDesc_67
+<color=#brightblue>Select a Fine Arts book from your collection and organize collective study sessions with others on the current town or village tile to cultivate relationships through shared study. The more participants engaged in the study, and the higher their corresponding Attainment with the book, the greater the progress in learning Fine Arts.</color>
+FunctionalDesc_68
+<color=#brightblue>Identify if a cricket has Exceptional Vivacity.</color>\nA cricket with Exceptional Vivacity can eventually transform into a <color=#ff5331>Champion Cricket: Unique</color> after achieving enough victories.
+FunctionalDesc_69
+<color=#brightblue>Grant sect members official ranks to gain <SpName=mousetip_sectsupport><color=#pinkyellow>Sect Support</color>.\nDuring autumn, ranked members can be asked to offer crickets as tribute.</color>\nRanked members are immune to punishment, no matter their crimes.\nRevoking a rank greatly reduces Favorability and may even spark hostility.
+FunctionalDesc_70
+<color=#brightblue>Revive a dead cricket.</color>
+FunctionalDesc_71
+<color=#brightblue>Summon catchable crickets in half of the tiles within range 3 and instantly boost Cricket Affinity, increasing the chances of rare crickets appearing.</color>
+SkillUnlockDesc_0
+{0} has a keen eye for lush forests and flowing rivers,\nalways observing the land's shape and the water's course.\nNo matter how treacherous the road ahead, {1}'s strength never falters...
+SkillUnlockDesc_1
+As a Mountain Dweller, {0} is well acquainted with the nature of the land,\nunderstanding the reasoning behind spring plowing, summer cultivating, autumn harvesting, and winter storage.\n{0} also knows that only by working in harmony with seasons and nurturing the land can continuously benefit from its resources...
+SkillUnlockDesc_2
+"Terrains includes passages, hangings, supports,\nnarrows, dangers, and distances."\nThose who examine and utilize them can maximize results with minimal effort, while those who lack insight cannot wield their advantages.\n{0} has traversed thousands of mountains and rivers, discerning the spiritual essence of heaven and earth, and understanding the shapes of mountains and rivers.\nNow {0} can seize the moment, and take full advantage of the terrain by occupying a mountain passage...
+SkillUnlockDesc_3
+After roaming the world for years, {0} has grown familiar with the sound of rushing springs and the sight of boundless sky.\nNow well-versed in the ways of the world, {0} grasps its hidden wonders.\nNow, during an excavation, every hidden treasure is waiting to be taken...
+SkillUnlockDesc_4
+{0} has observed countless creatures in the wild.\nWhen facing them in battle, {0} can anticipate their moves and outmaneuver brute force with skill.\nNow, Every encounter between {1} and a beast is now met with effortless mastery...
+SkillUnlockDesc_5
+{0} has hunted beasts for years, surviving countless battles.\nThrough these encounters, {0} has come to understand the nature of wild creatures and mastered the art of taming them.\nNow, even tigers, wolves, and eagles follow {1} with unwavering loyalty...
+SkillUnlockDesc_6
+{0} has spent so much time among birds and beasts that even the slightest clue doesn't escape their notice.\nNo matter how well a creature hides in the forest,\n{1} can spot the faintest trace and track it down with ease...
+SkillUnlockDesc_7
+Having spent so much time with beasts, {0} has formed a deep bond with them.\nNow, these creatures have grown more loyal, evendisplaying a hint of intelligence.\nWhether traveling or fighting, they stay close, ready to follow {1}'s command in battle...
+SkillUnlockDesc_8
+{0} has spent years crafting things,\nmastering Carpentry, Smithing, Weaving, and Jewelcrafting.\nNow, even without tools, {0}'s keen eye and skilled hands can shape materials with precision.\nWhatever {1} crafts, even by hand, meets the highest standards and can be considered a masterpiece...
+SkillUnlockDesc_9
+"A craftsman is only as good as their tools..."\n\n{0} has spent years honing the craft, mastering every tool at hand. With measuring rods come perfect angles; with marking lines, flawless cuts. Each work stands as proof of precision and skill. Even the toughest wood or roughest stone, once in {1}'s hands, is transformed into a treasured masterpiece...
+SkillUnlockDesc_10
+The knowledgeable ones create things, while the skilled ones describe and adhere to them.\nEverything that is created by {0} follows the principles of balance, harmony, and precision.\nHaving created countless things, {0}'s mastery leads to ingenuity. If approached with such craftsmanship, they can open up a whole new world...
+SkillUnlockDesc_11
+As a master craftsman of this era, \n{0} has a profound understanding of the essence of every tool.\nIn the hand of {1}, even the most ordinary wood or stone is transformed—imbued with deeper meaning and greater vitality.\nThus, all the treasures of the world seem to rest effortlessly within {1}'s grasp...
+SkillUnlockDesc_12
+Roaming the Martial World, {0} has long mingled with sect members,\ngradually learning to read people and master the nuances of social interactions.\nNow, every encounter feels effortless, allowing {1} to win favor with ease...
+SkillUnlockDesc_13
+{0} has never slacked off in cultivating.\nThrough relentless practice, {0}'s mastery of Microcosmic Circulation has reached new heights.\nEvery Circulation becomes far more efficient and grants deeper insights...
+SkillUnlockDesc_14
+{0} follows the way of a righteous hero,\nnever hesitating to aid those in need.\nWith each outlaw captured and delivered, {0} can earn the Sect Approval, receiving generous rewards in recognition of their deeds...
+SkillUnlockDesc_15
+With {0}'s unmatched strength and influence, \na single call could rally both Outlaws and Xiakes,\nready to strike down those who stand against them...
+SkillUnlockDesc_16
+{0}'s literary talent shines through every stroke of the pen,\nearning the admiration of the people.\nNow, {1}'s words carry such weight that new names may be bestowed upon those who seek them...
+SkillUnlockDesc_17
+{0} has spent years immersed in books,\ngaining deep insights into the world.\nNow, with sharp wit and keen insight, {0} can grasp new knowledge with ease, drawing connections across time and wisdom...
+SkillUnlockDesc_18
+As a revered Talent, \n{0}'s words bear undeniable weight—once uttered, they echo across the world. \nAny Secret revealed drifts far and wide, shaping events few can resist...
+SkillUnlockDesc_19
+{0}'s insights stand above all. Whatever is seen or heard, \n{1} interprets with wisdom. \nAnd now, when shared with others, these insights leave a lasting impression...
+SkillUnlockDesc_20
+"Refine the spirit, and nurture the soul.\nBeyond this truth, there is no goal. Immortals speak in riddles deep, and countless hearts in wonder weep."\n\n{0}has spent years mastering the art of Qi cultivation.\nNow, whenever {1} enters meditation, the mind grows tranquil, \nunshaken by distractions, absorbing the essence of the universe...
+SkillUnlockDesc_21
+Xiangshu throws the world into chaos, where light and darkness intertwine,\nnd demons, ghosts, and restless spirits run rampant. The winds howl, the storms rage, and malevolent forces wreak havoc...\n {0} shall follow the mandate of Heaven and walk the path of the Tao, thus, harness mystical arts beyond mortal reach.\nPerform rituals, summon divine soldiers, and dispel evil, bringing blessings to all beings...
+SkillUnlockDesc_22
+All things in the world return to their roots. Circulating ceaselessly is the way of heaven.\nOnly those who attain the Tao can comprehend the secrets of cosmos and harness the forces of nature. Yet, defying the natural order invites heavenly tribulation.\nOnly by accumulating boundless merit, enduring trials, and overcoming calamities can one transcend mortal existence and ascend to immortality.
+SkillUnlockDesc_23
+The heavens are vast and the earth grounded;\nthe laws of the universe are written in divine scripts, shaping the world anew.\n\nAll who cultivate the Tao abandon worldly desires and are rejected by heaven and earth.\nYet, in vanquishing demons and upholding righteousness, {0}'s merits are immeasurable.\nEven if faced with heavenly tribulations, who is to say cannot transcend death and be reborn, thus avoiding the entanglements of the mundane world and ascending to the celestial realm...
+SkillUnlockDesc_24
+{0} has devoted to Buddhist teachings, cultivating a mind of Bodhi.\nThrough constant meditation and reflection, {0} have mastered the rare path of detachment.\nWhether in the depths of a desolate mountain or the bustle of a crowded city,\nthey remain free from desire and doubt, untouched by joy or sorrow, finding serenity within.
+SkillUnlockDesc_25
+Through deep meditation and insight, {0} awakens to the truth that\nall beings inherently possess the wisdom and virtues of the Buddha. However, due to attachment and illusion, they fail to realize this potential.\nNow, it is time to teach the way, build pure connections, and guide all beings toward liberation, freeing them from the endless cycle of suffering and pleasure...
+SkillUnlockDesc_26
+Through inner cultivation and external propagation of the Dharma, {0} ultimately achieves perfect cultivation.\nHowever, it is said that unless the hell is emptied, one vows not to attain Buddhahood;only after liberating all beings can one realize Bodhi.\nTherefore, {1} can host the Purgatory Releasing Ritual to liberate wandering spirits, such as those lost in the world, who upon hearing the Buddha's teachings atop the lotus pedestal,\ncan also attain rebirth sooner...
+SkillUnlockDesc_27
+"Desires lead to downfall, casting one into the three wretched realms. In the cycle of six paths, suffering knows no end."\n{0} has severed all evil, perfected all virtue, and guided countless souls to salvation.\nNow, having attained true enlightenment, {0} transcend the cycle of reincarnation, free from the chains of karma and fate...
+SkillUnlockDesc_28
+{0} often raises a cup, lost in the depths of fine wine, mastering its true essence.\nWhen drinking with kindred spirits, the bond feels natural.\nNow, with every shared toast, the joy flows even deeper...
+SkillUnlockDesc_29
+Sipping away worries, fine liquor in hand.\n{0} never leaves a toast unfinished.\nAmid clinking cups and playful banter,{0} has come to master the true art of drinking...
+SkillUnlockDesc_30
+"Suddenly sharing a cup of wine, joyfully together from day to night..."\n{0} becomes deeply intoxicated in the realm of wine, now transcending the mundane like a wine immortal,\nwhen raising the cup, not only is emotion heightened, but the true essence of wine is fully grasped...
+SkillUnlockDesc_31
+{0} bears unyielding ambition, always forging bonds through martial arts. \nThis passion and determination inspire those nearby. \nIn training with others, {0} now awakens hidden potential, sharpening skills while friendships form and rivalries spark—unveiling the many faces of human nature...
+SkillUnlockDesc_32
+{0} has traveled far and wide,\nearning respect for their fairness and unwavering integrity.\n{1}'s words now carry great weight—trusted by many, their judgment can shape destinies with just a few sentences...
+SkillUnlockDesc_33
+"A gentleman who stands to serve the world must employ others according to their abilities."\nAs {0} hails from a distinguished family, they gather talents from all corners and elevates them,\nseeking to bring their full abilities into play...
+SkillUnlockDesc_34
+With a renowned reputation, {0}'s name echoes wherever they go. \nNow known far and wide, {0}'s family is regarded as powerful and influential, \nadmired by all for its strength and virtue.
+SkillUnlockDesc_35
+{0}'s might shakes the world, and the name is revered across the land. \nEven the most prestigious martial sects hold {1} in high regard. \nNow, by exerting this influence, {2} can compel sects to release prisoners and grant them equal treatment...
+SkillUnlockDesc_36
+{0} has long roamed the mortal world,\nkeenly aware of human desires and aversions, unbound by worldly conventions.\nNow, wandering from door to door with an open palm brings no shame—only the freedom to follow the heart's path...
+SkillUnlockDesc_37
+Having spent years begging on the streets, often blending into the hustle and bustle of the marketplaces,\n{0} has become accustomed to all walks of life and learned the ways of the streets.\nWith this experience in hand, {0} is now ready to set off and carve out a path in the Martial World...
+SkillUnlockDesc_38
+After years of wandering the streets and alleys,\nliving among beggars, {0} was finally elected one fateful morning to become the Chief of the Beggars,\nthe most respected among them.\nIn these troubled times, many are doomed by fate, and beggars are scattered across the land. Now, they serve as {1}'s eyes and ears, keeping watch over all...
+SkillUnlockDesc_39
+{0} has spent years in the bustling streets,\npicking up the tricks of beggars and rogues alike.\nTaking what's needed comes naturally, {0} snatches a morsel right from another's hands,\nonly to find them laughing instead of fuming, their gratitude unexpectedly growing...
+SkillUnlockDesc_40
+{0} lives a peaceful life, often mingling with neighbors.\nOver time, {0} has learned to read people, understanding social cues and unspoken feelings.\nNow, {1} can effortlessly navigate conversations, winning others over with ease...
+SkillUnlockDesc_41
+"Peace between a husband and wife is like a well-tuned melody; when brothers are united, harmony and joy follow naturally..."\n{0} has been living in the countryside for a long time and deeply understands the ways of the world,\nknowing that all villages value harmonious relationships.\nIt is said that there are no eternal enemies, a sincere smile can dissolve any grudge...
+SkillUnlockDesc_42
+{0} has seen the ups and downs, the warmth and coldness of human emotions, and the fickleness of the world...\nWhat worth is there in fame and fortune? One might only wish for simple clothes and plain food, to find joy throughout the life.\nRather than chasing after wealth and high position,\n{0} would rather set sail in a small boat, letting the vast river carry them through the life...
+SkillUnlockDesc_43
+{0} has lived among the common folk,\ncoming to understand the deep roots of their traditions, passed down through generations.\nThis cycle of inheritance mirrors the legacy of Taiwu and the passing of the Fuyu Hilt,\nbringing {1} newfound insight...
+SkillUnlockDesc_44
+{0} has traveled across vast lands, seeking nature's wonders.\nAlong the way, {0} has endured countless nights under the stars.\nNow, {1}'s body has grown stronger,\nand no terrain can wear them down...
+SkillUnlockDesc_45
+For years, {0} has been traversing mountains and rivers, every day accompanied by the passage of time and the wildness.\nThe rugged terrain, the density of vegetation, and the speed of the rivers,\nall are instantly clear to {0}, deeply ingrained in their mind...
+SkillUnlockDesc_46
+The mountains, waters, and caves... nature holds profound mysteries.\nAfter traversing through various terrains, once {0} finds the right path,\na distant place seems near, and dangers are as easy to tackle as walking on flat ground. Even if separated by thousands of miles, {0} can arrive in no time...
+SkillUnlockDesc_47
+{0} has walked the lands and learned the hidden wisdom of nature.\nNow, {0} understands the flow of energy, the balance of the elements,\nand the secrets of the land—ready to create sacred havens...
+SkillUnlockDesc_48
+{0} has traveled far and wide,\ndedicating years to self-cultivation.\nNow, no matter where {1} is or what {1} faces, their mind remains clear, allowing wisdom to flourish...
+SkillUnlockDesc_49
+After years of seeking the profound and questioning the Buddha, {0} finally has gained understanding.\n{0} now knows that one must avoid evil, embrace good deeds, and purify the mind—this is the essence of all Buddhist teachings.\nBy seeking enlightenment, spreading the Dharma, and guiding others from evil to good...
+SkillUnlockDesc_50
+{0} has spent years seeking wisdom, visiting temples across the world.\nWhether in bustling cities or remote countryside,\n{0} treads every path, leaving footprints in sacred places...
+SkillUnlockDesc_51
+The light of Buddha shines across all realms,\nwashing away worldly impurities.\n\n{0}, having traveled through countless sacred lands,\nfeels the body become weightless.\nIn a moment of deep meditation, {1} glimpses the radiant glow of compassion, getting shielded from all evil...
+SkillUnlockDesc_52
+The world is harsh, filled with chaos and danger, but {0} has spent years mastering medicine.\nNow, with knowledge of countless herbs and remedies,\n{0} is fully capable of saving lives and aiding those in need...
+SkillUnlockDesc_53
+{0} has been practicing medicine for a long time and possesses certain observational, listening, questioning, and diagnostic.\nWith a reputation that has spread far and wide, {0} is trusted by many, and wherever {0} goes, word quickly spreads\nIf their heart is set on helping the common people, now is the time to travel far and wide, offering charitable healing for the public good.
+SkillUnlockDesc_54
+{0} has spent a lifetime studying the nature of plants,\nunderstanding their essence beyond the surface.\nWith careful preparation, {0} can extract the full potential of every herb, unlocking their miraculous effects,\nlike finding the fabled elixir of immortality...
+SkillUnlockDesc_55
+"Why seek jade scrolls for life to extend, when golden needles heal without end?"\n\n{0} has reached the pinnacle of acupuncture,\nable to extend another's life at the cost of {0} own.\nWith a single needle, {1} can challenge the will of the heavens and rewrite the fate of the dying...
+SkillUnlockDesc_56
+"Unbound by worldly concerns, free as the drifting clouds..."\n\n{0} seeks only freedom, unshackled by the mundane.\nWandering through mountains and valleys, crossing rapids, and exploring hidden paths,\n{0} has honed the body and spirit, moving as if they were weightless,\nalmost like a celestial being...
+SkillUnlockDesc_57
+{0} has been travelling far and wide, diligently cultivating virtue and learning without pause.\nNow, {0} has achieved some success. Though the mysteries of the spiritual realm are profound, they can be understood. \nIn this way, {0} learns the ways of the immortals—through divination and guidance from heaven, pursuing auspiciousness and avoiding misfortune...
+SkillUnlockDesc_58
+Through years of cultivation and self-refinement,\n{0} has gained a deep connection to the divine.\nNow, with the power to hear the heavens and touch the celestial realms, {0} can reshape the fates of others.
+SkillUnlockDesc_59
+"I was never bound by the world—why not take a walk through this fleeting life?\nI see through fate and time itself; what could destiny ever do to me?"\n\n{0} has wandered long enough to see through the illusion of life and death.\n{0} fears neither fate nor the passage of time, standing beyond the reach of mortal years...
+SkillUnlockDesc_60
+{0}, well-versed in the art of trade,\nhas mastered the ability to spot treasure in the most unexpected places.\nNo matter how ordinary an item may seem,\n{1} can uncover its hidden worth...
+SkillUnlockDesc_61
+{0} has been searching for treasures all year and collected a variety of goods,\nand their reputation has already spread among the merchants.\nIf {0} wishes to summon a caravan now, many caravans will eagerly respond to the call...
+SkillUnlockDesc_62
+{0}, with riches beyond measure and a deep understanding of trade, moves effortlessly through the world of commerce.\nWith a keen eye for opportunity,\ninvesting in the right caravans turns silver into gold,\nensuring wealth flows endlessly...
+SkillUnlockDesc_63
+{0} spends lavishly and has vast wealth,\nmaking them the honored guest of every major guild.\nEager to please {1}, these guilds now present their finest wares,\nfor {2} to browse and purchase...
+SkillUnlockDesc_64
+{0} cradles a teacup, feeling as if the entire world is reflected in its depths.\nWith each shared cup, friendships deepen, and kindred spirits connect.\nNow, every tea session brings a sense of perfect harmony...
+SkillUnlockDesc_65
+"The nine difficulties of tea:\ncrafting, distinguishing, the vessel, the heat, the water,\nroasting, grinding, boiling, and drinking..."\nWith each pot of tea shared, {0} always finds joy and fulfillment before returning homeand finally gets to understand the true essence of tea.
+SkillUnlockDesc_66
+{0} has long practiced the art of tea,\nfinding peace in its subtle flavors.\nNow, each sip clears the mind and refreshes the spirit, restoring {1}'s energy with every cup...
+SkillUnlockDesc_67
+{0} often finds inspiration in tea and poetry,\ndazzling those around with remarkable insight.\nNow, by sharing knowledge, {0} not only enhances others' skills but also fosters friendships, or sparks rivalries,\nrevealing the full spectrum of human nature...
+SkillUnlockDesc_68
+{0} often wanders through tall grass,\ndrawn by the rhythmic chirps of hidden crickets.\nWith experience,\n{1} has learned to interpret their calls,\nrecognizing the finest ones at a glance...
+SkillUnlockDesc_69
+Nowadays, {0} is regarded as a powerful figure in the eyes of many.\nAlthough {0} does not hold any real power, simply bestowing titles and honors upon others seems to be\nhighly valued by those around...
+SkillUnlockDesc_70
+{0}, known among royalty for expertise in rare creatures,\nhas mastered the secrets of cricket physiology.\nEven when a cricket's time has passed, reduced to mere remains,\n{1} can breathe new life into it...
+SkillUnlockDesc_71
+Dressed in noble finery, {0} has spent so much time among crickets\nthat their behavior is second nature to {0}.\nWith a mere call, the tiny creatures gather from all around,\nlike a kingdom answering its ruler's summons...
+SkillUnlockExplain_0
+(Through countless trials and hardships, {0}'s Strength has increased.\nIt will be recovered at the start of each month...)
+SkillUnlockExplain_1
+({0} can cultivate the land to restore its vitality and harvest abundant resources from it...)
+SkillUnlockExplain_2
+({0} has mastered the lay of the land, different battle advantages can be obtained in different terrains...)
+SkillUnlockExplain_3
+({0} can now choose one to obtain from any excavated item...)
+SkillUnlockExplain_4
+({0} is now well-versed in the habits of beasts, and fighting beasts effortlessly...)
+SkillUnlockExplain_5
+({0} can now summon a beast mount to attack enemies in battle...)
+SkillUnlockExplain_6
+({0} can now detect subtle signs of hidden beasts...)
+SkillUnlockExplain_7
+({0} can now have beasts as companions, commanding them to attack in battle...)
+SkillUnlockExplain_8
+(When crafting by hand in Jewelcrafting, Weaving, Carpentry\nor Smithing, {0} will face reduced Attainment penalties...)
+SkillUnlockExplain_9
+(When {0} performs Jewelcrafting, Weaving, Carpentry, or Smithing,\nthe Attainment bonuses from tools will be increased...)
+SkillUnlockExplain_10
+({0} is now able to change the moves of weapons...)
+SkillUnlockExplain_11
+({0} is a perfectionist and can now further enhance the effects of refined items...)
+SkillUnlockExplain_12
+({0} is more well-liked when interacting with sect members,\nand gifts they send are more likely to be appreciated...)
+SkillUnlockExplain_13
+({0} now has gained increased efficiency when performing Microcosmic Circulation,\nobtaining extra Strategies...)
+SkillUnlockExplain_14
+({0} now gains additional sect rewards when turning in wanted criminals...)
+SkillUnlockExplain_15
+({0} can now make a call,\nrallying a large force of outlaws or Xiakes to attack those with opposing Reputations...)
+SkillUnlockExplain_16
+({0}'s renowned literary talent has earned the admiration of the people and now has the privilege of renaming them...)
+SkillUnlockExplain_17
+({0}'s study efficiency has improved,\ngaining extra Strategies while studying...)
+SkillUnlockExplain_18
+({0}'s words now hold great sway—when disclosing Secrets, they create an even greater impact...)
+SkillUnlockExplain_19
+(Now when {0} shares insights with others, the effectiveness of the insights is significantly increased...)
+SkillUnlockExplain_20
+({0} has mastered Qi Cultivation, increasing Root Bone,\nand restoring Root Bone each month...)
+SkillUnlockExplain_21
+({0} can interact with others to perform the Evil Repelling Ritual, lessening their descent into Mania...)
+SkillUnlockExplain_22
+(After saving or eliminating the Bewitched, {0} will obtain a Celestial Rune...)
+SkillUnlockExplain_23
+({0} can now willingly face tribulations, shedding mortal constraints...)
+SkillUnlockExplain_24
+({0} has now mastered the art of meditation, increasing Willpower,\n and restoring Willpower at the start of each month...)
+SkillUnlockExplain_25
+({0} can engage in the Preach Buddhism interaction and persuading others to renounce the worldly life and become a monk/nun...)
+SkillUnlockExplain_26
+({0} can now perform the Liberation Ritual, guiding souls to reincarnation...)
+SkillUnlockExplain_27
+({0} has mastered reincarnation and, upon death, they will transcend the life cycle to be reborn...)
+SkillUnlockExplain_28
+({0} can now invite others to a Wine Duel. After a spirited toast, they'll grow even fonder of you...)
+SkillUnlockExplain_29
+({0} now believes drinking alcohol is beneficial and nearly harmless.\nNot only do spirits no longer have negative effects on {1}, but their positive effects are also enhanced...)
+SkillUnlockExplain_30
+({0} now drinks with even greater indulgence, and the effects of alcohol are greatly enhanced...)
+SkillUnlockExplain_31
+(When {0} studies martial arts books with others,\nthey can boost Martial Arts progression and foster relationships...)
+SkillUnlockExplain_32
+({0} can now alter a character's Influence through a few words...)
+SkillUnlockExplain_33
+({0} now can use <Character key=RoleTaiwu str=GenderPossessive/> reputation to cultivate the attributes and Talents of the companions...)
+SkillUnlockExplain_34
+({0} is already renowned far and wide, with people from surrounding areas eager to make connections and seek favor.)
+SkillUnlockExplain_35
+({0} can now use their Prestige to have sects release prisoners,\nand accept them into the sects...)
+SkillUnlockExplain_36
+({0} can now roam the streets, begging for alms...)
+SkillUnlockExplain_37
+({0} now can use Nasty Slang to drive away nearby characters...)
+SkillUnlockExplain_38
+({0} now can look for a specific person with the help of the Wide Brotherhood...)
+SkillUnlockExplain_39
+({0} can now forcibly consume items carried by nearby passersby,\nnot only avoiding resentment but even earning their Favorability...)
+SkillUnlockExplain_40
+(Every interaction feels natural, every gift well-received,\nand others can't help but like {0} even more...)
+SkillUnlockExplain_41
+(Now, it's possible for {0} to use the excuse of no longer meddling in the affairs of the world to resolve grudges with enemies...)
+SkillUnlockExplain_42
+({0} now can persuade people in the sect to retire from the Martial World...)
+SkillUnlockExplain_43
+({0} has fully grasped the essence of legacy, wielding the Fuyu Hilt with even greater mastery from now on...)
+SkillUnlockExplain_44
+({0} has adapted to life on the road,\nincreasing the Constitution and restoring Constitution at the start of each month...)
+SkillUnlockExplain_45
+({0}'s visibility range on the map has significantly expanded...)
+SkillUnlockExplain_46
+({0} can now find shortcuts and instantly move to a chosen tile...)
+SkillUnlockExplain_47
+({0} can now establish Immortal's Mansions and travel between them...)
+SkillUnlockExplain_48
+({0} has achieved clarity of mind,\nincreasing Comprehension and restoring it at the start of each month...)
+SkillUnlockExplain_49
+({0} now can guide the evil toward goodness, changing their Mindset on life...)
+SkillUnlockExplain_50
+({0} can now visit temples and perform pilgrimages in the settlements...)
+SkillUnlockExplain_51
+({0} has attained enlightenment and divine protection,\ngetting immunity to Xiangshu and its Underling's special Qi Arts...)
+SkillUnlockExplain_52
+({0} can now use concoctions to heal others and earn Silver...)
+SkillUnlockExplain_53
+(Now {0} can travel around and conduct charitable healing...)
+SkillUnlockExplain_54
+({0} can now consume Tier 2 Herb Reagent to extend the lifespan and gain lasting benefits...)
+SkillUnlockExplain_55
+({0} can now use needles to transfer the lifespan to others...)
+SkillUnlockExplain_56
+({0} now moves with effortless grace,\nincreasing Agility and restoring it at the start of each month...)
+SkillUnlockExplain_57
+({0} now can predict others' fortunes and misfortunes...)
+SkillUnlockExplain_58
+(Now {0} can change the destiny of others, exchanging own traits with those of others...)
+SkillUnlockExplain_59
+({0} has transcended worldly life. Time will no longer drain their lifespan as normal people...)
+SkillUnlockExplain_60
+({0} now gains Keen Eyes and forcibly purchase items carried by others...)
+SkillUnlockExplain_61
+({0} can summon caravans to the current tile,\nnegotiate better deals, and buy low, sell high...)
+SkillUnlockExplain_62
+({0} can now invest in caravans and receive investment returns...)
+SkillUnlockExplain_63
+({0} can now access exclusive shop items and further strengthen ties with guilds...)
+SkillUnlockExplain_64
+({0} can now invite others for tea tasting, strengthening bonds over a shared cup...)
+SkillUnlockExplain_65
+({0} now believes drinking tea is beneficial and nearly harmless.\nNot only does tea no longer have negative effects on {1},\nbut its positive impact is also enhanced...)
+SkillUnlockExplain_66
+({0} can now drink tea to shake off fatigue and recover energy for this month...)
+SkillUnlockExplain_67
+{0} can now lead study sessions,\nhelping others improve their Fine Arts while deepening relationships...
+SkillUnlockExplain_68
+({0} can now assess if a cricket has exceptional vivacity, and even guide its transformation...)
+SkillUnlockExplain_69
+({0} can verbally confer official positions to members of the sect to gain support from them...)
+SkillUnlockExplain_70
+({0} can now revive dead crickets...)
+SkillUnlockExplain_71
+({0} can now summon crickets in any season...)
+

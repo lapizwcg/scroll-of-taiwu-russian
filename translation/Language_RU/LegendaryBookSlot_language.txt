@@ -1,0 +1,560 @@
+Name_0
+
+Name_1
+Enhanced Efficiency
+Name_2
+Elemental Impact
+Name_3
+Increased Utility
+Name_4
+Decreased Utility
+Name_5
+Zero-sum Power
+Name_6
+Organized Space
+Name_7
+
+Name_8
+
+Name_9
+
+Name_10
+
+Name_11
+Enhanced Efficiency
+Name_12
+Instinctive Cast
+Name_13
+Efficient Motion
+Name_14
+Efficient Stillness
+Name_15
+Zero-sum Power
+Name_16
+Organized Space
+Name_17
+
+Name_18
+
+Name_19
+
+Name_20
+
+Name_21
+Enhanced Efficiency
+Name_22
+Vital Power
+Name_23
+Protection Boost
+Name_24
+Prolonged Protection
+Name_25
+Zero-sum Power
+Name_26
+Organized Space
+Name_27
+
+Name_28
+
+Name_29
+
+Name_30
+Disarming Strike
+Name_31
+Enhanced Efficiency
+Name_32
+Closer Fist
+Name_33
+Force Interruption
+Name_34
+Zero-sum Power
+Name_35
+Organized Space
+Name_36
+
+Name_37
+
+Name_38
+
+Name_39
+
+Name_40
+Follow-up Seal
+Name_41
+Enhanced Efficiency
+Name_42
+Acupoint Weakness
+Name_43
+Force Interruption
+Name_44
+Zero-sum Power
+Name_45
+Organized Space
+Name_46
+
+Name_47
+
+Name_48
+
+Name_49
+
+Name_50
+Reinforced Legs
+Name_51
+Enhanced Efficiency
+Name_52
+Footwork Weakness
+Name_53
+Force Interruption
+Name_54
+Zero-sum Power
+Name_55
+Organized Space
+Name_56
+
+Name_57
+
+Name_58
+
+Name_59
+
+Name_60
+Assassination
+Name_61
+Enhanced Efficiency
+Name_62
+Range Advantage
+Name_63
+Force Interruption
+Name_64
+Zero-sum Power
+Name_65
+Organized Space
+Name_66
+
+Name_67
+
+Name_68
+
+Name_69
+
+Name_70
+Recovered Attempt
+Name_71
+Enhanced Efficiency
+Name_72
+Style Weakness
+Name_73
+Force Interruption
+Name_74
+Zero-sum Power
+Name_75
+Organized Space
+Name_76
+
+Name_77
+
+Name_78
+
+Name_79
+
+Name_80
+Parry Weakening
+Name_81
+Enhanced Efficiency
+Name_82
+Opening Weakness
+Name_83
+Force Interruption
+Name_84
+Zero-sum Power
+Name_85
+Organized Space
+Name_86
+
+Name_87
+
+Name_88
+
+Name_89
+
+Name_90
+Enhanced Parry
+Name_91
+Enhanced Efficiency
+Name_92
+Polearm Advantage
+Name_93
+Force Interruption
+Name_94
+Zero-sum Power
+Name_95
+Organized Space
+Name_96
+
+Name_97
+
+Name_98
+
+Name_99
+
+Name_100
+Parry Challenge
+Name_101
+Enhanced Efficiency
+Name_102
+Stance Weakness
+Name_103
+Force Interruption
+Name_104
+Zero-sum Power
+Name_105
+Organized Space
+Name_106
+
+Name_107
+
+Name_108
+
+Name_109
+
+Name_110
+Range Stretch
+Name_111
+Enhanced Efficiency
+Name_112
+Qi Advantage
+Name_113
+Force Interruption
+Name_114
+Zero-sum Power
+Name_115
+Organized Space
+Name_116
+
+Name_117
+
+Name_118
+
+Name_119
+
+Name_120
+Pinpoint Follow-up
+Name_121
+Enhanced Efficiency
+Name_122
+Ranged Pinpoint
+Name_123
+Force Interruption
+Name_124
+Zero-sum Power
+Name_125
+Organized Space
+Name_126
+
+Name_127
+
+Name_128
+
+Name_129
+
+Name_130
+Qi Disruption
+Name_131
+Enhanced Efficiency
+Name_132
+Tone Advantage
+Name_133
+Force Interruption
+Name_134
+Zero-sum Power
+Name_135
+Organized Space
+Name_136
+
+Name_137
+
+Name_138
+
+Name_139
+
+Desc_0
+
+Desc_1
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_2
+<color=#pinkyellow>When the selected Martial Art is used, the other Martial Arts' Power </color><color=#brightblue>increases</color><color=#pinkyellow> or </color><color=#brightred>decreases</color><color=#pinkyellow> according to their elemental relation (neutral, generating or overcoming).</color>
+Desc_3
+<color=#brightred>The Annihilation, Nimble, Protection and Acumen Slots of the selected Martial Arts each decrease by 1, </color><color=#brightblue>but its Utility Slots increase by 3.</color>
+Desc_4
+<color=#brightblue>The Annihilation, Nimble, Protection and Acumen Slots of the selected Martial Arts each increase by 1, </color><color=#brightred>but its Utility Slots decrease by 3.</color>
+Desc_5
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_6
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_7
+
+Desc_8
+
+Desc_9
+
+Desc_10
+
+Desc_11
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_12
+<color=#brightblue>When the selected Martial Art is used, it automatically takes effect without cost or preparation at battle start.</color>
+Desc_13
+<color=#brightblue>The selected Martial Art costs 25% less Stamina to move while active.</color>
+Desc_14
+<color=#brightblue>Stamina Decay for the selected Martial Art is reduced by 25% over its duration.</color>
+Desc_15
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_16
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_17
+
+Desc_18
+
+Desc_19
+
+Desc_20
+
+Desc_21
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_22
+<color=#brightblue>When the selected Acumen Martial Art is used, its Power increases by 100%.</color>
+Desc_23
+<color=#brightblue>The Power of the selected Protection Martial Art increases by 100%, </color><color=#brightred>but its duration decreases by 50%.</color>
+Desc_24
+<color=#brightblue>The duration of the selected Protection Martial Art increases by 100%, </color><color=#brightred>but its Power decreases by 50%.</color>
+Desc_25
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_26
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_27
+
+Desc_28
+
+Desc_29
+
+Desc_30
+<color=#brightblue>When the selected weapon are used in 5 follow-ups on the enemy in one weapon attack round, the enemy drops their current weapon and becomes Unarmed, or switches to available weapons.</color>
+Desc_31
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_32
+<color=#brightblue>The closer the user is to the enemy, the more Direct DMG the selected Fist Art deals when cast by the user.</color> <color=#brightred>However, the Martial Art will be [Sealed] until the end of the battle after use.</color>
+Desc_33
+<color=#brightblue>While an enemy is performing a Fist Arts and Martial Arts, if the user actively uses the Fist Arts and Martial Arts placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_34
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_35
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_36
+
+Desc_37
+
+Desc_38
+
+Desc_39
+
+Desc_40
+<color=#brightblue>After 5 follow-up attacks in one weapon attack round, the selected weapon can briefly Seal 1 random enemy Martial Art.</color>
+Desc_41
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_42
+<color=#brightblue>The more acupoints are Sealed in the enemy, the more Direct DMG the selected Finger Arts technique deals when cast by the user. </color><color=#brightred>However, the technique will be [Sealed] until the end of the battle after use.</color>
+Desc_43
+<color=#brightblue>While an enemy is performing the Finger Arts, if the user actively uses the Finger Arts placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_44
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_45
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_46
+
+Desc_47
+
+Desc_48
+
+Desc_49
+
+Desc_50
+<color=#brightblue>The selected weapon is used in place of the leg armor and influences the cast effects of Kicking Arts instead.</color>
+Desc_51
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_52
+<color=#brightblue>The lower the enemy's Stamina, the more Direct DMG the selected Kicking Arts martial art deals when cast by the user. </color><color=#brightred>However, the martial art will be [Sealed] until the end of the battle after use.</color>
+Desc_53
+<color=#brightblue>While an enemy is performing the Kicking Arts, if the user actively uses the Kicking Arts placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_54
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_55
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_56
+
+Desc_57
+
+Desc_58
+
+Desc_59
+
+Desc_60
+<color=#brightblue>When the selected weapon attacks the enemy, the enemy's armor will be ignored.</color>
+Desc_61
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_62
+<color=#brightblue>The farther the user is from the enemy, the more Direct DMG the selected Concealed Weapons Martial Art deals when cast by the user. </color><color=#brightred>However, the Martial Art will be [Sealed] until the end of the battle after use.</color>
+Desc_63
+<color=#brightblue>While an enemy is performing the Concealed Weapons Martial Arts, if the user actively uses the Concealed Weapons Martial Arts placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_64
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_65
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_66
+
+Desc_67
+
+Desc_68
+
+Desc_69
+
+Desc_70
+<color=#brightblue>When selected weapons hit an enemy, the chance of follow-ups increases.</color>
+Desc_71
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_72
+<color=#brightblue>The fewer styles the enemy has, the more Direct DMG the selected Sword Arts technique deals when cast by the user. </color><color=#brightred>However, the technique will be [Sealed] until the end of the battle after use.</color>
+Desc_73
+<color=#brightblue>While an enemy is performing the Sword Arts, if the user actively uses the Sword Arts placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_74
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_75
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_76
+
+Desc_77
+
+Desc_78
+
+Desc_79
+
+Desc_80
+<color=#brightblue>When the selected weapon attacks the enemy, the Direct DMG dealt increases by 33%.</color>
+Desc_81
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_82
+<color=#brightblue>The more Openings the enemy has, the more Direct DMG the selected Blade Arts technique deals when cast by the user. </color><color=#brightred>However, the technique will be [Sealed] until the end of the battle after use.</color>
+Desc_83
+<color=#brightblue>While an enemy is performing the Blade Arts, if the user actively uses the Blade Arts placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_84
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_85
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_86
+
+Desc_87
+
+Desc_88
+
+Desc_89
+
+Desc_90
+<color=#brightblue>After 5 follow-up attacks in one weapon attack round, the enemy's [Protection] Martial Art duration reduces by half.</color>
+Desc_91
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_92
+<color=#brightblue>The more Defeat Markers the user has, the more Direct DMG the selected Polearm Art deals when cast by the user. </color><color=#brightred>However, the Martial Art will be [Sealed] until the end of the battle after use.</color>
+Desc_93
+<color=#brightblue>While an enemy is performing the Polearm Arts Martial Arts, if the user actively uses the Polearm Arts Martial Arts placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_94
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_95
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_96
+
+Desc_97
+
+Desc_98
+
+Desc_99
+
+Desc_100
+<color=#brightblue>When the selected weapon lands a Pinpoint Strike, additionally attacks 1 random part of the enemy.</color>
+Desc_101
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_102
+<color=#brightblue>The lower the enemy's Stance, the more Direct DMG the selected Exotic Weapon art deals when cast by the user. </color><color=#brightred>However, this art will be [Sealed] until the end of the battle after use.</color>
+Desc_103
+<color=#brightblue>While an enemy is performing the Exotic Weapons Martial Arts, if the user actively uses the Exotic Weapons Martial Arts placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_104
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_105
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_106
+
+Desc_107
+
+Desc_108
+
+Desc_109
+
+Desc_110
+<color=#brightblue>The selected weapon's attack range increases by 1.</color>
+Desc_111
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_112
+<color=#brightblue>The lower the enemy's Inhale, the more Direct DMG the selected Whip Arts martial art deals when cast by the user. </color><color=#brightred>However, the martial art will be [Sealed] until the end of the battle after use.</color>
+Desc_113
+<color=#brightblue>While an enemy is performing the Whip Arts Martial Arts, if the user actively uses the Whip Arts Martial Arts placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_114
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_115
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_116
+
+Desc_117
+
+Desc_118
+
+Desc_119
+
+Desc_120
+<color=#brightblue>When the selected weapon uses a Pinpoint Strike, the chance of a follow-up attack increases by 2 times.</color>
+Desc_121
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_122
+<color=#brightblue>The more Pinpoint Strike attempts the user has, the more Direct DMG the selected Ranged Weapons Martial Art deals when cast by the user. </color><color=#brightred>However, this martial art will be [Sealed] until the end of the battle after use.</color>
+Desc_123
+<color=#brightblue>While an enemy is performing the Ranged Weapons Martial Arts, if the user actively uses the Ranged Weapons Martial Arts placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_124
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_125
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_126
+
+Desc_127
+
+Desc_128
+
+Desc_129
+
+Desc_130
+<color=#brightblue>Each time the selected weapon hits the enemy, the enemy's True Qi of a random type decreases by 1.</color>
+Desc_131
+<color=#brightblue>The Power Cap of the selected Martial Art increases by 50%, </color><color=#brightred>but its usage requirements also increase by 25%.</color>
+Desc_132
+<color=#brightblue>The more Tone Moves the user has, the more mental damage the selected Enchanting Tones Martial Art deals when cast by the user. </color><color=#brightred>However, the Martial Art will be [Sealed] until the end of the battle after use.</color>
+Desc_133
+<color=#brightblue>While an enemy is performing the Enchanting Tones, if the user actively uses the Enchanting Tones placed here to attack the enemy and unleashes it at full power, the enemy's Martial Arts will be interrupted;</color>
+Desc_134
+<color=#brightblue>The Power of the selected Martial Arts changes at battle start: it increases by 20% for the user and decreases by 20% for the enemy.</color>
+Desc_135
+<color=#brightblue>The selected Martial Art only occupies 1 martial art slot, </color><color=#brightred>but its usage requirements increase by 50%.</color>
+Desc_136
+
+Desc_137
+
+Desc_138
+
+Desc_139
+

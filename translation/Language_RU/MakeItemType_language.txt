@@ -1,0 +1,733 @@
+Name_0
+Бамбуковые стилеты
+Name_1
+Panacea
+Name_2
+Ядовитая мазь
+Name_3
+Мышьяковая руда
+Name_4
+Iron Mechanism
+Name_5
+Wood Mechanism
+Name_6
+Jade Seal
+Name_7
+Fabric Seal
+Name_8
+Железная игольница
+Name_9
+Wood Needle Box
+Name_10
+Stone Needle Box
+Name_11
+Gold/Silver Needle Box
+Name_12
+Rattan Needle Box
+Name_13
+Jade Needle Box
+Name_14
+Железные стилеты
+Name_15
+Wood Piercers
+Name_16
+Stone Piercers
+Name_17
+Gold/Silver Piercers
+Name_18
+Rattan Piercers
+Name_19
+Яшмовые стилеты
+Name_20
+Iron Concealed Weapons
+Name_21
+Wood Concealed Weapons
+Name_22
+Stone Concealed Weapons
+Name_23
+Gold/Silver Concealed Weapons
+Name_24
+Rattan Concealed Weapons
+Name_25
+Jade Concealed Weapons
+Name_26
+Железная флейта
+Name_27
+Wood Flute
+Name_28
+Stone Flute
+Name_29
+Gold/Silver Flute
+Name_30
+Rattan Flute
+Name_31
+Jade Flute
+Name_32
+Iron Gloves
+Name_33
+Wood Gloves
+Name_34
+Stone Gloves
+Name_35
+Fur Gloves
+Name_36
+Gold/Silver Gloves
+Name_37
+Rattan Gloves
+Name_38
+Jade Gloves
+Name_39
+Fabric Gloves
+Name_40
+Iron Vajra Club
+Name_41
+Wood Vajra
+Name_42
+Stone Vajra Club
+Name_43
+Gold/Silver Vajra Club
+Name_44
+Rattan Vajra Club
+Name_45
+Jade Vajra Club
+Name_46
+Железный меч
+Name_47
+Wood Sword
+Name_48
+Stone Sword
+Name_49
+Gold/Silver Sword
+Name_50
+Rattan Sword
+Name_51
+Jade Sword
+Name_52
+Железная сабля
+Name_53
+Wood Blade
+Name_54
+Stone Blade
+Name_55
+Gold/Silver Blade
+Name_56
+Rattan Blade
+Name_57
+Jade Blade
+Name_58
+Iron Polearm
+Name_59
+Wood Polearm
+Name_60
+Stone Polearm
+Name_61
+Gold/Silver Polearm
+Name_62
+Rattan Polearm
+Name_63
+Jade Polearm
+Name_64
+Железный гуцинь
+Name_65
+Wood Guqin
+Name_66
+Stone Guqin
+Name_67
+Gold/Silver Guqin
+Name_68
+Rattan Guqin
+Name_69
+Jade Guqin
+Name_70
+Wood Whisk
+Name_71
+Fur Whisk
+Name_72
+Rattan Whisk
+Name_73
+Fabric Whisk
+Name_74
+Wood Whip
+Name_75
+Fur Whip
+Name_76
+Rattan Whip
+Name_77
+Fabric Whip
+Name_78
+Iron Relic
+Name_79
+Wood Relic
+Name_80
+Stone Relic
+Name_81
+Fur Relic
+Name_82
+Gold/Silver Relic
+Name_83
+Rattan Relic
+Name_84
+Jade Relic
+Name_85
+Fabric Relic
+Name_86
+Iron Headpiece
+Name_87
+Wood Headpiece
+Name_88
+Stone Headpiece
+Name_89
+Fur Headpiece
+Name_90
+Gold/Silver Headpiece
+Name_91
+Rattan Headpiece
+Name_92
+Jade Headpiece
+Name_93
+Fabric Headpiece
+Name_94
+Iron Shoes
+Name_95
+Wood Shoes
+Name_96
+Stone Shoes
+Name_97
+Fur Shoes
+Name_98
+Gold/Silver Shoes
+Name_99
+Rattan Shoes
+Name_100
+Jade Shoes
+Name_101
+Fabric Shoes
+Name_102
+Iron Armor
+Name_103
+Wood Armor
+Name_104
+Stone Armor
+Name_105
+Fur Armor
+Name_106
+Gold/Silver Armor
+Name_107
+Rattan Armor
+Name_108
+Jade Armor
+Name_109
+Fabric Armor
+Name_110
+Iron Bracers
+Name_111
+Wood Bracers
+Name_112
+Stone Bracers
+Name_113
+Fur Bracers
+Name_114
+Gold/Silver Bracers
+Name_115
+Rattan Bracers
+Name_116
+Jade Bracers
+Name_117
+Fabric Bracers
+Name_118
+Fur Clothing
+Name_119
+Fabric Clothing
+Name_120
+Wood Vehicle
+Name_121
+Rattan Vehicle
+Name_122
+Сумка
+Name_123
+Верёвка
+Name_124
+Яйцо
+Name_125
+Курица Юньин
+Name_126
+Шаосинская утка
+Name_127
+Яньский гусь
+Name_128
+Шёлковая курица
+Name_129
+Перепел
+Name_130
+Синий павлин
+Name_131
+Дикий заяц
+Name_132
+Мясо вепря
+Name_133
+Восточная коза
+Name_134
+Мясо полоза
+Name_135
+Пятнистый олень
+Name_136
+Слоновий хобот
+Name_137
+Мясо чёрного медведя
+Name_138
+Пшеница
+Name_139
+Соевые бобы
+Name_140
+Чёрный гриб
+Name_141
+Спаржа
+Name_142
+Семена лотоса
+Name_143
+Плоды гинкго
+Name_144
+Грибы "обезьянья голова"
+Name_145
+Белый амур
+Name_146
+Креветки
+Name_147
+Горный карп
+Name_148
+Красный краб
+Name_149
+Четырёхжаберный окунь
+Name_150
+Двуглавое морское ушко
+Name_151
+Калуга
+Name_152
+Жгучий токсин
+Name_153
+Теневой токсин
+Name_154
+Морозный токсин
+Name_155
+Pyrotoxin Cure Pill
+Name_156
+Гнилостный токсин
+Name_157
+Дурманный токсин
+Name_158
+Бузина
+Name_159
+Красивоплодник
+Name_160
+Корневище
+Name_161
+Тигриная кость
+Name_162
+Женьшень
+Name_163
+Жёлчь зелёной змеи
+Name_164
+Смола запаса
+Name_165
+Жасмин
+Name_166
+Киноварный мёд
+Name_167
+Кости чёрной змеи
+Name_168
+Лилия долголетия
+Name_169
+Астрагал
+Name_170
+Лягушка Дыбовского
+Name_171
+Перламутр
+Name_172
+Перец Валлиха
+Name_173
+Имбирь
+Name_174
+Столетняя ягода
+Name_175
+Красный свинец
+Name_176
+Хмельной гибискус
+Name_177
+Дроблёный серебряный камень
+Name_178
+Корень аира
+Name_179
+Безоар
+Name_180
+Мускус
+Name_181
+Полузверь
+Name_182
+Одеяние пяти сильфов
+TypeName_0
+Spikes
+TypeName_1
+Panacea
+TypeName_2
+Ядовитая мазь
+TypeName_3
+Мышьяковая руда
+TypeName_4
+Механизм
+TypeName_5
+Механизм
+TypeName_6
+Печать
+TypeName_7
+Печать
+TypeName_8
+Игольница
+TypeName_9
+Игольница
+TypeName_10
+Игольница
+TypeName_11
+Игольница
+TypeName_12
+Игольница
+TypeName_13
+Игольница
+TypeName_14
+Piercers
+TypeName_15
+Piercers
+TypeName_16
+Piercers
+TypeName_17
+Piercers
+TypeName_18
+Piercers
+TypeName_19
+Piercers
+TypeName_20
+Скрытое оружие
+TypeName_21
+Скрытое оружие
+TypeName_22
+Скрытое оружие
+TypeName_23
+Скрытое оружие
+TypeName_24
+Скрытое оружие
+TypeName_25
+Скрытое оружие
+TypeName_26
+Флейта
+TypeName_27
+Флейта
+TypeName_28
+Флейта
+TypeName_29
+Флейта
+TypeName_30
+Флейта
+TypeName_31
+Флейта
+TypeName_32
+Перчатки
+TypeName_33
+Перчатки
+TypeName_34
+Перчатки
+TypeName_35
+Перчатки
+TypeName_36
+Перчатки
+TypeName_37
+Перчатки
+TypeName_38
+Перчатки
+TypeName_39
+Перчатки
+TypeName_40
+Ваджра
+TypeName_41
+Ваджра
+TypeName_42
+Ваджра
+TypeName_43
+Ваджра
+TypeName_44
+Ваджра
+TypeName_45
+Ваджра
+TypeName_46
+Меч
+TypeName_47
+Меч
+TypeName_48
+Меч
+TypeName_49
+Меч
+TypeName_50
+Меч
+TypeName_51
+Меч
+TypeName_52
+Сабля
+TypeName_53
+Сабля
+TypeName_54
+Сабля
+TypeName_55
+Сабля
+TypeName_56
+Сабля
+TypeName_57
+Сабля
+TypeName_58
+Polearm Arts
+TypeName_59
+Polearm Arts
+TypeName_60
+Polearm Arts
+TypeName_61
+Polearm Arts
+TypeName_62
+Polearm Arts
+TypeName_63
+Polearm Arts
+TypeName_64
+Гуцинь
+TypeName_65
+Гуцинь
+TypeName_66
+Гуцинь
+TypeName_67
+Гуцинь
+TypeName_68
+Гуцинь
+TypeName_69
+Гуцинь
+TypeName_70
+Мухогонка
+TypeName_71
+Мухогонка
+TypeName_72
+Мухогонка
+TypeName_73
+Мухогонка
+TypeName_74
+Плеть
+TypeName_75
+Плеть
+TypeName_76
+Плеть
+TypeName_77
+Плеть
+TypeName_78
+Реликвия
+TypeName_79
+Реликвия
+TypeName_80
+Реликвия
+TypeName_81
+Реликвия
+TypeName_82
+Реликвия
+TypeName_83
+Реликвия
+TypeName_84
+Реликвия
+TypeName_85
+Реликвия
+TypeName_86
+Головной убор
+TypeName_87
+Головной убор
+TypeName_88
+Головной убор
+TypeName_89
+Головной убор
+TypeName_90
+Головной убор
+TypeName_91
+Головной убор
+TypeName_92
+Головной убор
+TypeName_93
+Головной убор
+TypeName_94
+Shoes
+TypeName_95
+Shoes
+TypeName_96
+Shoes
+TypeName_97
+Shoes
+TypeName_98
+Shoes
+TypeName_99
+Shoes
+TypeName_100
+Shoes
+TypeName_101
+Shoes
+TypeName_102
+Доспех
+TypeName_103
+Доспех
+TypeName_104
+Доспех
+TypeName_105
+Доспех
+TypeName_106
+Доспех
+TypeName_107
+Доспех
+TypeName_108
+Доспех
+TypeName_109
+Доспех
+TypeName_110
+Наручи
+TypeName_111
+Наручи
+TypeName_112
+Наручи
+TypeName_113
+Наручи
+TypeName_114
+Наручи
+TypeName_115
+Наручи
+TypeName_116
+Наручи
+TypeName_117
+Наручи
+TypeName_118
+Одежда
+TypeName_119
+Одежда
+TypeName_120
+Средство передвижения
+TypeName_121
+Средство передвижения
+TypeName_122
+Сумка
+TypeName_123
+Верёвка
+TypeName_124
+Блюдо
+TypeName_125
+Блюдо
+TypeName_126
+Блюдо
+TypeName_127
+Блюдо
+TypeName_128
+Блюдо
+TypeName_129
+Блюдо
+TypeName_130
+Блюдо
+TypeName_131
+Блюдо
+TypeName_132
+Блюдо
+TypeName_133
+Блюдо
+TypeName_134
+Блюдо
+TypeName_135
+Блюдо
+TypeName_136
+Блюдо
+TypeName_137
+Блюдо
+TypeName_138
+Блюдо
+TypeName_139
+Блюдо
+TypeName_140
+Блюдо
+TypeName_141
+Блюдо
+TypeName_142
+Блюдо
+TypeName_143
+Блюдо
+TypeName_144
+Блюдо
+TypeName_145
+Блюдо
+TypeName_146
+Блюдо
+TypeName_147
+Блюдо
+TypeName_148
+Блюдо
+TypeName_149
+Блюдо
+TypeName_150
+Блюдо
+TypeName_151
+Блюдо
+TypeName_152
+Pills & Solution
+TypeName_153
+Pills & Solution
+TypeName_154
+Pills & Solution
+TypeName_155
+Pills & Solution
+TypeName_156
+Pills & Solution
+TypeName_157
+Pills & Solution
+TypeName_158
+Изготовление снадобий
+TypeName_159
+Изготовление снадобий
+TypeName_160
+Изготовление снадобий
+TypeName_161
+Изготовление снадобий
+TypeName_162
+Изготовление снадобий
+TypeName_163
+Изготовление снадобий
+TypeName_164
+Изготовление снадобий
+TypeName_165
+Изготовление снадобий
+TypeName_166
+Изготовление снадобий
+TypeName_167
+Изготовление снадобий
+TypeName_168
+Изготовление снадобий
+TypeName_169
+Изготовление снадобий
+TypeName_170
+Изготовление снадобий
+TypeName_171
+Изготовление снадобий
+TypeName_172
+Изготовление снадобий
+TypeName_173
+Изготовление снадобий
+TypeName_174
+Изготовление снадобий
+TypeName_175
+Изготовление снадобий
+TypeName_176
+Изготовление снадобий
+TypeName_177
+Изготовление снадобий
+TypeName_178
+Изготовление снадобий
+TypeName_179
+Изготовление снадобий
+TypeName_180
+Изготовление снадобий
+TypeName_181
+Изготовление снадобий
+TypeName_182
+Одежда
+

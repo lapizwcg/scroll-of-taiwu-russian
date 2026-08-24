@@ -1,0 +1,121 @@
+ShortName_0
+
+ShortName_1
+
+ShortName_2
+
+ShortName_3
+
+ShortName_4
+
+ShortName_5
+
+ShortName_6
+
+ShortName_7
+
+ShortName_8
+
+ShortName_9
+
+Name_0
+
+Name_1
+
+Name_2
+
+Name_3
+
+Name_4
+
+Name_5
+
+Name_6
+
+Name_7
+
+Name_8
+
+Name_9
+
+Desc_0
+<color=#pinkyellow>While Farmers are not engaged in industrial management or dispatch tasks, they will spontaneously gather resources on tiles where resources are abundant...</color>\n - Spontaneous gathering yields fewer resources than designated gathering...\n - The higher the Farmer's <SpName=mousetip_qiyuan_6>[Harmony], the more spontaneous gathering attempts they make each month...
+Desc_1
+<color=#pinkyellow>While Artisans are not engaged in industrial management, they will spontaneously use resources from the <color=#orange>[Treasury]</color> to repair items stored within...</color>\n - Artisans cannot repair items requiring <SpName=mousetip_jiyi_8>[Medical Art] Attainment or <SpName=mousetip_jiyi_9>[Toxicology] Attainment...\n - The higher the Artisan's <SpName=mousetip_qiyuan_4>[Fortitude], the more repair attempts they make each month...\n - If Taiwu Village has not yet built a <color=#orange>[Forge]</color>, <color=#orange>[Carpentry Shed]</color>, <color=#orange>[Embroidery Edifice]</color>, or <color=#orange>[Jewelcrafter Workshop]</color>, Artisans will not spontaneously repair items of the corresponding material...
+Desc_2
+<color=#pinkyellow>While Artisans are not engaged in industrial management, they have a chance during each Month Advance to obtain refined materials, which are stored in the <color=#orange>[Treasury]</color>...</color>\n - The higher the Artisan's <SpName=mousetip_qiyuan_4>[Fortitude], the higher the chance of obtaining refined materials...\n - The higher the Artisan's corresponding <SpName=mousetip_lifeskillcircular>[Fine Arts] Attainment, the higher the chance of obtaining the corresponding refined materials...\n - The higher the Artisan's corresponding <SpName=mousetip_lifeskillcircular>[Fine Arts] Attainment, the higher the tier of refined materials obtained...
+Desc_3
+<color=#pinkyellow>While Artisans are not engaged in industrial management, they have a chance during each Month Advance to upgrade the tier of random refined materials in the <color=#orange>[Treasury]</color>...</color>\n - Upgrading a refined material requires the Artisan to meet the Attainment required for the upgraded tier...\n - The higher the Artisan's <SpName=mousetip_qiyuan_4>[Fortitude], the higher the chance of upgrading refined materials...
+Desc_4
+<color=#pinkyellow>While Doctors are not engaged in industrial management or dispatch tasks, they will spontaneously perform <color=#orange>[Medical Care]</color> for other characters and gain <SpName=mousetip_ziyuan_7>[Prestige]...</color>\n - Consultations are only available when the patient's injuries or illness are relatively severe...\n - The higher the Doctor's <SpName=mousetip_qiyuan_0>[Composure], the higher the <SpName=mousetip_character>[Rank] of patient they can treat...\n - The higher the Doctor's Attainment in <SpName=mousetip_jiyi_8>[Medical Art] or <SpName=mousetip_jiyi_9>[Toxicology], the more <SpName=mousetip_ziyuan_7>[Prestige] is gained per consultation...
+Desc_5
+<color=#pinkyellow>While Merchants are not engaged in industrial management or dispatch tasks, they can spontaneously earn <SpName=mousetip_ziyuan_6>[Silver] from other characters...</color>\n - The higher the Merchant's <SpName=mousetip_qiyuan_2>[Enthusiasm], the higher the <SpName=mousetip_character>[Rank] of characters from whom they can earn <SpName=mousetip_ziyuan_6>[Silver]...\n - The higher the Merchant's <SpName=mousetip_jiyi_15>[Unorthodox Arts] Attainment, the more <SpName=mousetip_ziyuan_6>[Silver] they earn...
+Desc_6
+<color=#pinkyellow>While Scholars are not engaged in industrial management or dispatch tasks, they can spontaneously change the <SpName=mousetip_moodlcircular>[Mood] of other characters on the same tile...</color>\n - The higher the Scholar's <SpName=mousetip_qiyuan_1>[Wit], the more characters are affected...\n - The higher the Scholar's Attainment in <SpName=mousetip_jiyi_0>[Music], <SpName=mousetip_jiyi_1>[Weiqi], <SpName=mousetip_jiyi_2>[Literature], or <SpName=mousetip_jiyi_3>[Painting], the more the characters' <SpName=mousetip_moodlcircular>[Mood]</color> changes...\n - The Scholar's mindset determines the effect of [Talent Showcase]: <SpName=mousetip_lichang_0><color=#ffe78f>Principled</color> Scholars likely increase characters' Mood; <SpName=mousetip_lichang_1><color=#9fe0dc>Benevolent</color> Scholars always increase it; <SpName=mousetip_lichang_2><color=#ffffff>Moderate</color> Scholars may randomly increase or decrease it; <SpName=mousetip_lichang_3><color=#b975ff>Rebellious</color> Scholars always decrease it; <SpName=mousetip_lichang_4><color=#c6272e>Egocentric</color> Scholars likely decrease it...
+Desc_7
+<color=#pinkyellow>While Mound Wardens are not engaged in industrial management or dispatch tasks, they can spontaneously battle <SpName=mousetip_heterodoxy>[Outlaws] and <SpName=mousetip_rumo>[Xiangshu Underlings] whose Pure Essence does not exceed their own, depositing the spoils in the Treasury...</color>\n - The higher the Mound Warden's <SpName=mousetip_qiyuan_3>[Valor], the more <SpName=mousetip_combat>[battles] they can fight each month...
+Desc_8
+<color=#pinkyellow>Emissaries can spontaneously change the <SpName=mousetip_multilove>[Favorability] and relationships between other characters (excluding the Taiwu Successor) within a 2-tile radius of their current tile...</color>\n - The higher the envoy's <SpName=mousetip_qiyuan_5>[Luck], the more characters are affected...\n - The higher the envoy's <SpName=mousetip_jiyi_4>[Astrology] Attainment, the more <SpName=mousetip_multilove>[Favorability] between characters changes...\n - The envoy's mindset determines the effect of [Social Savvy]: <SpName=mousetip_lichang_0><color=#ffe78f>Principled</color> envoys likely increase Favorability between characters; <SpName=mousetip_lichang_1><color=#9fe0dc>Benevolent</color> envoys always increase it; <SpName=mousetip_lichang_2><color=#ffffff>Moderate</color> envoys may randomly increase or decrease it; <SpName=mousetip_lichang_3><color=#b975ff>Rebellious</color> envoys always decrease it; <SpName=mousetip_lichang_4><color=#c6272e>Egocentric</color> envoys likely decrease it...
+Desc_9
+<color=#pinkyellow>During each Month Advance, there is a chance for the envoy to perform an additional [Social Savvy]...</color>\n - The higher the envoy's <SpName=mousetip_qiyuan_5>[Luck], the higher the chance of this additional performance...
+DescName_0
+Сбор припасов
+DescName_1
+Починка предмета
+DescName_2
+Ingenious Craft
+DescName_3
+Golden Touch
+DescName_4
+Compassionate Healer?
+DescName_5
+Cost-Benefit Analysis
+DescName_6
+Talent Showcase
+DescName_7
+Act as Justice Demands
+DescName_8
+Social Savvy
+DescName_9
+I see...
+DescShort_0
+Short Description Placeholder
+DescShort_1
+Short Description Placeholder
+DescShort_2
+Short Description Placeholder
+DescShort_3
+Short Description Placeholder
+DescShort_4
+Short Description Placeholder
+DescShort_5
+Short Description Placeholder
+DescShort_6
+Short Description Placeholder
+DescShort_7
+Short Description Placeholder
+DescShort_8
+Short Description Placeholder
+DescShort_9
+Short Description Placeholder
+DescContent_0
+<color=#pinkyellow>Resource Gathering: While Farmers are not engaged in industrial management or dispatch tasks, they will spontaneously gather resources on tiles where resources are abundant...</color>\n - Spontaneous gathering yields fewer resources than designated gathering...\n - The higher the Farmer's <SpName=mousetip_qiyuan_6>[Harmony], the more spontaneous gathering attempts they make each month...
+DescContent_1
+<color=#pinkyellow>Item Repair: While Artisans are not engaged in industrial management, they will spontaneously use resources from the <color=#orange>[Treasury]</color> to repair items stored within...</color>\n - Artisans cannot repair items requiring <SpName=mousetip_jiyi_8>[Medical Art] Attainment or <SpName=mousetip_jiyi_9>[Toxicology] Attainment...\n - The higher the Artisan's <SpName=mousetip_qiyuan_4>[Fortitude], the more repair attempts they make each month...\n - If Taiwu Village has not yet built a <color=#orange>[Forge]</color>, <color=#orange>[Carpentry Shed]</color>, <color=#orange>[Embroidery Edifice]</color>, or <color=#orange>[Jewelcrafter Workshop]</color>, Artisans will not spontaneously repair items of the corresponding material...
+DescContent_2
+<color=#pinkyellow>Ingenious Craft: While Artisans are not engaged in industrial management, they have a chance during each Month Advance to obtain refined materials, which are stored in the <color=#orange>[Treasury]</color>...</color>\n - The higher the Artisan's <SpName=mousetip_qiyuan_4>[Fortitude], the higher the chance of obtaining refined materials...\n - The higher the Artisan's corresponding <SpName=mousetip_lifeskillcircular>[Fine Arts] Attainment, the higher the chance of obtaining the corresponding refined materials...\n - The higher the Artisan's corresponding <SpName=mousetip_lifeskillcircular>[Fine Arts] Attainment, the higher the tier of refined materials obtained...
+DescContent_3
+<color=#pinkyellow>Golden Touch: While Artisans are not engaged in industrial management, they have a chance during each Month Advance to upgrade the tier of random refined materials in the <color=#orange>[Treasury]</color>...</color>\n - Upgrading a refined material requires the Artisan to meet the Attainment required for the upgraded tier...\n - The higher the Artisan's <SpName=mousetip_qiyuan_4>[Fortitude], the higher the chance of upgrading refined materials...
+DescContent_4
+<color=#pinkyellow>Compassionate Healer: While Doctors are not engaged in industrial management or dispatch tasks, they will spontaneously perform <color=#orange>[Medical Care]</color> for other characters and gain <SpName=mousetip_ziyuan_7>[Prestige]...</color>\n - Consultations are only available when the patient's injuries or illness are relatively severe...\n - The higher the Doctor's <SpName=mousetip_qiyuan_0>[Composure], the higher the <SpName=mousetip_character>[Rank] of patient they can treat...\n - The higher the Doctor's Attainment in <SpName=mousetip_jiyi_8>[Medical Art] or <SpName=mousetip_jiyi_9>[Toxicology], the more <SpName=mousetip_ziyuan_7>[Prestige] is gained per consultation...
+DescContent_5
+<color=#pinkyellow>Cost-benefit Analysis: While Merchants are not engaged in industrial management or dispatch tasks, they can spontaneously earn <SpName=mousetip_ziyuan_6>[Silver] from other characters...</color>\n - The higher the Merchant's <SpName=mousetip_qiyuan_2>[Enthusiasm], the higher the <SpName=mousetip_character>[Rank] of characters from whom they can earn <SpName=mousetip_ziyuan_6>[Silver]...\n - The higher the Merchant's <SpName=mousetip_jiyi_15>[Unorthodox Arts] Attainment, the more <SpName=mousetip_ziyuan_6>[Silver] they earn...
+DescContent_6
+<color=#pinkyellow>Talent Showcase: While Scholars are not engaged in industrial management or dispatch tasks, they can spontaneously change the <SpName=mousetip_moodlcircular>[Mood] of other characters on the same tile...</color>\n - The higher the Scholar's <SpName=mousetip_qiyuan_1>[Wit], the more characters are affected...\n - The higher the Scholar's Attainment in <SpName=mousetip_jiyi_0>[Music], <SpName=mousetip_jiyi_1>[Weiqi], <SpName=mousetip_jiyi_2>[Literature], or <SpName=mousetip_jiyi_3>[Painting], the more the characters' <SpName=mousetip_moodlcircular>[Mood]</color> changes...\n - The Scholar's mindset determines the effect of [Talent Showcase]: <SpName=mousetip_lichang_0><color=#ffe78f>Principled</color> Scholars likely increase characters' Mood; <SpName=mousetip_lichang_1><color=#9fe0dc>Benevolent</color> Scholars always increase it; <SpName=mousetip_lichang_2><color=#ffffff>Moderate</color> Scholars may randomly increase or decrease it; <SpName=mousetip_lichang_3><color=#b975ff>Rebellious</color> Scholars always decrease it; <SpName=mousetip_lichang_4><color=#c6272e>Egocentric</color> Scholars likely decrease it...
+DescContent_7
+<color=#pinkyellow>Righteous Deed: While Mound Wardens are not engaged in industrial management or dispatch tasks, they can spontaneously battle <SpName=mousetip_heterodoxy>[Outlaws] and <SpName=mousetip_rumo>[Xiangshu Underlings] whose Pure Essence does not exceed their own, depositing the spoils in the Treasury...</color>\n - The higher the Mound Warden's <SpName=mousetip_qiyuan_3>[Valor], the more <SpName=mousetip_combat>[battles] they can fight each month...
+DescContent_8
+<color=#pinkyellow>Social Savvy: Emissaries can spontaneously change the <SpName=mousetip_multilove>[Favorability] and relationships between other characters (excluding the Taiwu Successor) within a 2-tile radius of their current tile...</color>\n - The higher the envoy's <SpName=mousetip_qiyuan_5>[Luck], the more characters are affected...\n - The higher the envoy's <SpName=mousetip_jiyi_4>[Astrology] Attainment, the more <SpName=mousetip_multilove>[Favorability] between characters changes...\n - The envoy's mindset determines the effect of [Social Savvy]: <SpName=mousetip_lichang_0><color=#ffe78f>Principled</color> envoys likely increase Favorability between characters; <SpName=mousetip_lichang_1><color=#9fe0dc>Benevolent</color> envoys always increase it; <SpName=mousetip_lichang_2><color=#ffffff>Moderate</color> envoys may randomly increase or decrease it; <SpName=mousetip_lichang_3><color=#b975ff>Rebellious</color> envoys always decrease it; <SpName=mousetip_lichang_4><color=#c6272e>Egocentric</color> envoys likely decrease it...
+DescContent_9
+<color=#pinkyellow>Karmic Chance: During each Month Advance, there is a chance for the envoy to perform an additional [Social Savvy]...</color>\n - The higher the envoy's <SpName=mousetip_qiyuan_5>[Luck], the higher the chance of this additional performance...
+

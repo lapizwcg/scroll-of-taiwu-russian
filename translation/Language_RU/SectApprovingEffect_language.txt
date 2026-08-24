@@ -1,0 +1,61 @@
+Name_0
+Чань обращается в боевое искусство
+Name_1
+Orthodox Learning
+Name_2
+Cure-Combat Link
+Name_3
+Путь в сиянии природы
+Name_4
+Open and Aboveboard
+Name_5
+Rough Tough Training
+Name_6
+Enigmatic Writings
+Name_7
+Ethereal Beauty
+Name_8
+Ingenious Craft
+Name_9
+Accumulate to Elevate
+Name_10
+Spell of the Wisdom King
+Name_11
+Beguiling Toxins
+Name_12
+Eccentric Learning
+Name_13
+Easy to Learn, Hard to Master
+Name_14
+Evil and Underhand
+Desc_0
+Martial arts of Shaolin Sect are based on <color=#pinkyellow>Buddhism</color>.\nWhen breaking through Shaolin techniques, you can use <color=#pinkyellow>Buddhism</color> Talent in place of other lower required Talents.
+Desc_1
+Martial arts of Emei Sect follow the most orthodox way.\nThe Study Efficiency of Orthodox chapters in Emei manuals <color=#brightblue>increases by 50%</color>; that of Heterodox chapters <color=#brightred>decreases by 50%</color>.
+Desc_2
+Martial arts of Valley of Flowers are based on <color=#pinkyellow>Medical Art</color>.\nWhen breaking through Valley of Flowers techniques, you can use <color=#pinkyellow>Medical Art</color> Talent in place of other lower required Talents.
+Desc_3
+Martial arts of Wudang Sect are based on <color=#pinkyellow>Taoism</color>.\nWhen breaking through Wudang techniques, you can use <color=#pinkyellow>Taoism</color> Talent in place of other lower required Talents.
+Desc_4
+Martial arts of Yuanshan Sect are open and aboveboard.\nIf the practitioner's Mindset is <color=#behaviortype_just>Principled</color> or <color=#behaviortype_kind>Benevolent</color>, their Study Efficiency of Yuanshan manuals <color=#brightblue>increases by 50%</color>; if they are <color=#behaviortype_rebel>Rebellious</color> or <color=#behaviortype_egoistic>Egocentric</color>, their Study Efficiency of Yuanshan manuals <color=#brightred>decreases by 50%</color>.\n<color=#brightred>This effect does not apply to the Outline...</color>
+Desc_5
+Martial arts of Lion-Face Clan aren't usually recorded in writing.\nThe Study Efficiency of Lion-Face Clan manuals <color=#brightred>decreases by 50%</color> in reading, but <color=#brightblue>increases by 500%</color> in combat.\n<color=#brightred>This effect does not apply to the Outline...\nPractical Insights can be triggered only once monthly...</color>
+Desc_6
+Martial arts of Ranshan Sect are full of rhymes and spells.\nThe Study Efficiency of Ranshan manuals <color=#brightblue>increases by 100%</color> in reading, but <color=#brightred>decreases by 80%</color> in combat.\n<color=#brightred>This effect does not apply to the Outline...</color>
+Desc_7
+The Jade-Maiden Sect holds <color=#famale>women</color> in high regard.\n<color=#famale>Women's</color> Study Efficiency of Jade-Maiden Sect manuals <color=#brightblue>increases by 50%</color> in reading, and <color=#brightblue>by 200%</color> in combat. <color=#male>Men's</color> Study Efficiency of Jade-Maiden Sect manuals <color=#brightred>decreases by 50%</color> in reading, and <color=#brightred>by 80%</color> in combat.\n<color=#brightred>This effect does not apply to the Outline...</color>
+Desc_8
+Martial arts of Swordsmith Villa are based on the quality of weapons.\nWhen breaking through Swordsmith Villa martial arts, you can use <color=#pinkyellow>Smithing</color>, <color=#pinkyellow>Carpentry</color>, <color=#pinkyellow>Jewelcrafting</color>, or <color=#pinkyellow>Weaving</color> Talent in place of other lower required Talents.
+Desc_9
+Martial arts of the Kongsang Sect are hard to learn at start but become easier as one progresses.\nThe Study Efficiency of earlier Kongsang Sect manual chapters is <color=#brightred>lower</color>, while that of later chapters grows <color=#brightblue>higher</color>.\n<color=#brightred>This effect does not apply to the Outline...</color>
+Desc_10
+The Vajra Sect holds <color=#male>men</color> in high regard.\n<color=#male>Men's</color> Study Efficiency of Vajra Sect manuals <color=#brightblue>increases by 50%</color> in reading, and <color=#brightblue>by 200%</color> in combat. <color=#famale>Women's</color> Study Efficiency of Vajra Sect manuals <color=#brightred>decreases by 50%</color> in reading, and <color=#brightred>by 80%</color> in combat.\n<color=#brightred>This effect does not apply to the Outline...</color>
+Desc_11
+Martial arts of the Five Immortals Sect are based on <color=#pinkyellow>Toxicology</color>.\nWhen breaking through Five Immortals Sect techniques, you can use <color=#pinkyellow>Toxicology</color> Talent in place of other lower required Talents.
+Desc_12
+Martial arts of the Veil Scar Sect encourage heterodox learning.\nThe Study Efficiency of Heterodox chapters in Veil Scar manuals <color=#brightblue>increases by 50%</color>; that of Orthodox chapters <color=#brightred>decreases by 50%</color>.
+Desc_13
+Martial arts of Fuloong Sanctuary are easy to learn at start but become harder as one progresses.\nThe Study Efficiency of earlier Fuloong Sanctuary manual chapters is <color=#brightred>higher</color>, while that of later chapters grows <color=#brightblue>lower</color>.\n<color=#brightred>This effect does not apply to the Outline...</color>
+Desc_14
+Martial arts of the Sanguine Sect are most evil and underhand.\nIf the practitioner's Mindset is <color=#behaviortype_rebel>Rebellious</color> or <color=#behaviortype_egoistic>Egocentric</color>, their Study Efficiency of Sanguine Sect manuals <color=#brightblue>increases by 50%</color>; if they are <color=#behaviortype_just>Principled</color> or <color=#behaviortype_kind>Benevolent</color>, their Study Efficiency of Sanguine Sect manuals <color=#brightred>decreases by 50%</color>.\n<color=#brightred>This effect does not apply to the Outline...</color>
+

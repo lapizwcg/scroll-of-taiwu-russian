@@ -1,0 +1,509 @@
+Name_0
+Range Stretch
+Name_1
+Judgment Probability
+Name_2
+First Time
+Name_3
+Martial Art Equipped
+Name_4
+Martial Art Breakthrough
+Name_5
+Martial Art Learned
+Name_6
+In Attack Range
+Name_7
+In Martial Art Range
+Name_8
+Out of Attack Range
+Name_9
+Memory as Text
+Name_10
+Memory as Boolean 
+Name_11
+Memory as Integer
+Name_12
+Memory is not Text
+Name_13
+Memory is not Boolean
+Name_14
+Memory is not Integer
+Name_15
+Memory Greater Than
+Name_16
+Memory Less Than
+Name_17
+Сложность боёв
+Name_18
+Target Distance Diverse
+Name_19
+Target Distance is not
+Name_20
+Target Distance is not the furthest
+Name_120
+Target Distance Greater Than
+Name_21
+Casting
+Name_22
+Casting Martial Art
+Name_23
+Martial Arts Cast Progress:
+Name_24
+Martial Art Cast Progress has not reached
+Name_25
+Remainin Parry Block Below
+Name_26
+Defeat Marker has passed half
+Name_27
+Disable Escape
+Name_28
+Reached escape conditions
+Name_29
+In Danger
+Name_30
+Can Perform Basic Attack
+Name_31
+Can perform Pinpoint Strike
+Name_32
+Enable Pinpoint Strike Openings
+Name_33
+Enable Pinpoint Strike Sealed acupoint
+Name_34
+Enable Pinpoint Strike to change Qi Attribute
+Name_35
+Enable Switch Weapon
+Name_36
+Can Perform Escape
+Name_37
+Can perform an escape
+Name_38
+There're available companion Commands
+Name_39
+Available Martial Arts
+Name_40
+Cast Amplification Available
+Name_41
+There's Recovery Parry Protection
+Name_42
+Available Boosting Footwork Arts
+Name_43
+There's available Healing Medicine
+Name_44
+There's available Detox Medicine
+Name_45
+There's available Inner Breath Medicine
+Name_46
+Available Boosting Medicine
+Name_47
+Available Poison
+Name_48
+Available Souldew
+Name_49
+Available Liquor
+Name_50
+There's weapon can be repaired
+Name_51
+Available Armor to Repair
+Name_52
+Вид боя
+Name_53
+Qi Footwork Arts in progress
+Name_54
+Specific Qi Footwork Art in progress
+Name_55
+Qi Protection in progress
+Name_56
+Used Specific Parry Protection
+Name_57
+Тайу
+Name_58
+Метки ран
+Name_59
+Метка уязвимости
+Name_60
+Метка запечатанной точки
+Name_61
+Метка токсина
+Name_62
+Метка оглушения
+Name_63
+Метка увечья
+Name_64
+Метка гибели
+Name_65
+Метка внутреннего дыхания
+Name_66
+Метка состояния
+Name_67
+Метка здоровья
+Name_68
+Gu Larva Marker
+Name_69
+Developed Gu Marker
+Name_70
+Prime Gu Marker
+Name_71
+Метка истинной ци
+Name_72
+Martial Art Effects
+Name_73
+Выносливость
+Name_74
+Exhausted Condition
+Name_75
+Чистота
+Name_76
+Stage
+Name_77
+Style Slot
+Name_78
+Switchable to Indexed Weapon
+Name_79
+Switchable to Specific Weapon
+Name_80
+Switchable to Weapon Type
+Name_81
+Current Weapon
+Name_82
+Current Weapon Type
+Name_83
+Стихия ци
+Name_84
+All Marker
+Name_85
+All Injury Markers
+Name_86
+All Injury Markers
+Name_87
+All Opening Marker
+Name_88
+All Sealed acupoint Marker
+Name_89
+Memory Greater Than
+Name_90
+Memory Less Than
+Name_91
+Memory Equals Active Technique
+Name_92
+Attack Range Edge Greater Than
+Name_93
+Attack Range Edge Less Than
+Name_94
+Last Basic Attack Deflection
+Name_95
+Current Weapon Index
+Name_96
+Casting Orthodox or Heterodox Martial Art
+Name_97
+Can Cast Specific Martial Arts
+Name_98
+Can Cast Orthodox or Heterodox Martial Arts
+Name_99
+Buff Intensity
+Name_100
+Impairment Intensity
+Name_101
+Special Status Intensity
+Name_102
+In Memory Martial Art Range
+Name_103
+Can Cast Memory Martial Arts
+Name_104
+Current Distance Equals
+Name_105
+Current Distance Greater Than
+Name_106
+Current Distance Less Than
+Name_107
+Last Basic Attack Missed
+Name_108
+Weapon is able to be unleashed
+Name_109
+Weapon Type is able to be unleashed
+Name_110
+Weapon Unleash Progress
+Name_111
+Прервать применение
+Name_112
+Прервать Защиту
+Name_113
+Прервать искусства Ловкости
+Name_114
+If style can be automatically consumed
+Name_115
+Usable sundries available
+Name_116
+Martial Art Sealed
+Name_117
+Any companion available
+Name_118
+Дыхание
+Name_119
+Стойка
+Name_121
+Physical/Qi Defense
+Name_122
+Annihilation Qi/Physical Ratio 1
+Name_123
+Footwork Arts Jump
+Name_124
+Annihilation Qi/Physical Ratio 2
+Name_125
+Protection Martial Art 1
+Name_126
+Attack Missed
+Desc_0
+Return true for each {0}
+Desc_1
+When the judgment has a {0}% probability of passing, return true
+Desc_2
+Return true when this condition is executed for the first time in the current battle
+Desc_3
+When the {0} technique bar contains {1}, return true
+Desc_4
+When {0} has broken through {1} {2}, return true
+Desc_5
+When {0} has learned {1}, return true
+Desc_6
+Return true when the current distance +{1} is within the range of {0}'s basic attack or casting Annihilation Attack
+Desc_7
+Return true when the current distance + {1} is within {0}'s Martial Art {2} range
+Desc_8
+Return true when {0} has an active attack range edge
+Desc_9
+Return true when the memory {0} value corresponds to {1}
+Desc_10
+Return true when the memory {0} value corresponds to {1}
+Desc_11
+Return true when the memory {0} value corresponds to {1}
+Desc_12
+Return true when the memory {0} has no corresponding value or differs from {1}
+Desc_13
+Return true when the memory {0} has no corresponding value or differs from {1}
+Desc_14
+Return true when the memory {0} has no corresponding value or differs from {1}
+Desc_15
+Return true when the memory {0} value is greater than {1}
+Desc_16
+Return true when the memory {0} value is less than {1}
+Desc_17
+Return true when the character is Taiwu or the battle difficulty is equal to or greater than {0}
+Desc_18
+Target Distance Diverse {0}
+Desc_19
+Target Distance is not {0}
+Desc_20
+Target Distance is not the furthest Distance
+Desc_120
+Target distance is greater than {0}.
+Desc_21
+{0} is casting {1}
+Desc_22
+{0} is casting Martial Art {1}
+Desc_23
+When {1} Martial Art cast progress is more than {0}% return true
+Desc_24
+When {1} Martial Art cast progress is less than {0}%, return true
+Desc_25
+Return true when {1} remaining parry value is below {0}%
+Desc_26
+When {0}'s Defeat Marker has passed half, return true
+Desc_27
+When you can't escape or escape has been disabled, return true when you pass
+Desc_28
+When you have reached escape conditions, return true
+Desc_29
+Return true when the character is in danger
+Desc_30
+Can Perform Basic Attack
+Desc_31
+Can perform Pinpoint Strike
+Desc_32
+Enable Pinpoint Strike Openings
+Desc_33
+Enable Pinpoint Strike Sealed acupoint {0}
+Desc_34
+Enable Pinpoint Strike to change Qi Attribute
+Desc_35
+Return true when a switchable weapon is within attack range between index {0} - {1}
+Desc_36
+Can Perform Escape
+Desc_37
+Can Perform Action {0}
+Desc_38
+There're available {0} commands
+Desc_39
+There's an available {0} Martial Art
+Desc_40
+Cast Amplification Available
+Desc_41
+There's Recovery Parry Protection
+Desc_42
+Available Boosting Footwork Arts
+Desc_43
+There's available Healing Medicine
+Desc_44
+There's available Detox Medicine
+Desc_45
+There's available Inner Breath Medicine
+Desc_46
+Available Boosting Medicine
+Desc_47
+Available Poison
+Desc_48
+Available Souldew
+Desc_49
+Available Liquor
+Desc_50
+There's weapon can be repaired
+Desc_51
+Available Armor to Repair
+Desc_52
+Return true when the battle type is {0}
+Desc_53
+When {0}'s Qi Footwork Arts is in progress, return true
+Desc_54
+When {0}'s Qi Footwork Arts {1} {2} is in progress, return true
+Desc_55
+Return true when {0} has activated Qi Protection.
+Desc_56
+Return true when {0} has activated {1} {2} Qi Protection.
+Desc_57
+Return true when only Taiwu
+Desc_58
+Return true when {0}'s {2} {3} has at least {1} Injury Marker(s).
+Desc_59
+Return true when {0}'s {2} has at least {1} Opening Marker(s).
+Desc_60
+Return true when {0}'s {2} has at least {1} Sealed acupoint Marker(s).
+Desc_61
+Return true when {0} has at least {1} {2} Marker(s).
+Desc_62
+When {0}'s Daze Marker is more than {1}, return true
+Desc_63
+Return true when {0} has at least {1} Wound Marker(s).
+Desc_64
+Return true when {0} has at least {1} Doom Marker(s).
+Desc_65
+Return true when {0} has at least {1} Inner Breath Marker(s).
+Desc_66
+Return true when {0} has at least {1} Status Marker(s).
+Desc_67
+Return true when {0} has at least {1} Health Marker(s).
+Desc_68
+Return true when {0} has {1} and {3} Gu from {2}.
+Desc_69
+Return true when {0} has developed {1} Gu.
+Desc_70
+Return true when {0} has Prime {1} Gu.
+Desc_71
+Return true when {0}'s {1} True Qi is at least {2}%.
+Desc_72
+Return true when {0}'s Martial Art {1} {2} has {3} stack(s).
+Desc_73
+Return true when {1} Stamina value is not less than {0}%
+Desc_74
+Deprecated condition, always returns false
+Desc_75
+Return true when the character is Taiwu, or when {0}'s Pure Essence is at least {1}.
+Desc_76
+Return true when the battle stage is not less than {0} (the first stage is zero)
+Desc_77
+Return true when {0}'s Style Slots have at least {2} {1} Styles(s).
+Desc_78
+Return true when a weapon at index {0} is switchable
+Desc_79
+Return true when a switchable weapon {0} is available
+Desc_80
+Return true when a switchable {0} type of weapon is available
+Desc_81
+Return true when {0}'s Weapon is {1}.
+Desc_82
+Return true when {0}'s Current Weapon Type is {1}.
+Desc_83
+Return true when {0}'s Qi Attribute is {1}.
+Desc_84
+Return true when {0} has at least {1} Markers
+Desc_85
+Return true when {0} has at least {1} Injury Markers by {2} on all body parts
+Desc_86
+Return true when {0} has at least {1} Injury Markers on all body parts
+Desc_87
+Return true when {0} has at least {1} Opening Markers on all body parts
+Desc_88
+Return true when {0} has at least {1} Sealed Acupoint Markers on all body parts
+Desc_89
+Return true when memory {0} value is greater than {1} value
+Desc_90
+Return true when memory {0} value is less than {1} value
+Desc_91
+Return true when memory {0} value equals the Martial Art {1} being casted
+Desc_92
+Return true when {0} attack range {1} edge is greater than the corresponding edge of another's attack range
+Desc_93
+Return true when {0} attack range {1} edge is smaller than the corresponding edge of another's attack range
+Desc_94
+Return true when the last basic attack was with the current weapon and was deflected during the first attack or follow-up
+Desc_95
+Return true when {0} weapon index is {1}
+Desc_96
+{0} is currently casting Martial Art {1} {2}
+Desc_97
+Return true when the character can cast Martial Art {0}
+Desc_98
+Return true when the character can cast Martial Art {0} and it is {1}
+Desc_99
+Return true when {1} has a buff with the name {0} and total strength not less than {2}
+Desc_100
+Return true when {1} has an Impairment with the name {0} and total strength not less than {2}
+Desc_101
+Return true when {1} has a special status with the name {0} and total strength not less than {2}
+Desc_102
+Return true when the current distance + {2} is within {0}'s corresponding range in {1} memory
+Desc_103
+Return true when the character can cast memory technique {0}
+Desc_104
+Return true when the current distance equals {0}
+Desc_105
+Return true when the current distance is greater than {0}
+Desc_106
+Return true when the current distance is less than {0}
+Desc_107
+Return true when the last missed basic attack was with the current weapon and no attack was made
+Desc_108
+Return true when there is a weapon {0} that can be unleashed
+Desc_109
+Return true when there is a weapon type {0} that can be unleashed
+Desc_110
+Return true when {1} weapon {2} unleash progress is not less than {0}%
+Desc_111
+Return true when the character is casting a Martial Art and interruption is allowed
+Desc_112
+Return true when the character has activated protection and interruption is allowed
+Desc_113
+Return true when the character has activated footwork arts and interruption is allowed
+Desc_114
+If style can be automatically consumed
+Desc_115
+Usable sundries {0} available
+Desc_116
+{0} Any temporarily sealed Martial Art available
+Desc_117
+{0} Return True when any support companion available
+Desc_118
+Return True when {1} Inhale is at least {0}%
+Desc_119
+Return True when {1} Stance is at least {0}%
+Desc_121
+{0} Physical Defense × 100/Qi Defense > {1}
+Desc_122
+{0} Casting Annihilation Martial Arts with a Qi/Physical Ratio of {1} to {2}.
+Desc_123
+Can perform jump Footwork Arts.
+Desc_124
+Can cast Annihilation Martial Arts with an Qi/Physical Ratio of {0} to {1}.
+Desc_125
+Cast the Protection Martial Art with a reflection multiplier of {0}.
+Desc_126
+During your attack wind-up, whether the target can move out of your attack range.
+

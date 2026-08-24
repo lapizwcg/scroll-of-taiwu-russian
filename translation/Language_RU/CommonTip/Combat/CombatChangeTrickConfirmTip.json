@@ -1,0 +1,37 @@
+{
+  "title": "Прицельный удар",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "Ударить выбранным приёмом по выбранной части тела врага…"
+        },
+        {
+          "type": "Space",
+          "level": 1
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "Стоимость прицельного удара",
+          "value": "Pinpoint Strike Attempts <color=#brightblue>x{changeTrickCount}</color>"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "Цель удара",
+          "value": "{bodyPartIcon}{bodyPartName}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "Множитель меткости",
+          "value": "{hitRatePercent}%"
+        }
+      ]
+    }
+  ]
+}

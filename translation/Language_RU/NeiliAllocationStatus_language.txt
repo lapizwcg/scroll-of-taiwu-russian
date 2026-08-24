@@ -1,0 +1,41 @@
+Name_0
+Истинная ци рассеивается
+Name_1
+True Qi Depletion
+Name_2
+True Qi Stable
+Name_3
+Истинная ци полна
+Name_4
+Истинная ци вздымается
+Desc_0_0
+{0}'s consumption is <color=#brightblue>reduced by 30%</color>, and the generation is <color=#brightblue>raised by 60%</color>.
+Desc_0_1
+The power of {0}-type <color=#pinkyellow>Martial Art</color> is <color=#brightred>reduced by 20%</color>.
+Desc_0_2
+The Recoil damage of {0}-type <color=#pinkyellow>Martial Art</color> is <color=#brightblue>reduced by 50%</color>, and the chance of Recoil is <color=#brightred>increased by 100%</color>.
+Desc_1_0
+{0}'s consumption is <color=#brightblue>reduced by 15%</color>, and the generation is <color=#brightblue>raised by 30%</color>.
+Desc_1_1
+The power of {0}-type <color=#pinkyellow>Martial Art</color> is <color=#brightred>reduced by 20%</color>.
+Desc_1_2
+The Recoil damage of {0}-type <color=#pinkyellow>Martial Art</color> is <color=#brightblue>reduced by 25%</color>, and the chance of Recoil is <color=#brightred>increased by 50%</color>.
+Desc_2_0
+{0}'s consumption and generation remain <color=#pinkyellow>unchanged</color>.
+Desc_2_1
+The power of {0}-type <color=#pinkyellow>Martial Art</color> remains <color=#pinkyellow>unchanged</color>.
+Desc_2_2
+The Recoil damage and Recoil chance of {0}-type <color=#pinkyellow>Martial Art</color> remain <color=#pinkyellow>unchanged</color>.
+Desc_3_0
+{0}'s consumption is <color=#brightred>raised by 30%</color>, and the generation is <color=#brightred>reduced by 15%</color>.
+Desc_3_1
+The power of {0}-type <color=#pinkyellow>Martial Art</color> is <color=#brightblue>increased by 20%</color>.
+Desc_3_2
+The Recoil damage of {0}-type <color=#pinkyellow>Martial Art</color> is <color=#brightred>increased by 50%</color>, and the chance of Recoil is <color=#brightblue>reduced by 25%</color>.
+Desc_4_0
+{0}'s consumption is <color=#brightred>raised by 60%</color>, and the generation is <color=#brightred>reduced by 30%</color>.
+Desc_4_1
+The power of {0}-type <color=#pinkyellow>Martial Art</color> is <color=#brightblue>increased by 20%</color>.
+Desc_4_2
+The Recoil damage of {0}-type <color=#pinkyellow>Martial Art</color> is <color=#brightred>increased by 100%</color>, and the chance of Recoil is <color=#brightblue>reduced by 50%</color>.
+

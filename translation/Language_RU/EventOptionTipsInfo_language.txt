@@ -1,0 +1,473 @@
+Title_0
+Share Insight
+Title_1
+Пустить в ход тайну
+Title_2
+Gather Insight
+Title_3
+Gather Secret
+Title_4
+Compliment
+Title_21
+Compliment on Disposition
+Title_22
+Compliment on Charm
+Title_23
+Compliment on Reputation
+Title_24
+Compliment on Traits
+Title_25
+Compliment on Wealth
+Title_5
+Criticize
+Title_26
+Criticize Dispositions
+Title_27
+Criticize Charm
+Title_28
+Criticize Reputation
+Title_29
+Criticize Traits
+Title_30
+Criticize Wealth
+Title_31
+Give Gift
+Title_32
+Бои сверчков
+Title_33
+Диспут
+Title_34
+Спарринг
+Title_35
+Challenge
+Title_6
+Позвать в спутники
+Title_7
+Invite to village
+Title_36
+Gain Support
+Title_8
+Recognize as foster father
+Title_9
+Recognize as foster mother
+Title_10
+Adopt as foster son
+Title_11
+Adopt as foster daughter
+Title_37
+Build close bond
+Title_38
+Confess love
+Title_39
+Свадебный союз
+Title_40
+Разорвать связь
+Title_41
+Sworn Siblings
+Title_42
+Sever Sworn Siblinghood
+Title_43
+Introduce friends
+Title_44
+Sow discord
+Title_45
+Reconcile conflicts
+Title_46
+Matchmake
+Title_47
+Severing Parental Bonds
+Title_48
+Go estranged
+Title_49
+Seek Sect Martial Arts Guidance
+Title_50
+Seek Sect Fine Arts Guidance
+Title_51
+Seek Private Martial Arts Guidance
+Title_52
+Seek Private Fine Arts Guidance
+Title_53
+Trade for Sect Books
+Title_54
+Personal Book Trade
+Title_55
+Seek Aspiration Experience
+Title_12
+Выманить
+Title_56
+Stealing
+Title_57
+Snatch
+Title_58
+Poisoning
+Title_59
+Раны
+Title_13
+Attack
+Title_60
+Capture the criminal
+Title_14
+Adopt Chicken
+Title_61
+Host Betrothal Contest
+Title_62
+Browse Goods
+Title_63
+Врачевание
+Title_64
+Repair Assistance Offered
+Title_65
+Teas and Liquors Gathering
+Title_66
+Grooming
+Title_20
+Silver Donation
+Title_67
+Рекомендовать ученика
+Title_68
+Созерцание сутр
+Title_69
+Вернувшиеся мертвецы
+Title_70
+Согласие со звёздами
+Title_71
+Затвор в каменной келье
+Title_72
+Разнести молву
+Title_73
+Писания Ван Чаня
+Title_74
+Отражение Эгарима
+Title_75
+Древние орудия Оу Ези
+Title_76
+Испытание мечников-кузнецов
+Title_77
+Эликсир долголетия
+Title_78
+Ваджра: тайное искусство
+Title_79
+Омовение пяти ядов
+Title_80
+Заказ на убийство
+Title_81
+Верный слуга
+Title_82
+Hold a Gathering
+Title_83
+Обряд кровавого пруда
+Title_84
+Medical Consultation
+Title_85
+Пожалование титулов
+Title_86
+Tea Tasting
+Title_87
+Keen Eyes
+Title_88
+Fortune Teller
+Title_89
+Destiny Alterer
+Title_90
+Guiding to Goodness
+Title_91
+Withdrawal from the Fray
+Title_92
+Endorsement
+Title_93
+Wine Duel
+Title_94
+Preach Buddhism
+Title_95
+Evil Repelling Ritual
+Title_96
+Renaming Service
+Title_97
+Golden needle deliverance
+Title_98
+Acts of Benevolence
+Title_99
+Mediate Relationship
+Title_100
+Stability & Culture
+Title_16
+Mind-soothing Arts
+Title_15
+Provincial Regulations
+Title_101
+Sect Regulations
+Title_102
+Premium Treatment
+Title_103
+Commercial Commendation
+Title_104
+Manage Land
+Title_105
+Gossip in the Market
+Title_106
+Изготовленный предмет
+Title_18
+Medicine and Poison Making
+Title_19
+Meal Preparation
+Title_17
+Collect Tea or Liquor
+Title_107
+Tool Exchange
+Title_108
+Purchase Fruits
+Title_109
+Gather Secrets
+Title_110
+Небесное царство
+Title_111
+Groom for this person
+Title_112
+Обмен ресурсами
+Title_113
+Challenge
+Title_114
+Demonslaughter
+Title_115
+Earnestly request
+Title_116
+Offer exchange
+Title_117
+Return the baby
+Desc_0
+Discussing what you've seen/experienced with another person increases their Favorability\nThe shared insights might trigger various additional outcomes\nConversations vary in impact depending on the character; some yield strong results while others are weaker, leading to different replies.
+Desc_1
+Share the Secret you know to another person.\nDepending on the degree of association between the other person and this Secret, different effects may occur.\nOnce the number of people who know reaches a certain amount, this Secret will become public and affect associated characters
+Desc_2
+Inquire about the Insight held by the other party
+Desc_3
+Inquire about the secret held by the other party
+Desc_4
+Praising someone increases their Favorability.\nMeaningless praise yields no result; genuine praise enhances the effect\nIf the target's Mindset is Rebellious, flattery may diminish their Favorability.
+Desc_21
+The more Dispositions the target has at 30 or above, the stronger the effect of praise.
+Desc_22
+The more the target's Charm exceeds Attractive, the stronger the effect of praise.
+Desc_23
+The more the target's reputation exceeds Obscure, the stronger the effect of praise.
+Desc_24
+The more positive traits the target has, the stronger the effect of praise.
+Desc_25
+The more Silver the target has compared to Taiwu, the stronger the effect of praise.
+Desc_5
+Accusing the other party lowers their Favorability.\nBaseless accusation achieves nothing and brings shame upon yourself; genuine accusation yields a greater result\nFor those with a Rebellious mindset, insults and criticisms can actually boost their Favorability.
+Desc_26
+The more Dispositions the target has below 10, the stronger the effect of criticism.
+Desc_27
+The more the target's Charm falls below Attractive, the stronger the effect of criticism.
+Desc_28
+The more the target's reputation falls below Obscure, the stronger the effect of criticism.
+Desc_29
+The more negative traits the target has, the stronger the effect of criticism.
+Desc_30
+The more Silver Taiwu has compared to the target, the stronger the effect of criticism.
+Desc_31
+Give your item to the target to increase their favorability.\nThe higher the target's rank, the more valuable the gift must be to suit them.\nCatering to the target's likes and dislikes, and you may achieve twice the result with half the effort.
+Desc_32
+Hold a cricket duel with the target. The winner will claim the loser's wager.
+Desc_33
+Debate with the target
+Desc_34
+Hold a restrained sparring bout with the target.
+Desc_35
+Engage in a real fight with the target.
+Desc_6
+Invite the other party to become companion.\nIf the other party's Rank is too high, they may be unwilling to abandon their current status and join Taiwu Village.
+Desc_7
+Invite the other party to become Taiwu Villager.\nIf the other party's Rank is too high, they may be unwilling to abandon their current status and join Taiwu Village.
+Desc_36
+Attempt to gain the target's sect support.\nThe requirements for gaining support differ according to the target's mindset.
+Desc_8
+Recognize the other party as foster father
+Desc_9
+Recognize the other party as foster mother
+Desc_10
+Adopt the other party as foster son
+Desc_11
+Adopt the other party as foster daughter
+Desc_37
+Become friends with the target.
+Desc_38
+Confess your love to the target and ask to become lovers.
+Desc_39
+Ask to marry the target.
+Desc_40
+End your lover relationship with the target.
+Desc_41
+Become sworn siblings with the target.
+Desc_42
+End your sworn sibling relationship with the target.
+Desc_43
+Encourage the target to become friends with another character you know.
+Desc_44
+Encourage the target to become enemies with another character you know.
+Desc_45
+End the enemy relationship between the target and one of your companions.
+Desc_46
+Encourage the target to marry one of your companions.
+Desc_47
+End your foster family relationship with the target.
+Desc_48
+End your friendship with the target.
+Desc_49
+Ask the target to teach you sect martial arts they have mastered.
+Desc_50
+Ask the target to teach you sect fine arts they have mastered.
+Desc_51
+Ask the target to teach you martial arts they have mastered.
+Desc_52
+Ask the target to teach you fine arts they have mastered.
+Desc_53
+Exchange Prestige for the target's sect collection books.
+Desc_54
+Exchange Prestige for the target's private collection books.
+Desc_55
+Ask the target to teach you their aspiration to increase aspiration seniority.
+Desc_12
+Debate with the other party to obtain their Fine Arts, Martial Arts, Items, Insights, or Secrets.
+Desc_56
+Attempt to steal the target's fine arts, martial arts, items, or captives.
+Desc_57
+Attempt to seize items or captives held by the target.
+Desc_58
+Attempt to inflict toxin on the target.
+Desc_59
+Attempt to inflict injuries on the target.
+Desc_13
+Initiate an attack against the other party, and duel them
+Desc_60
+Attempt to arrest a criminal wanted for violating regulations.
+Desc_14
+Claim a chicken from the other party's settlement to Taiwu Village.
+Desc_61
+Hold a betrothal contest for Taiwu.
+Desc_62
+Purchase goods sold by the target, or sell your own items to them.
+Desc_63
+Have the target provide medical care for members of your party.
+Desc_64
+Have the target repair an item in Taiwu's inventory.
+Desc_65
+Hold a tea gathering or liquor banquet.
+Desc_66
+Change Taiwu's or a companion's appearance.\nDepending on the target's Appreciation attainment, grooming may produce different results.
+Desc_20
+Give silver to the other party, gain a small amount of Regional Favor
+Desc_67
+Recommend a companion to join the target's sect.
+Desc_68
+Reduce the duration of any reputation effect on Taiwu or a companion.
+Desc_69
+Heal all injuries on Taiwu or a companion.
+Desc_70
+Perform up to 7 microcosmic circulations of a breakthrough-achieved Qi Art.
+Desc_71
+Reduce Taiwu's or a companion's Deviation.
+Desc_72
+Gain a large amount of Prestige
+Desc_73
+Study a book you possess up to 9 times.
+Desc_74
+Strengthen or weaken one Usual Trait of Taiwu or a companion.
+Desc_75
+Obtain 1 high-tier Smithing, Carpentry, Weaving, or Jewelcrafting tool.
+Desc_76
+Obtain 1 weapon used in the Swordsmith Villa Martial Arts Trial.
+Desc_77
+Stop Taiwu's or a companion's current age from increasing for 3 years, but during this period, they may be afflicted with random toxins each month.
+Desc_78
+Increase one primary attribute of Taiwu or a companion for 1 year.
+Desc_79
+Expel all toxins from Taiwu or a companion, kill 3 random Gu, and reduce the survival time of Prime Gu.
+Desc_80
+Commission the Veil Scar Sect to assassinate a character
+Desc_81
+Gain a companion with the "Loyal Servant" trait.
+Desc_82
+Hold a town gathering, where you may trade with various caravans.
+Desc_83
+Increase the power of all martial arts used by Taiwu or a companion for 1 year, but during this period, their Deviation will increase each month.
+Desc_84
+Use concoctions to heal the target and collect Silver in payment.
+Desc_85
+Grant the target an official post and receive sect support from them.\nEach autumn, you may receive crickets offered as tribute by characters who have been granted official posts.
+Desc_86
+Invite the target to share tea, increasing their favorability.\nIf both parties drink until their inner breath becomes obstructed, a quarrel may be hard to avoid.
+Desc_87
+Purchase the target's items at a high price.
+Desc_88
+Divine whether an Unexpected Fortune or an Unexpected Disaster shall befall the target.
+Desc_89
+Spend your own lifespan to exchange traits with the target.
+Desc_90
+Use a Buddhism debate to persuade the target to change their mindset, and gain Prestige.
+Desc_91
+Persuade the target to leave their sect.\nFor turning against their master and sect, this person may become enemies with former sectmates.
+Desc_92
+Increase or decrease the target's influence value.
+Desc_93
+Invite the target to drink fine liquor together, greatly increasing their favorability.\nIf both parties drink until their inner breath becomes obstructed, blows may be hard to avoid.
+Desc_94
+Use an debate to persuade the target to become ordained, and take them as a disciple after successfully converting them.
+Desc_95
+Attempt to dispel the evil thoughts within the target and gain Prestige.
+Desc_96
+Attempt to give the target a new name and gain prestige.
+Desc_97
+Transfer half of your lifespan to the target and increase their favorability.
+Desc_98
+Donate resources to gain Regional Favor in the target's region.
+Desc_99
+Increase or decrease a local character's favorability toward Taiwu.
+Desc_100
+Change the stability or culture of the target's settlement.
+Desc_16
+Increase or decrease Taiwu's or companion's mood.\nThe higher the highest Attainment among the other party's Music, Weiqi, Literature, and Painting, the more significant the Mind-soothing Arts effect will be.
+Desc_15
+Change the Crime Severity of One Town Regulation belonging to the other party's province
+Desc_101
+Change the severity of one sect regulation in the target's sect.
+Desc_102
+Spend extra Silver, Herb, and Regional Favor to ask the target to provide more effective medical care.
+Desc_103
+Increase guild favorability with the specified merchant guild.
+Desc_104
+Restore resources on some tiles within the influence area of the target's settlement.
+Desc_105
+Shift Taiwu's or a companion's mindset toward Principled or Egocentric.
+Desc_106
+Commission the target to craft Smithing, Carpentry, Jewelcrafting, or Weaving products.
+Desc_18
+Commission the other party to make medicine and poison
+Desc_19
+Commission the other party to make dishes
+Desc_17
+Commission the other party to brew tea and liquor
+Desc_107
+Exchange 3 tools of the same name for 1 tool at full durability.
+Desc_108
+Purchase fruits sold by the target
+Desc_109
+Spend Silver to purchase secrets about characters in this region.
+Desc_110
+Spend Regional Favor to exchange for resource core materials.
+Desc_111
+Change the target's appearance.\nDepending on Taiwu's Appreciation attainment, grooming may produce different results.
+Desc_112
+Trade items and resources held by both sides.\nThe trade can only be completed if the total value of Taiwu's goods is no lower than the target's.
+Desc_113
+Attempt to win the secret tome held by the target through battle.
+Desc_114
+Engage the target in a duel. If victorious, you may confiscate the secret tome they hold.
+Desc_115
+Politely ask the target to give you the secret tome.
+Desc_116
+Attempt to exchange Silver, Prestige, or XP for the secret tome held by the target.
+Desc_117
+Return the target's baby.
+

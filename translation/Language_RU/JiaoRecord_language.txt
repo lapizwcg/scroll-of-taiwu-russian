@@ -1,0 +1,141 @@
+Name_0
+Jiao Egg incubation
+Name_1
+Gradually growing
+Name_2
+The Jiao Pool's playful interaction
+Name_3
+The Jiao Pool's playful interaction
+Name_4
+The Jiao Pool's playful interaction
+Name_5
+The Jiao Pool's playful interaction
+Name_6
+The Jiao Pool's playful interaction
+Name_7
+The Jiao Pool's playful interaction
+Name_8
+The Jiao Pool's playful interaction
+Name_9
+The Jiao Pool's playful interaction
+Name_10
+The Jiao Pool's playful interaction
+Name_11
+The Jiao Pool's playful interaction
+Name_12
+Gradually growing
+Name_13
+Gradually growing
+Name_14
+Gradually growing
+Name_15
+Jiao escapes
+Name_16
+Jiao returns to the pool
+Name_17
+Jiao returns to the pool
+Name_18
+Цзяо вырос
+Name_19
+Begin breeding
+Name_20
+Breeding is complete.
+Name_21
+The Jiao Pool's playful interaction
+Name_22
+Jiao returns to the pool
+Name_23
+Jiao returns to the pool
+Name_24
+Gradually growing
+Name_25
+Gradually growing
+Name_26
+The Jiao Pool's playful interaction
+Name_27
+Jiao returns to the pool
+Name_28
+Jiao returns to the pool
+Name_29
+Gradually growing
+Name_30
+The Jiao Pool's playful interaction
+Name_31
+Jiao returns to the pool
+Name_32
+Jiao returns to the pool
+Name_33
+The Jiao Pool's playful interaction
+Name_34
+Gradually growing
+Desc_0
+After months of incubation, {0} finally broke out of {1}'s shell...
+Desc_1
+Due to the nurturing policy "{1}," {0}'s {2} has increased by {3}...
+Desc_2
+Through the playful interaction with the group of fish, {0}'s inventory size increased by {1}...
+Desc_3
+Through the water play and race, {0}'s travel speed increased by {1}%...
+Desc_4
+Through the battle between the Loong and the Fenghuang, {0}'s Prisoner Slots increased by {1}...
+Desc_5
+{0}'s Prisoner Capture is increased by {1}% via Gong and Drum Beating...
+Desc_6
+Through the bold strokes of the brush, {0}'s loot drop rate increased by {1}%...
+Desc_7
+{0}'s value is increased via Treasure Gifting...
+Desc_8
+Through gifting fine items, {0}'s value increased by...
+Desc_9
+Through singing and dancing, {0}'s gifting mood increased by...
+Desc_10
+Through casual conversation and companionship, {0}'s gifting Favorability increased by...
+Desc_11
+{0} enjoys themselves, and {1} increased by {2}...
+Desc_12
+{0} gradually grew, and their length increased by {1} zhang...
+Desc_13
+{0} gradually grew, and their weight increased by {1} jin...
+Desc_14
+{0} gradually grew, and their lifespan increased by {1} years...
+Desc_15
+{0}'s wild nature is hard to tame, and it is unknown when it escaped from the Jiao Pool!
+Desc_16
+The escaped {0} has been successfully subdued and brought back to the Jiao Pool, {1} decreased by {2}...
+Desc_17
+The escaped {0} has been successfully subdued and brought back to the Jiao Pool, {1}increased by {2}...
+Desc_18
+The upbringing of {0} has been completed...
+Desc_19
+{0} and {1} begin breeding in the Jiao Pool...
+Desc_20
+{0} and {1} successfully gave birth to a {2}...
+Desc_21
+{0} enjoys itself, and {1} increases by...
+Desc_22
+The escaped {0} was successfully subdued and brought back to the Jiao Pool, and {1} decreased by...
+Desc_23
+The escaped {0} was successfully subdued and brought back to the Jiao Pool, and {1} increased by...
+Desc_24
+Due to the nurturing policy "{1}," {0}'s {2} increased by...
+Desc_25
+Due to the nurturing policy "{1}," {0}'s {2} increased by {3}%...
+Desc_26
+{0} enjoys itself, and {1} increases by {2}%...
+Desc_27
+The escaped {0} was successfully subdued and brought back to the Jiao Pool, causing {1} to decrease by {2}%...
+Desc_28
+The escaped {0} was successfully subdued and brought back to the Jiao Pool, causing {1} to increase by {2}%...
+Desc_29
+Due to the nurturing policy "{1}," {0}'s {2} has increased by {3}...
+Desc_30
+{0} enjoys themselves, and {1} increased by {2}...
+Desc_31
+The escaped {0} has been successfully subdued and brought back to the Jiao Pool, {1} decreased by {2}...
+Desc_32
+The escaped {0} has been successfully subdued and brought back to the Jiao Pool, {1}increased by {2}...
+Desc_33
+{0}'s Exploration Reward Enrichment ability is increased by {1}% via Colored Silk Play...
+Desc_34
+Due to the nurturing policy "{1}," {0}'s {2} decreased by {3}%...
+

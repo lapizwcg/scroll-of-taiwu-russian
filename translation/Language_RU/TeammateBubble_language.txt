@@ -1,0 +1,4959 @@
+Name_0
+Деревня Тайу
+Name_1
+Столица
+Name_2
+Чэнду
+Name_3
+Гуйчжоу
+Name_4
+Сянъян
+Name_5
+Тайюань
+Name_6
+Гуанчжоу
+Name_7
+Цинчжоу
+Name_8
+Цзянлин
+Name_9
+Фучжоу
+Name_10
+Ляоян
+Name_11
+Циньчжоу
+Name_12
+Дали
+Name_13
+Шоучунь
+Name_14
+Ханчжоу
+Name_15
+Янчжоу
+Name_16
+Секта Шаолинь
+Name_17
+Секта Эмэй
+Name_18
+Долина Сотни Цветов
+Name_19
+Секта Удан
+Name_20
+Большой и Малый Юаньшань
+Name_21
+Клан Львиноликих
+Name_22
+Секта Жаньшань
+Name_23
+Пик Нефритовой Девы
+Name_24
+Усадьба Ковки Мечей
+Name_25
+Секта Кунсан
+Name_26
+Секта Ваджры нирваны
+Name_27
+Секта Пяти Бессмертных
+Name_28
+Утёс Вуали-Шрама
+Name_29
+Обитель Фулун
+Name_30
+Кровавая секта
+Name_31
+Деревня
+Name_32
+Куры
+Name_33
+Чайное собрание
+Name_34
+Feast
+Name_35
+Свадебный обряд
+Name_36
+Springtime Market
+Name_37
+Martial Arts Competition
+Name_38
+Debate Tournament: Carpentry
+Name_39
+Jewelcrafting Debate Tournament
+Name_40
+Weaving Debate Tournament
+Name_41
+Smithing Debate Tournament
+Name_42
+Culinary Arts Debate Tournament
+Name_43
+Medical Art Debate Tournament
+Name_44
+Toxicology Debate Tournament
+Name_45
+Турнир сверчков
+Name_46
+Турнир секты (Шаолинь)
+Name_47
+Турнир секты (Эмэй)
+Name_48
+Турнир секты (Долина Сотни Цветов)
+Name_49
+Турнир секты (Удан)
+Name_50
+Турнир секты (Юаньшань)
+Name_51
+Турнир секты (Клан Львиноликих)
+Name_52
+Турнир секты (Жаньшань)
+Name_53
+Турнир секты (Секта Нефритовой Девы)
+Name_54
+Турнир секты (Ковка Мечей)
+Name_55
+Турнир секты (Кунсан)
+Name_56
+Турнир секты (Ваджра)
+Name_57
+Турнир секты (Секта Пяти Бессмертных)
+Name_58
+Турнир секты (Вуаль-Шрам)
+Name_59
+Турнир секты (Обитель Фулун)
+Name_60
+Турнир секты (Кровавая)
+Name_61
+Martial Contest for Spouse The Capital
+Name_62
+Martial Contest for Spouse Dali
+Name_63
+Martial Contest for Spouse Taiyuan
+Name_64
+Martial Contest for Spouse Shouchun
+Name_65
+Martial Contest for Spouse Guangzhou
+Name_66
+Martial Contest for Spouse Chengdu
+Name_67
+Martial Contest for Spouse Yangzhou
+Name_68
+Martial Contest for Spouse Hangzhou
+Name_69
+Martial Contest for Spouse Guizhou
+Name_70
+Martial Contest for Spouse Jiangling
+Name_71
+Martial Contest for Spouse Fuzhou
+Name_72
+Martial Contest for Spouse Qinzhou
+Name_73
+Martial Contest for Spouse Xiangyang
+Name_74
+Martial Contest for Spouse Liaoyang
+Name_75
+Martial Contest for Spouse Qingzhou
+Name_76
+Martial Contest for Spouse The Capital (F)
+Name_77
+Martial Contest for Spouse Dali (F)
+Name_78
+Martial Contest for Spouse Taiyuan (F)
+Name_79
+Martial Contest for Spouse Shouchun (F)
+Name_80
+Martial Contest for Spouse Guangzhou (F)
+Name_81
+Martial Contest for Spouse Chengdu (F)
+Name_82
+Martial Contest for Spouse Yangzhou (F)
+Name_83
+Martial Contest for Spouse Hangzhou (F)
+Name_84
+Martial Contest for Spouse Guizhou (F)
+Name_85
+Martial Contest for Spouse Jiangling (F)
+Name_86
+Martial Contest for Spouse Fuzhou (F)
+Name_87
+Martial Contest for Spouse Qinzhou (F)
+Name_88
+Martial Contest for Spouse Xiangyang (F)
+Name_89
+Martial Contest for Spouse Liaoyang (F)
+Name_90
+Martial Contest for Spouse Qingzhou (F)
+Name_91
+Могильник мечей "Тёмный иней"
+Name_92
+Могильник мечей "Пламя Игнидея"
+Name_93
+Могильник мечей "Кокон фэнхуана"
+Name_94
+Могильник мечей "Печать духов"
+Name_95
+Могильник мечей "Предел радуги"
+Name_96
+Могильник мечей "Хвост Канделора"
+Name_97
+Могильник мечей "Ткань Мону"
+Name_98
+Могильник мечей "Оковы демона"
+Name_99
+Могильник мечей "Виталос"
+Name_100
+Возвращение в Бамбуковую хижину
+Name_101
+Вниз по течению
+Name_102
+Лиловый бамбук на чернокаменье
+Name_103
+Большая обезьяна
+Name_104
+Горящее селение
+Name_105
+Заброшенная почтовая станция
+Name_106
+Потаённая горная река
+Name_107
+Выход из глубокой долины
+Name_108
+Бессмертный из гробницы
+Name_109
+Турнир вольного света
+Name_110
+Сошествие таинственного бамбука
+Name_111
+Иной край
+Name_112
+Логово злобных попрошаек
+Name_113
+Стан воров
+Name_114
+Разбойничье логово
+Name_115
+Логово отступников
+Name_116
+Долина злодеев
+Name_117
+Обольстительная ловушка
+Name_118
+Братская могила
+Name_119
+Дом чудаков
+Name_120
+Мёртвая земля
+Name_121
+Поле смерти
+Name_122
+Обитель демонов
+Name_123
+На краю гибели
+Name_124
+Зал странствующих воинов
+Name_125
+Союз ревнителей правды
+Name_126
+Диковинные тайные владения
+Name_127
+Дар природы
+Name_128
+Find Monkey's Head Mushrooms
+Name_129
+Find Blue Peacock
+Name_130
+Find Kaluga
+Name_131
+Find Purpletwist Bamboo
+Name_132
+Find Dark Sandalwood
+Name_133
+Find Cicadae Gold
+Name_134
+Find Aerosiderite
+Name_135
+Find Kunlun Oily Jade
+Name_136
+Find Deus Gemstone
+Name_137
+Find Cicada Goldwing
+Name_138
+Find Panthea Silk
+Name_139
+Беда и удача
+Name_140
+Прихоть творения
+Name_141
+Круговорот жизни и смерти
+Name_142
+Отражения двойственности
+Name_143
+Взаимозависимость
+Name_144
+Find Poison Hemlock
+Name_145
+Find Vilified Blossom
+Name_146
+Find Sanguis Toad
+Name_147
+Find Millennia Ice Silkworm
+Name_148
+Find Millennia Cyan Spider
+Name_149
+Find Shapeshift Mandala
+Name_150
+Вылазка за тайным трактатом
+Name_151
+Plot Character
+Name_152
+Разбойник
+Name_153
+Странствующий воин
+Name_154
+Прислужник Сяншу
+Name_155
+Животное
+Name_156
+Lost Mount
+Name_157
+Караван
+Name_158
+Родня
+Name_159
+Друг
+Name_160
+Враг
+Name_161
+Secret Perpetrator
+Name_162
+Secret Recipient
+Name_163
+Xiangshu Maniac
+Name_164
+Xiangshu Possessed
+Name_165
+Obsessed by Secret Tome
+Name_166
+Secret Tome Depravity
+Name_167
+Non-enemy Grave
+Name_168
+Глава секты
+Name_169
+Cricket
+Name_170
+Отправить
+Name_171
+Отзвуки былого
+Name_172
+Цзинцзи
+Name_173
+Башу
+Name_174
+Гуаннань
+Name_175
+Цзинбэй
+Name_176
+Шаньси
+Name_177
+Гуандун
+Name_178
+Шаньдун
+Name_179
+Цзиннань
+Name_180
+Фуцзянь
+Name_181
+Ляодун
+Name_182
+Западный край
+Name_183
+Юньнань
+Name_184
+Хуайнань
+Name_185
+Цзяннань
+Name_186
+Цзянбэй
+Name_187
+Damaged Region
+Name_188
+Land of Eternal Flame
+SpecialDesc0_0
+
+SpecialDesc0_1
+
+SpecialDesc0_2
+
+SpecialDesc0_3
+
+SpecialDesc0_4
+
+SpecialDesc0_5
+
+SpecialDesc0_6
+
+SpecialDesc0_7
+
+SpecialDesc0_8
+
+SpecialDesc0_9
+
+SpecialDesc0_10
+
+SpecialDesc0_11
+
+SpecialDesc0_12
+
+SpecialDesc0_13
+
+SpecialDesc0_14
+
+SpecialDesc0_15
+
+SpecialDesc0_16
+
+SpecialDesc0_17
+
+SpecialDesc0_18
+
+SpecialDesc0_19
+
+SpecialDesc0_20
+
+SpecialDesc0_21
+
+SpecialDesc0_22
+
+SpecialDesc0_23
+
+SpecialDesc0_24
+
+SpecialDesc0_25
+
+SpecialDesc0_26
+
+SpecialDesc0_27
+
+SpecialDesc0_28
+
+SpecialDesc0_29
+
+SpecialDesc0_30
+
+SpecialDesc0_31
+
+SpecialDesc0_32
+
+SpecialDesc0_33
+
+SpecialDesc0_34
+
+SpecialDesc0_35
+
+SpecialDesc0_36
+
+SpecialDesc0_37
+
+SpecialDesc0_38
+
+SpecialDesc0_39
+
+SpecialDesc0_40
+
+SpecialDesc0_41
+
+SpecialDesc0_42
+
+SpecialDesc0_43
+
+SpecialDesc0_44
+
+SpecialDesc0_45
+
+SpecialDesc0_46
+
+SpecialDesc0_47
+
+SpecialDesc0_48
+
+SpecialDesc0_49
+
+SpecialDesc0_50
+
+SpecialDesc0_51
+
+SpecialDesc0_52
+
+SpecialDesc0_53
+
+SpecialDesc0_54
+
+SpecialDesc0_55
+
+SpecialDesc0_56
+
+SpecialDesc0_57
+
+SpecialDesc0_58
+
+SpecialDesc0_59
+
+SpecialDesc0_60
+
+SpecialDesc0_61
+
+SpecialDesc0_62
+
+SpecialDesc0_63
+
+SpecialDesc0_64
+
+SpecialDesc0_65
+
+SpecialDesc0_66
+
+SpecialDesc0_67
+
+SpecialDesc0_68
+
+SpecialDesc0_69
+
+SpecialDesc0_70
+
+SpecialDesc0_71
+
+SpecialDesc0_72
+
+SpecialDesc0_73
+
+SpecialDesc0_74
+
+SpecialDesc0_75
+
+SpecialDesc0_76
+
+SpecialDesc0_77
+
+SpecialDesc0_78
+
+SpecialDesc0_79
+
+SpecialDesc0_80
+
+SpecialDesc0_81
+
+SpecialDesc0_82
+
+SpecialDesc0_83
+
+SpecialDesc0_84
+
+SpecialDesc0_85
+
+SpecialDesc0_86
+
+SpecialDesc0_87
+
+SpecialDesc0_88
+
+SpecialDesc0_89
+
+SpecialDesc0_90
+
+SpecialDesc0_91
+
+SpecialDesc0_92
+
+SpecialDesc0_93
+
+SpecialDesc0_94
+
+SpecialDesc0_95
+
+SpecialDesc0_96
+
+SpecialDesc0_97
+
+SpecialDesc0_98
+
+SpecialDesc0_99
+
+SpecialDesc0_100
+Your foster father is never idle... Why is it so quiet today?
+SpecialDesc0_101
+A treacherous undercurrent... Without a boat, crossing seems impossible...
+SpecialDesc0_102
+
+SpecialDesc0_103
+The monkey den is near. Shall we take a look?
+SpecialDesc0_104
+The fire is raging... Someone's crying for help!
+SpecialDesc0_105
+
+SpecialDesc0_106
+Once we cross this river, we may find your foster father...
+SpecialDesc0_107
+I wonder what lies beyond this deep valley... No matter, as long as you are by my side...
+SpecialDesc0_108
+
+SpecialDesc0_109
+
+SpecialDesc0_110
+
+SpecialDesc0_111
+
+SpecialDesc0_112
+
+SpecialDesc0_113
+
+SpecialDesc0_114
+
+SpecialDesc0_115
+
+SpecialDesc0_116
+
+SpecialDesc0_117
+
+SpecialDesc0_118
+
+SpecialDesc0_119
+
+SpecialDesc0_120
+
+SpecialDesc0_121
+
+SpecialDesc0_122
+
+SpecialDesc0_123
+
+SpecialDesc0_124
+
+SpecialDesc0_125
+
+SpecialDesc0_126
+
+SpecialDesc0_127
+
+SpecialDesc0_128
+
+SpecialDesc0_129
+
+SpecialDesc0_130
+
+SpecialDesc0_131
+
+SpecialDesc0_132
+
+SpecialDesc0_133
+
+SpecialDesc0_134
+
+SpecialDesc0_135
+
+SpecialDesc0_136
+
+SpecialDesc0_137
+
+SpecialDesc0_138
+
+SpecialDesc0_139
+
+SpecialDesc0_140
+
+SpecialDesc0_141
+
+SpecialDesc0_142
+
+SpecialDesc0_143
+
+SpecialDesc0_144
+
+SpecialDesc0_145
+
+SpecialDesc0_146
+
+SpecialDesc0_147
+
+SpecialDesc0_148
+
+SpecialDesc0_149
+
+SpecialDesc0_150
+
+SpecialDesc0_151
+
+SpecialDesc0_152
+
+SpecialDesc0_153
+
+SpecialDesc0_154
+
+SpecialDesc0_155
+
+SpecialDesc0_156
+
+SpecialDesc0_157
+
+SpecialDesc0_158
+
+SpecialDesc0_159
+
+SpecialDesc0_160
+
+SpecialDesc0_161
+
+SpecialDesc0_162
+
+SpecialDesc0_163
+
+SpecialDesc0_164
+
+SpecialDesc0_165
+
+SpecialDesc0_166
+
+SpecialDesc0_167
+
+SpecialDesc0_168
+
+SpecialDesc0_169
+
+SpecialDesc0_170
+
+SpecialDesc0_171
+
+SpecialDesc0_172
+
+SpecialDesc0_173
+
+SpecialDesc0_174
+
+SpecialDesc0_175
+
+SpecialDesc0_176
+
+SpecialDesc0_177
+
+SpecialDesc0_178
+
+SpecialDesc0_179
+
+SpecialDesc0_180
+
+SpecialDesc0_181
+
+SpecialDesc0_182
+
+SpecialDesc0_183
+
+SpecialDesc0_184
+
+SpecialDesc0_185
+
+SpecialDesc0_186
+
+SpecialDesc0_187
+
+SpecialDesc0_188
+
+SpecialDesc1_0
+
+SpecialDesc1_1
+
+SpecialDesc1_2
+
+SpecialDesc1_3
+
+SpecialDesc1_4
+
+SpecialDesc1_5
+
+SpecialDesc1_6
+
+SpecialDesc1_7
+
+SpecialDesc1_8
+
+SpecialDesc1_9
+
+SpecialDesc1_10
+
+SpecialDesc1_11
+
+SpecialDesc1_12
+
+SpecialDesc1_13
+
+SpecialDesc1_14
+
+SpecialDesc1_15
+
+SpecialDesc1_16
+
+SpecialDesc1_17
+
+SpecialDesc1_18
+
+SpecialDesc1_19
+
+SpecialDesc1_20
+
+SpecialDesc1_21
+
+SpecialDesc1_22
+
+SpecialDesc1_23
+
+SpecialDesc1_24
+
+SpecialDesc1_25
+
+SpecialDesc1_26
+
+SpecialDesc1_27
+
+SpecialDesc1_28
+
+SpecialDesc1_29
+
+SpecialDesc1_30
+
+SpecialDesc1_31
+
+SpecialDesc1_32
+That sound... could it be the "Chickens" known for its love of crickets?
+SpecialDesc1_33
+
+SpecialDesc1_34
+
+SpecialDesc1_35
+
+SpecialDesc1_36
+
+SpecialDesc1_37
+
+SpecialDesc1_38
+
+SpecialDesc1_39
+
+SpecialDesc1_40
+
+SpecialDesc1_41
+
+SpecialDesc1_42
+
+SpecialDesc1_43
+
+SpecialDesc1_44
+
+SpecialDesc1_45
+There's a Cricket Tournament nearby. This is my specialty!
+SpecialDesc1_46
+
+SpecialDesc1_47
+
+SpecialDesc1_48
+
+SpecialDesc1_49
+
+SpecialDesc1_50
+
+SpecialDesc1_51
+
+SpecialDesc1_52
+
+SpecialDesc1_53
+
+SpecialDesc1_54
+
+SpecialDesc1_55
+
+SpecialDesc1_56
+
+SpecialDesc1_57
+
+SpecialDesc1_58
+
+SpecialDesc1_59
+
+SpecialDesc1_60
+
+SpecialDesc1_61
+
+SpecialDesc1_62
+
+SpecialDesc1_63
+
+SpecialDesc1_64
+
+SpecialDesc1_65
+
+SpecialDesc1_66
+
+SpecialDesc1_67
+
+SpecialDesc1_68
+
+SpecialDesc1_69
+
+SpecialDesc1_70
+
+SpecialDesc1_71
+
+SpecialDesc1_72
+
+SpecialDesc1_73
+
+SpecialDesc1_74
+
+SpecialDesc1_75
+
+SpecialDesc1_76
+
+SpecialDesc1_77
+
+SpecialDesc1_78
+
+SpecialDesc1_79
+
+SpecialDesc1_80
+
+SpecialDesc1_81
+
+SpecialDesc1_82
+
+SpecialDesc1_83
+
+SpecialDesc1_84
+
+SpecialDesc1_85
+
+SpecialDesc1_86
+
+SpecialDesc1_87
+
+SpecialDesc1_88
+
+SpecialDesc1_89
+
+SpecialDesc1_90
+
+SpecialDesc1_91
+
+SpecialDesc1_92
+
+SpecialDesc1_93
+
+SpecialDesc1_94
+
+SpecialDesc1_95
+
+SpecialDesc1_96
+
+SpecialDesc1_97
+
+SpecialDesc1_98
+
+SpecialDesc1_99
+
+SpecialDesc1_100
+
+SpecialDesc1_101
+
+SpecialDesc1_102
+
+SpecialDesc1_103
+
+SpecialDesc1_104
+
+SpecialDesc1_105
+
+SpecialDesc1_106
+
+SpecialDesc1_107
+
+SpecialDesc1_108
+
+SpecialDesc1_109
+
+SpecialDesc1_110
+
+SpecialDesc1_111
+
+SpecialDesc1_112
+
+SpecialDesc1_113
+
+SpecialDesc1_114
+
+SpecialDesc1_115
+
+SpecialDesc1_116
+
+SpecialDesc1_117
+
+SpecialDesc1_118
+
+SpecialDesc1_119
+
+SpecialDesc1_120
+
+SpecialDesc1_121
+
+SpecialDesc1_122
+
+SpecialDesc1_123
+
+SpecialDesc1_124
+
+SpecialDesc1_125
+
+SpecialDesc1_126
+
+SpecialDesc1_127
+
+SpecialDesc1_128
+
+SpecialDesc1_129
+
+SpecialDesc1_130
+
+SpecialDesc1_131
+
+SpecialDesc1_132
+
+SpecialDesc1_133
+
+SpecialDesc1_134
+
+SpecialDesc1_135
+
+SpecialDesc1_136
+
+SpecialDesc1_137
+
+SpecialDesc1_138
+
+SpecialDesc1_139
+
+SpecialDesc1_140
+
+SpecialDesc1_141
+
+SpecialDesc1_142
+
+SpecialDesc1_143
+
+SpecialDesc1_144
+
+SpecialDesc1_145
+
+SpecialDesc1_146
+
+SpecialDesc1_147
+
+SpecialDesc1_148
+
+SpecialDesc1_149
+
+SpecialDesc1_150
+
+SpecialDesc1_151
+
+SpecialDesc1_152
+
+SpecialDesc1_153
+
+SpecialDesc1_154
+
+SpecialDesc1_155
+
+SpecialDesc1_156
+
+SpecialDesc1_157
+
+SpecialDesc1_158
+
+SpecialDesc1_159
+
+SpecialDesc1_160
+
+SpecialDesc1_161
+
+SpecialDesc1_162
+
+SpecialDesc1_163
+
+SpecialDesc1_164
+
+SpecialDesc1_165
+
+SpecialDesc1_166
+
+SpecialDesc1_167
+
+SpecialDesc1_168
+
+SpecialDesc1_169
+Hush... hear that? A great one hides nearby!
+SpecialDesc1_170
+
+SpecialDesc1_171
+
+SpecialDesc1_172
+
+SpecialDesc1_173
+
+SpecialDesc1_174
+
+SpecialDesc1_175
+
+SpecialDesc1_176
+
+SpecialDesc1_177
+
+SpecialDesc1_178
+
+SpecialDesc1_179
+
+SpecialDesc1_180
+
+SpecialDesc1_181
+
+SpecialDesc1_182
+
+SpecialDesc1_183
+
+SpecialDesc1_184
+
+SpecialDesc1_185
+
+SpecialDesc1_186
+
+SpecialDesc1_187
+
+SpecialDesc1_188
+
+SpecialDesc2_0
+
+SpecialDesc2_1
+
+SpecialDesc2_2
+
+SpecialDesc2_3
+
+SpecialDesc2_4
+
+SpecialDesc2_5
+
+SpecialDesc2_6
+
+SpecialDesc2_7
+
+SpecialDesc2_8
+
+SpecialDesc2_9
+
+SpecialDesc2_10
+
+SpecialDesc2_11
+
+SpecialDesc2_12
+
+SpecialDesc2_13
+
+SpecialDesc2_14
+
+SpecialDesc2_15
+
+SpecialDesc2_16
+
+SpecialDesc2_17
+
+SpecialDesc2_18
+
+SpecialDesc2_19
+
+SpecialDesc2_20
+
+SpecialDesc2_21
+
+SpecialDesc2_22
+
+SpecialDesc2_23
+
+SpecialDesc2_24
+
+SpecialDesc2_25
+
+SpecialDesc2_26
+
+SpecialDesc2_27
+
+SpecialDesc2_28
+
+SpecialDesc2_29
+
+SpecialDesc2_30
+
+SpecialDesc2_31
+
+SpecialDesc2_32
+
+SpecialDesc2_33
+There's a tea gathering nearby? Such a small venue might be enough to entertain country folks...
+SpecialDesc2_34
+There's a feast nearby? Such a small venue might be enough to entertain country folks...
+SpecialDesc2_35
+
+SpecialDesc2_36
+
+SpecialDesc2_37
+
+SpecialDesc2_38
+There's a debate nearby. To compete would surely tarnish my noble lineage...
+SpecialDesc2_39
+There's a debate nearby. To compete would surely tarnish my noble lineage...
+SpecialDesc2_40
+There's a debate nearby. To compete would surely tarnish my noble lineage...
+SpecialDesc2_41
+There's a debate nearby. To compete would surely tarnish my noble lineage...
+SpecialDesc2_42
+There's a debate nearby. To compete would surely tarnish my noble lineage...
+SpecialDesc2_43
+There's a debate nearby. To compete would surely tarnish my noble lineage...
+SpecialDesc2_44
+There's a debate nearby. To compete would surely tarnish my noble lineage...
+SpecialDesc2_45
+
+SpecialDesc2_46
+
+SpecialDesc2_47
+
+SpecialDesc2_48
+
+SpecialDesc2_49
+
+SpecialDesc2_50
+
+SpecialDesc2_51
+
+SpecialDesc2_52
+
+SpecialDesc2_53
+
+SpecialDesc2_54
+
+SpecialDesc2_55
+
+SpecialDesc2_56
+
+SpecialDesc2_57
+
+SpecialDesc2_58
+
+SpecialDesc2_59
+
+SpecialDesc2_60
+
+SpecialDesc2_61
+
+SpecialDesc2_62
+
+SpecialDesc2_63
+
+SpecialDesc2_64
+
+SpecialDesc2_65
+
+SpecialDesc2_66
+
+SpecialDesc2_67
+
+SpecialDesc2_68
+
+SpecialDesc2_69
+
+SpecialDesc2_70
+
+SpecialDesc2_71
+
+SpecialDesc2_72
+
+SpecialDesc2_73
+
+SpecialDesc2_74
+
+SpecialDesc2_75
+
+SpecialDesc2_76
+
+SpecialDesc2_77
+
+SpecialDesc2_78
+
+SpecialDesc2_79
+
+SpecialDesc2_80
+
+SpecialDesc2_81
+
+SpecialDesc2_82
+
+SpecialDesc2_83
+
+SpecialDesc2_84
+
+SpecialDesc2_85
+
+SpecialDesc2_86
+
+SpecialDesc2_87
+
+SpecialDesc2_88
+
+SpecialDesc2_89
+
+SpecialDesc2_90
+
+SpecialDesc2_91
+
+SpecialDesc2_92
+
+SpecialDesc2_93
+
+SpecialDesc2_94
+
+SpecialDesc2_95
+
+SpecialDesc2_96
+
+SpecialDesc2_97
+
+SpecialDesc2_98
+
+SpecialDesc2_99
+
+SpecialDesc2_100
+
+SpecialDesc2_101
+
+SpecialDesc2_102
+
+SpecialDesc2_103
+
+SpecialDesc2_104
+
+SpecialDesc2_105
+
+SpecialDesc2_106
+Are we truly leaving? The Martial World is vast and lonesome—why not roam it together?
+SpecialDesc2_107
+
+SpecialDesc2_108
+
+SpecialDesc2_109
+
+SpecialDesc2_110
+
+SpecialDesc2_111
+
+SpecialDesc2_112
+
+SpecialDesc2_113
+
+SpecialDesc2_114
+
+SpecialDesc2_115
+
+SpecialDesc2_116
+
+SpecialDesc2_117
+
+SpecialDesc2_118
+
+SpecialDesc2_119
+
+SpecialDesc2_120
+
+SpecialDesc2_121
+
+SpecialDesc2_122
+
+SpecialDesc2_123
+
+SpecialDesc2_124
+
+SpecialDesc2_125
+
+SpecialDesc2_126
+
+SpecialDesc2_127
+
+SpecialDesc2_128
+
+SpecialDesc2_129
+
+SpecialDesc2_130
+
+SpecialDesc2_131
+
+SpecialDesc2_132
+
+SpecialDesc2_133
+
+SpecialDesc2_134
+
+SpecialDesc2_135
+
+SpecialDesc2_136
+
+SpecialDesc2_137
+
+SpecialDesc2_138
+
+SpecialDesc2_139
+
+SpecialDesc2_140
+
+SpecialDesc2_141
+
+SpecialDesc2_142
+
+SpecialDesc2_143
+
+SpecialDesc2_144
+
+SpecialDesc2_145
+
+SpecialDesc2_146
+
+SpecialDesc2_147
+
+SpecialDesc2_148
+
+SpecialDesc2_149
+
+SpecialDesc2_150
+
+SpecialDesc2_151
+
+SpecialDesc2_152
+
+SpecialDesc2_153
+
+SpecialDesc2_154
+
+SpecialDesc2_155
+
+SpecialDesc2_156
+
+SpecialDesc2_157
+In the golden days of my forebears, treasures beyond counting passed through our hands—these merchants hold no marvel for me...
+SpecialDesc2_158
+
+SpecialDesc2_159
+
+SpecialDesc2_160
+
+SpecialDesc2_161
+
+SpecialDesc2_162
+
+SpecialDesc2_163
+
+SpecialDesc2_164
+
+SpecialDesc2_165
+
+SpecialDesc2_166
+
+SpecialDesc2_167
+
+SpecialDesc2_168
+
+SpecialDesc2_169
+
+SpecialDesc2_170
+
+SpecialDesc2_171
+
+SpecialDesc2_172
+
+SpecialDesc2_173
+
+SpecialDesc2_174
+
+SpecialDesc2_175
+
+SpecialDesc2_176
+
+SpecialDesc2_177
+
+SpecialDesc2_178
+
+SpecialDesc2_179
+
+SpecialDesc2_180
+
+SpecialDesc2_181
+
+SpecialDesc2_182
+
+SpecialDesc2_183
+
+SpecialDesc2_184
+
+SpecialDesc2_185
+
+SpecialDesc2_186
+
+SpecialDesc2_187
+
+SpecialDesc2_188
+
+SpecialDesc3_0
+
+SpecialDesc3_1
+
+SpecialDesc3_2
+
+SpecialDesc3_3
+
+SpecialDesc3_4
+
+SpecialDesc3_5
+
+SpecialDesc3_6
+
+SpecialDesc3_7
+
+SpecialDesc3_8
+
+SpecialDesc3_9
+
+SpecialDesc3_10
+
+SpecialDesc3_11
+
+SpecialDesc3_12
+
+SpecialDesc3_13
+
+SpecialDesc3_14
+
+SpecialDesc3_15
+
+SpecialDesc3_16
+
+SpecialDesc3_17
+
+SpecialDesc3_18
+
+SpecialDesc3_19
+
+SpecialDesc3_20
+
+SpecialDesc3_21
+
+SpecialDesc3_22
+
+SpecialDesc3_23
+
+SpecialDesc3_24
+
+SpecialDesc3_25
+
+SpecialDesc3_26
+
+SpecialDesc3_27
+
+SpecialDesc3_28
+My sister and I grew up here... now when I think back, those memories are but fleeting...
+SpecialDesc3_29
+
+SpecialDesc3_30
+
+SpecialDesc3_31
+
+SpecialDesc3_32
+
+SpecialDesc3_33
+
+SpecialDesc3_34
+
+SpecialDesc3_35
+
+SpecialDesc3_36
+
+SpecialDesc3_37
+There's a martial arts competition nearby. I'd rather not draw my enemies' attention...
+SpecialDesc3_38
+
+SpecialDesc3_39
+
+SpecialDesc3_40
+
+SpecialDesc3_41
+
+SpecialDesc3_42
+
+SpecialDesc3_43
+
+SpecialDesc3_44
+
+SpecialDesc3_45
+
+SpecialDesc3_46
+
+SpecialDesc3_47
+
+SpecialDesc3_48
+
+SpecialDesc3_49
+
+SpecialDesc3_50
+
+SpecialDesc3_51
+
+SpecialDesc3_52
+
+SpecialDesc3_53
+
+SpecialDesc3_54
+
+SpecialDesc3_55
+
+SpecialDesc3_56
+
+SpecialDesc3_57
+
+SpecialDesc3_58
+
+SpecialDesc3_59
+
+SpecialDesc3_60
+
+SpecialDesc3_61
+
+SpecialDesc3_62
+
+SpecialDesc3_63
+
+SpecialDesc3_64
+
+SpecialDesc3_65
+
+SpecialDesc3_66
+
+SpecialDesc3_67
+
+SpecialDesc3_68
+
+SpecialDesc3_69
+
+SpecialDesc3_70
+
+SpecialDesc3_71
+
+SpecialDesc3_72
+
+SpecialDesc3_73
+
+SpecialDesc3_74
+
+SpecialDesc3_75
+
+SpecialDesc3_76
+
+SpecialDesc3_77
+
+SpecialDesc3_78
+
+SpecialDesc3_79
+
+SpecialDesc3_80
+
+SpecialDesc3_81
+
+SpecialDesc3_82
+
+SpecialDesc3_83
+
+SpecialDesc3_84
+
+SpecialDesc3_85
+
+SpecialDesc3_86
+
+SpecialDesc3_87
+
+SpecialDesc3_88
+
+SpecialDesc3_89
+
+SpecialDesc3_90
+
+SpecialDesc3_91
+
+SpecialDesc3_92
+
+SpecialDesc3_93
+
+SpecialDesc3_94
+
+SpecialDesc3_95
+
+SpecialDesc3_96
+
+SpecialDesc3_97
+
+SpecialDesc3_98
+
+SpecialDesc3_99
+
+SpecialDesc3_100
+
+SpecialDesc3_101
+
+SpecialDesc3_102
+
+SpecialDesc3_103
+
+SpecialDesc3_104
+
+SpecialDesc3_105
+
+SpecialDesc3_106
+Are we truly leaving? The Martial World is treacherous, but I shall see to your safety...
+SpecialDesc3_107
+
+SpecialDesc3_108
+
+SpecialDesc3_109
+
+SpecialDesc3_110
+
+SpecialDesc3_111
+
+SpecialDesc3_112
+This place is overrun with wicked beggars. The world is dangerous, but don't worry—I will keep you safe.
+SpecialDesc3_113
+This place is plagued by thieves. The world is dangerous, but don't worry—I will keep you safe.
+SpecialDesc3_114
+This place is overrun with bandits... The world is ruthless, but don't worry—I will keep you safe.
+SpecialDesc3_115
+This place harbors sect traitors... The world is cruel, but don't worry—I will keep you safe.
+SpecialDesc3_116
+Evildoers dwell here... The world is harsh, but don't worry—I will keep you safe.
+SpecialDesc3_117
+Bewitching women linger here... The world is treacherous, but don't worry—I will keep you safe.
+SpecialDesc3_118
+Restless spirits haunt these grounds... The world is cruel, but don't worry—I will keep you safe.
+SpecialDesc3_119
+Wandering eccentrics gather here... The world is dangerous, but don't worry—I will keep you safe.
+SpecialDesc3_120
+Outland cultists lurk here... The world is dangerous, but don't worry—I will keep you safe.
+SpecialDesc3_121
+Madmen roam these lands... The world is ruthless, but don't worry—I will keep you safe.
+SpecialDesc3_122
+Demonic Cult congregants gather here... The world is perilous, but don't worry—I will keep you safe.
+SpecialDesc3_123
+Reclusive masters dwell here. The world is treacherous, but don't worry—I will keep you safe.
+SpecialDesc3_124
+Xiake walk these lands, said to save the weak and aid the suffering, much like a Taoist...
+SpecialDesc3_125
+Xiake walk these lands, said to save the weak and aid the suffering, much like a Taoist...
+SpecialDesc3_126
+Xiake walk these lands, said to save the weak and aid the suffering, much like a Taoist...
+SpecialDesc3_127
+
+SpecialDesc3_128
+
+SpecialDesc3_129
+
+SpecialDesc3_130
+
+SpecialDesc3_131
+
+SpecialDesc3_132
+
+SpecialDesc3_133
+
+SpecialDesc3_134
+
+SpecialDesc3_135
+
+SpecialDesc3_136
+
+SpecialDesc3_137
+
+SpecialDesc3_138
+
+SpecialDesc3_139
+
+SpecialDesc3_140
+
+SpecialDesc3_141
+
+SpecialDesc3_142
+
+SpecialDesc3_143
+
+SpecialDesc3_144
+
+SpecialDesc3_145
+
+SpecialDesc3_146
+
+SpecialDesc3_147
+
+SpecialDesc3_148
+
+SpecialDesc3_149
+
+SpecialDesc3_150
+
+SpecialDesc3_151
+
+SpecialDesc3_152
+
+SpecialDesc3_153
+
+SpecialDesc3_154
+
+SpecialDesc3_155
+
+SpecialDesc3_156
+
+SpecialDesc3_157
+
+SpecialDesc3_158
+
+SpecialDesc3_159
+
+SpecialDesc3_160
+
+SpecialDesc3_161
+
+SpecialDesc3_162
+
+SpecialDesc3_163
+
+SpecialDesc3_164
+
+SpecialDesc3_165
+
+SpecialDesc3_166
+
+SpecialDesc3_167
+
+SpecialDesc3_168
+
+SpecialDesc3_169
+
+SpecialDesc3_170
+
+SpecialDesc3_171
+
+SpecialDesc3_172
+
+SpecialDesc3_173
+
+SpecialDesc3_174
+
+SpecialDesc3_175
+
+SpecialDesc3_176
+
+SpecialDesc3_177
+
+SpecialDesc3_178
+
+SpecialDesc3_179
+
+SpecialDesc3_180
+
+SpecialDesc3_181
+
+SpecialDesc3_182
+
+SpecialDesc3_183
+
+SpecialDesc3_184
+
+SpecialDesc3_185
+
+SpecialDesc3_186
+
+SpecialDesc3_187
+
+SpecialDesc3_188
+
+SpecialDesc4_0
+
+SpecialDesc4_1
+
+SpecialDesc4_2
+
+SpecialDesc4_3
+
+SpecialDesc4_4
+
+SpecialDesc4_5
+
+SpecialDesc4_6
+
+SpecialDesc4_7
+
+SpecialDesc4_8
+
+SpecialDesc4_9
+
+SpecialDesc4_10
+
+SpecialDesc4_11
+
+SpecialDesc4_12
+
+SpecialDesc4_13
+
+SpecialDesc4_14
+
+SpecialDesc4_15
+
+SpecialDesc4_16
+
+SpecialDesc4_17
+
+SpecialDesc4_18
+
+SpecialDesc4_19
+
+SpecialDesc4_20
+
+SpecialDesc4_21
+
+SpecialDesc4_22
+
+SpecialDesc4_23
+
+SpecialDesc4_24
+
+SpecialDesc4_25
+
+SpecialDesc4_26
+
+SpecialDesc4_27
+
+SpecialDesc4_28
+
+SpecialDesc4_29
+
+SpecialDesc4_30
+
+SpecialDesc4_31
+
+SpecialDesc4_32
+
+SpecialDesc4_33
+
+SpecialDesc4_34
+
+SpecialDesc4_35
+
+SpecialDesc4_36
+There's a marketplace nearby. Far livelier than our village—the cat would surely be delighted at this...
+SpecialDesc4_37
+
+SpecialDesc4_38
+
+SpecialDesc4_39
+
+SpecialDesc4_40
+
+SpecialDesc4_41
+
+SpecialDesc4_42
+
+SpecialDesc4_43
+
+SpecialDesc4_44
+
+SpecialDesc4_45
+
+SpecialDesc4_46
+
+SpecialDesc4_47
+
+SpecialDesc4_48
+
+SpecialDesc4_49
+
+SpecialDesc4_50
+
+SpecialDesc4_51
+
+SpecialDesc4_52
+
+SpecialDesc4_53
+
+SpecialDesc4_54
+
+SpecialDesc4_55
+
+SpecialDesc4_56
+
+SpecialDesc4_57
+
+SpecialDesc4_58
+
+SpecialDesc4_59
+
+SpecialDesc4_60
+
+SpecialDesc4_61
+
+SpecialDesc4_62
+
+SpecialDesc4_63
+
+SpecialDesc4_64
+
+SpecialDesc4_65
+
+SpecialDesc4_66
+
+SpecialDesc4_67
+
+SpecialDesc4_68
+
+SpecialDesc4_69
+
+SpecialDesc4_70
+
+SpecialDesc4_71
+
+SpecialDesc4_72
+
+SpecialDesc4_73
+
+SpecialDesc4_74
+
+SpecialDesc4_75
+
+SpecialDesc4_76
+
+SpecialDesc4_77
+
+SpecialDesc4_78
+
+SpecialDesc4_79
+
+SpecialDesc4_80
+
+SpecialDesc4_81
+
+SpecialDesc4_82
+
+SpecialDesc4_83
+
+SpecialDesc4_84
+
+SpecialDesc4_85
+
+SpecialDesc4_86
+
+SpecialDesc4_87
+
+SpecialDesc4_88
+
+SpecialDesc4_89
+
+SpecialDesc4_90
+
+SpecialDesc4_91
+
+SpecialDesc4_92
+
+SpecialDesc4_93
+
+SpecialDesc4_94
+
+SpecialDesc4_95
+
+SpecialDesc4_96
+
+SpecialDesc4_97
+
+SpecialDesc4_98
+
+SpecialDesc4_99
+
+SpecialDesc4_100
+
+SpecialDesc4_101
+
+SpecialDesc4_102
+
+SpecialDesc4_103
+
+SpecialDesc4_104
+
+SpecialDesc4_105
+
+SpecialDesc4_106
+Are we truly leaving? The world is full of burdens—I shall shoulder them for you...
+SpecialDesc4_107
+
+SpecialDesc4_108
+
+SpecialDesc4_109
+
+SpecialDesc4_110
+
+SpecialDesc4_111
+
+SpecialDesc4_112
+
+SpecialDesc4_113
+
+SpecialDesc4_114
+
+SpecialDesc4_115
+
+SpecialDesc4_116
+
+SpecialDesc4_117
+
+SpecialDesc4_118
+
+SpecialDesc4_119
+
+SpecialDesc4_120
+
+SpecialDesc4_121
+
+SpecialDesc4_122
+
+SpecialDesc4_123
+
+SpecialDesc4_124
+
+SpecialDesc4_125
+
+SpecialDesc4_126
+
+SpecialDesc4_127
+Black Bear's trail nearby. I shall guide you, but brute strength alone won't do—music may be the key...
+SpecialDesc4_128
+The Monkey's Head Mushrooms grow here. I shall lead the way, but a keen mind in Weiqi is needed, not just strength...
+SpecialDesc4_129
+Blue peacocks are nearby. I shall lead you, but to catch it, one must possess the painting skill rather than mere strength...
+SpecialDesc4_130
+The Kaluga grows here. I shall guide you, but literature, not mere strength, may be the key...
+SpecialDesc4_131
+The Purpletwist Bamboo grows here. I shall guide you, but gold and silver may be needed, not just strength...
+SpecialDesc4_132
+Here grows the Dark Sandalwood. I shall guide you, but iron materials may be needed, not just strength...
+SpecialDesc4_133
+I sense Cicadae Gold nearby. Follow me, but strength alone won't suffice—you'll need fine jade as well...
+SpecialDesc4_134
+Aerosiderite may be near. I shall lead the way. Strength alone won't do though—you'll need gemstone as well.
+SpecialDesc4_135
+The Kunlun Oily Jade should lie ahead. I shall guide you, but know that strength alone won't do—you'll need fabrics.
+SpecialDesc4_136
+Deus Gemstone may lie ahead. Follow me, but strength alone won't suffice—you'll need fur fabrics...
+SpecialDesc4_137
+Cicada Goldwing may lie ahead. Follow me, but strength alone won't suffice—you'll need wood.
+SpecialDesc4_138
+Panthea may lie ahead. Follow me, but strength alone won't suffice—you'll need bamboo and rattan.
+SpecialDesc4_139
+Spirit herbs and stones may lie nearby. Follow me, but mere strength won't suffice—you'll need medical art...
+SpecialDesc4_140
+Rare beasts and insects, as well as spirit plants and herbs may lie nearby. Follow me, but strength alone won't suffice—you'll need medical art...
+SpecialDesc4_141
+Lingzhi and rare plants may lie nearby. Follow me, but mere strength won't suffice—you'll need medical art...
+SpecialDesc4_142
+Spirit herbs and stones may lie nearby. Follow me, but mere strength won't suffice—you'll need medical art...
+SpecialDesc4_143
+Spiritual creatures and items may lie nearby. Follow me, but mere strength won't suffice—you'll need medical art...
+SpecialDesc4_144
+The Poison Hemlock may lie nearby. Follow me, but mere strength won't suffice—you'll need Acritoxin Resistance...
+SpecialDesc4_145
+The Vilified Blossom may lie nearby. Follow me, but mere strength won't suffice—you'll need Umbritoxin Resistance...
+SpecialDesc4_146
+The Sanguis Toad may lie nearby. Follow me, but mere strength won't suffice—you'll need Pyrotoxin Resistance...
+SpecialDesc4_147
+The Millennia Ice Silkworm may lie nearby. Follow me, but mere strength won't suffice—you'll need Cryotoxin Resistance...
+SpecialDesc4_148
+The Millennia Cyan Spider may lie nearby. Follow me, but mere strength won't suffice—you'll need Toxicology...
+SpecialDesc4_149
+The Shapeshift Mandala may lie nearby. Follow me, but mere strength won't suffice—you'll need Toxicology...
+SpecialDesc4_150
+
+SpecialDesc4_151
+
+SpecialDesc4_152
+
+SpecialDesc4_153
+
+SpecialDesc4_154
+
+SpecialDesc4_155
+I've seen such beasts before while gathering wood—best not provoke them...
+SpecialDesc4_156
+
+SpecialDesc4_157
+
+SpecialDesc4_158
+
+SpecialDesc4_159
+
+SpecialDesc4_160
+
+SpecialDesc4_161
+
+SpecialDesc4_162
+
+SpecialDesc4_163
+
+SpecialDesc4_164
+
+SpecialDesc4_165
+
+SpecialDesc4_166
+
+SpecialDesc4_167
+
+SpecialDesc4_168
+
+SpecialDesc4_169
+
+SpecialDesc4_170
+
+SpecialDesc4_171
+
+SpecialDesc4_172
+
+SpecialDesc4_173
+
+SpecialDesc4_174
+
+SpecialDesc4_175
+
+SpecialDesc4_176
+
+SpecialDesc4_177
+
+SpecialDesc4_178
+
+SpecialDesc4_179
+
+SpecialDesc4_180
+
+SpecialDesc4_181
+
+SpecialDesc4_182
+
+SpecialDesc4_183
+
+SpecialDesc4_184
+
+SpecialDesc4_185
+
+SpecialDesc4_186
+
+SpecialDesc4_187
+
+SpecialDesc4_188
+
+FamilyDesc_0
+Now that we've arrived at Taiwu Village, let's take a moment to rest and recover...
+FamilyDesc_1
+
+FamilyDesc_2
+
+FamilyDesc_3
+
+FamilyDesc_4
+
+FamilyDesc_5
+
+FamilyDesc_6
+
+FamilyDesc_7
+
+FamilyDesc_8
+
+FamilyDesc_9
+
+FamilyDesc_10
+
+FamilyDesc_11
+
+FamilyDesc_12
+
+FamilyDesc_13
+
+FamilyDesc_14
+
+FamilyDesc_15
+
+FamilyDesc_16
+
+FamilyDesc_17
+
+FamilyDesc_18
+
+FamilyDesc_19
+
+FamilyDesc_20
+
+FamilyDesc_21
+
+FamilyDesc_22
+
+FamilyDesc_23
+
+FamilyDesc_24
+
+FamilyDesc_25
+
+FamilyDesc_26
+
+FamilyDesc_27
+
+FamilyDesc_28
+
+FamilyDesc_29
+
+FamilyDesc_30
+
+FamilyDesc_31
+
+FamilyDesc_32
+
+FamilyDesc_33
+There's a tea gathering nearby. While tea may bond people, it can also sap one's strength...
+FamilyDesc_34
+There's a feast nearby. While liquor may bond people, it can also sap one's strength...
+FamilyDesc_35
+The wedding has begun. I rejoice for you, yet... a hint of melancholy lingers...
+FamilyDesc_36
+
+FamilyDesc_37
+
+FamilyDesc_38
+
+FamilyDesc_39
+
+FamilyDesc_40
+
+FamilyDesc_41
+
+FamilyDesc_42
+
+FamilyDesc_43
+
+FamilyDesc_44
+
+FamilyDesc_45
+
+FamilyDesc_46
+
+FamilyDesc_47
+
+FamilyDesc_48
+
+FamilyDesc_49
+
+FamilyDesc_50
+
+FamilyDesc_51
+
+FamilyDesc_52
+
+FamilyDesc_53
+
+FamilyDesc_54
+
+FamilyDesc_55
+
+FamilyDesc_56
+
+FamilyDesc_57
+
+FamilyDesc_58
+
+FamilyDesc_59
+
+FamilyDesc_60
+
+FamilyDesc_61
+The Capital is hosting a grand betrothal contest—a refined beauty is seeking a worthy partner...
+FamilyDesc_62
+Dali is hosting a grand betrothal contest—a bold and spirited lady awaits...
+FamilyDesc_63
+Taiyuan is hosting a grand betrothal contest—a warrior maiden is seeking an equal...
+FamilyDesc_64
+Shouchun is hosting a grand betrothal contest—an untamed huntress is seeking a worthy match...
+FamilyDesc_65
+Guangzhou is hosting a grand betrothal contest—an elegant and ethereal lady awaits...
+FamilyDesc_66
+Chengdu is hosting a grand betrothal contest—an unrestrained spirit is seeking a worthy partner...
+FamilyDesc_67
+Yangzhou is hosting a grand betrothal contest—beauties gather in dazzling splendor...
+FamilyDesc_68
+Hangzhou is hosting a grand betrothal contest—a sentimental lady awaits...
+FamilyDesc_69
+Guizhou is hosting a grand betrothal contest—a talented and comely lady awaits...
+FamilyDesc_70
+Jiangling is hosting a grand betrothal contest—a clever and sensible lady awaits...
+FamilyDesc_71
+Fuzhou is hosting a grand betrothal contest—a graceful and refined lady awaits...
+FamilyDesc_72
+Qinzhou is hosting a grand betrothal contest—a stouthearted lady awaits...
+FamilyDesc_73
+Xiangyang is hosting a grand betrothal contest—an elegant and intelligent lady awaits...
+FamilyDesc_74
+Liaoyang is hosting a grand betrothal contest—a bold and free-spirited lady awaits...
+FamilyDesc_75
+Qingzhou is hosting a grand betrothal contest—a poised and gracious lady awaits...
+FamilyDesc_76
+You're holding a Betrothal Contest in the Capital—to seek a husband of status and power, perhaps?
+FamilyDesc_77
+You're holding a Betrothal Contest in Dali—to seek a husband of kindred spirit, perhaps?
+FamilyDesc_78
+You're holding a Betrothal Contest in Taiyuan—to seek a husband of peerless martial arts, perhaps?
+FamilyDesc_79
+You're holding a Betrothal Contest in Shouchun—to seek a husband of valor and might, perhaps?
+FamilyDesc_80
+You're holding a Betrothal Contest in Guangzhou—to seek a husband who understand your heart, perhaps?
+FamilyDesc_81
+You're holding a Betrothal Contest in Chengdu—to seek a husband of legendary drinking skill, perhaps?
+FamilyDesc_82
+You're holding a Betrothal Contest in Yangzhou—to seek a husband of unrivaled talent, perhaps?
+FamilyDesc_83
+You're holding a Betrothal Contest in Hangzhou—to seek a husband of noble character, perhaps?
+FamilyDesc_84
+You're holding a Betrothal Contest in Guizhou—to seek a husband of kindred spirit, perhaps?
+FamilyDesc_85
+You're holding a Betrothal Contest in Jiangling—to seek a husband of wit and wisdom, perhaps?
+FamilyDesc_86
+You're holding a Betrothal Contest in Fuzhou—to seek a husband of kindred spirit, perhaps?
+FamilyDesc_87
+You're holding a Betrothal Contest in Qinzhou—to seek a husband of strength and resolve, perhaps?
+FamilyDesc_88
+You're holding a Betrothal Contest in Xiangyang—to seek a husband of kindred spirit, perhaps?
+FamilyDesc_89
+You're holding a Betrothal Contest in Liaoyang—to seek a husband of bold spirit, perhaps?
+FamilyDesc_90
+You're holding a Betrothal Contest in Qingzhou—to seek a husband destined for you, perhaps?
+FamilyDesc_91
+Legends speak of this mound's bone-chilling cold and untold perils. Stay sharp...
+FamilyDesc_92
+It is said this mound might unsettle the mind and is fraught with peril. Tread carefully...
+FamilyDesc_93
+It is said this mound is impenetrable and perilous. Stay wary...
+FamilyDesc_94
+Rumor has it that wicked forces lurk within this mound—tread carefully, for danger abounds...
+FamilyDesc_95
+Cloaked in mystery and fraught with peril. Best be on guard...
+FamilyDesc_96
+Hidden powers lie dormant here, yet the dangers are real. Stay cautious...
+FamilyDesc_97
+Poison taints this land, danger lurks unseen. Stay sharp...
+FamilyDesc_98
+A mound steeped in fierce aura, danger lurks at every turn. Be on guard...
+FamilyDesc_99
+Ever-changing and treacherous, best proceed with care...
+FamilyDesc_100
+
+FamilyDesc_101
+
+FamilyDesc_102
+
+FamilyDesc_103
+
+FamilyDesc_104
+
+FamilyDesc_105
+
+FamilyDesc_106
+
+FamilyDesc_107
+
+FamilyDesc_108
+
+FamilyDesc_109
+
+FamilyDesc_110
+
+FamilyDesc_111
+If there is a way, I shall take your place and brave that hazardous spot...
+FamilyDesc_112
+
+FamilyDesc_113
+
+FamilyDesc_114
+
+FamilyDesc_115
+
+FamilyDesc_116
+
+FamilyDesc_117
+
+FamilyDesc_118
+
+FamilyDesc_119
+
+FamilyDesc_120
+
+FamilyDesc_121
+
+FamilyDesc_122
+
+FamilyDesc_123
+
+FamilyDesc_124
+
+FamilyDesc_125
+
+FamilyDesc_126
+
+FamilyDesc_127
+
+FamilyDesc_128
+
+FamilyDesc_129
+
+FamilyDesc_130
+
+FamilyDesc_131
+
+FamilyDesc_132
+
+FamilyDesc_133
+
+FamilyDesc_134
+
+FamilyDesc_135
+
+FamilyDesc_136
+
+FamilyDesc_137
+
+FamilyDesc_138
+
+FamilyDesc_139
+
+FamilyDesc_140
+
+FamilyDesc_141
+
+FamilyDesc_142
+
+FamilyDesc_143
+
+FamilyDesc_144
+
+FamilyDesc_145
+
+FamilyDesc_146
+
+FamilyDesc_147
+
+FamilyDesc_148
+
+FamilyDesc_149
+
+FamilyDesc_150
+
+FamilyDesc_151
+
+FamilyDesc_152
+
+FamilyDesc_153
+
+FamilyDesc_154
+
+FamilyDesc_155
+Wild beasts roam these lands—stay alert, lest you come to harm...
+FamilyDesc_156
+
+FamilyDesc_157
+
+FamilyDesc_158
+Look—is the one ahead one of your kin?
+FamilyDesc_159
+Your friend is here as well—shall we go greet them?
+FamilyDesc_160
+I just saw someone you hold enmity with—shall we avoid them?
+FamilyDesc_161
+
+FamilyDesc_162
+
+FamilyDesc_163
+
+FamilyDesc_164
+
+FamilyDesc_165
+
+FamilyDesc_166
+
+FamilyDesc_167
+A grave lies ahead... could it belong to one we once knew...?
+FamilyDesc_168
+
+FamilyDesc_169
+
+FamilyDesc_170
+
+FamilyDesc_171
+A familiar presence lingers... have you lost something here?
+FamilyDesc_172
+
+FamilyDesc_173
+
+FamilyDesc_174
+
+FamilyDesc_175
+
+FamilyDesc_176
+
+FamilyDesc_177
+
+FamilyDesc_178
+
+FamilyDesc_179
+
+FamilyDesc_180
+
+FamilyDesc_181
+
+FamilyDesc_182
+
+FamilyDesc_183
+
+FamilyDesc_184
+
+FamilyDesc_185
+
+FamilyDesc_186
+
+FamilyDesc_187
+This place reeks of death... tread carefully...
+FamilyDesc_188
+Flames rage wild here... mind your step, lest you be consumed...
+FriendDesc_0
+Now that we've arrived at Taiwu Village, let's take a moment to rest and recover...
+FriendDesc_1
+
+FriendDesc_2
+
+FriendDesc_3
+
+FriendDesc_4
+
+FriendDesc_5
+
+FriendDesc_6
+
+FriendDesc_7
+
+FriendDesc_8
+
+FriendDesc_9
+
+FriendDesc_10
+
+FriendDesc_11
+
+FriendDesc_12
+
+FriendDesc_13
+
+FriendDesc_14
+
+FriendDesc_15
+
+FriendDesc_16
+
+FriendDesc_17
+
+FriendDesc_18
+
+FriendDesc_19
+
+FriendDesc_20
+
+FriendDesc_21
+
+FriendDesc_22
+
+FriendDesc_23
+
+FriendDesc_24
+
+FriendDesc_25
+
+FriendDesc_26
+
+FriendDesc_27
+
+FriendDesc_28
+
+FriendDesc_29
+
+FriendDesc_30
+
+FriendDesc_31
+
+FriendDesc_32
+
+FriendDesc_33
+
+FriendDesc_34
+
+FriendDesc_35
+
+FriendDesc_36
+
+FriendDesc_37
+
+FriendDesc_38
+
+FriendDesc_39
+
+FriendDesc_40
+
+FriendDesc_41
+
+FriendDesc_42
+
+FriendDesc_43
+
+FriendDesc_44
+
+FriendDesc_45
+
+FriendDesc_46
+
+FriendDesc_47
+
+FriendDesc_48
+
+FriendDesc_49
+
+FriendDesc_50
+
+FriendDesc_51
+
+FriendDesc_52
+
+FriendDesc_53
+
+FriendDesc_54
+
+FriendDesc_55
+
+FriendDesc_56
+
+FriendDesc_57
+
+FriendDesc_58
+
+FriendDesc_59
+
+FriendDesc_60
+
+FriendDesc_61
+The Capital is hosting a grand betrothal contest—a refined beauty is seeking a worthy partner...
+FriendDesc_62
+Dali is hosting a grand betrothal contest—a bold and spirited lady awaits...
+FriendDesc_63
+Taiyuan is hosting a grand betrothal contest—a warrior maiden is seeking an equal...
+FriendDesc_64
+Shouchun is hosting a grand betrothal contest—an untamed huntress is seeking a worthy match...
+FriendDesc_65
+Guangzhou is hosting a grand betrothal contest—an elegant and ethereal lady awaits...
+FriendDesc_66
+Chengdu is hosting a grand betrothal contest—an unrestrained spirit is seeking a worthy partner...
+FriendDesc_67
+Yangzhou is hosting a grand betrothal contest—beauties gather in dazzling splendor...
+FriendDesc_68
+Hangzhou is hosting a grand betrothal contest—a sentimental lady awaits...
+FriendDesc_69
+Guizhou is hosting a grand betrothal contest—a talented and comely lady awaits...
+FriendDesc_70
+Jiangling is hosting a grand betrothal contest—a clever and sensible lady awaits...
+FriendDesc_71
+Fuzhou is hosting a grand betrothal contest—a graceful and refined lady awaits...
+FriendDesc_72
+Qinzhou is hosting a grand betrothal contest—a stouthearted lady awaits...
+FriendDesc_73
+Xiangyang is hosting a grand betrothal contest—an elegant and intelligent lady awaits...
+FriendDesc_74
+Liaoyang is hosting a grand betrothal contest—a bold and free-spirited lady awaits...
+FriendDesc_75
+Qingzhou is hosting a grand betrothal contest—a poised and gracious lady awaits...
+FriendDesc_76
+You're holding a Betrothal Contest in the Capital—to seek a husband of status and power, perhaps?
+FriendDesc_77
+You're holding a Betrothal Contest in Dali—to seek a husband of kindred spirit, perhaps?
+FriendDesc_78
+You're holding a Betrothal Contest in Taiyuan—to seek a husband of peerless martial arts, perhaps?
+FriendDesc_79
+You're holding a Betrothal Contest in Shouchun—to seek a husband of valor and might, perhaps?
+FriendDesc_80
+You're holding a Betrothal Contest in Guangzhou—to seek a husband who understand your heart, perhaps?
+FriendDesc_81
+You're holding a Betrothal Contest in Chengdu—to seek a husband of legendary drinking skill, perhaps?
+FriendDesc_82
+You're holding a Betrothal Contest in Yangzhou—to seek a husband of unrivaled talent, perhaps?
+FriendDesc_83
+You're holding a Betrothal Contest in Hangzhou—to seek a husband of noble character, perhaps?
+FriendDesc_84
+You're holding a Betrothal Contest in Guizhou—to seek a husband of kindred spirit, perhaps?
+FriendDesc_85
+You're holding a Betrothal Contest in Jiangling—to seek a husband of wit and wisdom, perhaps?
+FriendDesc_86
+You're holding a Betrothal Contest in Fuzhou—to seek a husband of kindred spirit, perhaps?
+FriendDesc_87
+You're holding a Betrothal Contest in Qinzhou—to seek a husband of strength and resolve, perhaps?
+FriendDesc_88
+You're holding a Betrothal Contest in Xiangyang—to seek a husband of kindred spirit, perhaps?
+FriendDesc_89
+You're holding a Betrothal Contest in Liaoyang—to seek a husband of bold spirit, perhaps?
+FriendDesc_90
+You're holding a Betrothal Contest in Qingzhou—to seek a husband destined for you, perhaps?
+FriendDesc_91
+Legends speak of this mound's bone-chilling cold and untold perils. Stay sharp...
+FriendDesc_92
+It is said this mound might unsettle the mind and is fraught with peril. Tread carefully...
+FriendDesc_93
+It is said this mound is impenetrable and perilous. Stay wary...
+FriendDesc_94
+Rumor has it that wicked forces lurk within this mound—tread carefully, for danger abounds...
+FriendDesc_95
+Cloaked in mystery and fraught with peril. Best be on guard...
+FriendDesc_96
+Hidden powers lie dormant here, yet the dangers are real. Stay cautious...
+FriendDesc_97
+Poison taints this land, danger lurks unseen. Stay sharp...
+FriendDesc_98
+A mound steeped in fierce aura, danger lurks at every turn. Be on guard...
+FriendDesc_99
+Ever-changing and treacherous, best proceed with care...
+FriendDesc_100
+
+FriendDesc_101
+
+FriendDesc_102
+
+FriendDesc_103
+
+FriendDesc_104
+
+FriendDesc_105
+
+FriendDesc_106
+
+FriendDesc_107
+
+FriendDesc_108
+
+FriendDesc_109
+
+FriendDesc_110
+
+FriendDesc_111
+Friends may be countless, yet true confidants are few... Take care on your journey to the realm of the Land of Blackstones!
+FriendDesc_112
+
+FriendDesc_113
+
+FriendDesc_114
+
+FriendDesc_115
+
+FriendDesc_116
+
+FriendDesc_117
+
+FriendDesc_118
+
+FriendDesc_119
+
+FriendDesc_120
+
+FriendDesc_121
+
+FriendDesc_122
+
+FriendDesc_123
+
+FriendDesc_124
+
+FriendDesc_125
+
+FriendDesc_126
+
+FriendDesc_127
+
+FriendDesc_128
+
+FriendDesc_129
+
+FriendDesc_130
+
+FriendDesc_131
+
+FriendDesc_132
+
+FriendDesc_133
+
+FriendDesc_134
+
+FriendDesc_135
+
+FriendDesc_136
+
+FriendDesc_137
+
+FriendDesc_138
+
+FriendDesc_139
+
+FriendDesc_140
+
+FriendDesc_141
+
+FriendDesc_142
+
+FriendDesc_143
+
+FriendDesc_144
+
+FriendDesc_145
+
+FriendDesc_146
+
+FriendDesc_147
+
+FriendDesc_148
+
+FriendDesc_149
+
+FriendDesc_150
+
+FriendDesc_151
+
+FriendDesc_152
+
+FriendDesc_153
+
+FriendDesc_154
+
+FriendDesc_155
+Wild beasts roam these lands—stay alert, lest you come to harm...
+FriendDesc_156
+
+FriendDesc_157
+
+FriendDesc_158
+I believe I see your kin up ahead.
+FriendDesc_159
+I have seen a familiar face—one of you friends...
+FriendDesc_160
+I believe an enemy of yours lies nearby—stay wary...
+FriendDesc_161
+
+FriendDesc_162
+
+FriendDesc_163
+
+FriendDesc_164
+
+FriendDesc_165
+
+FriendDesc_166
+
+FriendDesc_167
+A lone mound stands before us... who rests here, forgotten by time...?
+FriendDesc_168
+
+FriendDesc_169
+
+FriendDesc_170
+
+FriendDesc_171
+A familiar presence lingers... have you lost something here?
+FriendDesc_172
+
+FriendDesc_173
+
+FriendDesc_174
+
+FriendDesc_175
+
+FriendDesc_176
+
+FriendDesc_177
+
+FriendDesc_178
+
+FriendDesc_179
+
+FriendDesc_180
+
+FriendDesc_181
+
+FriendDesc_182
+
+FriendDesc_183
+
+FriendDesc_184
+
+FriendDesc_185
+
+FriendDesc_186
+
+FriendDesc_187
+This place reeks of death... tread carefully...
+FriendDesc_188
+Flames rage wild here... mind your step, lest you be consumed...
+Cricket_91_0
+The chill within this Sword Mound is eerie and otherworldly. It tugs at my thoughts, stirring an inexplicable sorrow...
+Cricket_91_1
+This mound appears simple and plain on the surface, yet its master's mind is shackled by mortal sentiments. In the end, they are nothing more than a mediocre soul...
+Cricket_91_2
+The master of this Sword Mound still harbors a flicker of kindness, yet has been seized by evil intent. We have no choice but to put them down—how very lamentable...
+Cricket_91_3
+The spiritual will within this mound is turbulent and its evil intent bone-chilling. Its master must have long endured bitter suffering—even my Enchanting Tones may not be enough to move their heart...
+Cricket_91_4
+The spiritual Qi of this mound is bone-chillingly cold and truly perilous. Should you require aid, remember to call upon me...
+Cricket_91_5
+Within this Dark Frost lies a singular, piercing cold. Yet I have nurtured my sword for years for this very purpose—to sever all evils. I shall not shrink back now...
+Cricket_91_6
+The thoughts within this mound are cold and profound, and the evil within is no common phantom. Should we set foot through this gate, allow me to lead the way...
+Cricket_91_7
+The spiritual will within this mound is an entanglement of good and evil, with its master forced to succumb to Demonic Qi. The injustice of it weighs on my chest and sets my blood boiling...
+Cricket_91_8
+The air around this mound is bone-chillingly cold and pale grass sprouts in sorrow. The perils within are unpredictable—should you intend to enter, you must take me with you...
+Cricket_91_9
+The cold within this mound seeps into the bones, and demons plague the Zen mind. The master of this sword is trapped in ignorance, and I cannot say when they might find liberation...
+Cricket_91_10
+I possess boundless courage—why should I fear these fierce demons? Whatever myriad perils lie within the mound, leave it to me to fend them off...
+Cricket_91_11
+Evil Qi pierces to the bone here, and frigid spirits blot out the sun. Now that the place is overrun by demons, we who hold righteousness in our hearts must stand forever opposed to this wicked force...
+Cricket_91_12
+This mound harbors a lifetime of misery, into which Demonic Qi has crept. Shrouded as it is in cold mist, I shall settle this tragic karma today...
+Cricket_91_13
+A chilling evil fills the air of this mound. Demons hide within, yet they dare not show themselves for battle—truly laughable...
+Cricket_91_14
+The corrupt Qi within the mound runs rampant, ceaselessly freezing and eroding mortal souls. I possess the three-colored Royal Blood, and thus have nothing to fear...
+Cricket_91_15
+The mound is heavy with cold Qi and steeped in stifling melancholy. Yet for this sorrow to twist into evil Qi is truly tiresome...
+Cricket_91_16
+This mound is congealed with Yin cold and filth, and the sword master has utterly lost their mind. It would be best to put an end to this swiftly...
+Cricket_91_17
+The sorrow of this Dark Frost refuses to dissipate. In the end, they drifted along with the mundane tide and lost their noble character...
+Cricket_91_18
+The master of the sword harbored an obsession, and devolved into a Yin evil before the barriers of their heart could be cleared. Lamentable... truly lamentable...
+Cricket_91_19
+Within this Dark Frost, righteous and evil thoughts are tightly entwined. Their plight is truly pitiable, yet they have ultimately succumbed to their inner demons and strayed from the righteous path...
+Cricket_91_20
+The master within the mound dwells alongside demons, their profound sorrow twisted into foul evil. Better that I cleanse this place with karmic fire and burn it all to ash...
+Cricket_91_21
+Dark Frost was corrupted by Demonic Qi and turned into a frozen mound, imprisoning solitary souls. We all share a bitter fate—they have merely strayed from the path...
+BehaviorDesc_0_0
+Now that we've arrived at Taiwu Village, let's see if all is in order...
+BehaviorDesc_0_1
+Now that we've arrived at Taiwu Village, let's go see how the villagers are doing. They've been working hard...
+BehaviorDesc_0_2
+Now that we've arrived at Taiwu Village, we can temporarily leave behind our worries...
+BehaviorDesc_0_3
+Now that we've arrived at Taiwu Village, let's first have a word with the villagers about the latest happenings...
+BehaviorDesc_0_4
+Now that we've arrived at Taiwu Village, let's call upon the villagers and gather what we need...
+BehaviorDesc_1_0
+Even in turmoil, the Capital's grandeur endures. Imagine its heyday...
+BehaviorDesc_1_1
+Even in turmoil, the Capital's grandeur endures. Imagine its heyday...
+BehaviorDesc_1_2
+Even in turmoil, the Capital's grandeur endures. Imagine its heyday...
+BehaviorDesc_1_3
+Even in turmoil, the Capital's grandeur endures. Imagine its heyday...
+BehaviorDesc_1_4
+Even in turmoil, the Capital's grandeur endures. Imagine its heyday...
+BehaviorDesc_2_0
+Chengdu—the "Nature's Storehouse." No hunger, no cold, just content folk...
+BehaviorDesc_2_1
+Chengdu—the "Nature's Storehouse." No hunger, no cold, just content folk...
+BehaviorDesc_2_2
+Chengdu—the "Nature's Storehouse." No hunger, no cold, just content folk...
+BehaviorDesc_2_3
+Chengdu—the "Nature's Storehouse." No hunger, no cold, just content folk...
+BehaviorDesc_2_4
+Chengdu—the "Nature's Storehouse." No hunger, no cold, just content folk...
+BehaviorDesc_3_0
+Guizhou's jade peaks and emerald rivers—no mere poet's fancy, but a truth to behold.
+BehaviorDesc_3_1
+Guizhou's jade peaks and emerald rivers—no mere poet's fancy, but a truth to behold.
+BehaviorDesc_3_2
+Guizhou's jade peaks and emerald rivers—no mere poet's fancy, but a truth to behold.
+BehaviorDesc_3_3
+Guizhou's jade peaks and emerald rivers—no mere poet's fancy, but a truth to behold.
+BehaviorDesc_3_4
+Guizhou's jade peaks and emerald rivers—no mere poet's fancy, but a truth to behold.
+BehaviorDesc_4_0
+Xiangyang, where north meets south, ever teeming with merchants and wanderers...
+BehaviorDesc_4_1
+Xiangyang, where north meets south, ever teeming with merchants and wanderers...
+BehaviorDesc_4_2
+Xiangyang, where north meets south, ever teeming with merchants and wanderers...
+BehaviorDesc_4_3
+Xiangyang, where north meets south, ever teeming with merchants and wanderers...
+BehaviorDesc_4_4
+Xiangyang, where north meets south, ever teeming with merchants and wanderers...
+BehaviorDesc_5_0
+Taiyuan, perched high and steeped in the fortune of five dynasties—truly a city of grandeur...
+BehaviorDesc_5_1
+Taiyuan, perched high and steeped in the fortune of five dynasties—truly a city of grandeur...
+BehaviorDesc_5_2
+Taiyuan, perched high and steeped in the fortune of five dynasties—truly a city of grandeur...
+BehaviorDesc_5_3
+Taiyuan, perched high and steeped in the fortune of five dynasties—truly a city of grandeur...
+BehaviorDesc_5_4
+Taiyuan, perched high and steeped in the fortune of five dynasties—truly a city of grandeur...
+BehaviorDesc_6_0
+Located in the Lingnan Region, far from the Central Plains, the people of Guangzhou live simply and merrily...
+BehaviorDesc_6_1
+Located in the Lingnan Region, far from the Central Plains, the people of Guangzhou live simply and merrily...
+BehaviorDesc_6_2
+Located in the Lingnan Region, far from the Central Plains, the people of Guangzhou live simply and merrily...
+BehaviorDesc_6_3
+Located in the Lingnan Region, far from the Central Plains, the people of Guangzhou live simply and merrily...
+BehaviorDesc_6_4
+Located in the Lingnan Region, far from the Central Plains, the people of Guangzhou live simply and merrily...
+BehaviorDesc_7_0
+Qingzhou, standing by the sea and fed by the Grand Canal, thrives on fish and salt...
+BehaviorDesc_7_1
+Qingzhou, standing by the sea and fed by the Grand Canal, thrives on fish and salt...
+BehaviorDesc_7_2
+Qingzhou, standing by the sea and fed by the Grand Canal, thrives on fish and salt...
+BehaviorDesc_7_3
+Qingzhou, standing by the sea and fed by the Grand Canal, thrives on fish and salt...
+BehaviorDesc_7_4
+Qingzhou, standing by the sea and fed by the Grand Canal, thrives on fish and salt...
+BehaviorDesc_8_0
+Amidst the drizzling rain of Xiaoxiang and the autumn moon over Dongting, Jiangling stands as a land of waters, boasting a scenery all its own...
+BehaviorDesc_8_1
+Amidst the drizzling rain of Xiaoxiang and the autumn moon over Dongting, Jiangling stands as a land of waters, boasting a scenery all its own...
+BehaviorDesc_8_2
+Amidst the drizzling rain of Xiaoxiang and the autumn moon over Dongting, Jiangling stands as a land of waters, boasting a scenery all its own...
+BehaviorDesc_8_3
+Amidst the drizzling rain of Xiaoxiang and the autumn moon over Dongting, Jiangling stands as a land of waters, boasting a scenery all its own...
+BehaviorDesc_8_4
+Amidst the drizzling rain of Xiaoxiang and the autumn moon over Dongting, Jiangling stands as a land of waters, boasting a scenery all its own...
+BehaviorDesc_9_0
+Fuzhou suffers neither famine nor pillage, nor does plague linger—truly a land blessed by fortune...
+BehaviorDesc_9_1
+Fuzhou suffers neither famine nor pillage, nor does plague linger—truly a land blessed by fortune...
+BehaviorDesc_9_2
+Fuzhou suffers neither famine nor pillage, nor does plague linger—truly a land blessed by fortune...
+BehaviorDesc_9_3
+Fuzhou suffers neither famine nor pillage, nor does plague linger—truly a land blessed by fortune...
+BehaviorDesc_9_4
+Fuzhou suffers neither famine nor pillage, nor does plague linger—truly a land blessed by fortune...
+BehaviorDesc_10_0
+Guarding the northern frontier, Liaoyang marks the beginning of Yan's Great Wall, stretching westward for a thousand miles—what a grand sight...
+BehaviorDesc_10_1
+Guarding the northern frontier, Liaoyang marks the beginning of Yan's Great Wall, stretching westward for a thousand miles—what a grand sight...
+BehaviorDesc_10_2
+Guarding the northern frontier, Liaoyang marks the beginning of Yan's Great Wall, stretching westward for a thousand miles—what a grand sight...
+BehaviorDesc_10_3
+Guarding the northern frontier, Liaoyang marks the beginning of Yan's Great Wall, stretching westward for a thousand miles—what a grand sight...
+BehaviorDesc_10_4
+Guarding the northern frontier, Liaoyang marks the beginning of Yan's Great Wall, stretching westward for a thousand miles—what a grand sight...
+BehaviorDesc_11_0
+A vital hub on the Silk Road, Qinzhou bustles with trade between Han and Hu, where foreign customs abound...
+BehaviorDesc_11_1
+A vital hub on the Silk Road, Qinzhou bustles with trade between Han and Hu, where foreign customs abound...
+BehaviorDesc_11_2
+A vital hub on the Silk Road, Qinzhou bustles with trade between Han and Hu, where foreign customs abound...
+BehaviorDesc_11_3
+A vital hub on the Silk Road, Qinzhou bustles with trade between Han and Hu, where foreign customs abound...
+BehaviorDesc_11_4
+A vital hub on the Silk Road, Qinzhou bustles with trade between Han and Hu, where foreign customs abound...
+BehaviorDesc_12_0
+Dali thrives with clans and tribes coexisting in harmony, a place of peace amidst diversity...
+BehaviorDesc_12_1
+Dali thrives with clans and tribes coexisting in harmony, a place of peace amidst diversity...
+BehaviorDesc_12_2
+Dali thrives with clans and tribes coexisting in harmony, a place of peace amidst diversity...
+BehaviorDesc_12_3
+Dali thrives with clans and tribes coexisting in harmony, a place of peace amidst diversity...
+BehaviorDesc_12_4
+Dali thrives with clans and tribes coexisting in harmony, a place of peace amidst diversity...
+BehaviorDesc_13_0
+With towering walls and thriving waterways, Shouchun still echoes the grandeur of the old Chu capital...
+BehaviorDesc_13_1
+With towering walls and thriving waterways, Shouchun still echoes the grandeur of the old Chu capital...
+BehaviorDesc_13_2
+With towering walls and thriving waterways, Shouchun still echoes the grandeur of the old Chu capital...
+BehaviorDesc_13_3
+With towering walls and thriving waterways, Shouchun still echoes the grandeur of the old Chu capital...
+BehaviorDesc_13_4
+With towering walls and thriving waterways, Shouchun still echoes the grandeur of the old Chu capital...
+BehaviorDesc_14_0
+They say nowhere is more prosperous than Qiantang—Hangzhou, with its misty willows and picturesque bridges, is truly a sight to behold...
+BehaviorDesc_14_1
+They say nowhere is more prosperous than Qiantang—Hangzhou, with its misty willows and picturesque bridges, is truly a sight to behold...
+BehaviorDesc_14_2
+They say nowhere is more prosperous than Qiantang—Hangzhou, with its misty willows and picturesque bridges, is truly a sight to behold...
+BehaviorDesc_14_3
+They say nowhere is more prosperous than Qiantang—Hangzhou, with its misty willows and picturesque bridges, is truly a sight to behold...
+BehaviorDesc_14_4
+They say nowhere is more prosperous than Qiantang—Hangzhou, with its misty willows and picturesque bridges, is truly a sight to behold...
+BehaviorDesc_15_0
+Blessed by the waters of three rivers and five lakes, Yangzhou flourishes as a land of plenty...
+BehaviorDesc_15_1
+Blessed by the waters of three rivers and five lakes, Yangzhou flourishes as a land of plenty...
+BehaviorDesc_15_2
+Blessed by the waters of three rivers and five lakes, Yangzhou flourishes as a land of plenty...
+BehaviorDesc_15_3
+Blessed by the waters of three rivers and five lakes, Yangzhou flourishes as a land of plenty...
+BehaviorDesc_15_4
+Blessed by the waters of three rivers and five lakes, Yangzhou flourishes as a land of plenty...
+BehaviorDesc_16_0
+The Shaolin Sect walks the righteous path, standing as a pillar of virtue atop Mt. Tai...
+BehaviorDesc_16_1
+With martial arts as their Chan, the Shaolin monks devote themselves to the salvation of all beings, earning the world's reverence...
+BehaviorDesc_16_2
+Neither coming nor going—only Shaolin remains as an oasis of tranquility amidst the chaos...
+BehaviorDesc_16_3
+The Shaolin Sect devotes itself to the Buddha, but has their piety ever been rewarded with divine treasures?
+BehaviorDesc_16_4
+The Shaolin Sect hones their martial skills yet spend their days in meditation—what a waste of talent...
+BehaviorDesc_17_0
+The Emei Sect upholds justice and walks the righteous path, striking fear into the hearts of hooligans...
+BehaviorDesc_17_1
+Blending Buddhist and Taoist teachings, the Emei Sect takes it upon themselves to ease the world's suffering...
+BehaviorDesc_17_2
+With the rich Martial Arts heritage of Sichuan, the Emei Sect stands as a grand pillar of the martial world...
+BehaviorDesc_17_3
+The Emei Sect techniques include five factions and eight branches of martial arts, but to me, their skills seem scattered rather than refined...
+BehaviorDesc_17_4
+Once renowned throughout the land, the Emei Sect now concerns itself only with sutra and Taoism...
+BehaviorDesc_18_0
+Renowned for its healing arts, the Valley of Flowers is a beacon of benevolence, earning the admiration of all...
+BehaviorDesc_18_1
+With countless lives saved, the Valley of Flowers' medical learners have amassed immeasurable merit...
+BehaviorDesc_18_2
+With its ever-flowing streams and lush greenery, the Valley of Flowers is truly a hidden paradise...
+BehaviorDesc_18_3
+A single needle from the Valley of Flowers can bring life—or just as easily, take it away...
+BehaviorDesc_18_4
+A medical learner cannot heal themselves—despite saving so many, can the Valley of Flowers escape its own fate?
+BehaviorDesc_19_0
+None but the true martial arts can hold the balance—thus is Wudang's philosophy of halting war...
+BehaviorDesc_19_1
+With the world in their hearts, the Wudang Sect follows the Tao, standing as a pillar of Taoist wisdom...
+BehaviorDesc_19_2
+Wudang follows the way of nature, bestowing virtue upon the world without seeking credit...
+BehaviorDesc_19_3
+Specializing in inner cultivation Martial Arts, Wudang subdues movement with stillness—though few have the patience to endure such training...
+BehaviorDesc_19_4
+The Wudang Sect preaches the Way in nature's ray, yet they uphold heroism and righteousness—is this not a contradiction?
+BehaviorDesc_20_0
+The Yuanshan Sect dedicates itself to vanquishing evil and upholding justice, embodying the true spirit of righteousness...
+BehaviorDesc_20_1
+The Yuanshan Sect's disciples fight to protect the world, their chivalry known far and wide...
+BehaviorDesc_20_2
+When plagued by inner demons, one may find solace in quiet meditation within the Yuanshan Prison...
+BehaviorDesc_20_3
+The Yuanshan Sect disciples wield both sword and fist with astonishing Kicking Arts—do they possess three heads and six arms?
+BehaviorDesc_20_4
+In their pursuit of righteousness, the Yuanshan Sect disregards their own safety—such selflessness is incomprehensible...
+BehaviorDesc_21_0
+The Lion-Face Clan roams Lingnan Region in packs, their actions often unbound by rules...
+BehaviorDesc_21_1
+Fierce and competitive, the reckless ways of Lion-Face Clan disciples have drawn the ire of the local people...
+BehaviorDesc_21_2
+Brash and unruly as they are, the hearts of Lion-Face Clan disciples remain pure—an admirable rarity...
+BehaviorDesc_21_3
+Though unrefined in literature, the bold spirit of Lion-Face Clan disciples far surpasses that of any pedant...
+BehaviorDesc_21_4
+With straightforward tempers and fierce Martial Arts, the Lion-Face Clan certainly lives up to its name...
+BehaviorDesc_22_0
+The Ranshan Sect follows ethereal pursuits, the so-called path to immortality is but a castle in the air...
+BehaviorDesc_22_1
+The Ranshan Sect focuses solely on the path to immortality, rarely caring about the folks' suffering...
+BehaviorDesc_22_2
+The Ranshan Sect holds fast to tradition, never ceasing their practices, almost nearing the immortal path...
+BehaviorDesc_22_3
+The Ranshan Sect resides high in the clouds, its disciples often on adventures around the world, living carefree and unburdened...
+BehaviorDesc_22_4
+The immortal path concerns only the self, hence the Ranshan Sect practices for its own cultivation...
+BehaviorDesc_23_0
+The Jade-Maiden Sect renounces love, keeping to its vows for a hundred years, a discipline truly worthy of respect...
+BehaviorDesc_23_1
+Jade-Maiden Peak stands isolated from the world, reaching into the heavens—it may not find its match in the mortal realm...
+BehaviorDesc_23_2
+The Jade-Maiden Sect honors only women, whose Martial Arts are graceful and exquisite—truly not mere words...
+BehaviorDesc_23_3
+Though adept at music, the Jade-Maiden Sect's melodies are all cold and distant—how can they offer any joy...
+BehaviorDesc_23_4
+What relic could that "Egarim" be, that the Jade-Maiden Sect clings to it this much...
+BehaviorDesc_24_0
+The weapons forged by the Swordsmith Villa are renowned. Such celestial weapons should surely be used for the righteous path...
+BehaviorDesc_24_1
+In this chaotic era, having a weapon from the Swordsmiths at one's side could ensure safety...
+BehaviorDesc_24_2
+The Swordsmith Villa is famed for crafting celestial weapons, and the martial world speaks highly of their work...
+BehaviorDesc_24_3
+It is said that when Ou Yezi forged swords here, light filled the skies—how I long to see it with my own eyes...
+BehaviorDesc_24_4
+Though the weapons of the Swordsmith Villa are fine, celestial weapons are not meant for all to wield...
+BehaviorDesc_25_0
+The Kongsang Sect is obsessed with elixirs, seeking immortality with mortal bodies—such desires are but illusions...
+BehaviorDesc_25_1
+The Kongsang Sect is deeply knowledgeable in medicinal arts, yet cannot apply it to heal or save lives...
+BehaviorDesc_25_2
+Though this land is covered in snow year-round, within the Kongsang Sect, plants flourish—truly a marvel of nature...
+BehaviorDesc_25_3
+With Kongsang Sect's art of medicine & poison, even if immortality is out of reach, one could live an unrestrained life...
+BehaviorDesc_25_4
+Life is fleeting, and the Kongsang Sect's pursuit of immortality aligns with my own desires...
+BehaviorDesc_26_0
+The Vajra Sect, secluded in the Western Regions, deceives the common folk and gathers followers, now a major threat to the martial world...
+BehaviorDesc_26_1
+Under the guise of Esoteric Buddhism, the Vajra Sect spreads violence and tyranny, provoking the ire of all...
+BehaviorDesc_26_2
+The Western Regions are beyond the empire's reach, and thus, the Vajra Sect has been allowed to dominate for centuries...
+BehaviorDesc_26_3
+Dual cultivation, Abhiseka—the Vajra Sect's practices differ greatly from those of Buddhist sects in the Central Plains...
+BehaviorDesc_26_4
+In the Western Regions, uttering the Vajra Sect's name grants one immense prestige, striking fear into all...
+BehaviorDesc_27_0
+The Five Venoms Sect spends its days in the company of venomous creatures, practicing a secretive and cruel Gu arts—truly not the righteous path...
+BehaviorDesc_27_1
+Miaojiang Gu arts instill profound fear, and martial artists, whether righteous or evil, avoid them at all costs...
+BehaviorDesc_27_2
+The Miao Stockade is full of bird songs and blooming flowers, full of life—not as frightening as the rumors suggest...
+BehaviorDesc_27_3
+The Five Immortals Sect acts with no regard for trifles, dividing love and hate sharply, and that suits my tastes well...
+BehaviorDesc_27_4
+Miaojiang Gu arts have long been feared by the Martial World—truly a powerful weapon in the Martial World...
+BehaviorDesc_28_0
+The Veil Scar Sect specializes in assassination, not the righteous path—such deeds are beneath true heroes...
+BehaviorDesc_28_1
+The Veil Scar Sect is well-versed in Weiqi, perhaps they view human lives as mere pieces...
+BehaviorDesc_28_2
+The Veil Scar Sect acts swiftly and decisively, fulfilling their missions with a reputation for reliability in the Martial World...
+BehaviorDesc_28_3
+The Veil Scar Sect views life and death as a Weiqi game—this fleeting mortal world is but a play...
+BehaviorDesc_28_4
+The Veil Scar Sect's disciples possess unique arts, but alas, they must remain hidden, leaving no trace in the Martial World...
+BehaviorDesc_29_0
+Though the Fuloong Sanctuary survives by plundering, it is not like ordinary bandits, seemingly following their own code...
+BehaviorDesc_29_1
+The Fuloong Sanctuary worships the True Loong, but their plundering is rampant, causing much suffering for the coastal villagers...
+BehaviorDesc_29_2
+The True Loong worshiped by the Fuloong Sanctuary is but a rumor—whether true or false, one cannot know...
+BehaviorDesc_29_3
+Though the Fuloong Sanctuary's actions are far from likable, they do offer abundant wine and food...
+BehaviorDesc_29_4
+The Fuloong Sanctuary gathers riches, but most are used for sacrificial ceremonies, leaving little for practical use...
+BehaviorDesc_30_0
+The Sanguine Sect is a gathering of all evil, where the strong rule, and there is no semblance of order...
+BehaviorDesc_30_1
+The Sanguine Sect venerates Xiangshu, practicing blood sacrifice that send shivers down the spine...
+BehaviorDesc_30_2
+The Sanguine Sect will stop at nothing, their cruelty a result of the times, though still despicable...
+BehaviorDesc_30_3
+This valley is eerily quiet, with a trace of blood that lingers in the air, stirring one's emotions...
+BehaviorDesc_30_4
+The Sanguine Sect has always acted on their own terms, disregarding the opinions of others—just as Martial World Wanderers should...
+BehaviorDesc_31_0
+Ahead lies a bustling village. If anyone is in need, it's a chance to offer help...
+BehaviorDesc_31_1
+Ahead lies a bustling village. If you are tired from traveling, it may be good to rest here for a while...
+BehaviorDesc_31_2
+Ahead lies a bustling village. If you are short of supplies, you may find what you need here...
+BehaviorDesc_31_3
+Ahead lies a bustling village. It might be worth asking about any anecdotes...
+BehaviorDesc_31_4
+Ahead lies a bustling village. Wherever there is a crowd, there are opportunities to be found...
+BehaviorDesc_32_0
+A particularly clear chicken's crow echoes from the village—something special surely lies in wait...
+BehaviorDesc_32_1
+A particularly clear chicken's crow echoes from the village—we may just stay awhile...
+BehaviorDesc_32_2
+A particularly clear chicken's crow echoes from the village—perhaps it's a good omen for us...
+BehaviorDesc_32_3
+A particularly clear chicken's crow echoes from the village—we should stop and see what lies ahead...
+BehaviorDesc_32_4
+A particularly clear chicken's crow echoes from the village—surely there's a treasure hidden here...
+BehaviorDesc_33_0
+There's a tea gathering nearby. There may be some Martial World heroes to befriend!
+BehaviorDesc_33_1
+There's a tea gathering nearby. There may be some Xiake worth meeting...
+BehaviorDesc_33_2
+There's a tea gathering nearby. There could be masters or scholars worth meeting...
+BehaviorDesc_33_3
+There's a tea gathering nearby. There may be some interesting people worth meeting...
+BehaviorDesc_33_4
+There's a tea gathering nearby. Surely there will be some noble figures worth making acquaintance with...
+BehaviorDesc_34_0
+There's a feast nearby. There may be some Martial World heroes to befriend!
+BehaviorDesc_34_1
+There's a feast nearby. There may be some Xiake worth meeting...
+BehaviorDesc_34_2
+There's a feast nearby. There could be masters or scholars worth meeting...
+BehaviorDesc_34_3
+There's a feast nearby. There may be some interesting people worth meeting...
+BehaviorDesc_34_4
+There's a feast nearby. Surely there will be some noble figures worth making acquaintance with...
+BehaviorDesc_35_0
+The wedding has begun. We hear wicked beggars often waylay the bridal procession—truly despicable!
+BehaviorDesc_35_1
+The wedding has begun. Don't keep your beloved waiting too long...
+BehaviorDesc_35_2
+The wedding has begun. I hear the ceremonies are intricate—this might require some energy...
+BehaviorDesc_35_3
+The wedding has begun. You'd better not have any past romantic entanglements, otherwise...
+BehaviorDesc_35_4
+The wedding has begun. How many nobles might grace your celebration?
+BehaviorDesc_36_0
+There's a marketplace nearby. You might find something useful!
+BehaviorDesc_36_1
+There's a marketplace nearby. You might find something desirable!
+BehaviorDesc_36_2
+There's a marketplace nearby. Quality goods at fair prices could be found...
+BehaviorDesc_36_3
+There's a marketplace nearby. Interesting encounters await...
+BehaviorDesc_36_4
+There's a marketplace nearby. Rare treasures might be discovered...
+BehaviorDesc_37_0
+There's a martial arts competition nearby. If you've practiced {0}, why not give it a try!
+BehaviorDesc_37_1
+There's a martial arts competition nearby. If you've practiced {0}, perhaps you could compete...
+BehaviorDesc_37_2
+There's a martial arts competition nearby. If you're skilled in {0}, why not give it a try...
+BehaviorDesc_37_3
+There's a martial arts competition nearby. Not skilled in {0}? No matter—let's join the excitement!
+BehaviorDesc_37_4
+There's a martial arts competition nearby. If you're not versed in {0}, best not embarrass yourself...
+BehaviorDesc_38_0
+There's a debate nearby. I hear the victor must be well-versed in craftsmanship—you should compete!
+BehaviorDesc_38_1
+There's a debate nearby. They say the title belongs to those versed in craftsmanship...
+BehaviorDesc_38_2
+There's a debate nearby. They say those skilled in craftsmanship are more likely to win...
+BehaviorDesc_38_3
+There's a debate nearby. Winning requires craftsmanship—how intriguing!
+BehaviorDesc_38_4
+There's a debate nearby. Winning requires craftsmanship—shouldn't be too difficult...
+BehaviorDesc_39_0
+There's a debate nearby. I hear the victor must be well-versed in craftsmanship—you should compete!
+BehaviorDesc_39_1
+There's a debate nearby. They say the title belongs to those versed in craftsmanship...
+BehaviorDesc_39_2
+There's a debate nearby. They say those skilled in craftsmanship are more likely to win...
+BehaviorDesc_39_3
+There's a debate nearby. Winning requires craftsmanship—how intriguing!
+BehaviorDesc_39_4
+There's a debate nearby. Winning requires craftsmanship—shouldn't be too difficult...
+BehaviorDesc_40_0
+There's a debate nearby. I hear the victor must be well-versed in craftsmanship—you should compete!
+BehaviorDesc_40_1
+There's a debate nearby. They say the title belongs to those versed in craftsmanship...
+BehaviorDesc_40_2
+There's a debate nearby. They say those skilled in craftsmanship are more likely to win...
+BehaviorDesc_40_3
+There's a debate nearby. Winning requires craftsmanship—how intriguing!
+BehaviorDesc_40_4
+There's a debate nearby. Winning requires craftsmanship—shouldn't be too difficult...
+BehaviorDesc_41_0
+There's a debate nearby. I hear the victor must be well-versed in craftsmanship—you should compete!
+BehaviorDesc_41_1
+There's a debate nearby. They say the title belongs to those versed in craftsmanship...
+BehaviorDesc_41_2
+There's a debate nearby. They say those skilled in craftsmanship are more likely to win...
+BehaviorDesc_41_3
+There's a debate nearby. Winning requires craftsmanship—how intriguing!
+BehaviorDesc_41_4
+There's a debate nearby. Winning requires craftsmanship—shouldn't be too difficult...
+BehaviorDesc_42_0
+There's a debate nearby. I hear the victor must be well-versed in craftsmanship—you should compete!
+BehaviorDesc_42_1
+There's a debate nearby. They say the title belongs to those versed in craftsmanship...
+BehaviorDesc_42_2
+There's a debate nearby. They say those skilled in craftsmanship are more likely to win...
+BehaviorDesc_42_3
+There's a debate nearby. Winning requires craftsmanship—how intriguing!
+BehaviorDesc_42_4
+There's a debate nearby. Winning requires craftsmanship—shouldn't be too difficult...
+BehaviorDesc_43_0
+There's a debate nearby. I hear the victor must be well-versed in medical arts—you should compete!
+BehaviorDesc_43_1
+There's a debate nearby. They say the title belongs to those versed in medical arts. Why not give it a try...
+BehaviorDesc_43_2
+There's a debate nearby. They say those skilled in medical arts are more likely to win...
+BehaviorDesc_43_3
+There's a debate nearby. Winning requires medical arts—how intriguing!
+BehaviorDesc_43_4
+There's a debate nearby. Winning requires medical arts—shouldn't be too difficult...
+BehaviorDesc_44_0
+There's a debate nearby. I hear the victor must be well-versed in poison—you should compete!
+BehaviorDesc_44_1
+There's a debate nearby. They say the title belongs to those versed in poison. Why not give it a try...
+BehaviorDesc_44_2
+There's a debate nearby. They say those skilled in poison are more likely to win...
+BehaviorDesc_44_3
+There's a debate nearby. Winning requires poison—shouldn't be too difficult...
+BehaviorDesc_44_4
+There's a debate nearby. Winning requires poison—how intriguing!
+BehaviorDesc_45_0
+There's a Cricket Tournament nearby. If you have a mighty cricket, why not give it a try!
+BehaviorDesc_45_1
+There's a Cricket Tournament nearby. There are even medical learners skilled in treating crickets at the tournament...
+BehaviorDesc_45_2
+There's a Cricket Tournament nearby. They say the champion will win a rare cricket...
+BehaviorDesc_45_3
+There's a Cricket Tournament nearby. A secret marketplace is said to be hidden within!
+BehaviorDesc_45_4
+There's a Cricket Tournament nearby. Shall we compete for the title of "Cricket General"?
+BehaviorDesc_46_0
+The Shaolin Sect is holding a grand sect tournament, testing the disciples' grasp of Buddhism and martial arts... The spectacle is immense!
+BehaviorDesc_46_1
+The Shaolin Sect is holding a grand sect tournament, testing even the disciples' Buddhism...
+BehaviorDesc_46_2
+The Shaolin Sect is holding a grand sect tournament. They say those lacking in Buddhism will find it hard to claim victory...
+BehaviorDesc_46_3
+The Shaolin Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_46_4
+The Shaolin Sect is holding a grand sect tournament. To stand above the rest, one must master Buddhism...
+BehaviorDesc_47_0
+The Emei Sect is holding a grand sect tournament, testing the disciples' martial arts and techniques... The spectacle is immense!
+BehaviorDesc_47_1
+The Emei Sect is holding a grand sect tournament, testing even the disciples' knowledge...
+BehaviorDesc_47_2
+The Emei Sect is holding a grand sect tournament. They say those lacking in knowledge will find it hard to claim victory...
+BehaviorDesc_47_3
+The Emei Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_47_4
+The Emei Sect is holding a grand sect tournament. To stand above the rest, one must be well-versed in many teachings...
+BehaviorDesc_48_0
+The Valley of Flowers is holding a grand sect tournament, testing the disciples' medical art... The spectacle is immense!
+BehaviorDesc_48_1
+The Valley of Flowers is holding a grand sect tournament, testing even the disciples' medical art...
+BehaviorDesc_48_2
+The Valley of Flowers is holding a grand sect tournament. They say those lacking in medical art will find it hard to claim victory...
+BehaviorDesc_48_3
+The Valley of Flowers is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_48_4
+The Valley of Flowers is holding a grand sect tournament. To stand above the rest, one must master medical art...
+BehaviorDesc_49_0
+The Wudang Sect is holding a grand sect tournament, testing both wisdom and Taoism... The spectacle is immense!
+BehaviorDesc_49_1
+The Wudang Sect is holding a grand sect tournament, testing even the disciples' Taoism...
+BehaviorDesc_49_2
+The Wudang Sect is holding a grand sect tournament. They say those without a strong grasp of Taoism find it hard to claim victory...
+BehaviorDesc_49_3
+The Wudang Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_49_4
+The Wudang Sect is holding a grand sect tournament.To stand above the rest, one must master Taoism...
+BehaviorDesc_50_0
+The Yuanshan Sect is holding a grand sect tournament, testing skill and purging evildoers... The spectacle is immense!
+BehaviorDesc_50_1
+The Yuanshan Sect is holding a grand sect tournament, even requiring the disciples to eradicate evil disciples...
+BehaviorDesc_50_2
+The Yuanshan Sect is holding a grand sect tournament. They say those who fail to vanquish evildoers will find it hard to claim victory...
+BehaviorDesc_50_3
+The Yuanshan Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_50_4
+The Yuanshan Sect is holding a grand sect tournament. To stand above the rest, one must fight to the death...
+BehaviorDesc_51_0
+The Lion-Face Clan is holding a grand sect tournament, displaying power and dominance... The spectacle is immense!
+BehaviorDesc_51_1
+The Lion-Face Clan is holding a grand sect tournament, testing even the disciples' prestige...
+BehaviorDesc_51_2
+The Lion-Face Clan is holding a grand sect tournament. They say those who lack dominance will find it hard to claim victory...
+BehaviorDesc_51_3
+The Lion-Face Clan is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_51_4
+The Lion-Face Clan is holding a grand sect tournament. Only those of great renown shall rise above the rest...
+BehaviorDesc_52_0
+The Ranshan Sect is holding a grand sect tournament, testing the skill of divination... The spectacle is immense!
+BehaviorDesc_52_1
+The Ranshan Sect is holding a grand sect tournament, testing even the disciples' astrology...
+BehaviorDesc_52_2
+The Ranshan Sect is holding a grand sect tournament. They say those lacking in astrology skills will find it hard to claim victory...
+BehaviorDesc_52_3
+The Ranshan Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_52_4
+The Ranshan Sect is holding a grand sect tournament. To stand above the rest, one must master Astrology.
+BehaviorDesc_53_0
+The Jade-Maiden Sect is holding a grand sect tournament, testing the art of adornment... The spectacle is immense!
+BehaviorDesc_53_1
+The Jade-Maiden Sect is holding a grand sect tournament, testing even the disciples' art of adornment...
+BehaviorDesc_53_2
+The Jade-Maiden Sect is holding a grand sect tournament. They say those lacking in the art of adornment will find it hard to claim victory...
+BehaviorDesc_53_3
+The Jade-Maiden Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_53_4
+The Jade-Maiden Sect is holding a grand sect tournament. To stand above the rest, one must master the art of adornment...
+BehaviorDesc_54_0
+The Swordsmith Villa is holding a grand sect tournament, testing the skill of forging... The spectacle is immense!
+BehaviorDesc_54_1
+The Swordsmith Villa is holding a grand sect tournament, testing even the disciples' forging techniques...
+BehaviorDesc_54_2
+The Swordsmith Villa is holding a grand sect tournament. They say those lacking in forging techniques will find it hard to claim victory...
+BehaviorDesc_54_3
+The Swordsmith Villa is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_54_4
+The Swordsmith Villa Sect is holding a grand sect tournament.To stand above the rest, one must master forging techniques...
+BehaviorDesc_55_0
+The Kongsang Sect is holding a grand sect tournament, in which disciples vie to offer resources... The spectacle is immense!
+BehaviorDesc_55_1
+The Kongsang Sect is holding a grand Sect Tournament, even requiring disciples to donate resources...
+BehaviorDesc_55_2
+The Kongsang Sect is holding a grand sect tournament. They say those lacking in resources will find it hard to claim victory...
+BehaviorDesc_55_3
+The Kongsang Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_55_4
+The Kongsang Sect is holding a grand sect tournament. To stand above the rest, one must boast ample resources...
+BehaviorDesc_56_0
+The Nirvana Vajra Sect is holding a grand sect tournament, in which disciples vie to practice charity... The spectacle is immense!
+BehaviorDesc_56_1
+The Nirvana Vajra Sect is holding a grand Sect Tournament, even requiring disciples to donate Silver...
+BehaviorDesc_56_2
+The Nirvana Vajra Sect is holding a grand sect tournament. They say those lacking in Silver will find it hard to claim victory...
+BehaviorDesc_56_3
+The Nirvana Vajra Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_56_4
+The Nirvana Vajra Sect is holding a grand sect tournament. To stand above the rest, one must boast abundant Silver...
+BehaviorDesc_57_0
+The Five Immortals Sect is holding a grand sect tournament, testing the disciples' Toxicology... The spectacle is immense!
+BehaviorDesc_57_1
+The Five Immortals Sect is holding a grand sect tournament, testing even the disciples' Toxicology...
+BehaviorDesc_57_2
+The Five Immortals Sect is holding a grand sect tournament. They say without a strong grasp of Toxicology one will find it hard to claim victory...
+BehaviorDesc_57_3
+The Five Immortals Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_57_4
+The Five Immortals Sect is holding a grand sect tournament. To stand above the rest, one must master Toxicology...
+BehaviorDesc_58_0
+The Veil Scar Sect is holding a grand sect tournament, where skill is tested, and lives may be lost... The spectacle is immense!
+BehaviorDesc_58_1
+The Veil Scar Sect is holding a grand sect tournament, where the disciples fight even at the risk of death...
+BehaviorDesc_58_2
+The Veil Scar Sect is holding a grand sect tournament. They say those deterred by death will find it hard to claim victory...
+BehaviorDesc_58_3
+The Veil Scar Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_58_4
+The Veil Scar Sect is holding a grand sect tournament. To stand above the rest, one must risk their lives...
+BehaviorDesc_59_0
+The Fuloong Sanctuary is holding a grand sect tournament, testing the skill of Culinary Arts... The spectacle is immense!
+BehaviorDesc_59_1
+The Fuloong Sanctuary is holding a grand sect tournament, testing even the disciples' Culinary Arts skills...
+BehaviorDesc_59_2
+The Fuloong Sanctuary is holding a grand sect tournament. They say those poor in Culinary Arts will find it hard to claim victory...
+BehaviorDesc_59_3
+The Fuloong Sanctuary is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_59_4
+The Fuloong Sanctuary is holding a grand sect tournament. To stand above the rest, one must master Culinary Arts...
+BehaviorDesc_60_0
+The Sanguine Sect is holding a grand sect tournament, where disciples fight as sacrifice rites... The spectacle is immense!
+BehaviorDesc_60_1
+The Sanguine Sect is holding a grand Sect Tournament, even requiring disciples to slay the righteous...
+BehaviorDesc_60_2
+The Sanguine Sect is holding a grand sect tournament. They say those who fail to slay heroes will find it hard to claim victory...
+BehaviorDesc_60_3
+The Sanguine Sect is holding a grand sect tournament. How can you not be tempted to watch this spectacle?
+BehaviorDesc_60_4
+The Sanguine Sect is holding a grand sect tournament. To stand above the rest, one must fight to death...
+BehaviorDesc_61_0
+The Capital is hosting a grand betrothal contest—they say a companion is needed to win the maiden!
+BehaviorDesc_61_1
+The Capital is hosting a grand betrothal contest—one may win the lady's favor more easily with a companion...
+BehaviorDesc_61_2
+The Capital is hosting a grand betrothal contest—a companion may help in standing out from the suitors...
+BehaviorDesc_61_3
+The Capital is hosting a grand betrothal contest with the theme of "Strength in Unity"—an intriguing choice for a match of hearts!
+BehaviorDesc_61_4
+The Capital is hosting a grand betrothal contest—to earn the lady's heart, the help of a companion is key!
+BehaviorDesc_62_0
+Dali is hosting a grand betrothal contest—one must understand the maiden's way of life to win her hand in marriage!
+BehaviorDesc_62_1
+Dali is hosting a grand betrothal contest—one may win the lady's favor more easily by grasping her way of life...
+BehaviorDesc_62_2
+Dali is hosting a grand betrothal contest—Knowing the lady's way of life may aid in standing out from the suitors...
+BehaviorDesc_62_3
+Dali is hosting a grand betrothal contest with the theme of "Courtship under the Moon"—an interesting one for romance!
+BehaviorDesc_62_4
+Dali is hosting a grand betrothal contest—to earn the lady's heart, one must truly understand her ways!
+BehaviorDesc_63_0
+Taiyuan is hosting a grand betrothal contest—they say martial arts are needed to win the maiden!
+BehaviorDesc_63_1
+Taiyuan is hosting a grand betrothal contest—one may win the lady's favor more easily with unmatched martial arts...
+BehaviorDesc_63_2
+Taiyuan is hosting a grand betrothal contest—superior martial arts may aid in standing out from the suitors...
+BehaviorDesc_63_3
+Taiyuan is hosting a grand betrothal contest with the theme of "Victory Through Battle"—an fitting one indeed!
+BehaviorDesc_63_4
+Taiyuan is hosting a grand betrothal contest—to earn the lady's heart, one must with unmatched martial arts!
+BehaviorDesc_64_0
+Shouchun is hosting a grand betrothal contest—they say hunting skills are needed to win the maiden!
+BehaviorDesc_64_1
+Shouchun is hosting a grand betrothal contest—one may win the lady's favor more easily with hunting prowess...
+BehaviorDesc_64_2
+Shouchun is hosting a grand betrothal contest—the finest hunter will stand out from the suitors...
+BehaviorDesc_64_3
+Shouchun is hosting a grand betrothal contest with the theme of "A Contest of the Hunt"—a most thrilling one to behold!
+BehaviorDesc_64_4
+Shouchun is hosting a grand betrothal contest—to earn the lady's heart, the key is bravery and hunting skills!
+BehaviorDesc_65_0
+Guangzhou is hosting a grand betrothal contest—one must understand her nature to win the maiden!
+BehaviorDesc_65_1
+Guangzhou is hosting a grand betrothal contest—one may win the lady's favor more easily by grasping her nature...
+BehaviorDesc_65_2
+Guangzhou is hosting a grand betrothal contest—knowing the lady's nature may aid in standing out from the suitors...
+BehaviorDesc_65_3
+Guangzhou is hosting a grand betrothal contest with the theme of "Relationship of Bloom"—a poetic theme indeed!
+BehaviorDesc_65_4
+Guangzhou is hosting a grand betrothal contest—to earn the lady's heart, one must first know her nature!
+BehaviorDesc_66_0
+Chengdu is hosting a grand betrothal contest—they say capacity for liquor is needed to win the maiden!
+BehaviorDesc_66_1
+Chengdu is hosting a grand betrothal contest—one may win the lady's favor more easily with great capacity for liquor...
+BehaviorDesc_66_2
+Chengdu is hosting a grand betrothal contest—those with impressive liquor capacity will stand out from the suitors...
+BehaviorDesc_66_3
+Chengdu is hosting a grand betrothal contest with the theme of "Cui'e Urging a Toast"—an unexpected one for romance!
+BehaviorDesc_66_4
+Chengdu is hosting a grand betrothal contest—to earn the lady's heart, one must hold their drink!
+BehaviorDesc_67_0
+Yangzhou is hosting a grand betrothal contest—they say talents are needed to win the maiden!
+BehaviorDesc_67_1
+Yangzhou is hosting a grand betrothal contest—one may win the lady's favor more easily with talents...
+BehaviorDesc_67_2
+Yangzhou is hosting a grand betrothal contest—talents may aid in standing out from the suitors...
+BehaviorDesc_67_3
+Yangzhou is hosting a grand betrothal contest with the theme of "A Contest of Beauty"—a curious one indeed!
+BehaviorDesc_67_4
+Yangzhou is hosting a grand betrothal contest—to earn the lady's heart, one shall be unmatched in talents!
+BehaviorDesc_68_0
+Hangzhou is hosting a grand betrothal contest—they say true word and action is needed to win the maiden!
+BehaviorDesc_68_1
+Hangzhou is hosting a grand betrothal contest—one may win the lady's favor more easily with unity in word and action...
+BehaviorDesc_68_2
+Hangzhou is hosting a grand betrothal contest—those who walk their talk may stand out from the suitors...
+BehaviorDesc_68_3
+Hangzhou is hosting a grand betrothal contest with the theme of "Courtship Through River Lanterns"—a most romantic one!
+BehaviorDesc_68_4
+Hangzhou is hosting a grand betrothal contest—to earn the lady's heart, one must be true in word and action!
+BehaviorDesc_69_0
+Guizhou is hosting a grand betrothal contest—one must understand the maiden's way of life to win her hand in marriage!
+BehaviorDesc_69_1
+Guizhou is hosting a grand betrothal contest—one may win the lady's favor more easily by grasping her way of life...
+BehaviorDesc_69_2
+Guizhou is hosting a grand betrothal contest—knowing the lady's way of life may aid in standing out from the suitors...
+BehaviorDesc_69_3
+Guizhou is hosting a grand betrothal contest with the theme of "Courtship Through Folk Songs"—a joyful one for romance!
+BehaviorDesc_69_4
+Guizhou is hosting a grand betrothal contest—to earn the lady's heart, one must truly understand her ways!
+BehaviorDesc_70_0
+Jiangling is hosting a grand betrothal contest—they say sharp observation is needed to win the maiden!
+BehaviorDesc_70_1
+Jiangling is hosting a grand betrothal contest—one may win the lady's favor more easily with sharp observation...
+BehaviorDesc_70_2
+Jiangling is hosting a grand betrothal contest—sharp observation may aid in standing out from the suitors...
+BehaviorDesc_70_3
+Jiangling is hosting a grand betrothal contest with the theme of "Ten Sisters"—a most intriguing one!
+BehaviorDesc_70_4
+Jiangling is hosting a grand betrothal contest—to earn the lady's heart, one must be sharp of mind!
+BehaviorDesc_71_0
+Fuzhou is hosting a grand betrothal contest—one must understand the maiden's way of life to win her hand in marriage!
+BehaviorDesc_71_1
+Fuzhou is hosting a grand betrothal contest—one may win the lady's favor more easily by grasping her way of life...
+BehaviorDesc_71_2
+Fuzhou is hosting a grand betrothal contest—knowing the lady's way of life may aid in standing out from the suitors...
+BehaviorDesc_71_3
+Fuzhou is hosting a grand betrothal contest with the theme of "Spirit Signs"—how intriguing it is!
+BehaviorDesc_71_4
+Fuzhou is hosting a grand betrothal contest—to earn the lady's heart, one must truly understand her ways!
+BehaviorDesc_72_0
+Qinzhou is hosting a grand betrothal contest—they say Toughness is needed to win the bride!
+BehaviorDesc_72_1
+Qinzhou is hosting a grand betrothal contest—one may win the lady's favor more easily with Toughness...
+BehaviorDesc_72_2
+Qinzhou is hosting a grand betrothal contest—Toughness may aid in standing out from the suitors...
+BehaviorDesc_72_3
+Qinzhou is hosting a grand betrothal contest with the theme of "Desert Water Search"—a fascinating one indeed!
+BehaviorDesc_72_4
+Qinzhou is hosting a grand betrothal contest—to earn the lady's heart, one shall have Toughness!
+BehaviorDesc_73_0
+Xiangyang is hosting a grand betrothal contest—one must understand her way of life to win the maiden!
+BehaviorDesc_73_1
+Xiangyang is hosting a grand betrothal contest—one may win the lady's favor more easily by grasping her way of life...
+BehaviorDesc_73_2
+Xiangyang is hosting a grand betrothal contest—knowing the lady's way of life may aid in standing out from the suitors...
+BehaviorDesc_73_3
+Xiangyang is hosting a grand betrothal contest with the theme of "Sky-Piercing Jade"—how intriguing!
+BehaviorDesc_73_4
+Xiangyang is hosting a grand betrothal contest—to earn the lady's heart, one must truly understand her ways!
+BehaviorDesc_74_0
+Liaoyang is hosting a grand betrothal contest—one must understand the middle way to win the maiden!
+BehaviorDesc_74_1
+Liaoyang is hosting a grand betrothal contest—one may win the lady's favor more easily with a middle way...
+BehaviorDesc_74_2
+Liaoyang is hosting a grand betrothal contest—knowing the middle way may aid in standing out from the suitors...
+BehaviorDesc_74_3
+Liaoyang is hosting a grand betrothal contest with the theme of "White Horse & Azure Ox"—how curious it is!
+BehaviorDesc_74_4
+Liaoyang is hosting a grand betrothal contest—to earn the lady's heart, one must truly understand the middle way!
+BehaviorDesc_75_0
+Qingzhou is hosting a grand betrothal contest—one must share a strong connection with the maiden to win her hand in marriage!
+BehaviorDesc_75_1
+Qingzhou is hosting a grand betrothal contest—one may win the lady's favor more easily with a strong connection with her...
+BehaviorDesc_75_2
+Qingzhou is hosting a grand betrothal contest—a strong connection with the lady may aid in standing out from the suitors...
+BehaviorDesc_75_3
+Qingzhou is hosting a grand betrothal contest with the theme of "Matchmaking"—how fitting it is!
+BehaviorDesc_75_4
+Qingzhou is hosting a grand betrothal contest—to earn the lady's heart, one must share a deep connection with her!
+BehaviorDesc_76_0
+You're holding a Betrothal Contest in the Capital—a union may require a companion by your side!
+BehaviorDesc_76_1
+You're holding a Betrothal Contest in the Capital—you may find your destined match with a companion...
+BehaviorDesc_76_2
+You're holding a Betrothal Contest in the Capital—a companion may make a perfect match easier...
+BehaviorDesc_76_3
+You're holding a Betrothal Contest in the Capital—calling upon friends may add to the fun!
+BehaviorDesc_76_4
+You're holding a Betrothal Contest in the Capital—trusted companions are a must for a match that meets your desires!
+BehaviorDesc_77_0
+You're holding a Betrothal Contest in Dali—a union may require understanding of the suitor's way of life!
+BehaviorDesc_77_1
+You're holding a Betrothal Contest in Dali—with knowledge of the suitor's way of life, you may find your destined match...
+BehaviorDesc_77_2
+You're holding a Betrothal Contest in Dali—understanding of the suitor's way of life may make a perfect match easier...
+BehaviorDesc_77_3
+You're holding a Betrothal Contest in Dali—courtship under the moon sounds intriguing!
+BehaviorDesc_77_4
+You're holding a Betrothal Contest in Dali—knowledge of the suitor's way of life is a must for a match that meets your desires!
+BehaviorDesc_78_0
+You're holding a Betrothal Contest in Taiyuan—a union may require exceptional martial arts!
+BehaviorDesc_78_1
+You're holding a Betrothal Contest in Taiyuan—you may find your destined match with exceptional martial arts...
+BehaviorDesc_78_2
+You're holding a Betrothal Contest in Taiyuan—exceptional martial arts may make a perfect match easier...
+BehaviorDesc_78_3
+You're holding a Betrothal Contest in Taiyuan—a martial arts contest sounds curious!
+BehaviorDesc_78_4
+You're holding a Betrothal Contest in Taiyuan—exceptional martial arts are a must for a match that meets your desires!
+BehaviorDesc_79_0
+You're holding a Betrothal Contest in Shouchun—a union may require hunting skills!
+BehaviorDesc_79_1
+You're holding a Betrothal Contest in Shouchun—you may find your destined match with hunting skills...
+BehaviorDesc_79_2
+You're holding a Betrothal Contest in Shouchun—hunting skills may make a perfect match easier...
+BehaviorDesc_79_3
+You're holding a Betrothal Contest in Shouchun—a hunting contest sounds thrilling!
+BehaviorDesc_79_4
+You're holding a Betrothal Contest in Shouchun—exceptional hunting skills are a must for a match that meets your desires!
+BehaviorDesc_80_0
+You're holding a Betrothal Contest in Guangzhou—a union may require understanding of the suitor's nature!
+BehaviorDesc_80_1
+You're holding a Betrothal Contest in Guangzhou—with knowledge of the suitor's nature, you may find your destined match...
+BehaviorDesc_80_2
+You're holding a Betrothal Contest in Guangzhou—knowing the suitor's nature may make a perfect match easier...
+BehaviorDesc_80_3
+You're holding a Betrothal Contest in Guangzhou—seeking a relationship with bloom sounds fascinating!
+BehaviorDesc_80_4
+You're holding a Betrothal Contest in Guangzhou—knowledge of the suitor's nature is a must for a match that meets your desires!
+BehaviorDesc_81_0
+You're holding a Betrothal Contest in Chengdu—a union may require outstanding drinking capacity!
+BehaviorDesc_81_1
+You're holding a Betrothal Contest in Chengdu—you may find your destined match with outstanding drinking capacity...
+BehaviorDesc_81_2
+You're holding a Betrothal Contest in Chengdu—liquor capacity may make a perfect match easier...
+BehaviorDesc_81_3
+You're holding a Betrothal Contest in Chengdu—a feast of liquor may add to the fun!
+BehaviorDesc_81_4
+You're holding a Betrothal Contest in Chengdu—impressive drinking capacity is a must for a match that meets your desires!
+BehaviorDesc_82_0
+You're holding a Betrothal Contest in Yangzhou—a union may require supreme talent!
+BehaviorDesc_82_1
+You're holding a Betrothal Contest in Yangzhou—you may find your destined match with supreme talent...
+BehaviorDesc_82_2
+You're holding a Betrothal Contest in Yangzhou—supreme talent may make a perfect match easier...
+BehaviorDesc_82_3
+You're holding a Betrothal Contest in Yangzhou—a talent battle sounds joyful!
+BehaviorDesc_82_4
+You're holding a Betrothal Contest in Yangzhou—supreme talent is a must for a match that meets your desires!
+BehaviorDesc_83_0
+You're holding a Betrothal Contest in Hangzhou—a union may require understanding the suitor's hearts!
+BehaviorDesc_83_1
+You're holding a Betrothal Contest in Hangzhou—with knowledge of the suitor's heart, you may find your destined match...
+BehaviorDesc_83_2
+You're holding a Betrothal Contest in Hangzhou—understanding of the suitor's hearts may make a perfect match easier...
+BehaviorDesc_83_3
+You're holding a betrothal contest in Hangzhou—courtship through river lanterns sounds delightful!
+BehaviorDesc_83_4
+You're holding a Betrothal Contest in Hangzhou—knowledge of the suitor's heart is a must for a match that meets your desires!
+BehaviorDesc_84_0
+You're holding a Betrothal Contest in Guizhou—a union may require understanding of the suitor's way of life!
+BehaviorDesc_84_1
+You're holding a Betrothal Contest in Guizhou—with knowledge of the suitor's way of life, you may find your destined match...
+BehaviorDesc_84_2
+You're holding a Betrothal Contest in Guizhou—understanding of the suitor's way of life may make a perfect match easier...
+BehaviorDesc_84_3
+You're holding a Betrothal Contest in Guizhou—courtship through folk songs sounds intriguing!
+BehaviorDesc_84_4
+You're holding a Betrothal Contest in Guizhou—understanding of the suitor's way of life is a must for a match that meets your desires!
+BehaviorDesc_85_0
+You're holding a Betrothal Contest in Jiangling—a union may require sharp observation!
+BehaviorDesc_85_1
+You're holding a Betrothal Contest in Jiangling—you may find your destined match with sharp observation...
+BehaviorDesc_85_2
+You're holding a Betrothal Contest in Jiangling—sharp observation may make a perfect match easier...
+BehaviorDesc_85_3
+You're holding a Betrothal Contest in Jiangling—a visual selection sounds interesting!
+BehaviorDesc_85_4
+You're holding a Betrothal Contest in Jiangling—sharp observation is a must for a match that meets your desires!
+BehaviorDesc_86_0
+You're holding a Betrothal Contest in Fuzhou—a union may require understanding of the suitor's way of life!
+BehaviorDesc_86_1
+You're holding a Betrothal Contest in Fuzhou—with knowledge of the suitor's way of life, you may find your destined match...
+BehaviorDesc_86_2
+You're holding a Betrothal Contest in Fuzhou—understanding of the suitor's way of life may make a perfect match easier...
+BehaviorDesc_86_3
+You're holding a Betrothal Contest in Fuzhou—a ancestral selection sounds wonderful!
+BehaviorDesc_86_4
+You're holding a Betrothal Contest in Fuzhou—knowledge of the suitor's way of life is a must for a match that meets your desires!
+BehaviorDesc_87_0
+You're holding a Betrothal Contest in Qinzhou—a union may require Toughness!
+BehaviorDesc_87_1
+You're holding a Betrothal Contest in Qinzhou—you may find your destined match with Toughness...
+BehaviorDesc_87_2
+You're holding a Betrothal Contest in Qinzhou—Toughness may make a perfect match easier...
+BehaviorDesc_87_3
+You're holding a Betrothal Contest in Qinzhou—a desert adventure sounds thrilling!
+BehaviorDesc_87_4
+You're holding a Betrothal Contest in Qinzhou—Toughness is a must for a match that meets your desires!
+BehaviorDesc_88_0
+You're holding a Betrothal Contest in Xiangyang—a union may require understanding of the suitor's way of life!
+BehaviorDesc_88_1
+You're holding a Betrothal Contest in Xiangyang—with knowledge of the suitor's way of life, you may find your destined match...
+BehaviorDesc_88_2
+You're holding a Betrothal Contest in Xiangyang—understanding of the suitor's way of life may make a perfect match easier...
+BehaviorDesc_88_3
+You're holding a Betrothal Contest in Xiangyang—courtship through stones sounds delightful!
+BehaviorDesc_88_4
+You're holding a Betrothal Contest in Xiangyang—knowledge of the suitor's way of life is a must for a match that meets your desires!
+BehaviorDesc_89_0
+You're holding a Betrothal Contest in Liaoyang—a union may require understanding of the middle way!
+BehaviorDesc_89_1
+You're holding a Betrothal Contest in Liaoyang—you may find your destined match with knowledge of the middle way...
+BehaviorDesc_89_2
+You're holding a Betrothal Contest in Liaoyang—knowing the middle way may make a perfect match easier...
+BehaviorDesc_89_3
+You're holding a Betrothal Contest in Liaoyang—to gallop across the vast grassland sounds splendid!
+BehaviorDesc_89_4
+You're holding a Betrothal Contest in Liaoyang—knowing the middle way is a must for a match that meets your desires!
+BehaviorDesc_90_0
+You're holding a Betrothal Contest in Qingzhou—a union may require a deep connection with the suitor!
+BehaviorDesc_90_1
+You're holding a Betrothal Contest in Qingzhou—you may find your destined match with a deep connection with him...
+BehaviorDesc_90_2
+You're holding a Betrothal Contest in Qingzhou—a deep connection with the suitor may make a perfect match easier...
+BehaviorDesc_90_3
+You're holding a Betrothal Contest in Qingzhou—a matchmaking sounds fitting!
+BehaviorDesc_90_4
+You're holding a Betrothal Contest in Qingzhou—a deep connection with the suitor are a must for a match that meets your desires!
+BehaviorDesc_91_0
+Snow dances in daylight, and frost forms in an instant. Truly a wondrous sight...
+BehaviorDesc_91_1
+Snow dances in daylight, and frost forms in an instant. Truly a wondrous sight...
+BehaviorDesc_91_2
+Snow dances in daylight, and frost forms in an instant. Truly a wondrous sight...
+BehaviorDesc_91_3
+Snow dances in daylight, and frost forms in an instant. Truly a wondrous sight...
+BehaviorDesc_91_4
+Snow dances in daylight, and frost forms in an instant. Truly a wondrous sight...
+BehaviorDesc_92_0
+Peach blossoms burn like embers, and eerie flames swirl. A sight most strange...
+BehaviorDesc_92_1
+Peach blossoms burn like embers, and eerie flames swirl. A sight most strange...
+BehaviorDesc_92_2
+Peach blossoms burn like embers, and eerie flames swirl. A sight most strange...
+BehaviorDesc_92_3
+Peach blossoms burn like embers, and eerie flames swirl. A sight most strange...
+BehaviorDesc_92_4
+Peach blossoms burn like embers, and eerie flames swirl. A sight most strange...
+BehaviorDesc_93_0
+Golden light shines, untouched by fire or flood. A marvel indeed...
+BehaviorDesc_93_1
+Golden light shines, untouched by fire or flood. A marvel indeed...
+BehaviorDesc_93_2
+Golden light shines, untouched by fire or flood. A marvel indeed...
+BehaviorDesc_93_3
+Golden light shines, untouched by fire or flood. A marvel indeed...
+BehaviorDesc_93_4
+Golden light shines, untouched by fire or flood. A marvel indeed...
+BehaviorDesc_94_0
+No grass grows, no beasts roam. A land abandoned by life. A sight most desolate...
+BehaviorDesc_94_1
+No grass grows, no beasts roam. A land abandoned by life. A sight most desolate...
+BehaviorDesc_94_2
+No grass grows, no beasts roam. A land abandoned by life. A sight most desolate...
+BehaviorDesc_94_3
+No grass grows, no beasts roam. A land abandoned by life. A sight most desolate...
+BehaviorDesc_94_4
+No grass grows, no beasts roam. A land abandoned by life. A sight most desolate...
+BehaviorDesc_95_0
+Sun and moon hang side by side, bathed in an eerie glow. A sight both surreal and foreboding...
+BehaviorDesc_95_1
+Sun and moon hang side by side, bathed in an eerie glow. A sight both surreal and foreboding...
+BehaviorDesc_95_2
+Sun and moon hang side by side, bathed in an eerie glow. A sight both surreal and foreboding...
+BehaviorDesc_95_3
+Sun and moon hang side by side, bathed in an eerie glow. A sight both surreal and foreboding...
+BehaviorDesc_95_4
+Sun and moon hang side by side, bathed in an eerie glow. A sight both surreal and foreboding...
+BehaviorDesc_96_0
+Loong bones rise high, and whispers haunt the air. A sight steeped in ancient dread...
+BehaviorDesc_96_1
+Loong bones rise high, and whispers haunt the air. A sight steeped in ancient dread...
+BehaviorDesc_96_2
+Loong bones rise high, and whispers haunt the air. A sight steeped in ancient dread...
+BehaviorDesc_96_3
+Loong bones rise high, and whispers haunt the air. A sight steeped in ancient dread...
+BehaviorDesc_96_4
+Loong bones rise high, and whispers haunt the air. A sight steeped in ancient dread...
+BehaviorDesc_97_0
+Sickly birds circle above, shrouded in toxic fumes. A sight of lingering doom...
+BehaviorDesc_97_1
+Sickly birds circle above, shrouded in toxic fumes. A sight of lingering doom...
+BehaviorDesc_97_2
+Sickly birds circle above, shrouded in toxic fumes. A sight of lingering doom...
+BehaviorDesc_97_3
+Sickly birds circle above, shrouded in toxic fumes. A sight of lingering doom...
+BehaviorDesc_97_4
+Sickly birds circle above, shrouded in toxic fumes. A sight of lingering doom...
+BehaviorDesc_98_0
+A crimson sea of maple, filled with endless echoes of slaughter. A sight both haunting and grand...
+BehaviorDesc_98_1
+A crimson sea of maple, filled with endless echoes of slaughter. A sight both haunting and grand...
+BehaviorDesc_98_2
+A crimson sea of maple, filled with endless echoes of slaughter. A sight both haunting and grand...
+BehaviorDesc_98_3
+A crimson sea of maple, filled with endless echoes of slaughter. A sight both haunting and grand...
+BehaviorDesc_98_4
+A crimson sea of maple, filled with endless echoes of slaughter. A sight both haunting and grand...
+BehaviorDesc_99_0
+Seen but formless, grasped but weightless. A true enigma...
+BehaviorDesc_99_1
+Seen but formless, grasped but weightless. A true enigma...
+BehaviorDesc_99_2
+Seen but formless, grasped but weightless. A true enigma...
+BehaviorDesc_99_3
+Seen but formless, grasped but weightless. A true enigma...
+BehaviorDesc_99_4
+Seen but formless, grasped but weightless. A true enigma...
+BehaviorDesc_100_0
+
+BehaviorDesc_100_1
+
+BehaviorDesc_100_2
+
+BehaviorDesc_100_3
+
+BehaviorDesc_100_4
+
+BehaviorDesc_101_0
+
+BehaviorDesc_101_1
+
+BehaviorDesc_101_2
+
+BehaviorDesc_101_3
+
+BehaviorDesc_101_4
+
+BehaviorDesc_102_0
+Purple Bamboo on Blackstone growing from Blackstones? This is no ordinary sight...
+BehaviorDesc_102_1
+Mystic Stone and Purple Bamboo trapped between Blackstones... Perhaps there's a way to free it?
+BehaviorDesc_102_2
+Mystic Stone and Purple Bamboo trapped between Blackstones... What brought it about?
+BehaviorDesc_102_3
+What a rare wonder... Why not take the Purple Bamboo on Blackstone with us?
+BehaviorDesc_102_4
+Strange places often bring fortune. Let's have a look!
+BehaviorDesc_103_0
+
+BehaviorDesc_103_1
+
+BehaviorDesc_103_2
+
+BehaviorDesc_103_3
+
+BehaviorDesc_103_4
+
+BehaviorDesc_104_0
+
+BehaviorDesc_104_1
+
+BehaviorDesc_104_2
+
+BehaviorDesc_104_3
+
+BehaviorDesc_104_4
+
+BehaviorDesc_105_0
+This is the Derelict Way Station. We must banish the wicked beggars before more suffer!
+BehaviorDesc_105_1
+This is the Derelict Way Station. Lives are at stake—we must banish the wicked beggars and rescue "the Imperial Chicken"...
+BehaviorDesc_105_2
+This is the Derelict Way Station. The Sword Mound faces imminent peril—we must banish the wicked beggars and restore the Way Station...
+BehaviorDesc_105_3
+This is the Derelict Way Station. Let's banish the wicked beggars, rebuild the Way Station, and resume our travels!
+BehaviorDesc_105_4
+This is the Derelict Way Station. Banishing mere wicked beggars should be of no trouble for Taiwu...
+BehaviorDesc_106_0
+
+BehaviorDesc_106_1
+
+BehaviorDesc_106_2
+
+BehaviorDesc_106_3
+
+BehaviorDesc_106_4
+
+BehaviorDesc_107_0
+
+BehaviorDesc_107_1
+
+BehaviorDesc_107_2
+
+BehaviorDesc_107_3
+
+BehaviorDesc_107_4
+
+BehaviorDesc_108_0
+The Tomb Immortal dwells here? Let us uncover the truth!
+BehaviorDesc_108_1
+The Tomb Immortal dwells here? If we intrude uninvited, will he take offense...?
+BehaviorDesc_108_2
+The Tomb Immortal dwells here? It seems the time has come—let us investigate...
+BehaviorDesc_108_3
+The Tomb Immortal dwells here? I'd like to see what kind of figure lives in a tomb...
+BehaviorDesc_108_4
+The Tomb Immortal dwells here? If this is truly his abode, surely there are treasures to be found...
+BehaviorDesc_109_0
+All speculate who shall claim the title of Chief of Martial World—I, for one, hope it is a righteous hero...
+BehaviorDesc_109_1
+All speculate who shall claim the title of Chief of Martial World—I only wish for one of virtue...
+BehaviorDesc_109_2
+All speculate who shall claim the title of Chief of Martial World—let it be one with true ability...
+BehaviorDesc_109_3
+All speculate who shall claim the title of Chief of Martial World—but that has little to do with me...
+BehaviorDesc_109_4
+All speculate who shall claim the title of Chief of Martial World—I simply hope it is someone who benefits me...
+BehaviorDesc_110_0
+This bamboo harms all life around it—surely an accursed thing! We must root it out at once!
+BehaviorDesc_110_1
+They say this bamboo spreads disease to all nearby... The people must have suffered greatly.
+BehaviorDesc_110_2
+Weirdly shaped—no beast or man dares approach. What manner of thing is this?
+BehaviorDesc_110_3
+Where did this The Descent of the Mysterious Bamboo come from? It looks rather fine—let me take a piece to play with!
+BehaviorDesc_110_4
+Such fearsome power—this The Descent of the Mysterious Bamboo has drained the land, leaving neither plant nor beast alive...
+BehaviorDesc_111_0
+To rescue the suffering and uphold justice—that is our duty. The Land of Blackstones must be explored!
+BehaviorDesc_111_1
+The fate of the world rests upon your shoulders—take utmost care...
+BehaviorDesc_111_2
+A journey to the Land of Blackstones—do what we must, and leave the rest to fate...
+BehaviorDesc_111_3
+The Successor of Taiwu can traverse heavens and earth—what threat does the Land of Blackstones hold?
+BehaviorDesc_111_4
+No risk, no reward! Let's set forth and see what lies ahead in the Land of Blackstones...
+BehaviorDesc_112_0
+This place is overrun with wicked beggars. I hear they harass the people and spread disease—it's only right they be eliminated soon!
+BehaviorDesc_112_1
+This place is overrun with wicked beggars. Some say that offering them alms may win their favor...
+BehaviorDesc_112_2
+This place is overrun with wicked beggars. Perhaps a few coins could spare us needless strife...
+BehaviorDesc_112_3
+This place is overrun with wicked beggars. What fun is there in driving them away? I hear a little charity might do the trick...
+BehaviorDesc_112_4
+This place is overrun with wicked beggars. A bit of generosity, and they may bend the knee...
+BehaviorDesc_113_0
+This place is plagued by thieves. They steal from the people—it's only right they be eliminated soon!
+BehaviorDesc_113_1
+This place is plagued by thieves. Some say skill alone can win them over...
+BehaviorDesc_113_2
+This place is plagued by thieves. If we prove our strength, perhaps we can avoid bloodshed...
+BehaviorDesc_113_3
+This place is plagued by thieves. What fun is there in chasing them off? I hear that strength might earn their respect...
+BehaviorDesc_113_4
+This place is plagued by thieves. Show them our skill, and they may submit willingly...
+BehaviorDesc_114_0
+This place is overrun with bandits who rob travelers and seize bridges. It's only right they be eliminated soon!
+BehaviorDesc_114_1
+This place is overrun with bandits. A proven might may win them over...
+BehaviorDesc_114_2
+This place is overrun with bandits. Strength may bring order here, sparing us from unnecessary bloodshed...
+BehaviorDesc_114_3
+This place is overrun with bandits. What fun is there in driving them away? Perhaps a show of force would suffice...
+BehaviorDesc_114_4
+This place is overrun with bandits. With power, we may bring them to their knees...
+BehaviorDesc_115_0
+This place harbors sect traitors who wreak havoc and torment the innocent. It's only right they be eliminated soon!
+BehaviorDesc_115_1
+This place harbors sect traitors. A kindness shown to those exiled disciples may win them over...
+BehaviorDesc_115_2
+This place harbors sect traitors. Some mercy toward exiled disciples may avert further strife...
+BehaviorDesc_115_3
+This place harbors sect traitors. What fun is there in driving them away? I hear a little mercy toward exiled disciples might do the trick...
+BehaviorDesc_115_4
+This place harbors sect traitors. A little mercy toward exiled disciples might bring them to their knees...
+BehaviorDesc_116_0
+Evildoers dwell here. They are ruthless, slaying without remorse. It's only right they be eliminated soon!
+BehaviorDesc_116_1
+Evildoers dwell here. With keen judgment, we might spare the innocent among them...
+BehaviorDesc_116_2
+Evildoers dwell here. Sharpness may save us from unnecessary bloodshed...
+BehaviorDesc_116_3
+Evildoers dwell here. What fun is there in driving them away? I hear a little sharpness might do the trick...
+BehaviorDesc_116_4
+Evildoers dwell here. Discernment may bend them to our will...
+BehaviorDesc_117_0
+Bewitching women linger here. They ensnare minds and sunder lovers. It's only right they be eliminated soon!
+BehaviorDesc_117_1
+Bewitching women linger here. Steadfastness may win their allegiance...
+BehaviorDesc_117_2
+Bewitching women linger here. Keeping Poise may avoid unnecessary conflict...
+BehaviorDesc_117_3
+Bewitching women linger here. What fun is there in driving them away? I hear Poise might do the trick...
+BehaviorDesc_117_4
+Bewitching women linger here. Keep Poise, and they may bow to us...
+BehaviorDesc_118_0
+Restless spirits haunt these grounds. They spread poisons and plague the innocent. It's only right they be eliminated soon!
+BehaviorDesc_118_1
+Restless spirits haunt these grounds. Only those who fear no poisons dare explore the Mass Grave...
+BehaviorDesc_118_2
+Restless spirits haunt these grounds. They say those undeterred by poisons may uncover the secrets of the Living Dead...
+BehaviorDesc_118_3
+Restless spirits haunt these grounds. Fear not the poisons, and hidden truths shall be revealed!
+BehaviorDesc_118_4
+Restless spirits haunt these grounds. Those who brave the poisons may claim lost treasures...
+BehaviorDesc_119_0
+Wandering eccentrics gather here. They act without regard for right or wrong. It's only right they be eliminated soon!
+BehaviorDesc_119_1
+Wandering eccentrics gather here. Perhaps skill alone can earn their respect...
+BehaviorDesc_119_2
+Wandering eccentrics gather here. A contest of skill may spare us unnecessary battles...
+BehaviorDesc_119_3
+Wandering eccentrics gather here. What fun is there in driving them away? Why not let skill decide?
+BehaviorDesc_119_4
+Wandering eccentrics gather here. With mastery, they may bow to us...
+BehaviorDesc_120_0
+Outland cultists lurk here. They revel in sacrifice and bloodshed. It's only right they be eliminated soon!
+BehaviorDesc_120_1
+Outland cultists lurk here. Wicked Associate wields strange Martial Arts—direct assault may not be wise...
+BehaviorDesc_120_2
+Outland cultists lurk here. Breaking Wicked Associate's dark technique may avoid unnecessary bloodshed...
+BehaviorDesc_120_3
+Outland cultists lurk here. What fun is there in driving them away? Why not break Wicked Associate's technique...
+BehaviorDesc_120_4
+Outland cultists lurk here. If we shatter Wicked Associate's sorcery, they may submit willingly...
+BehaviorDesc_121_0
+Madmen roam these lands. They revel in slaughter, devoid of humanity—it's only right they be eliminated soon!
+BehaviorDesc_121_1
+Madmen roam these lands. If we dispel the Evil Qi here, the innocent may yet be saved...
+BehaviorDesc_121_2
+Madmen roam these lands. Purging the Evil Qi may spare us unnecessary bloodshed...
+BehaviorDesc_121_3
+Madmen roam these lands. What fun is there in driving them away? Let's sever the source of their madness by purging Evil Qi...
+BehaviorDesc_121_4
+Madmen roam these lands. By purging Evil Qi, they may submit willingly...
+BehaviorDesc_122_0
+Demonic Cult congregants gather here. They slaughter the righteous without mercy. It's only right they be eliminated soon!
+BehaviorDesc_122_1
+Demonic Cult congregants gather here. Perhaps the Tao can quell their madness...
+BehaviorDesc_122_2
+Demonic Cult congregants gather here. The Tao may lead us to the Ruler Moro's whereabouts...
+BehaviorDesc_122_3
+Demonic Cult congregants gather here. What fun is there in driving them away? Perhaps the Tao alone can prevail...
+BehaviorDesc_122_4
+Demonic Cult congregants gather here. If we uphold the Tao, they may bow to us...
+BehaviorDesc_123_0
+Reclusive masters dwell here, their hearts filled with hatred. It's only right they be eliminated soon!
+BehaviorDesc_123_1
+Reclusive masters dwell here. They say one with true martial prowess may explore the Brink of Ruin.
+BehaviorDesc_123_2
+Reclusive masters dwell here. They say true martial prowess may earn the favor of the Ascended Elder.
+BehaviorDesc_123_3
+Reclusive masters dwell here. With true martial prowess, we may bring them to their knees!
+BehaviorDesc_123_4
+Reclusive masters dwell here. True martial prowess may bring them to their knees...
+BehaviorDesc_124_0
+Xiake walk these lands. The folks hold them in great esteem—true paragons of virtue!
+BehaviorDesc_124_1
+Xiake walk these lands. They are known to vanquish evil and protect the innocent... truly admirable...
+BehaviorDesc_124_2
+Xiake walk these lands. I've heard they are cherished by the people. Earning their trust would be an honor...
+BehaviorDesc_124_3
+Xiake walk these lands. I've heard they are cherished by the people, but that's nothing too surprising...
+BehaviorDesc_124_4
+Xiake walk these lands. Perhaps we may gain something from these figures admired by the people...
+BehaviorDesc_125_0
+Vigilantes roam these parts, revered by all in the Martial World—true role models for us!
+BehaviorDesc_125_1
+Vigilantes roam these parts. Known for their unwavering righteousness, they command great respect...
+BehaviorDesc_125_2
+Vigilantes roam these parts. If fate allows, we should forge bonds with such folks of admiration...
+BehaviorDesc_125_3
+Vigilantes roam these parts. I've heard they are revered by all of Martial World, but that's nothing too surprising...
+BehaviorDesc_125_4
+Vigilantes roam these parts. I've heard they are revered by all of Martial World. If we play this well, there may be rewards to reap...
+BehaviorDesc_126_0
+Xiake seems to roam this region, long dedicated to vanquishing evil—true role models for us!
+BehaviorDesc_126_1
+Xiake seems to roam this region. They have safeguarded the land for years, their wisdom profound...
+BehaviorDesc_126_2
+Some heroes seem to roam this region. I hear they've been vanquishing demons for years and have quite the experience. To learn from such masters would be an honor...
+BehaviorDesc_126_3
+Xiake seems to roam this region. I hear they've been vanquishing demons for years and have quite the experience, but that's nothing too surprising...
+BehaviorDesc_126_4
+Xiake seems to roam this region. I hear they've been vanquishing demons for years and have quite the experience. Perhaps there is something to gain from their experience...
+BehaviorDesc_127_0
+Black Bear's trail nearby. Some claim melodies can lure the beast. Let's put it to the test!
+BehaviorDesc_127_1
+Black Bear's trail nearby. Some claim melodies can lure the beast. If the legends hold true, perhaps this method will phel you...
+BehaviorDesc_127_2
+Black Bear's trail nearby. Some claim melodies can lure the beast. Perhaps we should give it a try with this opportunity...
+BehaviorDesc_127_3
+Black Bear's trail nearby. Some claim melodies can lure the beast. An intriguing tale... Shall we test it ourselves?
+BehaviorDesc_127_4
+Black Bear's trail nearby. Some claim melodies can lure the beast. We must not let others beat us to it!
+BehaviorDesc_128_0
+The Monkey's Head Mushrooms grow here. It's said that mastery of Weiqi reveals these mushrooms. Let's see if the tale rings true!
+BehaviorDesc_128_1
+The Monkey's Head Mushrooms grow here. It's said that mastery of Weiqi reveals these mushrooms. If that method works, perhaps it shall aid you.
+BehaviorDesc_128_2
+The Monkey's Head Mushrooms grow here. It's said that mastery of Weiqi reveals these mushrooms. Shall we put the strategy to the test?
+BehaviorDesc_128_3
+The Monkey's Head Mushrooms grow here. It's said that mastery of Weiqi reveals these mushrooms. Let's see if skill in Weiqi truly reveals its hiding place!
+BehaviorDesc_128_4
+The Monkey's Head Mushrooms grow here. It's said that mastery of Weiqi reveals these mushrooms. We must not let others claim it first!
+BehaviorDesc_129_0
+Blue peacocks are nearby. Tales speak of paintings drawing the peacock forth—let's see if the tale rings true!
+BehaviorDesc_129_1
+Blue peacocks are nearby. Tales speak of paintings drawing the peacock forth—if that method works, perhaps it shall aid you...
+BehaviorDesc_129_2
+Blue peacocks are nearby. Tales speak of paintings drawing the peacock forth—shall we put the strategy to the test?
+BehaviorDesc_129_3
+Blue peacocks are nearby. Tales speak of paintings drawing the peacock forth—shall we test it ourselves?
+BehaviorDesc_129_4
+Blue peacocks are nearby. Tales speak of paintings drawing the peacock forth—we must not let others claim them first!
+BehaviorDesc_130_0
+The Kaluga grows here. It's said that calligraphy reveals the fish. Let's see if the tale rings true!
+BehaviorDesc_130_1
+The Kaluga grows here. It's said that calligraphy reveals the fish. If that method works, perhaps it shall aid you...
+BehaviorDesc_130_2
+The Kaluga grows here. It's said that calligraphy reveals the fish. Let's try it ourselves!
+BehaviorDesc_130_3
+The Kaluga grows here. It's said that calligraphy reveals these fishes. Shall we see if ink and brush truly beckon the fish?
+BehaviorDesc_130_4
+The Kaluga grows here. It's said that calligraphy reveals the fish. We must not let others claim it first!
+BehaviorDesc_131_0
+The Purpletwist Bamboo grows here. They say gold and silver may lure it forth—let's see if the tale rings true!
+BehaviorDesc_131_1
+The Purpletwist Bamboo grows here. They say gold and silver may lure it forth—if that method works, perhaps it shall aid you...
+BehaviorDesc_131_2
+The Purpletwist Bamboo grows here. They say gold and silver may lure it forth—shall we put it to the test?
+BehaviorDesc_131_3
+The Purpletwist Bamboo grows here. They say gold and silver may lure it forth—let's see if fortune speaks to nature!
+BehaviorDesc_131_4
+The Purpletwist Bamboo grows here. They say gold and silver may lure it forth—we must not let others claim it before us...
+BehaviorDesc_132_0
+Here grows the Dark Sandalwood. Legends speak of iron axes cleaving this wood—shall we put it to the test?
+BehaviorDesc_132_1
+Here grows the Dark Sandalwood. Legends speak of iron axes cleaving this wood—if that method works, perhaps it shall aid you...
+BehaviorDesc_132_2
+Here grows the Dark Sandalwood. Legends speak of iron axes cleaving this wood—shall we put it to the test?
+BehaviorDesc_132_3
+Here grows the Dark Sandalwood. Legends speak of iron axes cleaving this wood—shall we see if steel meets bark as the stories claim?
+BehaviorDesc_132_4
+Here grows the Dark Sandalwood. Legends speak of iron axes cleaving this wood—we must not let others claim it before us...
+BehaviorDesc_133_0
+I sense Cicadae Gold nearby. It is said fine jade can lure Cicadae Gold. Now is the time to test the story!
+BehaviorDesc_133_1
+I sense Cicadae Gold nearby. It is said fine jade can lure Cicadae Gold—if that method works, perhaps it shall aid you...
+BehaviorDesc_133_2
+I sense Cicadae Gold nearby. It is said fine jade can lure Cicadae Gold—shall we put it to the test?
+BehaviorDesc_133_3
+I sense Cicadae Gold nearby. It is said fine jade can lure Cicadae Gold—let's see if the tale holds!
+BehaviorDesc_133_4
+I sense Cicadae Gold nearby. It is said fine jade can lure Cicadae Gold—we must not let others claim it before us!
+BehaviorDesc_134_0
+Aerosiderite may be near. It is said that gemstones were once cast into mines to unearth Aerosiderite. Now is the time to see if the tale is true!
+BehaviorDesc_134_1
+Aerosiderite may be near. It is said that gemstones were once cast into mines to unearth Aerosiderite. If that method works, perhaps it shall aid you...
+BehaviorDesc_134_2
+Aerosiderite may be near. It is said that gemstones were once cast into mines to unearth Aerosiderite. Shall we put it to the test?
+BehaviorDesc_134_3
+Aerosiderite may be near. It is said that gemstones were once cast into mines to unearth Aerosiderite. An intriguing tale... Shall we test it ourselves?
+BehaviorDesc_134_4
+Aerosiderite may be near. It is said that gemstones were once cast into mines to unearth Aerosiderite. We must not let others beat us to it...
+BehaviorDesc_135_0
+The Kunlun Oily Jade should lie ahead. It is said that fabrics once caught the Kunlun Oily Jade. Now is our chance to try!
+BehaviorDesc_135_1
+The Kunlun Oily Jade should lie ahead. It is said that fabrics once caught the Kunlun Oily Jade. If that method works, perhaps it shall aid you...
+BehaviorDesc_135_2
+The Kunlun Oily Jade should lie ahead. It is said that fabrics once caught the Kunlun Oily Jade. Shall we put it to the test?
+BehaviorDesc_135_3
+The Kunlun Oily Jade should lie ahead. It is said that fabrics once caught the Kunlun Oily Jade. An intriguing tale... Shall we test it ourselves?
+BehaviorDesc_135_4
+The Kunlun Oily Jade should lie ahead. It is said that fabrics once caught the Kunlun Oily Jade. We must not let others claim it first!
+BehaviorDesc_136_0
+Deus Gemstone may lie ahead. It is said that fur fabrics may lead one to Deus Gemstone. Let's see if the tale rings true!
+BehaviorDesc_136_1
+Deus Gemstone may lie ahead. It is said that fur fabrics may lead one to Deus Gemstone. If that method works, perhaps it shall aid you.
+BehaviorDesc_136_2
+Deus Gemstone may lie ahead. It is said that fur fabrics may lead one to Deus Gemstone. Let's try it ourselves!
+BehaviorDesc_136_3
+Deus Gemstone may lie ahead. It is said that fur fabrics may lead one to Deus Gemstone. A curious tale—we should see for ourselves!
+BehaviorDesc_136_4
+Deus Gemstone may lie ahead. It is said that fur fabrics may lead one to Deus Gemstone. We must not let others claim it first!
+BehaviorDesc_137_0
+Cicada Goldwing may lie ahead. It is said wood may lead one to Cicada Goldwing. Let's see if the tale rings true!
+BehaviorDesc_137_1
+Cicada Goldwing may lie ahead. It is said wood may lead one to Cicada Goldwing. If that method works, perhaps it shall aid you...
+BehaviorDesc_137_2
+Cicada Goldwing may lie ahead. It is said wood may lead one to Cicada Goldwing. Let's try it ourselves!
+BehaviorDesc_137_3
+Cicada Goldwing may lie ahead. It is said wood may lead one to Cicada Goldwing. A curious tale—we should see for ourselves!
+BehaviorDesc_137_4
+Cicada Goldwing may lie ahead. It is said wood may lead one to Cicada Goldwing. We must not let others claim it first!
+BehaviorDesc_138_0
+Panthea may lie ahead. It is said bamboo and rattan may lead one to Panthea Silk. Let's see if the tale rings true!
+BehaviorDesc_138_1
+Panthea may lie ahead. It is said bamboo and rattan may lead one to Panthea Silk. If that method works, perhaps it shall aid you...
+BehaviorDesc_138_2
+Panthea may lie ahead. It is said bamboo and rattan may lead one to Panthea Silk. Let's try it ourselves!
+BehaviorDesc_138_3
+Panthea may lie ahead. It is said bamboo and rattan may lead one to Panthea Silk. A curious tale—we should see for ourselves!
+BehaviorDesc_138_4
+Panthea may lie ahead. It is said bamboo and rattan may lead one to Panthea Silk. We must not let others claim it first!
+BehaviorDesc_139_0
+Spirit herbs and stones may lie nearby. Such treasures are said to be elusive, yet if you possess medical art, you may uncover their secrets!
+BehaviorDesc_139_1
+Spirit herbs and stones may lie nearby. Such treasures are said to be elusive. Perhaps it is best not to act rashly if you're not adept in medical art...
+BehaviorDesc_139_2
+Spirit herbs and stones may lie nearby. Such treasures are said to be elusive. If you know medical art, you may collect them...
+BehaviorDesc_139_3
+Spirit herbs and stones may lie nearby. Such treasures are said to be elusive. Even without medical art, the search itself is an adventure worth taking!
+BehaviorDesc_139_4
+Spirit herbs and stones may lie nearby. Such treasures are said to be elusive, yet with medical art, they may be ours for the taking!
+BehaviorDesc_140_0
+Rare beasts and insects, as well as spirit plants and herbs may lie nearby. Such treasures are said to be elusive, yet if you possess medical art, you may uncover their secrets!
+BehaviorDesc_140_1
+Rare beasts and insects, as well as celestial herbs and spiritual plants, may lie nearby. Such treasures are said to be exceedingly difficult to find. Perhaps it is best not to act rashly if you are not adept in the Medical Art...
+BehaviorDesc_140_2
+Rare beasts and insects, as well as spirit plants and herbs may lie nearby. Such treasures are said to be elusive. If you know medical art, you may collect them...
+BehaviorDesc_140_3
+Rare beasts and insects, as well as spirit plants and herbs may lie nearby. Such treasures are said to be elusive. Even without medical art, the search itself is an adventure worth taking!
+BehaviorDesc_140_4
+Rare beasts and insects, as well as spirit plants and herbs may lie nearby. Such treasures are said to be elusive, yet with medical art, they may be ours for the taking!
+BehaviorDesc_141_0
+Lingzhi and rare plants may lie nearby. Such treasures are said to be elusive, yet if you possess medical art, you may uncover their secrets!
+BehaviorDesc_141_1
+Lingzhi and rare plants may lie nearby. Such treasures are said to be elusive. Perhaps it is best not to act rashly if you're not adept in medical art...
+BehaviorDesc_141_2
+Lingzhi and rare plants may lie nearby. Such treasures are said to be elusive. If you know medical art, you may collect them...
+BehaviorDesc_141_3
+Lingzhi and rare plants may lie nearby. Such treasures are said to be elusive. Even without medical art, the search itself is an adventure worth taking!
+BehaviorDesc_141_4
+Lingzhi and rare plants may lie nearby. Such treasures are said to be elusive, yet with medical art, they may be ours for the taking!
+BehaviorDesc_142_0
+Spiritual creatures and items may lie nearby. Such treasures are said to be elusive, yet if you possess medical art, you may uncover their secrets!
+BehaviorDesc_142_1
+Spiritual creatures and items may lie nearby. Such treasures are said to be elusive. Perhaps it is best not to act rashly if you're not adept in medical art...
+BehaviorDesc_142_2
+Spiritual creatures and items may lie nearby. Such treasures are said to be elusive. If you know medical art, you may collect them...
+BehaviorDesc_142_3
+Spiritual creatures and items may lie nearby. Such treasures are said to be elusive. Even without medical art, the search itself is an adventure worth taking!
+BehaviorDesc_142_4
+Spiritual creatures and items may lie nearby. Such treasures are said to be elusive, yet with medical art, they may be ours for the taking!
+BehaviorDesc_143_0
+Venomous beasts and spirit herbs lie nearby. Such treasures are said to be elusive, yet if you possess medical art, you may uncover their secrets!
+BehaviorDesc_143_1
+Venomous beasts and spirit herbs lie nearby. Such treasures are said to be elusive. Perhaps it is best not to act rashly if you're not adept in medical art...
+BehaviorDesc_143_2
+Venomous beasts and spirit herbs lie nearby. Such treasures are said to be elusive. If you know medical art, you may collect them...
+BehaviorDesc_143_3
+Venomous beasts and spirit herbs lie nearby. Such treasures are said to be elusive. Even without medical art, the search itself is an adventure worth taking!
+BehaviorDesc_143_4
+Venomous beasts and spirit herbs lie nearby. Such treasures are said to be elusive, yet with medical art, they may be ours for the taking!
+BehaviorDesc_144_0
+The Poison Hemlock may lie nearby. They say creatures of Acritoxin swarm around this herb. Best to clear them out first!
+BehaviorDesc_144_1
+The Poison Hemlock may lie nearby. They say creatures of Acritoxin swarm around this herb. We should be careful...
+BehaviorDesc_144_2
+The Poison Hemlock may lie nearby. They say creatures of Acritoxin swarm around this herb. Without proper precautions, it's best not to tread...
+BehaviorDesc_144_3
+The Poison Hemlock may lie nearby. They say creatures of Acritoxin swarm around this herb. Do you dare join me in exploring it?
+BehaviorDesc_144_4
+The Poison Hemlock may lie nearby. They say creatures of Acritoxin swarm around this herb. Deadly as they are, these toxins can also serve us well!
+BehaviorDesc_145_0
+The Vilified Blossom may lie nearby. They say creatures of Umbritoxin swarm around this herb. Best to clear them out first!
+BehaviorDesc_145_1
+The Vilified Blossom may lie nearby. They say creatures of Umbritoxin swarm around this herb. We should be careful...
+BehaviorDesc_145_2
+The Vilified Blossom may lie nearby. They say creatures of Umbritoxin swarm around this herb. Without proper precautions, it's best not to tread...
+BehaviorDesc_145_3
+The Vilified Blossom may lie nearby. They say creatures of Umbritoxin swarm around this herb. Do you dare join me in exploring it?
+BehaviorDesc_145_4
+The Vilified Blossom may lie nearby. They say creatures of Umbritoxin swarm around this herb. Deadly as they are, these toxins can also serve us well!
+BehaviorDesc_146_0
+The Sanguis Toad may lie nearby. They say creatures of Pyrotoxin swarm around it. Best to clear them out first!
+BehaviorDesc_146_1
+The Sanguis Toad may lie nearby. They say creatures of Pyrotoxin swarm around it. We should be careful...
+BehaviorDesc_146_2
+The Sanguis Toad may lie nearby. They say creatures of Pyrotoxin swarm around it. Without proper precautions, it's best not to tread...
+BehaviorDesc_146_3
+The Sanguis Toad may lie nearby. They say creatures of Pyrotoxin swarm around it. Do you dare join me in exploring it?
+BehaviorDesc_146_4
+The Sanguis Toad may lie nearby. They say creatures of Pyrotoxin swarm around this herb. Deadly as they are, these toxins can also serve us well!
+BehaviorDesc_147_0
+The Millennia Ice Silkworm may lie nearby. They say creatures of Cryotoxin swarm around it. Best to clear them out first!
+BehaviorDesc_147_1
+The Millennia Ice Silkworm may lie nearby. They say creatures of Cryotoxin swarm around it. We should be careful...
+BehaviorDesc_147_2
+The Millennia Ice Silkworm may lie nearby. They say creatures of Cryotoxin swarm around it. Without proper precautions, it's best not to tread...
+BehaviorDesc_147_3
+The Millennia Ice Silkworm may lie nearby. They say creatures of Cryotoxin swarm around it. Do you dare join me in exploring it?
+BehaviorDesc_147_4
+The Millennia Ice Silkworm may lie nearby. They say creatures of Cryotoxin swarm around it. Deadly as they are, these toxins can also serve us well!
+BehaviorDesc_148_0
+The Millennia Cyan Spider may lie nearby. Such a creature is said to be elusive, yet if you possess Toxicology, you may uncover their secrets!
+BehaviorDesc_148_1
+The Millennia Cyan Spider may lie nearby. Such a creature is said to be elusive. Perhaps it is best not to act rashly if you're not adept in Toxicology...
+BehaviorDesc_148_2
+The Millennia Cyan Spider may lie nearby. Such a creature is said to be elusive. If you know Toxicology, you may collect them...
+BehaviorDesc_148_3
+The Millennia Cyan Spider may lie nearby. Such a creature is said to be elusive. Even without Toxicology knowledge, the search itself is an adventure worth taking!
+BehaviorDesc_148_4
+The Millennia Cyan Spider may lie nearby. Such a creature is said to be elusive, yet with Toxicology, they may be ours for the taking!
+BehaviorDesc_149_0
+The Shapeshift Mandala may lie nearby. Such a creature is said to be elusive, yet if you possess Toxicology, you may uncover their secrets!
+BehaviorDesc_149_1
+The Shapeshift Mandala may lie nearby. Such a creature is said to be elusive. Perhaps it is best not to act rashly if you're not adept in Toxicology...
+BehaviorDesc_149_2
+The Shapeshift Mandala may lie nearby. Such a creature is said to be elusive. If you know Toxicology, you may collect them...
+BehaviorDesc_149_3
+The Shapeshift Mandala may lie nearby. Such a creature is said to be elusive. Even without Toxicology knowledge, the search itself is an adventure worth taking!
+BehaviorDesc_149_4
+The Shapeshift Mandala may lie nearby. Such a creature is said to be elusive, yet with Toxicology, they may be ours for the taking!
+BehaviorDesc_150_0
+{0} has surfaced here. They say {0} weakens Martial Arts—yet we are bold, why not test our mettle?
+BehaviorDesc_150_1
+{0} has surfaced here. They say {0} weakens Martial Arts—take care not to risk yourself...
+BehaviorDesc_150_2
+{0} has surfaced here. They say {0} weakens Martial Arts—tread lightly unless victory is certain...
+BehaviorDesc_150_3
+{0} has surfaced here. They say {0} weakens Martial Arts—what better chance to toy with others?
+BehaviorDesc_150_4
+{0} has surfaced here. They say {0} weakens Martial Arts—no matter what, we must not let it fall into others' hands...
+BehaviorDesc_151_0
+
+BehaviorDesc_151_1
+
+BehaviorDesc_151_2
+
+BehaviorDesc_151_3
+
+BehaviorDesc_151_4
+
+BehaviorDesc_152_0
+
+BehaviorDesc_152_1
+
+BehaviorDesc_152_2
+
+BehaviorDesc_152_3
+
+BehaviorDesc_152_4
+
+BehaviorDesc_153_0
+
+BehaviorDesc_153_1
+
+BehaviorDesc_153_2
+
+BehaviorDesc_153_3
+
+BehaviorDesc_153_4
+
+BehaviorDesc_154_0
+
+BehaviorDesc_154_1
+
+BehaviorDesc_154_2
+
+BehaviorDesc_154_3
+
+BehaviorDesc_154_4
+
+BehaviorDesc_155_0
+Wild beasts roam these lands—subduing them would rid the land of danger...
+BehaviorDesc_155_1
+Beasts wander these lands—heed caution, better to take a detour than risk injury...
+BehaviorDesc_155_2
+Wild beasts roam these lands—be cautious and ready for anything...
+BehaviorDesc_155_3
+Some creatures here are rare indeed—should fortune favor us, we may witness their splendor...
+BehaviorDesc_155_4
+Some creatures here are rare indeed—capturing them could fetch a fortune...
+BehaviorDesc_156_0
+Could that be your lost mount? Such a beast must be tamed with firm hands...
+BehaviorDesc_156_1
+Could that be your lost mount? Even beasts understand kindness—earn its trust, and it will follow.
+BehaviorDesc_156_2
+Could that be your lost mount? Training a beast requires patience, and haste will do more harm than good.
+BehaviorDesc_156_3
+Could that be your lost mount? To break free like that—its spirit is admirable.
+BehaviorDesc_156_4
+Could that be your lost mount? It needs a proper lesson in obedience.
+BehaviorDesc_157_0
+A merchant caravan ahead—just the chance to restock...
+BehaviorDesc_157_1
+A merchant caravan ahead—perhaps they carry something of worth...
+BehaviorDesc_157_2
+A merchant caravan ahead—let's see if we might trade...
+BehaviorDesc_157_3
+A merchant caravan ahead—perhaps a chance to break the tedium of travel...
+BehaviorDesc_157_4
+A merchant caravan ahead—no harm in browsing their wares...
+BehaviorDesc_158_0
+That one ahead resembles your kin—perhaps you should greet them...
+BehaviorDesc_158_1
+I just glimpse someone from your kin—how familiar they seem...
+BehaviorDesc_158_2
+I see someone ahead—could they be kin to you?
+BehaviorDesc_158_3
+Do my eyes deceive me, or is your kin just ahead?
+BehaviorDesc_158_4
+If I am not mistaken, that is your kin before us...
+BehaviorDesc_159_0
+That one looks familiar—perhaps a friend of yours?
+BehaviorDesc_159_1
+I glimpsed a friend of yours—perhaps they could be of aid...
+BehaviorDesc_159_2
+Someone ahead looks familiar—is a friend of yours?
+BehaviorDesc_159_3
+That person ahead—could they be a friend of yours?
+BehaviorDesc_159_4
+Your friend is nearby—they might be useful to us...
+BehaviorDesc_160_0
+An enemy of yours is near—I stand ready if you wish to face them...
+BehaviorDesc_160_1
+An enemy of yours is close—best not stir trouble...
+BehaviorDesc_160_2
+An enemy lingers nearby—what shall we do?
+BehaviorDesc_160_3
+Your enemy stands before us—shall we settle matters now?
+BehaviorDesc_160_4
+Your enemy is ahead—I will stand with you should you wish to confront them.
+BehaviorDesc_161_0
+
+BehaviorDesc_161_1
+
+BehaviorDesc_161_2
+
+BehaviorDesc_161_3
+
+BehaviorDesc_161_4
+
+BehaviorDesc_162_0
+
+BehaviorDesc_162_1
+
+BehaviorDesc_162_2
+
+BehaviorDesc_162_3
+
+BehaviorDesc_162_4
+
+BehaviorDesc_163_0
+Xiangshu Maniacs roam here—stay wary...
+BehaviorDesc_163_1
+Xiangshu Maniacs roam here—poor souls writhing in torment...
+BehaviorDesc_163_2
+Xiangshu Maniacs roam here—so many suffer under Xiangshu's curse...
+BehaviorDesc_163_3
+Xiangshu Maniacs roam here—I would not wish such a fate upon myself...
+BehaviorDesc_163_4
+Xiangshu Maniacs roam here—we have no time to meddle in this matter...
+BehaviorDesc_164_0
+Xiangshu Possessed Persons roam here—we must act, lest disaster follows...
+BehaviorDesc_164_1
+Xiangshu Possessed Persons roam here—do they still have hope of salvation...?
+BehaviorDesc_164_2
+Xiangshu Possessed Persons roam here—the locals suffer greatly from their presence...
+BehaviorDesc_164_3
+Xiangshu Possessed Persons roam here—raving mad and lost to reason...
+BehaviorDesc_164_4
+Xiangshu Possessed Persons roam here—shall we put an end to their misery?
+BehaviorDesc_165_0
+Someone is obsessed with the Secret Tome here—their mind is weak, unworthy of such a tome...
+BehaviorDesc_165_1
+Someone is obsessed with the Secret Tome here—perhaps they can yet be swayed...
+BehaviorDesc_165_2
+Someone is obsessed with the Secret Tome here—their thoughts are twisted beyond reason...
+BehaviorDesc_165_3
+Someone is obsessed with the Secret Tome here—why not strike and snatch the tome for ourselves?
+BehaviorDesc_165_4
+Someone is obsessed with the Secret Tome here—such treasures should be ours to wield...
+BehaviorDesc_166_0
+One has fallen to depravity for the Secret Tome here—we must rid the world of this evil...
+BehaviorDesc_166_1
+One has fallen to depravity for the Secret Tome here—shall we grant them release from their suffering?
+BehaviorDesc_166_2
+One has fallen to depravity for the Secret Tome here—to snatch the tome... a blessing or a curse?
+BehaviorDesc_166_3
+One has fallen to depravity for the Secret Tome here—we should draw closer and investigate...
+BehaviorDesc_166_4
+One has fallen to depravity for the Secret Tome here—might there be fortune to seize amid this misfortune...?
+BehaviorDesc_167_0
+A burial site nearby... perhaps we should pay our respects...
+BehaviorDesc_167_1
+I see an unguarded grave... left to the mercy of the winds...
+BehaviorDesc_167_2
+A tomb before us... all tales end the same—dust and earth...
+BehaviorDesc_167_3
+If treasures lie buried within... should we not make use of them?
+BehaviorDesc_167_4
+A nameless grave... of no concern to me...
+BehaviorDesc_168_0
+It seems {1} of {0} is nearby. We should speak with them...
+BehaviorDesc_168_1
+It seems {1} of {0} is nearby. Let us greet them with courtesy...
+BehaviorDesc_168_2
+It seems {1} of {0} is nearby. They must have business here...
+BehaviorDesc_168_3
+It seems {1} of {0} is nearby. Merely wandering, perhaps?
+BehaviorDesc_168_4
+It seems {1} of {0} is nearby. An opportunity, perhaps...
+BehaviorDesc_169_0
+Capturing crickets is fun, but we mustn't neglect our duties...
+BehaviorDesc_169_1
+Patience is key... only the careful hunter prevails...
+BehaviorDesc_169_2
+Capturing crickets is fate as much as skill... force yields nothing...
+BehaviorDesc_169_3
+Of all the crickets in the world, I find Dullard most endearing...
+BehaviorDesc_169_4
+All the crickets under heaven shall be mine! Don't disappoint me...
+BehaviorDesc_170_0
+Mind the land's balance when dispatching villagers to toil...
+BehaviorDesc_170_1
+Labor wears the body—those who work must also rest...
+BehaviorDesc_170_2
+Overworking the land will run against the law of nature...
+BehaviorDesc_170_3
+Fortunate we are not among them, trapped in endless toil...
+BehaviorDesc_170_4
+Left unwatched, villagers grow idle... best keep a sharp eye!
+BehaviorDesc_171_0
+A lost item... we should return it to its owner...
+BehaviorDesc_171_1
+A lost item... someone must be searching for this...
+BehaviorDesc_171_2
+A lost item... no one comes to claim it... what a pity...
+BehaviorDesc_171_3
+A curious find... a trap, perhaps?
+BehaviorDesc_171_4
+If no one claims it... it is ours now.
+BehaviorDesc_172_0
+Jingji stands at the center of the world, with the empire gone, its grandeur lingers still...
+BehaviorDesc_172_1
+Jingji stands at the center of the world, with the empire gone, its grandeur lingers still...
+BehaviorDesc_172_2
+Jingji stands at the center of the world, with the empire gone, its grandeur lingers still...
+BehaviorDesc_172_3
+Jingji stands at the center of the world, with the empire gone, its grandeur lingers still...
+BehaviorDesc_172_4
+Jingji stands at the center of the world, with the empire gone, its grandeur lingers still...
+BehaviorDesc_173_0
+Bashu's mountains rise high, its paths wind treacherous... "The way to Bashu is hard indeed."
+BehaviorDesc_173_1
+Bashu's mountains rise high, its paths wind treacherous... "The way to Bashu is hard indeed."
+BehaviorDesc_173_2
+Bashu's mountains rise high, its paths wind treacherous... "The way to Bashu is hard indeed."
+BehaviorDesc_173_3
+Bashu's mountains rise high, its paths wind treacherous... "The way to Bashu is hard indeed."
+BehaviorDesc_173_4
+Bashu's mountains rise high, its paths wind treacherous... "The way to Bashu is hard indeed."
+BehaviorDesc_174_0
+Guangnan is a land of peaks and mist, where nature's beauty knows no bounds...
+BehaviorDesc_174_1
+Guangnan is a land of peaks and mist, where nature's beauty knows no bounds...
+BehaviorDesc_174_2
+Guangnan is a land of peaks and mist, where nature's beauty knows no bounds...
+BehaviorDesc_174_3
+Guangnan is a land of peaks and mist, where nature's beauty knows no bounds...
+BehaviorDesc_174_4
+Guangnan is a land of peaks and mist, where nature's beauty knows no bounds...
+BehaviorDesc_175_0
+Jingbei is a crossroads of great renown, where the wise and the bold converge...
+BehaviorDesc_175_1
+Jingbei is a crossroads of great renown, where the wise and the bold converge...
+BehaviorDesc_175_2
+Jingbei is a crossroads of great renown, where the wise and the bold converge...
+BehaviorDesc_175_3
+Jingbei is a crossroads of great renown, where the wise and the bold converge...
+BehaviorDesc_175_4
+Jingbei is a crossroads of great renown, where the wise and the bold converge...
+BehaviorDesc_176_0
+Shanxi is a land of rugged hearts, home to many who walk the path of honor...
+BehaviorDesc_176_1
+Shanxi is a land of rugged hearts, home to many who walk the path of honor...
+BehaviorDesc_176_2
+Shanxi is a land of rugged hearts, home to many who walk the path of honor...
+BehaviorDesc_176_3
+Shanxi is a land of rugged hearts, home to many who walk the path of honor...
+BehaviorDesc_176_4
+Shanxi is a land of rugged hearts, home to many who walk the path of honor...
+BehaviorDesc_177_0
+Guangdong is a thriving hub of sea-bound trade, rich and ever bustling...
+BehaviorDesc_177_1
+Guangdong is a thriving hub of sea-bound trade, rich and ever bustling...
+BehaviorDesc_177_2
+Guangdong is a thriving hub of sea-bound trade, rich and ever bustling...
+BehaviorDesc_177_3
+Guangdong is a thriving hub of sea-bound trade, rich and ever bustling...
+BehaviorDesc_177_4
+Guangdong is a thriving hub of sea-bound trade, rich and ever bustling...
+BehaviorDesc_178_0
+Shandong is a land of sages and hermits... and rumors of an isle beyond the sea...
+BehaviorDesc_178_1
+Shandong is a land of sages and hermits... and rumors of an isle beyond the sea...
+BehaviorDesc_178_2
+Shandong is a land of sages and hermits... and rumors of an isle beyond the sea...
+BehaviorDesc_178_3
+Shandong is a land of sages and hermits... and rumors of an isle beyond the sea...
+BehaviorDesc_178_4
+Shandong is a land of sages and hermits... and rumors of an isle beyond the sea...
+BehaviorDesc_179_0
+Jingnan is where wetlands and peaks entwine and legends of celestial maidens linger...
+BehaviorDesc_179_1
+Jingnan is where wetlands and peaks entwine and legends of celestial maidens linger...
+BehaviorDesc_179_2
+Jingnan is where wetlands and peaks entwine and legends of celestial maidens linger...
+BehaviorDesc_179_3
+Jingnan is where wetlands and peaks entwine and legends of celestial maidens linger...
+BehaviorDesc_179_4
+Jingnan is where wetlands and peaks entwine and legends of celestial maidens linger...
+BehaviorDesc_180_0
+Fujian, where mountains embrace the sea, its waters pure, its depths brimming with nature's bounty—like a forge of the heavens...
+BehaviorDesc_180_1
+Fujian, where mountains embrace the sea, its waters pure, its depths brimming with nature's bounty—like a forge of the heavens...
+BehaviorDesc_180_2
+Fujian, where mountains embrace the sea, its waters pure, its depths brimming with nature's bounty—like a forge of the heavens...
+BehaviorDesc_180_3
+Fujian, where mountains embrace the sea, its waters pure, its depths brimming with nature's bounty—like a forge of the heavens...
+BehaviorDesc_180_4
+Fujian, where mountains embrace the sea, its waters pure, its depths brimming with nature's bounty—like a forge of the heavens...
+BehaviorDesc_181_0
+Liaodong is a land of ice and endurance, where only the resolute survive...
+BehaviorDesc_181_1
+Liaodong is a land of ice and endurance, where only the resolute survive...
+BehaviorDesc_181_2
+Liaodong is a land of ice and endurance, where only the resolute survive...
+BehaviorDesc_181_3
+Liaodong is a land of ice and endurance, where only the resolute survive...
+BehaviorDesc_181_4
+Liaodong is a land of ice and endurance, where only the resolute survive...
+BehaviorDesc_182_0
+Western Regions is a vast desert where wind and sand show no mercy...
+BehaviorDesc_182_1
+Western Regions is a vast desert where wind and sand show no mercy...
+BehaviorDesc_182_2
+Western Regions is a vast desert where wind and sand show no mercy...
+BehaviorDesc_182_3
+Western Regions is a vast desert where wind and sand show no mercy...
+BehaviorDesc_182_4
+Western Regions is a vast desert where wind and sand show no mercy...
+BehaviorDesc_183_0
+Yunnan features an eternal spring, where flora and fauna flourish in abundance...
+BehaviorDesc_183_1
+Yunnan features an eternal spring, where flora and fauna flourish in abundance...
+BehaviorDesc_183_2
+Yunnan features an eternal spring, where flora and fauna flourish in abundance...
+BehaviorDesc_183_3
+Yunnan features an eternal spring, where flora and fauna flourish in abundance...
+BehaviorDesc_183_4
+Yunnan features an eternal spring, where flora and fauna flourish in abundance...
+BehaviorDesc_184_0
+Huainan is a war-scarred land known as the Throat of Zhongzhou, where ruins whisper tales of strife...
+BehaviorDesc_184_1
+Huainan is a war-scarred land known as the Throat of Zhongzhou, where ruins whisper tales of strife...
+BehaviorDesc_184_2
+Huainan is a war-scarred land known as the Throat of Zhongzhou, where ruins whisper tales of strife...
+BehaviorDesc_184_3
+Huainan is a war-scarred land known as the Throat of Zhongzhou, where ruins whisper tales of strife...
+BehaviorDesc_184_4
+Huainan is a war-scarred land known as the Throat of Zhongzhou, where ruins whisper tales of strife...
+BehaviorDesc_185_0
+Jiangnan features mist-laden rivers, willows, and romance... a prosperous realm for poets and lovers...
+BehaviorDesc_185_1
+Jiangnan features mist-laden rivers, willows, and romance... a prosperous realm for poets and lovers...
+BehaviorDesc_185_2
+Jiangnan features mist-laden rivers, willows, and romance... a prosperous realm for poets and lovers...
+BehaviorDesc_185_3
+Jiangnan features mist-laden rivers, willows, and romance... a prosperous realm for poets and lovers...
+BehaviorDesc_185_4
+Jiangnan features mist-laden rivers, willows, and romance... a prosperous realm for poets and lovers...
+BehaviorDesc_186_0
+Jiangbei is where north meets south, merchants gather, and wealth flourishes...
+BehaviorDesc_186_1
+Jiangbei is where north meets south, merchants gather, and wealth flourishes...
+BehaviorDesc_186_2
+Jiangbei is where north meets south, merchants gather, and wealth flourishes...
+BehaviorDesc_186_3
+Jiangbei is where north meets south, merchants gather, and wealth flourishes...
+BehaviorDesc_186_4
+Jiangbei is where north meets south, merchants gather, and wealth flourishes...
+BehaviorDesc_187_0
+Even the strong should not linger here...
+BehaviorDesc_187_1
+The air is thick with Malicious Qi... best leave before it takes hold...
+BehaviorDesc_187_2
+A wretched place... like a glimpse of hell itself...
+BehaviorDesc_187_3
+This place is crawling with spirits and Blackstones... this is no place for idle wandering...
+BehaviorDesc_187_4
+No good will come of staying here. Let us move on!
+BehaviorDesc_188_0
+The fire spreads wildly... if we do not act, all may be lost!
+BehaviorDesc_188_1
+If left unchecked, this blaze will bring ruin to the innocent...
+BehaviorDesc_188_2
+Where did such flames arise? We must tread carefully...
+BehaviorDesc_188_3
+The Celestial Fire is spectacle indeed... should we not admire its fury?
+BehaviorDesc_188_4
+If this be Celestial Fire, let us see how it fares against our might!
+

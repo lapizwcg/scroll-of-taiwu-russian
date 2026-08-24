@@ -1,0 +1,85 @@
+EffectTextList_0_0
+Успешность переноса
+EffectTextList_0_1
+Вероятность улучшить основной материал
+EffectTextList_0_2
+Число сборов
+EffectTextList_1_0
+Число починок
+EffectTextList_1_1
+Вероятность дать материал для обработки
+EffectTextList_1_2
+Вероятность улучшить материал для обработки
+EffectTextList_2_0
+Охват бесплатного лечения
+EffectTextList_2_1
+Ослабляет нашествие злой воли Сяншу
+EffectTextList_3_0
+Наибольшее число торговых сделок
+EffectTextList_3_1
+Повышает расположение товарищества
+EffectTextList_4_0
+Число изменений покоя или просвещения
+EffectTextList_4_1
+Число затронутых искусств вольного света
+EffectTextList_4_2
+Число затронутых дарований на смотре
+EffectTextList_5_0
+Скорость сбора озарений у могильника мечей
+EffectTextList_5_1
+Вероятность пострадать при встрече с воплощениями
+EffectTextList_5_2
+Вероятность получить особенность
+EffectTextList_5_3
+Ослабляет нашествие злой воли Сяншу
+EffectTextList_5_4
+Бой
+EffectTextList_6_0
+Изменение добавочной внутренней силы
+EffectTextList_6_1
+Пары людей, затронутые обходительностью
+EffectTextList_6_2
+Вероятность кармического случая
+EffectValueTextList_0_0
++{0}%
+EffectValueTextList_0_1
++{0}%
+EffectValueTextList_0_2
++{0}<color=#lightgrey> раз</color>
+EffectValueTextList_1_0
++{0} раз
+EffectValueTextList_1_1
++{0}%
+EffectValueTextList_1_2
++{0}%
+EffectValueTextList_2_0
++{0}<color=#lightgrey> ступ.
+EffectValueTextList_2_1
+Действует</color>
+EffectValueTextList_3_0
++{0}<color=#lightgrey> ступ.
+EffectValueTextList_3_1
+Действует</color>
+EffectValueTextList_4_0
++{0}<color=#lightgrey> раз</color>
+EffectValueTextList_4_1
++{0}<color=#lightgrey> чел.</color>
+EffectValueTextList_4_2
++{0}<color=#lightgrey> чел.</color>
+EffectValueTextList_5_0
+Повышает
+EffectValueTextList_5_1
+Повышает
+EffectValueTextList_5_2
+Повышает
+EffectValueTextList_5_3
+Действует
+EffectValueTextList_5_4
++{0}<color=#lightgrey> раз</color>
+EffectValueTextList_6_0
++{0}<color=#lightgrey> строк</color>
+EffectValueTextList_6_1
++{0}<color=#lightgrey> пар</color>
+EffectValueTextList_6_2
++{0}%
+

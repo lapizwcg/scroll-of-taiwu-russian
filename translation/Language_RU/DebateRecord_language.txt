@@ -1,0 +1,139 @@
+Desc_0
+<color=#pinkyellow>Round starts. </color><color=#brightblue>Restored {1} x{0} and {2}% of {3}... </color>
+Desc_1
+<color=#pinkyellow>Placed {0} {1}...</color>
+Desc_2
+<color=#pinkyellow>{0} was attacked by {1},</color> and <color=#brightred>lost {2} {3}!</color>
+Desc_3
+<color=#pinkyellow>Round starts.</color> <color=#brightblue>Drew {0} Strategy(ies)...</color>
+Desc_4
+<color=#pinkyellow>The turn has ended.</color> <color=#brightred>{0} strategy cards discarded...</color>
+Desc_5
+<color=#pinkyellow>Retrieving all discarded strategy cards,</color> <color=#brightred>Pressure has increased by {0}...</color>
+Desc_6
+<color=#orange>{0}</color> <color=#pinkyellow>made a </color>{2}<color=#pinkyellow> comment on </color><color=#orange>{1}</color><color=#pinkyellow>...</color>
+Desc_7
+<color=#pinkyellow>Affected by the {2} comment from </color><color=#orange>{1}</color><color=#pinkyellow>,</color> <color=#brightred>{0}'s Arguments and Strategies were revealed...</color><color=#pinkyellow></color>
+Desc_8
+<color=#pinkyellow>Affected by </color><color=#orange>{1}'s</color><color=#pinkyellow> {2} comment, {0}</color><color=#brightblue> took {3} additional moves...</color><color=#pinkyellow></color>
+Desc_9
+<color=#pinkyellow>{0} moved to the square of </color><color=#orange>{1}'s</color><color=#pinkyellow> {2} comment,</color> and <color=#brightblue>restored {3}% of {4}...</color><color=#pinkyellow></color>
+Desc_10
+<color=#pinkyellow>Placed <color=#pinkyellow>{2} extra {3}</color> on the square of </color><color=#orange>{0}'s</color><color=#pinkyellow> {1} comment...</color>
+Desc_11
+<color=#pinkyellow>{0}, affected by </color><color=#orange>{1}'s</color><color=#pinkyellow> {2} comment, was transferred before </color><color=#orange>{3}'s</color><color=#pinkyellow> {4}...</color><color=#pinkyellow></color>
+Desc_12
+<color=#pinkyellow>{2}, affected by </color><color=#orange>{0}'s</color><color=#pinkyellow> {1} comment, was breached by {3},</color><color=#brightred> losing an extra {4} {5}...</color>
+Desc_13
+<color=#pinkyellow>{0} has reached {1},</color><color=#brightred> and lost {2} {3}!</color>
+Desc_14
+<color=#pinkyellow>{0} has reached {1},</color><color=#brightred> the {2} restored at the start of each round halved!</color>
+Desc_15
+<color=#pinkyellow>{0} has reached {1},</color><color=#brightred> the {2} restored at the start of each round halved!</color>
+Desc_16
+<color=#pinkyellow>{0} has reached {1},</color><color=#brightred> failed to place {2}!</color>
+Desc_17
+<color=#pinkyellow>{0} has reached {1},</color><color=#brightred> failed to use {2}!</color>
+Desc_18
+<color=#pinkyellow>Used an unknown Strategy...</color>
+Desc_19
+<color=#pinkyellow>Used {0}...</color>
+Desc_20
+<color=#pinkyellow>Used {0}</color><color=#brightred> to reduce {1}'s Arguments...</color>
+Desc_21
+<color=#pinkyellow>Used {0}</color><color=#brightred> to reduce {1}'s Arguments...</color>
+Desc_22
+<color=#pinkyellow>Used {0}</color><color=#brightred> to reduce {1}'s Arguments...</color>
+Desc_23
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to place {1} extra {2}...</color>
+Desc_24
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to swap the positions of {1} {2}...</color>
+Desc_25
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to move the positions of {1} {2}...</color>
+Desc_26
+<color=#pinkyellow>Because {1}, which has {0} attached, breached {2},</color><color=#brightred> an extra {3} {4} were lost!</color>
+Desc_27
+<color=#pinkyellow>Because {1} with {0} attached won the Clash,</color><color=#brightblue> it advanced {2} extra squares!</color>
+Desc_28
+<color=#pinkyellow>{0}, which started the Clash, has {1} attached,</color><color=#brightblue> gaining extra Arguments equal to half of {2}!</color>
+Desc_29
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to increase {1}'s Arguments...</color>
+Desc_30
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to increase {1}'s Arguments...</color>
+Desc_31
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to increase {1}'s Arguments...</color>
+Desc_32
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to draw {2} Strategies from {1}...</color>
+Desc_33
+<color=#pinkyellow>Used {0} to reverse the Argument increase and decrease effects on {1}...</color>
+Desc_34
+<color=#pinkyellow>Used {0}</color><color=#brightred> to move the positions of {1} {2}...</color>
+Desc_35
+<color=#pinkyellow>Round starts. Because {0} has {1} attached,</color><color=#brightred> {2}% of {3} was lost!</color>
+Desc_36
+<color=#pinkyellow>Round starts. Because {0} has {1} attached,</color><color=#brightred> {3} x{2} got lost!</color>
+Desc_37
+<color=#pinkyellow>{1} breached the enemy's {0}. Because it had {2} attached,</color><color=#brightblue> it returned to an empty square on your side!</color>
+Desc_38
+<color=#pinkyellow>{0} won the Clash. Because it had {1} attached,</color><color=#brightblue> its Arguments were not damaged!</color>
+Desc_39
+<color=#pinkyellow>{0} lost the Clash. Because it had {1} attached,</color><color=#brightblue> it retreated to your side's {2}!</color>
+Desc_40
+<color=#pinkyellow>As {0} advanced, its Arguments increased</color><color=#brightblue> because it had {1} attached!</color>
+Desc_41
+<color=#pinkyellow>Round starts. Because {0} has {1} attached,</color><color=#brightblue> {2}% of {3} was restored!</color>
+Desc_42
+<color=#pinkyellow>Round starts. Because {0} has {1} attached,</color><color=#brightblue> {2} {3} were restored!</color>
+Desc_43
+<color=#pinkyellow>Used {0},</color><color=#brightblue> causing {0} to advance an extra {1} squares...</color>
+Desc_44
+<color=#pinkyellow>Used {0}</color><color=#brightred> to reveal {1}'s Arguments...</color>
+Desc_45
+<color=#pinkyellow>Used {0}</color><color=#brightred> to eliminate {1} {2}...</color>
+Desc_46
+<color=#pinkyellow>Due to the influence of {0},</color><color=#brightblue> restored an extra {1} {2}!</color>
+Desc_47
+<color=#pinkyellow>Because {1} with {0} attached breached the enemy's {2},</color><color=#brightblue> an extra {3} {4} were restored!</color>
+Desc_48
+<color=#pinkyellow>Because {1} with {0} attached was eliminated,</color><color=#brightred> other {2} with {0} attached were also eliminated!</color>
+Desc_49
+<color=#pinkyellow>Because {1} with {0} attached breached the enemy's {2},</color><color=#brightred> an extra {3} {4} were lost!</color>
+Desc_50
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to increase {1}'s Arguments...</color>
+Desc_51
+<color=#pinkyellow>Because {1} with {0} attached won the Clash,</color><color=#brightblue> {2} extra {1} were generated!</color>
+Desc_52
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to bind the Arguments of {1} {2}...</color>
+Desc_53
+<color=#pinkyellow>Used {0}</color><color=#brightred> to eliminate {1} {2}...</color>
+Desc_54
+<color=#pinkyellow>Due to the influence of {0},</color><color=#brightblue> restored an extra {1} {2}!</color>
+Desc_55
+<color=#pinkyellow>Because {2} was used on {1} (which has {0} attached),</color><color=#brightred> an extra {3} {4} were consumed!</color>
+Desc_56
+<color=#pinkyellow>Because {1}, with {0} attached, breached {2},</color><color=#brightred> an extra {3} {4} were lost!</color>
+Desc_57
+<color=#pinkyellow>Used {0}</color><color=#brightred> to make {1} {2} retreat {3} squares...</color>
+Desc_58
+<color=#pinkyellow>Used {0}</color><color=#brightred> to discard {1},</color><color=#brightblue> restoring an extra {2} {3}...</color>
+Desc_59
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to draw {2} Strategies from {1}...</color>
+Desc_60
+<color=#pinkyellow>Used {0}</color><color=#brightred> to reveal the Strategy attached to {1} {2}...</color>
+Desc_61
+<color=#pinkyellow>{0}, which was about to enter a Clash, swapped positions with {2} instead</color><color=#brightblue> because it had {1} attached!</color>
+Desc_62
+<color=#pinkyellow>Because {0} had {1} attached,</color><color=#brightred> it failed to advance during the resolution phase!</color>
+Desc_63
+<color=#pinkyellow>Used {0}</color><color=#brightred> to occupy {2} of {1}'s Strategy slots...</color>
+Desc_64
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to merge the Arguments of {1} into another {2}...</color>
+Desc_65
+<color=#pinkyellow>{0} was decomposed by {1}</color><color=#brightblue> into {2} new {0}s...</color>
+Desc_66
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to eliminate {1}'s Strategy...</color>
+Desc_67
+<color=#pinkyellow>Used {0}</color><color=#brightblue> to swap the Strategies of {1} and another {2}...</color>
+Desc_68
+<color=#pinkyellow>Used {0} to swap the Strategies held by both sides...</color>
+

@@ -1,0 +1,115 @@
+Name_0
+Глушь
+Name_1
+Open Woods
+Name_2
+Пещера
+Name_3
+Море цветов
+Name_4
+Cliff
+Name_5
+Лачуга
+Name_6
+Даосский храм
+Name_7
+Гробница
+Name_8
+Горы
+Name_9
+Главный город
+Name_10
+Camp
+Name_11
+Hamlet
+Name_12
+Pond
+Name_13
+Озеро
+Name_14
+Chasm
+Name_15
+Пустыня
+Name_16
+Лесной участок
+Name_17
+Temple
+Name_18
+River
+Name_19
+Ancient Ruins
+Name_20
+Marketplace
+Name_21
+Развалины
+Name_22
+Ущелье
+Name_23
+И Сян
+Name_24
+Вэй Ци
+Name_25
+Цзю Хань
+Name_26
+Цзинь Хуанъэр
+Name_27
+Даюэ Яочан
+Name_28
+И Ихоу
+Name_29
+Кровавый клён
+Name_30
+Заклинатель
+Name_31
+Мону
+Name_32
+Лун Юйфу
+Name_33
+Цзы Усяо
+Name_34
+Хуаньсинь
+Name_35
+Гуй Гу-цзы
+Name_36
+Долина ручья
+Name_37
+Изумрудная вершина
+Name_38
+Берега реки
+Name_39
+Сяншу
+Name_40
+Осквернённый
+Name_41
+Деревня Тайу
+Name_42
+Easter Egg
+Name_43
+Secret Tome
+Name_44
+Shaolin Region Story
+Name_45
+Белый лун
+Name_46
+Чёрный лун
+Name_47
+Лазурный лун
+Name_48
+Багряный лун
+Name_49
+Жёлтый лун
+Name_50
+Ranshan Region Story
+Name_51
+Fuloong Region Story
+Name_52
+Swordsmiths Region Story
+Name_53
+Yuanshan Region Story
+Name_54
+Veil Scar Region Story
+Name_55
+Screen Recording
+Name_56
+Божественный горн горы Чай
+

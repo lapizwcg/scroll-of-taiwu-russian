@@ -1,0 +1,65 @@
+Desc_1_0
+DLC Description
+Desc_1_1
+The Scroll of Taiwu - Gift from Wanqu, Part 1\nThis DLC includes the clothing gifting event of "Bug Repellent Attire" and "Guidance Attire."
+Desc_2_0
+DLC Description
+Desc_2_1
+The Scroll of Taiwu - Gift from Wanqu, Part 2\nThis DLC includes the clothing gifting event of "Bright Future Attire."
+Desc_3_0
+DLC Description
+Desc_3_1
+"At the dawn of the new year, all things are renewed.\nTrue Loongs descend, bringing blessings and good fortune.\nThe Five Divine Loongs join in celebration, as fortune, prosperity, longevity, and joy arrive together at your door.\nThe Scroll of Taiwu proudly presents the free DLC, Five Divine Loongs, wishing you success in all endeavors and great fortune in the Year of the Loong."\n\nDuring the Spring Festival, a pair of mysterious siblings arrive in Taiwu Village, introducing themselves as the Loong Keepers. In pursuit of the Five Divine Loongs, who have escaped into the mortal world, they ask Taiwu for assistance...\nAccording to legend, divine loongs are said to be treasures in their own right. By subduing them, players can obtain immortal relics they leave behind, hatch Jiao Eggs, and raise young Jiaos, experiencing the joy of nurturing them as they grow.\nOnce successfully raised, a Jiao can serve as a mount, traveling alongside Taiwu through the world's great landscapes. If it later completes its transformation and becomes one of the Nine Loong Offspring, it will gain a significant increase in power.\n\nThe Five Divine Loongs DLC adds 31 types of Jiaos that can be raised, as well as 10 new vehicles, 5 special terrain types, and 5 new clothing outfits. It also includes new storylines, items, interactions, and additional special features, offering players even more to discover.
+Desc_4_0
+DLC Description
+Desc_4_1
+This DLC includes the "Lunarflare Peerless Attire" clothing.
+Desc_4_2
+Условие запуска
+Desc_4_3
+When the in-game world time reaches January, the People of Wanqiu will arrive to present Taiwu with a New Year clothing outfit, "Lunarflare Peerless Attire"\n\nLanterns glow bright and fortune shines upon you.\nThe loong scatters blessings, and prosperity follows.\nAs the Spring Festival arrives, the People of Wanqiu travel afar to tailor this new clothing for you, wishing you great success, happiness, and good health in the year ahead.
+Desc_4_4
+New Clothing: "Lunarflare Peerless Attire"
+Desc_4_5
+Loongs coil in the matchless night of painted candles, moonlight shrouds the figure in spring breeze. Woven from the moon and bloom, this vermilion gown channels auspicious energies. Its embroidering blooms with fortune, sleeves billowing with vernal promises.
+Desc_5_0
+DLC Description
+Desc_5_1
+After entering the game world, the People of Wanqiu will arrive to present Taiwu with 3 Year of the Serpent clothing outfits, "Serpentwind Robes."\nA blessed serpent dances among the clouds, fortune filling heaven and earth.\nWith lofty ambitions in heart, one's gaze is set a thousand miles ahead.\nAs the Spring Festival of the Year of the Serpent arrives, the People of Wanqiu travel from afar to tailor these new clothing outfits for you, wishing you peace, prosperity, and steady progress in the year ahead.
+Desc_5_2
+· New Clothing: Three "Serpentwind Robes"
+Desc_5_3
+Why seek omens in dreams when my presence itself heralds fortune? I stride the mortal realm as a dashing hero, my spirit touching the heavens. Wild songs upon my lips, I command clouds to become serpents that ride the mist, as I soar unfettered across boundless skies.
+Desc_6_0
+DLC Description
+Desc_6_1
+Upon entering the game world, the People of Wanqu will arrive to present Taiwu with the Year of the Horse outfit "Fragrant Steed Raiment."\nFire of the Horse steadies the earth, the spirit remains calm;\nRide swift and far, finding insight along the way.\nDuring the Spring Festival of the Year of the Horse, the People of Wanqu have come to craft this outfit for you, wishing you smooth travels, success in all endeavors, and fulfillment of every wish!
+Desc_6_2
+· New Clothing: "Fragrant Steed Raiment"
+Desc_6_3
+Jade measures clouds, gold shears rainbows. Needles fly like galloping steeds, weaving endless layers of splendor. As they say: No need to seek divine steeds afar, for mortal craft rivals heaven's work.
+Desc_7_0
+DLC Description
+Desc_7_1
+The original soundtrack of The Scroll of Taiwu, presented in lossless audio quality. This soundtrack includes a total of 52 original tracks from the game.
+Desc_7_2
+Track List
+Desc_7_3
+Added on April 5, 2019:\n\nBattle Music 5\nBattle Music 6\nStudy\n\nAdded on July 31, 2019:\n\nDayue Yaochang: Demonslayer's Traces\nJin Huang'er: Dance of Feng Cry\nJiu Han: Echoes in Empty Mountains\nMonu: Monu Weave\nSpellwright: Nine-Hued Clouds\nWei Qi: Ascension of the Loong \nThe Blood Maple: Clash to the Bitter End\nYi Yihou: Dancer in Crimson Flames\nYi Xiang: Vitalos\n\nEndless Search\nBattle Music 1\nBattle Music 2\n Battle Music 3\nBattle Music 4\nChengdu - Bright Moon above the Jin City\nDali - Cangshan Mountains and Erhai Lake\nFuzhou - Banyan City\nGuangzhou - Morning Market\nGuizhou - Ballad of the Mountains and Waters\nHangzhou - One Night by the West Lake\nJiangling - Narrow Pass\nXiangyang - Sun above the Xiang Water\nThe Capital - Nine-fold Palace Gates\nLiaoyang - The Liao River Flows to the East\nQinzhou - Dance of Western Regions\nQingzhou - Emerald Dome\nShouchun - Sound of Forest\nTaiwu Village - Words from the Past\nTaiyuan - Nine-bend Loong City\nYangzhou - Listening to Qing Qu in Jiangnan\nValley of Flowers - Blossom Sea\nEmei Sect - Mist and Rain in Emei\nFuloong Sanctuary - Volcano Horn\nVeil Scar Cliff - Moment of Malice\nVajra Sect - Might of Vajra\nKongsang Sect - Spring of Snow\nRanshan Sect - Clouds Surrounding the Ranshan Mountain\nShaolin Sect - Morning Lesson\nLion-Face Clan - Nine Dances of Majestic Lion\nFive Immortals Sect - Five Immortals\nWudang Sect - Tiangang Stars\nJade Maiden Peak - Bright Moonlight\nSanguine Sect - Blood Sacrifice\nYuanshan Sect - Greater & Lesser Yuanshan\nSwordsmith Villa - Iron Will\nCricket Fight\nDebate\nOblivion of Forms\nTen Lives of Extraordinariness\n\nComposition: 暴龙 (Baolong)\nArrangement: 暴龙 (Baolong)
+Desc_8_0
+DLC Description
+Desc_8_1
+The original soundtrack of The Scroll Of Taiwu includes 5 original battle tracks from the game.\n\nComposition: Baolong\nArrangement: Baolong
+Desc_8_2
+Track List
+Desc_8_3
+Obstinate\nBe Perverse\nTen Reincarnations\nSoothing Sadness\nWan Xiang
+Desc_8_4
+Авторы
+Desc_8_5
+Artist: 暴龙 (Baolong)\nComposition: 暴龙 (Baolong)\nLabel: ConchShip Games
+Desc_9_0
+DLC Description
+Desc_9_1
+Temporary Test
+

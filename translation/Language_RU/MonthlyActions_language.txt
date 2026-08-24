@@ -1,0 +1,171 @@
+Name_0
+Encounter - Betrothal Contest in the Capital - Prerequisite
+Name_1
+Encounter - Betrothal Contest in Chengdu - Prerequisite
+Name_2
+Encounter - Betrothal Contest in Guizhou - Prerequisite
+Name_3
+Encounter - Betrothal Contest in Xiangyang - Prerequisite
+Name_4
+Encounter - Betrothal Contest in Taiyuan - Prerequisite
+Name_5
+Encounter - Betrothal Contest in Guangzhou - Prerequisite
+Name_6
+Encounter - Betrothal Contest in Qingzhou - Prerequisite
+Name_7
+Encounter - Betrothal Contest in Jiangling - Prerequisite
+Name_8
+Encounter - Betrothal Contest in Fuzhou - Prerequisite
+Name_9
+Encounter - Betrothal Contest in Liaoyang - Prerequisite
+Name_10
+Encounter - Betrothal Contest in Qinzhou - Prerequisite
+Name_11
+Encounter - Betrothal Contest in Dali - Prerequisite
+Name_12
+Encounter - Betrothal Contest in Shouchun - Prerequisite
+Name_13
+Encounter - Betrothal Contest in Hangzhou - Prerequisite
+Name_14
+Encounter - Betrothal Contest in Yangzhou - Prerequisite
+Name_15
+Encounter - Wicked Beggars' Lair - Prerequisite
+Name_16
+Encounter - Thieves' Camp - Prerequisite
+Name_17
+Encounter - Villains' Valley - Prerequisite
+Name_18
+Encounter - Bandits' Stronghold - Prerequisite
+Name_19
+Encounter - Traitors' Hideout - Prerequisite
+Name_20
+Encounter - Enthralling Trap - Prerequisite
+Name_21
+Encounter - House of Eccentrics - Prerequisite
+Name_22
+Encounter - Mass Grave - Prerequisite
+Name_23
+Encounter - Killing Field - Prerequisite
+Name_24
+Encounter - Pandemonium - Prerequisite
+Name_25
+Encounter - Brink of Ruin - Prerequisite
+Name_26
+Encounter - Land of Death - Prerequisite
+Name_27
+Encounter - Hall of Xiake - Prerequisite
+Name_28
+Encounter - Alliance of Vigilantes - Prerequisite
+Name_29
+Encounter - Outlandish Secret Realm - Prerequisite
+Name_30
+Encounter - Martial World Tournament - Prerequisite
+Name_31
+Encounter - Betrothal Contest in the Capital (Female) - Prerequisite
+Name_32
+Encounter - Betrothal Contest in Chengdu (Female) - Prerequisite
+Name_33
+Encounter - Betrothal Contest in Guizhou (Female) - Prerequisite
+Name_34
+Encounter - Betrothal Contest in Xiangyang (Female) - Prerequisite
+Name_35
+Encounter - Betrothal Contest in Taiyuan (Female) - Prerequisite
+Name_36
+Encounter - Betrothal Contest in Guangzhou (Female) - Prerequisite
+Name_37
+Encounter - Betrothal Contest in Qingzhou (Female) - Prerequisite
+Name_38
+Encounter - Betrothal Contest in Jiangling (Female) - Prerequisite
+Name_39
+Encounter - Betrothal Contest in Fuzhou (Female) - Prerequisite
+Name_40
+Encounter - Betrothal Contest in Liaoyang (Female) - Prerequisite
+Name_41
+Encounter - Betrothal Contest in Qinzhou (Female) - Prerequisite
+Name_42
+Encounter - Betrothal Contest in Dali (Female) - Prerequisite
+Name_43
+Encounter - Betrothal Contest in Shouchun (Female) - Prerequisite
+Name_44
+Encounter - Betrothal Contest in Hangzhou (Female) - Prerequisite
+Name_45
+Encounter - Betrothal Contest in Yangzhou (Female) - Prerequisite
+Name_46
+Encounter - Sect Tournament (Shaolin) - Prerequisite
+Name_47
+Encounter - Sect Tournament (Emei) - Prerequisite
+Name_48
+Encounter - Sect Tournament (Valley of Flowers) - Prerequisite
+Name_49
+Encounter - Sect Tournament (Wudang) - Prerequisite
+Name_50
+Encounter - Sect Tournament (Yuanshan) - Prerequisite
+Name_51
+Encounter - Sect Tournament (Lion-Face Clan) - Prerequisite
+Name_52
+Encounter - Sect Tournament (Ranshan) - Prerequisite
+Name_53
+Encounter - Sect Tournament (Jade-Maiden Sect) - Prerequisite
+Name_54
+Encounter - Sect Tournament (Swordsmith Villa) - Prerequisite
+Name_55
+Encounter - Sect Tournament (Kongsang) - Prerequisite
+Name_56
+Encounter - Sect Tournament (Vajra) - Prerequisite
+Name_57
+Encounter - Sect Tournament (Five Immortals) - Prerequisite
+Name_58
+Encounter - Sect Tournament (Veil Scar) - Prerequisite
+Name_59
+Encounter - Sect Tournament (Fuloong Sanctuary) - Prerequisite
+Name_60
+Encounter - Sect Tournament (Sanguine) - Prerequisite
+Name_61
+Encounter - Springtime Market - Prerequisite
+Name_62
+Encounter - Fist Arts Tournament - Prerequisite
+Name_63
+Encounter - Finger Arts Tournament - Prerequisite
+Name_64
+Encounter - Kicking Arts Tournament - Prerequisite
+Name_65
+Encounter - Concealed Weapon Tournament - Prerequisite
+Name_66
+Encounter - Sword Arts Tournament - Prerequisite
+Name_67
+Encounter - Blade Arts Tournament - Prerequisite
+Name_68
+Encounter - Polearm Arts Tournament - Prerequisite
+Name_69
+Encounter - Exotic Weapons Tournament - Prerequisite
+Name_70
+Encounter - Whip Arts Tournament - Prerequisite
+Name_71
+Encounter - Ranged Weapons Tournament - Prerequisite
+Name_72
+Encounter - Instrument Arts Tournament - Prerequisite
+Name_73
+Encounter - Cricket Tournament - Prerequisite
+Name_74
+Encounter - Smithing Debate Tournament - Prerequisite
+Name_75
+Encounter - Debate Tournament: Carpentry - Prerequisite
+Name_76
+Encounter - Weaving Debate Tournament - Prerequisite
+Name_77
+Encounter - Jewelcrafting Debate Tournament - Prerequisite
+Name_78
+Encounter - Medical Art Debate Tournament - Prerequisite
+Name_79
+Encounter - Toxicology Debate Tournament - Prerequisite
+Name_80
+Encounter - Culinary Arts Debate Tournament - Prerequisite
+Name_81
+Encounter - True Legacy - Prerequisite
+Name_82
+Encounter - Tri-School Contest - Prerequisite
+Name_83
+Encounter - Grand Sword Trial - Prerequisite
+Name_84
+Encounter - Trinity Demonsbane Array - Prerequisite
+

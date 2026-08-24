@@ -1,0 +1,205 @@
+Name_0
+First Encounters
+Name_1
+Friend Summoning
+Name_2
+Romantic Bonds
+Name_3
+Destined Partners
+Name_4
+Offspring Born
+Name_5
+Sworn Siblings
+Name_6
+Fostered Offspring
+Name_7
+Acknowledging Parents
+Name_8
+Sparring Match Triumphs
+Name_9
+Trial Victories
+Name_10
+Brawl Victory
+Name_11
+Duel Victory
+Name_12
+Curing the Lost Minds
+Name_13
+Hideouts Eliminated
+Name_14
+Fine Arts Acquired
+Name_15
+Chapters Interpreted
+Name_16
+Interpreting Fragmented Texts
+Name_17
+Fine Arts Mastered
+Name_18
+Debate Won
+Name_19
+Fine Arts Handed Down
+Name_47
+Озарение
+Name_20
+Martial Arts Learned
+Name_21
+Chapters Interpreted
+Name_22
+Interpreting Fragmented Texts
+Name_23
+Martial Art Mastered
+Name_24
+Прорыв боевого искусства
+Name_25
+Martial Art Handed Down
+Name_48
+Небесный отклик
+Name_49
+Разгадать механизм
+Name_26
+Villages Constructed
+Name_27
+Resource
+Name_28
+Resources Gained
+Name_29
+Доход от управления
+Name_30
+Изготовление сокровищ
+Name_31
+Add Villagers
+Name_50
+Дать занятие
+Name_32
+Пойманные сверчки
+Name_33
+Бои сверчков
+Name_34
+Получены сведения
+Name_35
+Insights Used
+Name_36
+Greeting Letters Delivered
+Name_37
+Routes Connected
+Name_38
+Seek Support
+Name_39
+Encounters Completed
+Name_40
+Bastion of Will
+Name_41
+Sword Mastery
+Name_42
+Basic Aspiration Achieved
+Name_43
+Advanced Aspiration Achieved
+Name_44
+Expert Aspiration Achieved
+Name_45
+Aspiration Fulfilled
+Name_46
+
+ConditionDesc_0
+Meet people willingly...
+ConditionDesc_1
+Build a close bond with someone...
+ConditionDesc_2
+Fall in love with someone...
+ConditionDesc_3
+Hold a matrimonial rite and marry someone...
+ConditionDesc_4
+Give birth to children and protect them...
+ConditionDesc_5
+Share deep bonds and become sworn siblings...
+ConditionDesc_6
+Foster children and raise them with care and devotion...
+ConditionDesc_7
+Find foster parents and serve them loyally...
+ConditionDesc_8
+Spar with an opponent whose Pure Essence is no less than yours, emerging slightly victorious...
+ConditionDesc_9
+Fight an opponent whose Pure Essence is no less than yours in a Trial, parrying their moves with precision...
+ConditionDesc_10
+Fight an opponent whose Pure Essence is no less than yours in a Brawl, narrowly winning a perilous battle...
+ConditionDesc_11
+Fight an opponent whose Pure Essence is no less than yours in a Duel, triumphing after a grueling battle...
+ConditionDesc_12
+Drive away Xiangshu's Evil Will from the Bewitched with the Fuyu Hilt...
+ConditionDesc_13
+Charge deep into the Outlaw Base, ultimately annihilating its leaders...
+ConditionDesc_14
+Learn a new Fine Art...
+ConditionDesc_15
+Interpret a complete Fine Art Chapter...
+ConditionDesc_16
+Interpret incomplete or lost Fine Art Chapters...
+ConditionDesc_17
+Delve into a Fine Arts Book and grasp its profound essence...
+ConditionDesc_18
+Outperform an opponent whose Attainment is no less than yours in a Debate...
+ConditionDesc_19
+Any Taiwu Villager's Fine Arts Attainment reaches 450...
+ConditionDesc_47
+Triggered a Epiphany while studying a book and used the Study Strategy...
+ConditionDesc_20
+Learn a new Martial Art...
+ConditionDesc_21
+Interpret a complete Martial Arts Chapter...
+ConditionDesc_22
+Interpret an incomplete or lost Martial Arts Chapter
+ConditionDesc_23
+Any Martial Art's Combat Efficiency reaches 300...
+ConditionDesc_24
+Successfully break through the bottleneck of a Martial Art, mastering it...
+ConditionDesc_25
+Any Taiwu Villager's Martial Arts Attainment reaches 450...
+ConditionDesc_48
+Triggered Celestial Sense during the Microcosmic Circulation and used the Circulation Strategy...
+ConditionDesc_49
+Placed a Mechanism Item into a Mechanism Node...
+ConditionDesc_26
+Establish an Industry building in Taiwu Village...
+ConditionDesc_27
+Cultivate any Resource Spot in Taiwu Village...
+ConditionDesc_28
+Collect a sample of resource produced by resource buildings...
+ConditionDesc_29
+Collect an item produced by operation buildings...
+ConditionDesc_30
+Craft an item whose tier matches the current Xiangshu Invasion Progress...
+ConditionDesc_31
+Added new villagers to Taiwu Village...
+ConditionDesc_50
+Granted Taiwu Villager rank...
+ConditionDesc_32
+Capture a cricket...
+ConditionDesc_33
+Win a cricket duel against an opponent with a higher total cricket tier...
+ConditionDesc_34
+Gain insights through Adventure...
+ConditionDesc_35
+Engage in lighthearted conversations with others about the insights gained through Adventure...
+ConditionDesc_36
+Visit a sect for the first time and present a Greeting Letter...
+ConditionDesc_37
+Open a new way station to connect distant lands...
+ConditionDesc_38
+Earn the support of a sect member...
+ConditionDesc_39
+Push forward in an Encounter to reach its conclusion...
+ConditionDesc_40
+Fight fiercely against the Xiangshu Incarnation, repelling its invasion...
+ConditionDesc_41
+Defeat the Xiangshu Incarnation within the Sword Mound, allowing the divine sword to return to its rightful state...
+ConditionDesc_42
+Master a basic aspiration ability...
+ConditionDesc_43
+Master an advanced aspiration ability...
+ConditionDesc_44
+Master an expert aspiration ability...
+ConditionDesc_45
+Fulfill an aspiration...
+ConditionDesc_46
+Obtain Star Fortune by killing specific characters...
+

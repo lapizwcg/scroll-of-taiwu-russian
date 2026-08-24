@@ -1,0 +1,298 @@
+{
+  "title": "{CharacterFeature.Name}",
+  "paragraphs": [
+    {
+      "name": "Default",
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "{CharacterFeature.Desc}"
+        },
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 1
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "{CharacterFeature.EffectDesc}"
+        },
+        {
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "name": "effects",
+          "content": "Влияние черты"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "CombatSkillPowerBonuses01",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Мощь искусств ци",
+          "value": "{CharacterFeature.CombatSkillPowerBonuses01}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "CombatSkillPowerBonuses02",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Мощь Сокрушения",
+          "value": "{CharacterFeature.CombatSkillPowerBonuses02}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "CombatSkillPowerBonuses03",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Мощь Ловкости",
+          "value": "{CharacterFeature.CombatSkillPowerBonuses03}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "CombatSkillPowerBonuses04",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Мощь Защиты",
+          "value": "{CharacterFeature.CombatSkillPowerBonuses04}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "CombatSkillPowerBonuses05",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Мощь Прозорливости",
+          "value": "{CharacterFeature.CombatSkillPowerBonuses05}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FiveElementPowerBonuses01",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Мощь металлических искусств",
+          "value": "{CharacterFeature.FiveElementPowerBonuses01}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FiveElementPowerBonuses02",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Мощь деревянных искусств",
+          "value": "{CharacterFeature.FiveElementPowerBonuses02}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FiveElementPowerBonuses03",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Мощь водных искусств",
+          "value": "{CharacterFeature.FiveElementPowerBonuses03}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FiveElementPowerBonuses04",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Мощь огненных искусств",
+          "value": "{CharacterFeature.FiveElementPowerBonuses04}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FiveElementPowerBonuses05",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Мощь земляных искусств",
+          "value": "{CharacterFeature.FiveElementPowerBonuses05}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "CombatSkillSlotBonuses01",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Ячейка искусств ци",
+          "value": "{CharacterFeature.CombatSkillSlotBonuses01}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "CombatSkillSlotBonuses02",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Ячейка Сокрушения",
+          "value": "{CharacterFeature.CombatSkillSlotBonuses02}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "CombatSkillSlotBonuses03",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Ячейка Ловкости",
+          "value": "{CharacterFeature.CombatSkillSlotBonuses03}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "CombatSkillSlotBonuses04",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Ячейка Защиты",
+          "value": "{CharacterFeature.CombatSkillSlotBonuses04}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "CombatSkillSlotBonuses05",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Ячейка Прозорливости",
+          "value": "{CharacterFeature.CombatSkillSlotBonuses05}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "PersonalityCalm",
+          "title": "<SpName=mousetip_qiyuan_0> Собранность",
+          "value": "{CharacterFeature.PersonalityCalm}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "PersonalityClever",
+          "title": "<SpName=mousetip_qiyuan_1> Смекалка",
+          "value": "{CharacterFeature.PersonalityClever}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "PersonalityEnthusiastic",
+          "title": "<SpName=mousetip_qiyuan_2> Пылкость",
+          "value": "{CharacterFeature.PersonalityEnthusiastic}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "PersonalityBrave",
+          "title": "<SpName=mousetip_qiyuan_3> Отвага",
+          "value": "{CharacterFeature.PersonalityBrave}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "PersonalityFirm",
+          "title": "<SpName=mousetip_qiyuan_4> Упорство",
+          "value": "{CharacterFeature.PersonalityFirm}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "PersonalityLucky",
+          "title": "<SpName=mousetip_qiyuan_5> Удача",
+          "value": "{CharacterFeature.PersonalityLucky}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "PersonalityPerceptive",
+          "title": "<SpName=mousetip_qiyuan_6> Согласие",
+          "value": "{CharacterFeature.PersonalityPerceptive}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor01",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Рост расположения",
+          "value": "{CharacterFeature.FavorabilityIncrementFactor}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor02",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Падение расположения",
+          "value": "{CharacterFeature.FavorabilityDecrementFactor}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor03",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Вероятность полюбить нескольких",
+          "value": "{CharacterFeature.AdoreMultiplePeopleChanceFactor}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor04",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Изменение смятения дыхания",
+          "value": "{CharacterFeature.QiDisorderDelta}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor05",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Изменение здоровья",
+          "value": "{CharacterFeature.HealthDelta}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor06",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Снижение наибольшей истинной ци",
+          "value": "{CharacterFeature.MaxNeiliAllocationDebuff}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor07",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Влияние на репутацию в секте",
+          "value": "{CharacterFeature.SectFameBonu}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor08",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Влияние на репутацию вне секты",
+          "value": "{CharacterFeature.NotSectFameBonu}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor09",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Влияние на репутацию Тайу",
+          "value": "{CharacterFeature.TaiwuFameBonu}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor10",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Усиление токсинов",
+          "value": "{CharacterFeature.AttachPoisonBonus}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor11",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Усиление очищения от ядов",
+          "value": "{CharacterFeature.DetoxPoisonBonus}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor12",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Усиление лечения внешних ран",
+          "value": "{CharacterFeature.HealOuterBonus}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor13",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Усиление лечения внутренних ран",
+          "value": "{CharacterFeature.HealInnerBonus}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor14",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Усиление смятения",
+          "value": "{CharacterFeature.QiDisorderDebuffPercent}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor15",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Восстановление от смятения",
+          "value": "{CharacterFeature.QiDisorderBuffPercent}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "name": "FavorabilityIncrementFactor16",
+          "title": "<SpName=ui9_mousetip_icon_temp_0> Усиление восстановления здоровья",
+          "value": "{CharacterFeature.HealthRecovery}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+Name_0
+Собирать провизию
+Name_1
+Chop Wood
+Name_2
+Unearth Metals
+Name_3
+Unearth Jade
+Name_4
+Собирать ткань
+Name_5
+Собирать травы
+Name_6
+Excavate\nOnce
+Name_7
+Excavate\nContinuously
+Name_8
+Mark Location
+Name_9
+Remove Marker
+Name_10
+Отправить жителей
+Name_11
+Change villager
+Name_12
+Dismiss All
+Name_13
+Быстрая отправка
+Name_14
+Lock dispatch
+Name_15
+View Info
+Name_16
+Наготове
+Name_17
+Guard
+Summary_0
+Foodstuff-rich tiles yield more Foodstuff when gathered, and offer a higher chance of obtaining Foodstuff Reagent...
+Summary_1
+Wood-rich tiles yield more Wood when gathered, and offer a higher chance of obtaining Wood Reagent...
+Summary_2
+Jade-rich tiles yield more Jade when gathered, and offer a higher chance of obtaining Jade Reagent...
+Summary_3
+Jade-rich tiles yield more Jade when gathered, and offer a higher chance of obtaining Jade Reagent...
+Summary_4
+Fabric-rich tiles yield more Fabric when gathered, and offer a higher chance of obtaining Fabric Reagent...
+Summary_5
+Herb-rich tiles yield more Herb when gathered, and offer a higher chance of obtaining Herb Reagent...
+Summary_6
+Spend Energy to perform an excavation
+Summary_7
+Excavate until something is found or until Energy is exhausted
+Summary_8
+Mark locations to keep tabs on them. You can also dispatch characters to / recall characters from locations at any time...
+Summary_9
+Remove location marker...
+Summary_10
+Dispatch villagers here...
+Summary_11
+Select a new villager
+Summary_12
+Cancel villager dispatch
+Summary_13
+Dispatch a villager...
+Summary_14
+Lock onto this villager
+Summary_15
+View current villager information
+Summary_16
+Dispatch villagers to stand by in this area...
+Summary_17
+Dispatch villager to guard this grave
+Desc_0
+
+Desc_1
+
+Desc_2
+
+Desc_3
+
+Desc_4
+
+Desc_5
+
+Desc_6
+
+Desc_7
+
+Desc_8
+
+Desc_9
+
+Desc_10
+If the current tile is not marked, it will be marked automatically
+Desc_11
+
+Desc_12
+
+Desc_13
+
+Desc_14
+
+Desc_15
+
+Desc_16
+
+Desc_17
+The guarded grave will not lose durability and will not be raided.
+TimeConsumeDesc_0
+Energy costs:
+TimeConsumeDesc_1
+Energy costs:
+TimeConsumeDesc_2
+Energy costs:
+TimeConsumeDesc_3
+Energy costs:
+TimeConsumeDesc_4
+Energy costs:
+TimeConsumeDesc_5
+Energy costs:
+TimeConsumeDesc_6
+Energy costs:
+TimeConsumeDesc_7
+Energy costs:
+TimeConsumeDesc_8
+
+TimeConsumeDesc_9
+
+TimeConsumeDesc_10
+
+TimeConsumeDesc_11
+
+TimeConsumeDesc_12
+
+TimeConsumeDesc_13
+
+TimeConsumeDesc_14
+
+TimeConsumeDesc_15
+
+TimeConsumeDesc_16
+
+TimeConsumeDesc_17
+

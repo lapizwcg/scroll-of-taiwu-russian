@@ -1,0 +1,17 @@
+Name_0
+Surging
+Name_1
+Солнцерез
+Name_2
+(Выполняется сценарий…)
+Name_3
+Продолжить
+Desc_0
+Execute all child nodes in sequence until an action node
+Desc_1
+Determine the next node based on conditions
+Desc_2
+Execute specific action
+Desc_3
+Execute the first child node, then another node
+

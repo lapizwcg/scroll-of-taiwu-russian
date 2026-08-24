@@ -1,0 +1,81 @@
+Name_0
+Нет
+Name_1
+Feast of Fruits
+Name_2
+Vegetarian Feast
+Name_3
+Feast of Fowl
+Name_4
+Feast of Beasts
+Name_5
+Seafood Feast
+Name_6
+Scholars' Gathering
+Name_7
+Winding Stream Party
+Name_8
+Harmony Feast
+Name_9
+Fortune Feast
+Desc_0
+
+Desc_1
+
+Desc_2
+
+Desc_3
+
+Desc_4
+
+Desc_5
+
+Desc_6
+
+Desc_7
+
+Desc_8
+
+Desc_9
+
+ConditionDesc_0
+
+ConditionDesc_1
+Set 3 fruit dishes
+ConditionDesc_2
+Set 3 vegetarian dishes
+ConditionDesc_3
+Set 3 poultry dishes
+ConditionDesc_4
+Set 3 beast dishes
+ConditionDesc_5
+Set 3 fish dishes
+ConditionDesc_6
+Set 3 dishes, with at least 2 tea dishes
+ConditionDesc_7
+Set 3 dishes, with at least 2 liquor dishes
+ConditionDesc_8
+Set any 3 dishes of different types
+ConditionDesc_9
+Set any 3 Divine Tier 1 dishes
+EffectDesc_0
+
+EffectDesc_1
+Guest mood increase: +50%\nGuest Favorability increase: +100%\nThis guest will earn bonus XP...
+EffectDesc_2
+Guest mood increase: +50%\nGuest Favorability increase: +100%\nThis guest will also gain equal Favorability toward another guest in the feast...
+EffectDesc_3
+Guest mood increase: +50%\nGuest Favorability increase: +100%\nThis guest will gain increased efficiency from studying Fine Arts Books this month...
+EffectDesc_4
+Guest mood increase: +50%\nGuest Favorability increase: +100%\nThis guest will gain increased efficiency from studying Martial Arts books this month...
+EffectDesc_5
+Guest mood increase: +50%\nGuest Favorability increase: +100%\nThis guest will gain increased efficiency during Microcosmic Circulation this month...
+EffectDesc_6
+Guest Favorability increase: +200%
+EffectDesc_7
+Guest mood increase: +100%
+EffectDesc_8
+Guest mood increase: +50%\nGuest Favorability increase: +50%\nThis guest can even enjoy the dishes they usually dislike...
+EffectDesc_9
+Guest mood increase: +150%\nGuest Favorability increase: +300%\nAll dishes are regarded as the guest's favorite dishes, with their Greet Back tier also increased...
+

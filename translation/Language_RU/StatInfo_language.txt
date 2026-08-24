@@ -1,0 +1,576 @@
+Name_0
+Number of Boars
+Name_1
+Characters that loves Taiwu
+Name_2
+Characters Currently Hating Taiwu
+Name_3
+Characters that loves and Hates Taiwu
+Name_4
+Secrets Held
+Name_5
+Debates Won
+Name_6
+Max-Level Storehouses
+Name_7
+Banquets Unlocked
+Name_8
+Successful Breakthroughs
+Name_9
+Breakthrough Pure Deviations
+Name_10
+Villager Identities Granted
+Name_11
+Failed Grooming Attempts
+Name_12
+Chickens Adopted
+Name_13
+Пойманные сверчки
+Name_14
+Dimwitted Crickets Captured
+Name_15
+Champion Cricket: Unique Captured
+Name_16
+Enable Abyss Mode
+Name_17
+Max Favorability with Oxback Caravan
+Name_18
+Max Favorability with Vault of Volumes
+Name_19
+Max Favorability with Yangtze Merchant League
+Name_20
+Max Favorability with Champion's Armaments
+Name_21
+Max Favorability with Revival Apothecary
+Name_22
+Max Favorability with Gongshu's Caravan
+Name_23
+Max Favorability with Pavilion of Wonders
+Name_24
+Craft a piece of tier 1 metal equipment.
+Name_25
+Craft a piece of tier 1 wood equipment.
+Name_26
+Craft a piece of tier 1 fabric equipment.
+Name_27
+Craft a piece of tier 1 jade equipment.
+Name_28
+Craft a tier 1 concoction.
+Name_29
+Craft a tier 1 poison.
+Name_30
+Craft a tier 1 dish.
+Name_58
+View Main Story Progress
+Name_31
+Captured the River Python
+Name_32
+Cleared the Wicked Beggars' Lair
+Name_33
+Cleared the Thieves' Camp
+Name_34
+Cleared the Bandits' Stronghold
+Name_35
+Cleared the Traitors' Hideout
+Name_36
+Cleared the Villains' Valley
+Name_37
+Cleared the Enthralling Trap
+Name_38
+Cleared the Mass Grave
+Name_39
+Cleared the House of Eccentrics
+Name_40
+Cleared the Land of Death
+Name_41
+Cleared the Killing Field
+Name_42
+Cleared Pandemonium
+Name_43
+Cleared the Brink of Ruin
+Name_44
+Cleared the Hall of Xiake
+Name_45
+Cleared the Alliance of Vigilantes
+Name_46
+Cleared the Outlandish Secret Realm
+Name_47
+Legacy Points Accepted by Taiwu
+Name_48
+Legacy Cards Accepted by Taiwu
+Name_49
+Last Reincarnation: Kinsman
+Name_50
+Last Reincarnation: Stranger
+Name_51
+Last Reincarnation: Companion
+Name_52
+Sword Successions
+Name_53
+Last Reincarnation: Previous Taiwu
+Name_54
+Souls Guided through the Reincarnation Platform
+Name_55
+Reincarnation Platform Tier
+Name_56
+Tea-Horse Caravan Tier
+Name_57
+Way Stations Established
+Name_59
+Taiwu's Journey Begins
+Name_60
+Imprint a Character onto the Sword Hilt
+Name_61
+Персонажи с Начертанием участвуют в становлении мира
+Name_62
+Unlock an Aspiration skill.
+Name_63
+All Skills of Any One Aspiration Unlocked
+Name_64
+All Mountain Dweller Skills Unlocked
+Name_65
+All Hunter Skills Unlocked
+Name_66
+All Artisan Skills Unlocked
+Name_67
+All Martial Artist Skills Unlocked
+Name_68
+All Scholar Skills Unlocked
+Name_69
+All Taoist Skills Unlocked
+Name_70
+All Eminent Monk Skills Unlocked
+Name_71
+All Gallant Skills Unlocked
+Name_72
+All Highborn Skills Unlocked
+Name_73
+All Beggar Skills Unlocked
+Name_74
+All Commoner Skills Unlocked
+Name_75
+All Traveler Skills Unlocked
+Name_76
+All Wandering Monk Skills Unlocked
+Name_77
+All Doctor Skills Unlocked
+Name_78
+All Wandering Taoist Skills Unlocked
+Name_79
+All Magnate Skills Unlocked
+Name_80
+All Noble Skills Unlocked
+Name_81
+All Royalty Skills Unlocked
+Name_82
+All Aspirations Mastered
+Name_83
+Annihilation True Qi Target Reached
+Name_84
+Nimble True Qi Target Reached
+Name_85
+Protection True Qi Target Reached
+Name_86
+Acumen True Qi Target Reached
+Name_87
+Common Natural Resource Tier Target Reached
+Name_88
+Rare Natural Resource Tier Target Reached
+Name_89
+Won a Cricket Duel
+Name_90
+Selected a Mindset-Compatible Option
+Name_91
+Selected a Mindset-Compatible Option
+Name_92
+Shaolin Alliance
+Name_93
+Emei Alliance
+Name_94
+Valley of Flowers Alliance
+Name_95
+Wudang Alliance
+Name_96
+Yuanshan Alliance
+Name_97
+Lion-Face Alliance
+Name_98
+Ranshan Alliance
+Name_99
+Jade-Maiden Alliance
+Name_100
+Swordsmiths Alliance
+Name_101
+Kongsang Alliance
+Name_102
+Vajra Alliance
+Name_103
+Five Immortals Alliance
+Name_104
+Veil Scar Alliance
+Name_105
+Fuloong Alliance
+Name_106
+Sanguine Alliance
+Name_107
+Жители деревни Тайу
+Name_108
+Moundbreakers Defeated
+Name_109
+Sparring Match Triumphs
+Name_110
+Brawl Wins
+Name_111
+Trial Victories
+Name_112
+Duel Victories
+Name_113
+Многообразие
+Name_114
+Best to Run for Now
+Name_115
+Your Skill Surpasses Mine
+Name_116
+Bound Tight
+Name_117
+Bewitched Characters Cured
+Name_118
+Underlings Defeated
+Name_119
+Outlaws Defeated
+Name_120
+Vigilantes Defeated
+Name_121
+Animals Defeated
+Name_122
+Annihilation Techniques Dodged
+Name_123
+Annihilation Techniques Defended
+Name_124
+Pinpoint Strikes Landed
+Name_125
+Companion Instructions Refreshed
+Name_126
+Negative Instructions Encountered
+Name_127
+Victories against Higher Tiers
+Name_128
+Fist Arts Unleashed
+Name_129
+Finger Arts Unleashed
+Name_130
+Kicking Arts Unleashed
+Name_131
+Concealed Weapon Arts Unleashed
+Name_132
+Sword Arts Unleashed
+Name_133
+Blade Arts Unleashed
+Name_134
+Polearm Arts Unleashed
+Name_135
+Exotic Weapon Arts Unleashed
+Name_136
+Whip Arts Unleashed
+Name_137
+Ranged Weapon Arts Unleashed
+Name_138
+Instrument Arts Unleashed
+Name_139
+Annihilation Techniques Unleashed at 100% Power
+Name_140
+Annihilation Techniques Unleashed at 0% Power
+Name_141
+Crippling Blows
+Name_142
+Unbroken Will
+Name_143
+Enemy Mixed-Toxin Outbreaks Triggered
+Name_144
+Surging Qi
+Name_145
+Qi Collapse
+Name_146
+Cumulative Wound Markers Inflicted
+Name_147
+Practice Makes Perfect
+Name_148
+Defeat all Sword Mound Incarnations
+Name_149
+Уход из долины
+Name_150
+Leaving the Secluded Village.
+Name_151
+Arrive at Taiwu Village.
+Name_152
+Rebuild the Taiwu Ancestral Temple.
+Name_153
+Rebuild the Way Station of Taiwu Village.
+Name_154
+Clear the Sword Mound: Monu Weave
+Name_155
+Clear the Sword Mound: Spiritsealer
+Name_156
+Clear the Sword Mound: Dark Frost
+Name_157
+Clear the Sword Mound: Fenghuang Cocoon
+Name_158
+Clear the Sword Mound: Ignideus Blaze
+Name_159
+Clear the Sword Mound: Candelor's Tail
+Name_160
+Clear the Sword Mound: Vitalos
+Name_161
+Clear the Sword Mound: Demonbind
+Name_162
+Clear the Sword Mound: Rainbow Ultima
+Name_163
+Obtain all Divine Sword Hilts.
+Name_164
+Secret Tomes are scattered across the world.
+Name_165
+Encounter the unexpected incident at the Martial World Tournament.
+Name_166
+Defeat the Three Fiends.
+Name_167
+Face Xiangshu in the Land of Blackstones.
+Name_168
+Achieve the ending: Return of the Dreaming Soul.
+Name_169
+Achieve the ending: Might of Divine Flame.
+Name_170
+Achieve the ending: Way of Unity
+Name_171
+Achieve the ending: Mystic True Demon
+Name_172
+Subdue the Great Monkey in the valley.
+Name_173
+Invite A'niu as your companion.
+Name_174
+Invite Xu Xiaomao as your companion.
+Name_175
+Invite Guo Yan as your companion.
+Name_176
+Invite Situ Huanyue as your companion.
+Name_177
+Capture the Python in "Hidden Mountain River."
+Name_178
+The Sword Mounds appear near Taiwu Village.
+Name_179
+Taiwu Village is destroyed.
+Name_180
+Witness the story of Monu.
+Name_181
+Witness the story of Dayue Yaochang.
+Name_182
+Witness the story of Jiu Han.
+Name_183
+Witness the story of Jin Huang'er.
+Name_184
+Witness the story of Yi Yihou.
+Name_185
+Witness the story of Wei Qi.
+Name_186
+Witness the story of Yi Xiang.
+Name_187
+Witness the story of The Blood Maple.
+Name_188
+Witness the story of Spellwright.
+Name_189
+Complete the Regional Story: Path of Chan Arts.
+Name_190
+Complete the Epilogue of the Regional Story: Path of Chan Arts.
+Name_191
+Complete the Regional Story: White Ape Hermit.
+Name_192
+Complete the Epilogue of the Regional Story: White Ape Hermit
+Name_193
+Complete the Regional Story: Dark Owl & White Deer.
+Name_194
+Complete the Epilogue of the Regional Story: Dark Owl & White Deer
+Name_195
+Complete the Regional Story: Coiled Shellsnake.
+Name_196
+Complete the Epilogue of the Regional Story: Coiled Shellsnake
+Name_197
+Complete the Regional Story: Three Imprisoned Demons
+Name_198
+Complete the Epilogue of the Regional Story: Three Imprisoned Demons
+Name_199
+Complete the Regional Story: Cultured Warrior.
+Name_200
+Complete the Epilogue of the Regional Story: Cultured Warrior
+Name_201
+Complete the Regional Story: Qinglang Pavilion.
+Name_202
+Complete the Epilogue of the Regional Story: Qinglang Pavilion
+Name_203
+Complete the Regional Story: Reflections in Reverse.
+Name_204
+Complete the Epilogue of the Regional Story: Reflections in Reverse
+Name_205
+Complete the Regional Story: Smithing Training.
+Name_206
+Complete the Epilogue of the Regional Story: Smithing Training
+Name_207
+Complete the Regional Story: Peerless Poison.
+Name_208
+Complete the Epilogue of the Regional Story: Peerless Poison
+Name_209
+Complete the Regional Story: Wordless Sutra.
+Name_210
+Complete the Epilogue of the Regional Story: Wordless Sutra
+Name_211
+Complete the Regional Story: Quintessence Heartbane.
+Name_212
+Complete the Epilogue of the Regional Story: Quintessence Heartbane
+Name_213
+Complete the Regional Story: Beyond Good and Evil.
+Name_214
+Complete the Epilogue of the Regional Story: Beyond Good and Evil
+Name_215
+Complete the Regional Story: Fuloong Plumes.
+Name_216
+Complete the Epilogue of the Regional Story: Fuloong Plumes
+Name_217
+Complete the Regional Story: Blood Tomb Beauty.
+Name_218
+Complete the Epilogue of the Regional Story: Blood Tomb Beauty
+Name_219
+Complete all tutorial volumes.
+Name_220
+Use Fuyu's Will to delay the Blackstone Ash Erosion for someone.
+Name_221
+Invite someone as your companion.
+Name_222
+Marry another character.
+Name_223
+Give birth to a cricket.
+Name_224
+Trigger the Encounter [Soaring Escape]
+Name_225
+Become sworn siblings with another character.
+Name_226
+Adopt or be adopted as family.
+Name_227
+Number of successful [Compliment] actions
+Name_228
+Number of successful [Criticize] actions
+Name_229
+
+Name_230
+
+Name_231
+
+Name_232
+
+Name_233
+
+Name_234
+
+Name_235
+
+Name_236
+
+Name_237
+
+Name_238
+
+Name_239
+
+Name_240
+
+Name_241
+
+Name_242
+
+Name_243
+
+Name_244
+
+Name_245
+
+Name_246
+
+Name_247
+
+Name_248
+
+Name_249
+
+Name_250
+
+Name_251
+
+Name_252
+
+Name_253
+
+Name_254
+
+Name_255
+
+Name_256
+
+Name_257
+
+Name_258
+
+Name_259
+
+Name_260
+
+Name_261
+
+Name_262
+
+Name_263
+
+Name_264
+
+Name_265
+
+Name_266
+
+Name_267
+
+Name_268
+
+Name_269
+
+Name_270
+
+Name_271
+
+Name_272
+
+Name_273
+
+Name_274
+
+Name_275
+
+Name_276
+
+Name_277
+
+Name_278
+
+Name_279
+
+Name_280
+
+Name_281
+
+Name_282
+
+Name_283
+
+Name_284
+
+Name_285
+
+Name_286
+
+Name_287
+

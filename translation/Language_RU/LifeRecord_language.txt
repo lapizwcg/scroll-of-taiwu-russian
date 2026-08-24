@@ -1,0 +1,5605 @@
+Name_0
+Departed
+Name_1
+Strayed into Evil
+Name_2
+Совращён Сяншу
+Name_3
+Потеря ребёнка
+Name_4
+Потеря ребёнка
+Name_5
+Abandoned Child
+Name_6
+Заброшено
+Name_7
+Anomalous Birth of Cricket
+Name_8
+Родился сын
+Name_9
+Родилась дочь
+Name_10
+Родился сын
+Name_11
+Родилась дочь
+Name_12
+Grave Constructed
+Name_13
+Dietary Vow Breached
+Name_14
+Вырвался на волю
+Name_15
+Captive Escaped
+Name_16
+Study Succeeded
+Name_17
+Study Failed
+Name_18
+Прорыв затора
+Name_19
+Impeded Threshold
+Name_20
+Martial Art Learned
+Name_21
+Fine Art Learned
+Name_22
+Починка предмета
+Name_23
+Отравить предмет
+Name_24
+Resource Lost
+Name_25
+Item Lost
+Name_26
+Grudge Formed
+Name_27
+Resolve Grudges
+Name_28
+Grudge Formed
+Name_29
+Resolve Grudges
+Name_30
+Had a Crush
+Name_31
+Love at First Sight
+Name_32
+Reciprocal Love
+Name_33
+Unrequited Love
+Name_34
+Reciprocal Love
+Name_35
+Unrequited Love
+Name_36
+Fated to Part
+Name_37
+Fated to Part
+Name_38
+Fated to Part
+Name_39
+Свадебный союз
+Name_40
+Deep Love, Shallow Fate
+Name_41
+Deep Love, Shallow Fate
+Name_42
+Befriended
+Name_43
+Antagonized
+Name_44
+Sworn Siblings
+Name_45
+Sever Sworn Siblinghood
+Name_46
+Новый приёмный отец
+Name_47
+New Foster Mother
+Name_48
+Сын усыновлён
+Name_49
+Дочь удочерена
+Name_50
+Faction Established
+Name_51
+Joined Faction
+Name_52
+Left Faction
+Name_53
+Recruitment Succeeded
+Name_54
+Recruitment Failed
+Name_55
+Recruitment Accepted
+Name_56
+Recruitment Refused
+Name_57
+Journey to Apprenticeship
+Name_58
+Идёт на встречу
+Name_59
+Идёт защищать
+Name_60
+Идёт на выручку
+Name_61
+Journey to Memorialize
+Name_62
+Going to Visit
+Name_63
+Going to Find Treasure
+Name_64
+Quest for Nature's Bounty
+Name_65
+Идёт мстить
+Name_66
+Encounter Participation
+Name_67
+Apprenticeship Denied
+Name_68
+Apprenticeship Secured
+Name_69
+Aborted Appointment
+Name_70
+Ждёт встречи
+Name_71
+Meet-up Complete
+Name_72
+Protection Ended
+Name_73
+Защита близких
+Name_74
+Rescue Ended
+Name_75
+Tribute Concluded
+Name_76
+Grave Restored
+Name_77
+Grave Expanded
+Name_78
+Visit Ended
+Name_79
+Treasure Hunt Ended
+Name_80
+Bounty Search Ended
+Name_81
+Treasure Found
+Name_82
+Fruitless Treasure Hunt
+Name_83
+Nature Bounty Secured
+Name_84
+Revenge Ended
+Name_85
+Complete Victory
+Name_86
+Complete Defeat
+Name_87
+Battle Won
+Name_88
+Battle Lost
+Name_89
+Enemy Escaped
+Name_90
+Narrow Escape
+Name_91
+Publicly Execute
+Name_92
+Secretly Execute
+Name_93
+Public Captivity
+Name_94
+Secret Captivity
+Name_95
+Forgiveness Granted
+Name_96
+Public Captivity
+Name_97
+Secret Captivity
+Name_98
+Released
+Name_99
+Accepted Protection Request
+Name_100
+Rejected Protection Request
+Name_101
+Encounter Ended
+Name_102
+Plead for External Healing
+Name_103
+Plead for Internal Healing
+Name_104
+Plead for Detox
+Name_105
+Plead for Life Extension
+Name_106
+Plead for Inner Breath Regulation
+Name_107
+Plead for Qi Restoration
+Name_108
+Plead for Gu Elimination
+Name_109
+Plead for Food Offering
+Name_110
+Plead for Tea and Liquor
+Name_111
+Plead for Resources
+Name_112
+Plead for Item
+Name_113
+Plead for Mending
+Name_114
+Request for Envenoming
+Name_115
+Plead for Fine Arts
+Name_116
+Plead for Martial Arts Training
+Name_117
+Learning Unachieved
+Name_118
+Learning Unachieved
+Name_119
+Plead for Study Assistance
+Name_120
+Plead for Breakthrough Assistance
+Name_121
+Denied Request
+Name_122
+Denied Request
+Name_123
+Denied Request
+Name_124
+Denied Request
+Name_125
+Denied Request
+Name_126
+Denied Request
+Name_127
+Denied Request
+Name_128
+Denied Request
+Name_129
+Denied Request
+Name_130
+Denied Request
+Name_131
+Denied Request
+Name_132
+Denied Request
+Name_133
+Denied Request
+Name_134
+Denied Request
+Name_135
+Denied Request
+Name_136
+Denied Request
+Name_137
+Denied Request
+Name_138
+Generous in Giving
+Name_139
+Generous in Giving
+Name_140
+Generous in Giving
+Name_141
+Generous in Giving
+Name_142
+Generous in Giving
+Name_143
+Generous in Giving
+Name_144
+Generous in Giving
+Name_145
+Generous in Giving
+Name_146
+Generous in Giving
+Name_147
+Generous in Giving
+Name_148
+Generous in Giving
+Name_149
+Generous in Giving
+Name_150
+Generous in Giving
+Name_151
+Generous in Giving
+Name_152
+Generous in Giving
+Name_153
+Generous in Giving
+Name_154
+Generous in Giving
+Name_155
+Generous in Giving
+Name_156
+Generous in Giving
+Name_157
+Refused to Help
+Name_158
+Refused to Help
+Name_159
+Refused to Help
+Name_160
+Refused to Help
+Name_161
+Refused to Help
+Name_162
+Refused to Help
+Name_163
+Refused to Help
+Name_164
+Refused to Help
+Name_165
+Refused to Help
+Name_166
+Refused to Help
+Name_167
+Refused to Help
+Name_168
+Refused to Help
+Name_169
+Refused to Help
+Name_170
+Refused to Help
+Name_171
+Refused to Help
+Name_172
+Refused to Help
+Name_173
+Refused to Help
+Name_174
+Steal Captive
+Name_175
+Steal Captive
+Name_176
+Steal Captive
+Name_177
+Steal Captive
+Name_178
+Steal Captive
+Name_179
+Steal Captive
+Name_180
+Steal Captive
+Name_181
+Bluff Captive
+Name_182
+Bluff Captive
+Name_183
+Bluff Captive
+Name_184
+Bluff Captive
+Name_185
+Bluff Captive
+Name_186
+Bluff Captive
+Name_187
+Bluff Captive
+Name_188
+Seize Captive
+Name_189
+Seize Captive
+Name_190
+Seize Captive
+Name_191
+Seize Captive
+Name_192
+Seize Captive
+Name_193
+Seize Captive
+Name_194
+Seize Captive
+Name_195
+Clandestine Poisoning
+Name_196
+Clandestine Poisoning
+Name_197
+Clandestine Poisoning
+Name_198
+Clandestine Poisoning
+Name_199
+Clandestine Poisoning
+Name_200
+Clandestine Poisoning
+Name_201
+Clandestine Poisoning
+Name_202
+Тайный вред
+Name_203
+Тайный вред
+Name_204
+Тайный вред
+Name_205
+Тайный вред
+Name_206
+Тайный вред
+Name_207
+Тайный вред
+Name_208
+Тайный вред
+Name_209
+Кража ресурсов
+Name_210
+Кража ресурсов
+Name_211
+Кража ресурсов
+Name_212
+Кража ресурсов
+Name_213
+Кража ресурсов
+Name_214
+Кража ресурсов
+Name_215
+Кража ресурсов
+Name_216
+Кража ресурсов
+Name_217
+Кража ресурсов
+Name_218
+Ресурсы выманены обманом
+Name_219
+Ресурсы выманены обманом
+Name_220
+Ресурсы выманены обманом
+Name_221
+Ресурсы выманены обманом
+Name_222
+Ресурсы выманены обманом
+Name_223
+Ресурсы выманены обманом
+Name_224
+Ресурсы выманены обманом
+Name_225
+Ресурсы выманены обманом
+Name_226
+Ресурсы выманены обманом
+Name_227
+Ресурсы отняты силой
+Name_228
+Ресурсы отняты силой
+Name_229
+Ресурсы отняты силой
+Name_230
+Ресурсы отняты силой
+Name_231
+Ресурсы отняты силой
+Name_232
+Ресурсы отняты силой
+Name_233
+Ресурсы отняты силой
+Name_234
+Ресурсы отняты силой
+Name_235
+Ресурсы отняты силой
+Name_236
+Кража вещей
+Name_237
+Кража вещей
+Name_238
+Кража вещей
+Name_239
+Кража вещей
+Name_240
+Кража вещей
+Name_241
+Кража вещей
+Name_242
+Кража вещей
+Name_243
+Кража вещей
+Name_244
+Кража вещей
+Name_245
+Вещи выманены обманом
+Name_246
+Вещи выманены обманом
+Name_247
+Вещи выманены обманом
+Name_248
+Вещи выманены обманом
+Name_249
+Вещи выманены обманом
+Name_250
+Вещи выманены обманом
+Name_251
+Вещи выманены обманом
+Name_252
+Вещи выманены обманом
+Name_253
+Вещи выманены обманом
+Name_254
+Snatched Item Retrieved
+Name_255
+Snatched Item Retrieved
+Name_256
+Snatched Item Retrieved
+Name_257
+Snatched Item Retrieved
+Name_258
+Snatched Item Retrieved
+Name_259
+Snatched Item Retrieved
+Name_260
+Snatched Item Retrieved
+Name_261
+Snatched Item Retrieved
+Name_262
+Snatched Item Retrieved
+Name_263
+Grave Robber
+Name_264
+Grave Robber
+Name_265
+Grave Robber
+Name_266
+Grave Robber
+Name_267
+Fine Art Stealing
+Name_268
+Fine Art Stealing
+Name_269
+Fine Art Stealing
+Name_270
+Fine Art Stealing
+Name_271
+Fine Art Stealing
+Name_272
+Fine Art Stealing
+Name_273
+Fine Art Stealing
+Name_274
+Ремесло выманено обманом
+Name_275
+Ремесло выманено обманом
+Name_276
+Ремесло выманено обманом
+Name_277
+Ремесло выманено обманом
+Name_278
+Ремесло выманено обманом
+Name_279
+Ремесло выманено обманом
+Name_280
+Ремесло выманено обманом
+Name_281
+Stealing Martial Arts
+Name_282
+Stealing Martial Arts
+Name_283
+Stealing Martial Arts
+Name_284
+Stealing Martial Arts
+Name_285
+Stealing Martial Arts
+Name_286
+Stealing Martial Arts
+Name_287
+Stealing Martial Arts
+Name_288
+Martial Arts Swindle
+Name_289
+Martial Arts Swindle
+Name_290
+Martial Arts Swindle
+Name_291
+Martial Arts Swindle
+Name_292
+Martial Arts Swindle
+Name_293
+Martial Arts Swindle
+Name_294
+Martial Arts Swindle
+Name_295
+Debates Won
+Name_296
+Debates Lost
+Name_297
+Resources Exchanged
+Name_298
+Resources Gifted
+Name_299
+Item Bought
+Name_300
+Item Sold
+Name_301
+Item Gifted
+Name_302
+Item Gifted
+Name_303
+Gifted with Resources
+Name_304
+Gifted with Item
+Name_305
+Gifted with Item
+Name_306
+Наставление в ремесле
+Name_307
+Наставление в боевых искусствах
+Name_308
+Insight Received
+Name_309
+Insight Received
+Name_310
+Insight Received
+Name_311
+Insight Received
+Name_312
+Tea and Liquor Invite
+Name_313
+Tea and Liquor Invite
+Name_314
+Promotional Selling
+Name_315
+Promotional Selling
+Name_316
+Offering Medication
+Name_317
+Repair Assistance Offered
+Name_318
+Grooming
+Name_319
+Grooming
+Name_320
+Grooming
+Name_321
+Begging for Silver
+Name_322
+Begging for Silver
+Name_323
+Забава музыкой
+Name_324
+Забава вэйци
+Name_325
+Забава словесностью
+Name_326
+Забава живописью
+Name_327
+Tea and Liquor Invite
+Name_328
+Tea and Liquor Invite
+Name_329
+Promotional Selling
+Name_330
+Promotional Selling
+Name_331
+Offering Medication
+Name_332
+Repair Assistance Offered
+Name_333
+Grooming
+Name_334
+Grooming
+Name_335
+Grooming
+Name_336
+Silver Donation
+Name_337
+Silver Donation
+Name_338
+Music Appreciation
+Name_339
+Забава вэйци
+Name_340
+Literature Appreciation
+Name_341
+Painting Appreciation
+Name_342
+Изготовленный предмет
+Name_343
+Taoist Insight Shared
+Name_344
+Taoist Insight Shared
+Name_345
+Buddhist Insight Shared
+Name_346
+Buddhist Insight Shared
+Name_347
+Taoist Insight Received
+Name_348
+Taoist Insight Received
+Name_349
+Buddhist Insight Received
+Name_350
+Buddhist Insight Received
+Name_351
+Collect Tea or Liquor
+Name_352
+Collect Tea or Liquor
+Name_353
+Secret Divination
+Name_354
+Secret Divination
+Name_355
+Бои сверчков
+Name_356
+Бои сверчков
+Name_357
+Провести ночь вместе
+Name_358
+Необузданная страсть
+Name_359
+Необузданная страсть
+Name_360
+Пленник отпущен
+Name_361
+Необузданная страсть
+Name_362
+Необузданная страсть
+Name_363
+Пленник отпущен
+Name_364
+Goods Refreshed
+Name_365
+Нежданное богатство
+Name_366
+Нежданное богатство
+Name_367
+Нежданное богатство
+Name_368
+Благодатное исцеление
+Name_369
+Благодатное исцеление
+Name_370
+Благодатное исцеление
+Name_371
+Благодатное исцеление
+Name_372
+Благодатное исцеление
+Name_373
+Нежданная беда
+Name_374
+Нежданная беда
+Name_375
+Нежданная беда
+Name_376
+Нежданное испытание
+Name_377
+Нежданное испытание
+Name_378
+Нежданное испытание
+Name_379
+Нежданное испытание
+Name_380
+Нежданное испытание
+Name_381
+Outlaw Eliminated
+Name_382
+Странствующий воин убит
+Name_383
+Defeated by Outlaw
+Name_384
+Defeated by Xiake
+Name_385
+Poison Mist Entangled
+Name_386
+Manslaughter
+Name_387
+Jinxed
+Name_388
+Bewitched into Enmity
+Name_389
+Took the Fall
+Name_390
+Clouded Judgment
+Name_391
+Подточенное долголетие
+Name_392
+Crimson Death
+Name_393
+Kind Curer
+Name_394
+Demonslaughter
+Name_395
+Fortuitous Invitation
+Name_396
+Lust for Love
+Name_397
+Guardian Angel
+Name_398
+Clear Conscience
+Name_399
+Valiant Instructor
+Name_400
+Почти бессмертный
+Name_401
+Tiryak Deformity
+Name_402
+Preta Deformity
+Name_403
+Hell Deformity
+Name_404
+Asura Deformity
+Name_405
+Manusya Deformity
+Name_406
+Deva Deformity
+Name_407
+Прирост влияния
+Name_408
+Sect Penalty
+Name_409
+Sect Penalty
+Name_410
+Banished
+Name_411
+Sanity Restored
+Name_412
+Повышение в чине
+Name_413
+Banished
+Name_414
+Took the Blame
+Name_415
+Was Spared
+Name_416
+Contest for a Marriage
+Name_417
+Found a Husband
+Name_418
+Found a Wife
+Name_419
+No Luck For a Husband
+Name_420
+Champion of the Sect Tournament
+Name_421
+Partook in the Sect Tournament
+Name_422
+Sect Tournament President
+Name_423
+Partook in Martial World Tournament
+Name_424
+Глава вольного света
+Name_425
+Martial World Tournament Champion
+Name_426
+Martial World Tournament President
+Name_427
+Martial World Tournament Incident
+Name_428
+Устроитель Турнира вольного света
+Name_429
+Insignia of the Shadowless
+Name_430
+Жертва стихийного бедствия
+Name_431
+Struck by Natural Disaster
+Name_432
+Natural Disaster Survivor
+Name_433
+New Like
+Name_434
+New Hate
+Name_435
+New Ambition
+Name_436
+Новый склад ума
+Name_437
+New Fine Arts
+Name_438
+Grave Horror
+Name_439
+Grave Robber
+Name_440
+Confiscated
+Name_441
+Arts Destroyed
+Name_442
+Expelled
+Name_443
+Arts Destroyed
+Name_444
+Expelled
+Name_445
+Forced Sworn Siblings
+Name_446
+Forced Wedding
+Name_447
+Forced Relation
+Name_448
+Forced Relation
+Name_449
+Forced Adopt
+Name_450
+Forced Adopt
+Name_451
+Forced Apprenticeship
+Name_452
+Forced Severance
+Name_453
+Forced Divorce
+Name_454
+Forced Defection
+Name_455
+Forced Parting Foster Parent
+Name_456
+Forced Parting Foster Parent
+Name_457
+Forced Abandoning Foster Parent
+Name_458
+Forced Abandoning Foster Parent
+Name_459
+Новый приёмный отец
+Name_460
+New Foster Mother
+Name_461
+Сын усыновлён
+Name_462
+Дочь удочерена
+Name_463
+Forced Support
+Name_464
+Encounter Participation
+Name_465
+First Prize
+Name_466
+Give Up on Crush
+Name_467
+New Apprenticeship
+Name_468
+New Apprentice
+Name_469
+Severing Parental Bonds
+Name_470
+Abandoning Foster Family
+Name_471
+Renounce the Master
+Name_472
+Expulsion
+Name_473
+Разные дороги
+Name_474
+Coercing
+Name_475
+Admonishing
+Name_476
+Admonished
+Name_477
+Admonished
+Name_478
+Coerced
+Name_479
+Admonished
+Name_480
+Long-lost Secret Tome Acquired
+Name_481
+Honed Skills
+Name_482
+Attack of the Bewitched
+Name_483
+Околдован тайным трактатом: безумие
+Name_484
+Околдован тайным трактатом: одержимость
+Name_485
+Совращён Сяншу
+Name_486
+Planned Theft
+Name_487
+Ended Search
+Name_488
+Спор за тайный трактат
+Name_489
+Спор за тайный трактат
+Name_490
+Спор за тайный трактат
+Name_491
+Спор за тайный трактат
+Name_492
+Спор за тайный трактат
+Name_493
+Спор за тайный трактат
+Name_494
+Спор за тайный трактат
+Name_495
+Спор за тайный трактат
+Name_496
+Спор за тайный трактат
+Name_497
+Спор за тайный трактат
+Name_498
+Secret Tome Quest
+Name_499
+Secret Tome Quest
+Name_500
+Secret Tome Quest
+Name_501
+Secret Tome Quest
+Name_502
+Secret Tome Trade
+Name_503
+Secret Tome Trade
+Name_504
+Secret Tome Trade
+Name_505
+Secret Tome Trade
+Name_506
+Secret Tome Gift
+Name_507
+Secret Tome Gift
+Name_508
+Subdued Demon
+Name_509
+Subdued Demon
+Name_510
+Subdued Demon
+Name_511
+Subdued Demon
+Name_512
+Subdued Demon
+Name_513
+Subdued Demon
+Name_514
+Subdued Demon
+Name_515
+Subdued Demon
+Name_516
+Subdued Demon
+Name_517
+Subdued Demon
+Name_518
+Enchanted Assault
+Name_519
+Enchanted Assault
+Name_520
+Enchanted Assault
+Name_521
+Enchanted Assault
+Name_522
+Depravity Subdued
+Name_523
+Depravity Subdued
+Name_524
+Secret Tome Trade
+Name_525
+Secret Tome Trade
+Name_526
+Study Focus
+Name_527
+Loving Glances
+Name_528
+Loving Glances
+Name_529
+Разрыв отношений
+Name_530
+Разрыв отношений
+Name_531
+Разрыв отношений
+Name_532
+Разрыв отношений
+Name_533
+First Date
+Name_534
+First Date
+Name_535
+Token of Vows
+Name_536
+Token of Vows
+Name_537
+Common Courtship
+Name_538
+Common Courtship
+Name_539
+Till Death Do Us Part
+Name_540
+Birthday
+Name_541
+Birthday
+Name_542
+Anniversary
+Name_543
+Storm of Jealousy
+Name_544
+Storm of Jealousy
+Name_545
+Joint Parenting
+Name_546
+Joint Parenting
+Name_547
+Tea Tasting
+Name_548
+Tea Tasting
+Name_549
+Tea Tasting
+Name_550
+Tea Tasting
+Name_551
+Wine Duel
+Name_552
+Wine Duel
+Name_553
+Wine Duel
+Name_554
+Wine Duel
+Name_555
+Renaming Service
+Name_556
+Model of Virtue
+Name_557
+Model of Heroism
+Name_558
+Advocacy Agent
+Name_559
+Advocacy Agent
+Name_560
+Promotion Advocate
+Name_561
+Worldwide Brotherhood
+Name_562
+Gave Up Revenge
+Name_563
+Made Peace
+Name_564
+Withdrawal from the Fray
+Name_565
+Withdrawal from the Fray
+Name_566
+Traveling Doctor
+Name_567
+Tribute
+Name_568
+Tribute
+Name_569
+Keen Eyes
+Name_570
+Keen Eyes
+Name_571
+Seeking Alms
+Name_572
+Nasty Slang
+Name_573
+Nasty Slang
+Name_574
+Medical Consultation
+Name_575
+Medical Consultation
+Name_576
+Medical Consultation
+Name_577
+Medical Consultation
+Name_578
+Rejuvenation
+Name_579
+Rejuvenation
+Name_580
+Preach Buddhism
+Name_581
+Preach Buddhism
+Name_582
+Preach Buddhism
+Name_583
+Liberation Ritual
+Name_584
+Evil Repelling Ritual
+Name_585
+Evil Repelling Ritual
+Name_586
+Evil Repelling Ritual
+Name_587
+Final Tribulation
+Name_588
+Final Tribulation
+Name_589
+Final Tribulation
+Name_590
+Final Tribulation
+Name_591
+Guiding to Goodness
+Name_592
+Guiding to Goodness
+Name_593
+Guiding to Goodness
+Name_594
+Безграничное искание Дхармы
+Name_595
+Utmost Piety
+Name_596
+Utmost Piety
+Name_597
+Utmost Piety
+Name_598
+Utmost Piety
+Name_599
+Fortune Teller
+Name_600
+Fortune Teller
+Name_601
+Destiny Alterer
+Name_602
+Destiny Alterer
+Name_603
+Beyond Bounds
+Name_604
+Beyond Bounds
+Name_605
+Beyond Bounds
+Name_606
+Enlightenment on Reincarnation
+Name_607
+Enlightenment on Reincarnation
+Name_608
+Переломанные кости
+Name_609
+Разорванное сердце
+Name_610
+Спутанные сухожилия
+Name_611
+Разорванные кишки
+Name_612
+Закупоренные точки
+Name_613
+Распад внутренностей
+Name_614
+Кровавое разорение
+Name_615
+Жгучее наваждение
+Name_616
+Горящий костный мозг
+Name_617
+Злокачественное инь
+Name_618
+Пагубная порча
+Name_619
+Застойный костный мозг
+Name_620
+Заиндевевший пульс
+Name_621
+Свёртывание крови
+Name_622
+Заразное инь
+Name_623
+Изнуряющий страх
+Name_624
+Мучительное испытание
+Name_625
+Бездушная злоба
+Name_626
+Перерезанные меридианы
+Name_627
+Запечатанная кровь
+Name_628
+Treasure Lost After Defeat
+Name_629
+Treasure Found After Victory
+Name_630
+Ghost Encounter
+Name_631
+Immortal's Spiritual Treasure
+Name_632
+Jade-Maiden Sect Joined
+Name_633
+Отклонение похищено
+Name_634
+Fight Against Demons
+Name_635
+Fight Against Demons
+Name_636
+Fight Against Demons
+Name_637
+Unexplainable Death
+Name_638
+Fight Against Enemy Sect
+Name_639
+Погибель сердца сути
+Name_640
+Вспышка яда
+Name_641
+Вспышка яда
+Name_642
+Ineffective Poison
+Name_643
+Братоубийственная распря
+Name_644
+Убийство от Вуали-Шрама
+Name_645
+Championship Honor
+Name_646
+New Ambition
+Name_647
+Исцеление Цзиси
+Name_648
+Состязание трёх школ
+Name_649
+Contest Won
+Name_650
+Contest Lost
+Name_651
+Retrospect
+Name_652
+Book Reread
+Name_653
+Implicated
+Name_654
+Decided to Adopt
+Name_655
+Adoption Terminated
+Name_656
+Child Adopted
+Name_657
+Adopted
+Name_658
+Family Reunited
+Name_659
+Family Reunited
+Name_660
+Heroic Sacrifice
+Name_661
+Fell Gravely Ill
+Name_662
+Defeated Animal
+Name_663
+Lost to Animal
+Name_664
+Entered Nest
+Name_665
+Гибель в логове
+Name_666
+Бегство из гнезда
+Name_667
+Learned Secret
+Name_668
+Learned Secret
+Name_669
+Learned Secret
+Name_670
+Learned Secret
+Name_671
+Rumor Failed
+Name_672
+Told Secret
+Name_673
+Heard Secret
+Name_674
+Heard Secret
+Name_675
+Heard Secret
+Name_676
+Heard Secret
+Name_677
+Secret Pact Failed
+Name_678
+Made Secret Pact
+Name_679
+Agreed to Keep Secret
+Name_680
+Matchmaking Failed
+Name_681
+Sowing Discord Failed
+Name_682
+Mediate Relationship
+Name_683
+Sowing Discord Success
+Name_684
+Matchmade by Someone
+Name_685
+Swayed by Others
+Name_686
+Matchmade by Someone
+Name_687
+Swayed by Others
+Name_688
+Rumor Failed
+Name_689
+Creation of life
+Name_690
+Бегство из гнезда
+Name_691
+Cured Madness
+Name_692
+Rescued from Nest
+Name_693
+Rescue Failed
+Name_694
+Tamed Mount
+Name_695
+Taming Failed
+Name_696
+Released Beast
+Name_697
+Песенная темница
+Name_698
+Песенная темница
+Name_699
+Мстительный дух
+Name_700
+Secret Report 
+Name_701
+Громовой рёв
+Name_702
+Шуточный бой
+Name_703
+Поиск сокровищ
+Name_704
+Поборник справедливости
+Name_705
+Изящная словесность
+Name_706
+Внутренняя сила
+Name_707
+Defeated the Divine Loong
+Name_708
+Defeated by the Divine Loong
+Name_709
+Defeated by Yazi
+Name_710
+Естественная смерть
+Name_711
+Жизнь угасает
+Name_712
+Publicly Execute
+Name_713
+Secretly Execute
+Name_714
+Slay Corrupted
+Name_715
+Assassinated by Veil Scar
+Name_716
+Смерть от Сяншу
+Name_717
+Item Bought
+Name_718
+Item Sold
+Name_719
+Pure Won
+Name_720
+Pure Failed
+Name_721
+Evil Won
+Name_722
+Evil Failed
+Name_723
+Heart Enchantment
+Name_724
+Grudge Formed
+Name_725
+Grudge Formed
+Name_726
+Pure Animal
+Name_727
+Evil Animal
+Name_728
+Pure Claw
+Name_729
+Evil Claw
+Name_730
+Pure Xiake
+Name_731
+Evil Xiake
+Name_732
+Погибель сердца сути
+Name_733
+Poison Attack
+Name_734
+Poison Fade
+Name_735
+Blood-eyed Blinding
+Name_736
+Heart Enchantment
+Name_737
+Heart Enchantment
+Name_738
+Corruptive Corruption
+Name_739
+Inner Demon Inquietude
+Name_740
+Tenebrous Infestation
+Name_741
+Ice Silkworm Experience
+Name_742
+Gu-devouring Golden Silkworm
+Name_743
+Prismatic Poison
+Name_744
+Prismatic Intimacy
+Name_745
+Prismatic Intimacy
+Name_746
+Poison Gone
+Name_747
+Mood Decline
+Name_748
+Favorability Reduce
+Name_749
+True Qi Reduce
+Name_750
+Poisoned
+Name_751
+Lost Items
+Name_752
+Inner Demon Inquietude
+Name_753
+Кровавоглазый гу
+Name_754
+Illusionary Gu
+Name_755
+Растлевающий гу
+Name_756
+Бредовый гу
+Name_757
+Мрачный гу
+Name_758
+Мрачный гу
+Name_759
+Студёный гу
+Name_760
+Златой гу
+Name_761
+Переливчатый гу
+Name_762
+Переливчатый гу
+Name_763
+Fine Arts Acquired
+Name_764
+Martial Arts Learned
+Name_765
+Сведения о ремёслах
+Name_766
+Martial Arts Insight
+Name_767
+Stirring Sense
+Name_768
+Stirring Sense
+Name_769
+Совращён Сяншу
+Name_770
+Sanity Restored
+Name_771
+Cured Madness
+Name_772
+Store Resources
+Name_773
+Store Item
+Name_774
+Retrieve Resources
+Name_775
+Забрать предмет
+Name_776
+Store Resources
+Name_777
+Store Item
+Name_778
+Retrieve Resources
+Name_779
+Забрать предмет
+Name_780
+Guard Warehouse
+Name_781
+End Guard
+Name_782
+Unauthorized Entry
+Name_783
+Unauthorized Entry
+Name_784
+Unauthorized Entry
+Name_785
+Unauthorized Entry
+Name_786
+Unauthorized Entry
+Name_787
+Unauthorized Entry
+Name_788
+Unauthorized Entry
+Name_789
+Unauthorized Entry
+Name_790
+Unauthorized Entry
+Name_791
+Loot Warehouse
+Name_792
+Loot Warehouse
+Name_793
+Loot Warehouse
+Name_794
+Loot Warehouse
+Name_795
+Loot Warehouse
+Name_796
+Loot Warehouse
+Name_797
+Loot Warehouse
+Name_798
+Loot Warehouse
+Name_799
+Loot Warehouse
+Name_800
+Donate to Warehouse
+Name_801
+Donate to Warehouse
+Name_802
+Donate to Warehouse
+Name_803
+Donate to Warehouse
+Name_804
+Donate to Warehouse
+Name_805
+Warehouse Distribution
+Name_806
+Warehouse Distribution
+Name_807
+Clandestine Poisoning
+Name_808
+Clandestine Poisoning
+Name_809
+Clandestine Poisoning
+Name_810
+Clandestine Poisoning
+Name_811
+Clandestine Poisoning
+Name_812
+Clandestine Poisoning
+Name_813
+Clandestine Poisoning
+Name_814
+Тайный вред
+Name_815
+Тайный вред
+Name_816
+Тайный вред
+Name_817
+Тайный вред
+Name_818
+Тайный вред
+Name_819
+Тайный вред
+Name_820
+Тайный вред
+Name_821
+Dark Aura Descends
+Name_822
+Dark Aura Descends
+Name_823
+Madness Burst
+Name_824
+Madness Burst
+Name_825
+Cure Dark Aura
+Name_826
+Dark Aura Cured
+Name_827
+Оборвать привязанность к трактату
+Name_828
+Оборвать привязанность к трактату
+Name_829
+Оборвать привязанность к трактату
+Name_830
+Grudge Formed
+Name_831
+Grudge Formed
+Name_832
+Going to Capture
+Name_833
+Capture Ended
+Name_834
+Star the Escape
+Name_835
+Escape Ended
+Name_836
+Seeking Shelter
+Name_837
+Give Up Shelter
+Name_838
+Gained Shelter
+Name_839
+Escorting Prisoners
+Name_840
+Escort Completed
+Name_841
+In Prison
+Name_842
+In Prison
+Name_843
+In Prison
+Name_844
+In Prison
+Name_845
+In Prison
+Name_846
+In Prison
+Name_847
+In Prison
+Name_848
+In Prison
+Name_849
+In Prison
+Name_850
+In Prison
+Name_851
+In Prison
+Name_852
+In Prison
+Name_853
+In Prison
+Name_854
+In Prison
+Name_855
+In Prison
+Name_856
+In Prison
+Name_857
+In Prison
+Name_858
+Prison Trespassing
+Name_859
+Prison Trespassing
+Name_860
+Prison Trespassing
+Name_861
+Prison Trespassing
+Name_862
+Prison Trespassing
+Name_863
+Prison Trespassing
+Name_864
+Plea for Release
+Name_865
+Plea for Release
+Name_866
+Imprison the Possessed
+Name_867
+Imprison the Possessed
+Name_868
+Imprison the Possessed
+Name_869
+Imprison the Possessed
+Name_870
+Imprison the Possessed
+Name_871
+Imprison the Possessed
+Name_872
+Prison Break
+Name_873
+Prison Break
+Name_874
+Prison Break
+Name_875
+Prison Break
+Name_876
+Prison Break
+Name_877
+Prison Break
+Name_878
+Prison Break
+Name_879
+Refusing to Hand Over Fugitives
+Name_880
+Refusing to Hand Over Fugitives
+Name_881
+Refusing to Hand Over Fugitives
+Name_882
+Refusing to Hand Over Fugitives
+Name_883
+Refusing to Hand Over Fugitives
+Name_884
+Refusing to Hand Over Fugitives
+Name_885
+Fugitive Hunt
+Name_886
+Fugitive Hunt
+Name_887
+Fugitive Hunt
+Name_888
+Fugitive Hunt
+Name_889
+Fugitive Hunt
+Name_890
+Receiving Criminals
+Name_891
+Receiving Criminals
+Name_892
+Receiving Criminals
+Name_893
+Rescuing Criminals
+Name_894
+Rescuing Criminals
+Name_895
+Rescuing Criminals
+Name_896
+Rescuing Criminals
+Name_897
+Rescuing Criminals
+Name_898
+Rescuing Criminals
+Name_899
+Rescuing Criminals
+Name_900
+Rescuing Criminals
+Name_901
+Rescuing Criminals
+Name_902
+Rescuing Criminals
+Name_903
+Истребление разбойников
+Name_904
+Нападение грабителей
+Name_905
+Нападение грабителей
+Name_906
+Истребление разбойников
+Name_907
+Seeking Shelter
+Name_908
+Sect Penalty
+Name_909
+Sect Penalty
+Name_910
+Sect Penalty
+Name_911
+Sect Penalty
+Name_912
+Sect Penalty
+Name_913
+Sect Penalty
+Name_914
+Sect Penalty
+Name_915
+Sect Penalty
+Name_916
+Sect Penalty
+Name_917
+Sect Penalty
+Name_918
+Sect Penalty
+Name_919
+Sect Penalty
+Name_920
+Sect Penalty
+Name_921
+Release After Sentence
+Name_922
+Prison Escape
+Name_923
+Sent to Prison
+Name_924
+Sent to Prison
+Name_925
+Sent to Prison
+Name_926
+Imprisoning Someone
+Name_927
+Imprisoning Someone
+Name_928
+Apprehending Criminals
+Name_929
+Apprehending Criminals
+Name_930
+Apprehending Criminals
+Name_931
+Apprehending Criminals
+Name_932
+Rescuing Criminals
+Name_933
+Rescuing Criminals
+Name_934
+Sent to Prison
+Name_935
+Relocate Resource
+Name_936
+Cooking Foodstuff
+Name_937
+Изготовленный предмет
+Name_938
+Починка предмета
+Name_939
+Починка предмета
+Name_940
+Разобрать предмет
+Name_941
+Разобрать предмет
+Name_942
+Craft Medicine
+Name_943
+Item Detoxified
+Name_944
+Item Detoxified
+Name_945
+Отравить предмет
+Name_946
+Sell Goods
+Name_947
+Purchase Goods
+Name_948
+Обиды улажены
+Name_949
+Increased Favorability
+Name_950
+Facilitated Goodwill
+Name_951
+Facilitated Goodwill
+Name_952
+Facilitated Goodwill
+Name_953
+Facilitated Goodwill
+Name_954
+Travel Around to Practice Medicine
+Name_955
+Travel Around to Practice Medicine
+Name_956
+Travel Around to Practice Medicine
+Name_957
+Travel Around to Practice Medicine
+Name_958
+Imprison the Possessed
+Name_959
+Imprison the Possessed
+Name_960
+Починка предмета
+Name_961
+Забрать предмет
+Name_962
+Store Item
+Name_963
+Store Resources
+Name_964
+Retrieve Resources
+Name_965
+Четыре искусства
+Name_966
+Четыре искусства
+Name_967
+Martial World Interaction
+Name_968
+Martial World Interaction
+Name_969
+Странствие по свету
+Name_970
+Странствие по свету
+Name_971
+Interact with Sects
+Name_972
+Interact with Sects
+Name_973
+Establish Authority
+Name_974
+Establish Authority
+Name_975
+Investigate Sword Mound
+Name_976
+Guard Sword Mound
+Name_977
+Villager Dispatch
+Name_978
+Halted Villagers
+Name_979
+Отравить предмет
+Name_980
+Item Detoxified
+Name_981
+Отравить предмет
+Name_982
+Item Detoxified
+Name_983
+Failed Cooking
+Name_984
+Failed Cooking
+Name_985
+Failed Production
+Name_986
+Failed Crafting
+Name_987
+Failed Repairing
+Name_988
+Failed Disassemble
+Name_989
+Failed Production
+Name_990
+Failed Medicine Making
+Name_991
+Envenom Failed
+Name_992
+Failed Detoxification
+Name_993
+Failed Cooking
+Name_994
+Failed Production
+Name_995
+Failed Production
+Name_996
+Мастерства не хватает
+Name_997
+General Punishment
+Name_998
+Shaolin Punishment
+Name_999
+Emei Punishment
+Name_1000
+Valley of Flowers Punishment
+Name_1001
+Wudang Punishment
+Name_1002
+Yuanshan Punishment
+Name_1003
+Lion-Face Clan Punishment
+Name_1004
+Ranshan Punishment
+Name_1005
+Jade-Maiden Sect Punishment
+Name_1006
+Swordsmiths Punishment
+Name_1007
+Kongsang Punishment
+Name_1008
+Vajra Punishment
+Name_1009
+Five Immortals Punishment
+Name_1010
+Veil Scar Punishment
+Name_1011
+Fuloong Sanctuary Punishment
+Name_1012
+Sanguine Punishment
+Name_1013
+Sect Penalty
+Name_1014
+Sect Penalty
+Name_1015
+Sect Penalty
+Name_1016
+Refused Hunt
+Name_1017
+Refused Hunt
+Name_1018
+Refused Hunt
+Name_1019
+Refused Hunt
+Name_1020
+Refused Hunt
+Name_1021
+Refused Hunt
+Name_1022
+Gave Up Revenge
+Name_1023
+Taker's Feast
+Name_1024
+Taker's Feast
+Name_1025
+Pardon Granted
+Name_1026
+Pardon Granted
+Name_1027
+Veil Scar Punishment
+Name_1028
+Veil Scar Punishment
+Name_1029
+Veil Scar Punishment
+Name_1030
+Veil Scar Punishment
+Name_1031
+Veil Scar Punishment
+Name_1032
+Veil Scar Punishment
+Name_1033
+Evil Repelling Ritual
+Name_1034
+Evil Repelling Ritual
+Name_1035
+Fugitive Hunt
+Name_1036
+Fugitive Hunt
+Name_1037
+Fugitive Hunt
+Name_1038
+Fugitive Hunt
+Name_1039
+Fugitive Hunt
+Name_1040
+Fugitive Hunt
+Name_1041
+Fugitive Hunt
+Name_1042
+Fugitive Hunt
+Name_1043
+Fugitive Hunt
+Name_1044
+Fugitive Hunt
+Name_1045
+Fugitive Hunt
+Name_1046
+Fugitive Hunt
+Name_1047
+Fugitive Hunt
+Name_1048
+Fugitive Hunt
+Name_1049
+New Aspiration
+Name_1050
+Feed Beasts
+Name_1051
+Golden needle deliverance
+Name_1052
+Golden needle deliverance
+Name_1053
+Разгадать механизм
+Name_1054
+Разгадать механизм
+Name_1055
+Разгадать механизм
+Name_1056
+Разгадать механизм
+Name_1057
+Deadly Poisoned
+Name_1058
+Tides Turn
+Name_1059
+Tides Turn
+Name_1060
+Побег на крыльях
+Name_1061
+Побег на крыльях
+Name_1062
+Побег на крыльях
+Name_1063
+Побег на крыльях
+Name_1064
+Refine Reagent
+Name_1065
+Upgrade Reagent
+Name_1066
+Charitable Healing
+Name_1067
+Charitable Healing
+Name_1068
+Silver Business
+Name_1069
+Silver Business
+Name_1070
+Продать предмет
+Name_1071
+Купить предмет
+Name_1072
+Расположение товарищества
+Name_1073
+Расположение товарищества
+Name_1074
+Четыре искусства
+Name_1075
+Четыре искусства
+Name_1076
+Странствие по свету
+Name_1077
+Странствие по свету
+Name_1078
+Странствие по свету
+Name_1079
+Странствие по свету
+Name_1080
+Martial World Interaction
+Name_1081
+Martial World Interaction
+Name_1082
+Martial World Interaction
+Name_1083
+Martial World Interaction
+Name_1084
+Martial World Interaction
+Name_1085
+Martial World Interaction
+Name_1086
+Guard Sword Mound
+Name_1087
+Guard Sword Mound
+Name_1088
+Facilitated Goodwill
+Name_1089
+Reciprocal Love
+Name_1090
+Order Item(s)
+Name_1091
+Annual Tribute Collection
+Name_1092
+Order Confirmed
+Name_1093
+Deliver the Sutra
+Name_1094
+Hijack Order
+Name_1095
+Hijack Order
+Name_1096
+Hijack Order
+Name_1097
+Order Proxy
+Name_1098
+Order Confirmed
+Name_1099
+Order Fulfillment
+Name_1100
+Deliver the Sutra
+Name_1101
+Bought Back at Low Price
+Name_1102
+Прибавка к одарённости
+Name_1103
+Прибавка к одарённости
+Name_1104
+Прибавка к одарённости
+Name_1105
+Прибавка к одарённости
+Name_1106
+Прибавка к одарённости
+Name_1107
+Прибавка к одарённости
+Name_1108
+Book Study
+Name_1109
+Book Study
+Name_1110
+Подтвердить поддержку
+Name_1111
+Finished Study
+Name_1112
+Earnings
+Name_1113
+Rank Down
+Name_1114
+Gathering Reagent
+Name_1115
+Join Faction
+Name_1116
+Leave Faction
+Name_1117
+Replace Faction
+Name_1118
+Social Savvy
+Name_1119
+Social Savvy
+Name_1120
+Social Savvy
+Name_1121
+Social Savvy
+Name_1122
+Appointment
+Name_1123
+Appointment
+Name_1124
+Appointment
+Name_1125
+Appointment
+Name_1126
+Appointment
+Name_1127
+Appointment
+Name_1128
+Appointment
+Name_1129
+Appointment
+Name_1130
+Appointment
+Name_1131
+Appointment
+Name_1132
+Fatal Blackstone Ash
+Name_1133
+Fatal Blackstone Ash
+Name_1134
+Inheriting Legacy
+Name_1135
+Accepting Banquet Invitation
+Name_1136
+Accepting Banquet Invitation
+Name_1137
+Accepting Banquet Invitation
+Name_1138
+Accepting Banquet Invitation
+Name_1139
+Accepting Banquet Invitation
+Name_1140
+Accepting Banquet Invitation
+Name_1141
+Accepting Banquet Invitation
+Name_1142
+Accepting Banquet Invitation
+Name_1143
+Accepting Banquet Invitation
+Name_1144
+Accepting Banquet Invitation
+Name_1145
+Health Damaged
+Name_1146
+Blackstone Ash Affliction Slowed
+Name_1147
+Couple's Love
+Name_1148
+Идеальная пара
+Name_1149
+Идеальная пара
+Name_1150
+Идеальная пара
+Name_1151
+Outer Realms
+Name_1152
+Outer Realms
+Name_1153
+Поглощение истинной ци
+Name_1154
+Перенос пяти стихий
+Name_1155
+Social Savvy
+Name_1156
+Social Savvy
+Name_1157
+Pure Essence increased
+Name_1158
+Diligent Study
+Name_1159
+Discovered Talent
+Name_1160
+Great Insight
+Name_1161
+Diligent Study
+Name_1162
+Discovered Talent
+Name_1163
+Great Insight
+Name_1164
+Aid the common folk
+Name_1205
+Because of the sake of aiding the common folk
+Name_1165
+Righteous Blade
+Name_1206
+Because of righteous deeds
+Name_1166
+Sweep the floor and fetch water
+Name_1207
+Because of sweeping the floor and fetching water
+Name_1167
+Practicing at Pagoda Forest
+Name_1168
+Recite prayers and venerate the Buddha
+Name_1208
+Because of reciting prayers and venerating the Buddha
+Name_1169
+Translate Buddhist Sutra
+Name_1170
+Admonish Disciple
+Name_1375
+Because of Admonishing the disciple
+Name_1171
+Cultivating Zen and Martial Arts
+Name_1376
+Because of Cultivating Zen and Martial Arts
+Name_1172
+Secluded Meditation
+Name_1173
+Gathering firewood and planting crops
+Name_1380
+Because of gathering firewood and planting crops
+Name_1174
+Cleaning the Buddhist Temple
+Name_1175
+Uphold Justice
+Name_1209
+Because of upholding Justice
+Name_1176
+Seek enlightenment at Loong Pool
+Name_1177
+Preach at Jinding
+Name_1210
+Because of preaching at Jinding
+Name_1178
+Looking after White Deer
+Name_1211
+Because of looking after White Deer
+Name_1179
+Gathering Herbs and Seeking Treasures
+Name_1180
+Crafting Trial Medicine
+Name_1181
+Treat Illnesses
+Name_1212
+Because of treating illnesses
+Name_1182
+Clear Death Aura
+Name_1383
+Because of clearing Death Aura
+Name_1183
+Teach Medicine and Arts
+Name_1213
+Because of teaching Medicine and Arts
+Name_1184
+Study terminal diseases
+Name_1185
+Guide followers
+Name_1214
+Because of guiding followers
+Name_1186
+Cleaning the Taoist Temple
+Name_1215
+Because of cleaning Taoist Temple
+Name_1187
+Administer rituals
+Name_1216
+Because of administering rituals
+Name_1188
+Ascetic Grainfasting
+Name_1189
+Secluded Enlightenment
+Name_1190
+Secluded Cultivation of Vows
+Name_1217
+Because of Secluded Cultivation of Vows
+Name_1191
+Entering the Mountains for Arduous Cultivation
+Name_1218
+Deprecated Entry
+Name_1192
+Guard Stone Cell
+Name_1193
+Demon Subduing Drill
+Name_1219
+Because of Demon Subduing Drill
+Name_1194
+Suppress demonic qi
+Name_1220
+Because of suppressing demonic qi
+Name_1195
+Cure the Bewitched
+Name_1384
+Because of curing the Bewitched
+Name_1196
+Visit the Market
+Name_1197
+Contend for territory
+Name_1198
+Slumbering Lion Contest
+Name_1199
+Splendid Lion Contest
+Name_1200
+Wild Lion Contest
+Name_1201
+Train Militia
+Name_1221
+Because of Training Militia
+Name_1202
+Utmost Righteousness
+Name_1222
+Because of the act of Utmost Righteousness
+Name_1203
+Three Halls Drill
+Name_1223
+Because of participating Three Halls Drill
+Name_1204
+Gathering at Training Ground
+Name_1224
+Because of gathering at Training Ground
+Name_1225
+Sectmate Debate
+Name_1226
+Because of Sectmate Debate
+Name_1227
+Sectmate Sparring
+Name_1228
+Because of Sectmate Sparring
+Name_1229
+Cultivate Qi to prolong life
+Name_1230
+Indulge in revelry
+Name_1231
+Commune with Heaven and Earth
+Name_1232
+Study Secret Collection
+Name_1233
+Cloud Dream Ritual
+Name_1234
+Because of the Cloud Dream Ritual
+Name_1235
+Pray for divine blessings.
+Name_1236
+Because of praying for divine blessings.
+Name_1237
+Cleaning the Emerald Stairs
+Name_1238
+Because cleaning the Emerald Stairs
+Name_1239
+Deprecated Entry
+Name_1388
+Deprecated Entry
+Name_1240
+Twin Meditation
+Name_1389
+Witnessed the Twin Beauties in Secluded Cultivation
+Name_1241
+Tune the Guqin
+Name_1242
+Deprecated Entry
+Name_1243
+Study Egarim
+Name_1244
+Because of studying Egarim
+Name_1245
+Invite Talents
+Name_1246
+Lone Summit Enlightenment
+Name_1247
+Gather firewood and start a fire
+Name_1248
+Because of gathering firewood and starting a fire
+Name_1249
+Sift Materials
+Name_1250
+Equipment Maintenance
+Name_1251
+Restore Antiques
+Name_1252
+Forge Masterpiece
+Name_1253
+Train Artisans
+Name_1254
+Because of training artisans
+Name_1255
+Open the Smithy to Test Sword
+Name_1377
+Стремление к совершенству
+Name_1256
+Brew medicinal soup
+Name_1257
+Because of brewing medicinal soup
+Name_1258
+Select Herbs
+Name_1259
+Select Poison
+Name_1260
+Attempt to Craft Concoction A
+Name_1261
+Attempt to Craft Concoction B
+Name_1262
+Attempt to Craft Poison A
+Name_1263
+Attempt to Craft Poison B
+Name_1264
+Examine Medicine Recipe
+Name_1265
+Because of Examining Medicine Recipe
+Name_1266
+Test Poison Recipe
+Name_1267
+Because of Testing Poison Recipe
+Name_1268
+Successfully Tracked and Tested Medicine
+Name_1390
+Successfully tested the medicine on the target
+Name_1269
+Failed to track and test medicine
+Name_1270
+Successfully Tracked and Tested Poison
+Name_1391
+Successfully tested the poison on the target
+Name_1271
+Failed to track and test poison
+Name_1272
+Treat Disciple's Aliment
+Name_1273
+Because of treating disciple's aliment
+Name_1274
+Absorb Blackstone Ash
+Name_1385
+Because of absorbing Blackstone Ash
+Name_1275
+Cleaning the temple
+Name_1276
+Because of cleaning the temple
+Name_1277
+Region-roaming Stealing
+Name_1278
+Region-roaming Robbery
+Name_1279
+Region-roaming Swindling
+Name_1280
+Collect Tribute
+Name_1281
+Quell Resistance
+Name_1282
+Because of quelling resistance
+Name_1283
+Miracle Trial
+Name_1284
+Because of Miracle Trial
+Name_1285
+Preach the Sutras and Confer Enlightenment
+Name_1286
+Because of Preaching the Sutras and Conferring Enlightenment
+Name_1287
+Grand Ritual
+Name_1288
+Gather Poisons
+Name_1289
+Offer tribute to Gu Immortal
+Name_1290
+Because of offering tribute to Gu Immortal
+Name_1291
+Worship Deities
+Name_1292
+Because of worshiping deities
+Name_1293
+Guide the Divine Maiden
+Name_1378
+Because of guiding the Divine Maiden
+Name_1294
+Holy River Bathing
+Name_1295
+Вывести главного гу
+Name_1379
+Guide Miao people
+Name_1382
+Because of guiding Miao people
+Name_1296
+Intel gathered.
+Name_1297
+Intel gathering failed.
+Name_1298
+Guide the client
+Name_1392
+Employer by Guidance
+Name_1299
+Erase traces
+Name_1300
+Execute mission
+Name_1301
+Resolve Conflict
+Name_1302
+Participate in resolving conflict and win
+Name_1303
+Participate in resolving conflict and fail
+Name_1304
+Verification
+Name_1381
+Because of Verification Task
+Name_1305
+Issue Assassination Order
+Name_1306
+Prepare a meal
+Name_1307
+Because of preparing a meal
+Name_1308
+Tallying the pirate loot
+Name_1309
+Lead the ranks in training
+Name_1310
+Because of leading the ranks in training
+Name_1311
+Volcano Practice
+Name_1312
+Administer the loong ritual
+Name_1313
+Because of administering the loong ritual
+Name_1314
+Refine: Refine loong's qi
+Name_1315
+Serve the Cult Head
+Name_1316
+Because of serving the Cult Head
+Name_1317
+Bullied and stole from the common folk
+Name_1318
+Bullied and robbed the common folk
+Name_1319
+Bullied and swindled the common folk
+Name_1320
+Failed to bully and steal from the common folk
+Name_1321
+Failed to bully and rob the common folk
+Name_1322
+Failed to bully and swindle the common folk
+Name_1323
+Test the Congregants
+Name_1324
+Imprison Captive for Sacrifice
+Name_1325
+Secret Infusion
+Name_1326
+Because of Secret Infusion
+Name_1327
+Midnight Market Master Blood Sacrifice
+Name_1328
+Because of Midnight Market Master Blood Sacrifice
+Name_1329
+Train in the Blood Pool
+Name_1330
+City Lord's Council Meeting
+Name_1331
+City Lord's Council Meeting Favorability Increase
+Name_1332
+City Lord's Council Meeting Favorability Decrease
+Name_1333
+Sect Council Meeting
+Name_1334
+Sect Council Meeting Favorability Increases
+Name_1335
+Sect Council Meeting Favorability Decreases
+Name_1336
+Guild Council Meeting
+Name_1337
+Meet the City Lord
+Name_1338
+Meet the Sect
+Name_1339
+Oversee City Affairs
+Name_1340
+Because of overseeing City Affairs
+Name_1341
+Oversee Town Affairs
+Name_1342
+Because of overseeing town affairs
+Name_1343
+Oversee Stockaded Village Affairs
+Name_1344
+Because of overseeing Stockaded Village Affairs
+Name_1345
+Oversee Village Affairs
+Name_1346
+Because of overseeing village affairs
+Name_1347
+Befriend nobles
+Name_1348
+Favorability increases by befriending nobles
+Name_1349
+Favorability decreases by befriending nobles
+Name_1350
+Hosting Banquet
+Name_1351
+Invest a Guild
+Name_1352
+Give a lecture
+Name_1353
+Because of giving a lecture
+Name_1354
+Deprecated Entry
+Name_1355
+Offer a tribute to the Guild
+Name_1356
+Deprecated Entry
+Name_1357
+Deprecated Entry
+Name_1358
+Deprecated Entry
+Name_1359
+Deprecated Entry
+Name_1360
+Street Fight
+Name_1361
+Deprecated Entry
+Name_1362
+Gather Secrets
+Name_1363
+Till the soil
+Name_1364
+Positive Mindset 3
+Name_1365
+Positive Mindset 4
+Name_1366
+Neutral Mindset 3
+Name_1367
+Neutral Mindset 4
+Name_1368
+Negative Mindset 3
+Name_1369
+Negative Mindset 4
+Name_1370
+Select foodstuff
+Name_1371
+Zen Meditation
+Name_1372
+Secluded Meditation
+Name_1373
+Пойманные сверчки
+Name_1374
+Поиск сокровищ
+Name_1386
+Took the Fall
+Name_1387
+Guardian Angel
+Name_1393
+Sudden Obsession
+Name_1394
+Resentment Arises
+Name_1395
+Encounter Qi Paralysis
+Name_1396
+Каратель Демонических небес
+Name_1397
+Encounter Enforcer
+Name_1398
+Encounter Poison
+Name_1399
+Поглощение истинной ци
+Name_1400
+Encounter Corpse Demon
+Desc_0
+Passed away in {0}...
+Desc_1
+Saw a horrifying place full of blackstones in {0} and seemed to be bewitched...
+Desc_2
+Succumbed to the evil power of Xiangshu in {0} and turned into a demonic spirit serving Xiangshu...
+Desc_3
+Lost the balance of Qi and miscarried in {0} due to the ailment...
+Desc_4
+{0} lost the balance of Qi and miscarried in {1} due to the ailment...
+Desc_5
+Abandoned their child in {1} due to unavoidable difficulties...
+Desc_6
+Was abandoned by their parents in {1} perhaps due to unavoidable difficulties...
+Desc_7
+Gave birth to cricket {1} in {0} after being pregnant for three and a half years...
+Desc_8
+Gave birth to a boy and named him {0} in {1}...
+Desc_9
+Gave birth to a girl and named her {0} in {1}...
+Desc_10
+Fathered a son and named him {2} after {0} gave birth to the boy in {1}...
+Desc_11
+Fathered a daughter and named her {2} after {0} gave birth to the girl in {1}...
+Desc_12
+Buried {0} in {1}...
+Desc_13
+Broke the precepts by eating {1} in {0}...
+Desc_14
+Broke free from being imprisoned by {0} in {1}...
+Desc_15
+{0} broke free from being imprisoned in {1}...
+Desc_16
+Successfully studied part {2} of {1} in {0}...
+Desc_17
+Failed to understand part {2} of {1} while studying in {0}...
+Desc_18
+Successfully broke through the bottleneck of {1} in {0}...
+Desc_19
+Failed to break through the bottleneck of {1} in {0}...
+Desc_20
+Practiced hard and learned {1} in {0}...
+Desc_21
+Practiced hard and learned {1} in {0}...
+Desc_22
+Repaired the broken {1} in {0}...
+Desc_23
+Used {1} to envenom {2} in {0}...
+Desc_24
+Carried too many pieces of {1} and lost {2} {1} in {0}...
+Desc_25
+Carried too many items and lost {1} in {0}...
+Desc_26
+Started holding a grudge against {0} in {1}...
+Desc_27
+Resolved the grudges against {0} in {1}...
+Desc_28
+Was resented by {0} in {1}...
+Desc_29
+Was forgiven in {1} and no longer resented by {0}...
+Desc_30
+Had a crush on {0} in {1}...
+Desc_31
+Fell in love with {0} at first sight in {1}...
+Desc_32
+Successfully courted {0} and vowed to love each other forever in {1}...
+Desc_33
+Courted {0} but failed to move them in {1}...
+Desc_34
+Fell in love with {0} after being courted passionately in {1}...
+Desc_35
+Remained unmoved despite {0}'s passionate courtship in {1}... 
+Desc_36
+Separated with {0} in {1} and no longer loved each other...
+Desc_37
+Stopped loving {0} in {1}...
+Desc_38
+Broke up with {0} in {1} but still loved {0} as much as before...
+Desc_39
+Held a wedding and officially married {0} in {1}...
+Desc_40
+Proposed to marry {0} in {1} but never received any answer...
+Desc_41
+Never answered {0}'s marriage proposal in {1}...
+Desc_42
+Found {0} to be a kindred spirit in {1} and befriended them...
+Desc_43
+Felt at odds with {0} in {1} and eventually became estranged from them...
+Desc_44
+Pledged everlasting loyalty to {0} in {1} and became sworn siblings with them...
+Desc_45
+Severed the sworn siblinghood with {0} in {1} and swore to never see each other again until death...
+Desc_46
+Recognized {0} as foster father in {1} and wished to work for him from here on out...
+Desc_47
+Recognized {0} as foster mother in {1} and wished to work for her from here on out...
+Desc_48
+Adopted {0} as son in {1} and took care of him from here on out...
+Desc_49
+Adopted {0} as daughter in {1} and took care of her from here on out...
+Desc_50
+Received support from many disciples and became a sect faction leader in {0}...
+Desc_51
+Joined the sect faction led by {0} in {1}...
+Desc_52
+Left the sect faction led by {0} in {1}...
+Desc_53
+Recruited {0} into their sect faction in {1}...
+Desc_54
+Failed to recruit {0} into their sect faction in {1}...
+Desc_55
+Accepted the recruitment invitation to join the sect faction led by {0} in {1}...
+Desc_56
+Refused the recruitment invitation to join the sect faction led by {0} in {1}...
+Desc_57
+Decided to join {1} in {0} to learn more combat techniques...
+Desc_58
+Decided to head to {0} for a meet-up...
+Desc_59
+Heard in {1} that {0} might be in danger and decided to protect them...
+Desc_60
+Heard in {1} that {0} was kept captive and decided to rescue them...
+Desc_61
+Missed the deceased {0} in {1} and decided to honor them at their grave...
+Desc_62
+Missed {0} in {1} and decided to pay them a visit...
+Desc_63
+Prepared to leave {0} to find lost relics in {1}...
+Desc_64
+Prepared to leave {0} to find nature's gifts in {1}...
+Desc_65
+Decided in {1} to look for {0} for revenge...
+Desc_66
+Decided in {0} to participate in {1}...
+Desc_67
+Had to give up joining {0} after being rejected many times...
+Desc_68
+Joined {1} in {0} and became {2} of {1}...
+Desc_69
+Was no longer able to head to {0} for a meet-up...
+Desc_70
+Was waiting for {0} to come to the meet-up in {1}...
+Desc_71
+Met up with {0} in {1} as planned...
+Desc_72
+Stopped protecting {0} in {1}...
+Desc_73
+Helped {0} fight enemies or solve problems in {1}...
+Desc_74
+Stopped rescuing {0} in {1}...
+Desc_75
+Stopped honoring {0} in {1}...
+Desc_76
+Swept the grave of {0} in {1}...
+Desc_77
+Upgraded the grave of {0} in {1}...
+Desc_78
+Stopped visiting {0} in {1}...
+Desc_79
+Stopped searching for lost relics in {0}...
+Desc_80
+Stopped searching for nature's gifts in {0}...
+Desc_81
+Found {1} when searching for lost relics in {0}...
+Desc_82
+Failed to find anything when searching for lost relics in {0}...
+Desc_83
+Found {1} when searching for nature's gifts in {0}...
+Desc_84
+Stopped seeking revenge on {0} in {1}...
+Desc_85
+Engaged in a {2} with {0} in {1} and achieved a complete victory, rendering the enemy defenseless...
+Desc_86
+Engaged in a {2} with {0} in {1} and was completely overwhelmed...
+Desc_87
+Engaged in a {2} with {0} in {1} and won by a small margin...
+Desc_88
+Engaged in a {2} with {0} in {1} and was narrowly defeated.
+Desc_89
+{0} escaped after losing the battle in {1}...
+Desc_90
+Managed to escape after losing to {0} in {1}...
+Desc_91
+Publicly ended {0}'s life in {1}...
+Desc_92
+Secretly ended {0}'s life in {1}...
+Desc_93
+Captured and imprisoned {0} with {2} in {1}...
+Desc_94
+Secretly captured and imprisoned {0} with {2} in {1}...
+Desc_95
+Let {0} leave after defeating {0} in {1}...
+Desc_96
+Was captured and imprisoned by {0} using {2} in {1}...
+Desc_97
+Was secretly captured and imprisoned by {0} using {2} in {1}...
+Desc_98
+Was released by {0} after losing to {0} in {1}...
+Desc_99
+Helped {0} fight enemies or solve problems in {1}...
+Desc_100
+Refused to help {0} fight enemies or solve problems in {1}...
+Desc_101
+Ended {1} in {0}...
+Desc_102
+Successfully received {2} from {0} in {1} to heal External Injuries...
+Desc_103
+Successfully received {2} from {0} in {1} to heal Internal Injuries...
+Desc_104
+Successfully received {2} from {0} in {1} to drive out {3}...
+Desc_105
+Successfully received {2} from {0} in {1} to cure diseases and extend lifespan...
+Desc_106
+Successfully received {2} from {0} in {1} to adjust Inner Breath...
+Desc_107
+Successfully received {2} from {0} in {1} to restore Qi...
+Desc_108
+Successfully received {2} from {0} in {1} to annihilate {3}...
+Desc_109
+Successfully received {2} from {0} in {1} to fill one's stomach...
+Desc_110
+Successfully received {2} from {0} in {1} to relieve stress...
+Desc_111
+Successfully received {3} {2} from {0} in {1}...
+Desc_112
+Successfully received {2} from {0} in {1}...
+Desc_113
+Successfully requested {0} in {1} to help repair {2}...
+Desc_114
+Successfully requested {0} in {1} to help envenom {2}...
+Desc_115
+Successfully requested help from {0} in {1} and learned part {3} of {2}...
+Desc_116
+Successfully requested help from {0} in {1} and learned part {3} of {2}...
+Desc_117
+Successfully requested help from {0} in {1} but failed to learn part {3} of {2}...
+Desc_118
+Successfully requested help from {0} in {1} but failed to learn part {3} of {2}...
+Desc_119
+Successfully requested help from {0} in {1} and interpreted Part {3} of {2}...
+Desc_120
+Successfully requested help from {0} in {1} and broke through the Bottleneck of {2}...
+Desc_121
+Requested {2} from {0} in {1} to heal External Injuries, but was rejected...
+Desc_122
+Requested {2} from {0} in {1} to heal Internal Injuries, but was rejected...
+Desc_123
+Requested {2} from {0} in {1} to drive out {3}, but was rejected...
+Desc_124
+Requested {2} from {0} in {1} to cure diseases and extend lifespan, but was rejected...
+Desc_125
+Requested {2} from {0} in {1} to adjust Inner Breath, but was rejected...
+Desc_126
+Requested {2} from {0} in {1} to restore Qi, but was rejected...
+Desc_127
+Requested {2} from {0} in {1} to annihilate {3}, but was rejected...
+Desc_128
+Requested {2} from {0} in {1} to fill the stomach, but was rejected...
+Desc_129
+Requested {2} from {0} in {1} to relieve stress, but was rejected...
+Desc_130
+Requested {3} {2} from {0} in {1}, but was rejected...
+Desc_131
+Requested {2} from {0} in {1}, but was rejected...
+Desc_132
+Requested help from {0} in {1} to repair {2}, but was rejected...
+Desc_133
+Requested help from {0} in {1} to envenom {2}, but was rejected...
+Desc_134
+Requested guidance from {0} in {1} to help learn part {3} of {2}, but was rejected...
+Desc_135
+Requested guidance from {0} in {1} to help learn part {3} of {2}, but was rejected...
+Desc_136
+Requested help from {0} in {1} to interpret part {3} of {2}, but was rejected...
+Desc_137
+Requested help from {0} in {1} to break through the Bottleneck of {2}, but was rejected...
+Desc_138
+Agreed to {0}'s request in {1} and gave them {2} to heal External Injuries...
+Desc_139
+Agreed to {0}'s request in {1} and gave them {2} to heal Internal Injuries...
+Desc_140
+Agreed to {0}'s request in {1} and gave them {2} to drive out {3}...
+Desc_141
+Agreed to {0}'s request in {1} and gave them {2} to cure diseases and extend lifespan...
+Desc_142
+Agreed to {0}'s request in {1} and gave them {2} to adjust Inner Breath...
+Desc_143
+Agreed to {0}'s request in {1} and gave them {2} to restore Qi...
+Desc_144
+Agreed to {0}'s request in {1} and gave them {2} to annihilate {3}...
+Desc_145
+Agreed to {0}'s request in {1} and gave them {2} to fill the stomach...
+Desc_146
+Agreed to {0}'s request in {1} and gave them {2} to relieve stress...
+Desc_147
+Agreed to {0}'s request in {1} and gave them {3} {2}...
+Desc_148
+Agreed to {0}'s request in {1} and gave them {2}...
+Desc_149
+Agreed to {0}'s request in {1} and helped them repair {2}...
+Desc_150
+Agreed to {0}'s request in {1} and helped them envenom {2}...
+Desc_151
+Agreed to {0}'s request in {1} and helped them learn part {3} of {2}...
+Desc_152
+Agreed to {0}'s request in {1} and helped them learn part {3} of {2}...
+Desc_153
+Agreed to {0}'s request in {1} and helped them learn part {3} of {2}, which was not fully grasped...
+Desc_154
+Agreed to {0}'s request in {1} and helped them learn part {3} of {2}, which was not fully grasped...
+Desc_155
+Agreed to {0}'s request in {1} and helped them interpret part {3} of {2}...
+Desc_156
+Agreed to {0}'s request in {1} and helped them break through the Bottleneck of {2}...
+Desc_157
+Rejected {0}'s request in {1} and didn't give them {2} to heal External Injuries...
+Desc_158
+Rejected {0}'s request in {1} and didn't give them {2} to heal Internal Injuries...
+Desc_159
+Rejected {0}'s request in {1} and didn't give them {2} to drive out {3}...
+Desc_160
+Rejected {0}'s request in {1} and didn't give them {2} to cure diseases and extend lifespan...
+Desc_161
+Rejected {0}'s request in {1} and didn't give them {2} to adjust Inner Breath...
+Desc_162
+Rejected {0}'s request in {1} and didn't give them {2} to restore Qi...
+Desc_163
+Rejected {0}'s request in {1} and didn't give them {2} to annihilate {3}...
+Desc_164
+Rejected {0}'s request in {1} and didn't give them {2} to fill the stomach...
+Desc_165
+Rejected {0}'s request in {1} and didn't give them {2} to relieve stress...
+Desc_166
+Rejected {0}'s request in {1} and didn't give them {3} {2}...
+Desc_167
+Rejected {0}'s request in {1} and didn't give them {2}...
+Desc_168
+Rejected {0}'s request in {1} and didn't help them repair {2}...
+Desc_169
+Rejected {0}'s request in {1} and didn't help them envenom {2}...
+Desc_170
+Rejected {0}'s request in {1} and didn't help them learn {3} of {2}...
+Desc_171
+Rejected {0}'s request in {1} and didn't help them learn {3} of {2}...
+Desc_172
+Rejected {0}'s request in {1} and didn't help them interpret {3} of {2}...
+Desc_173
+Rejected {0}'s request in {1} and didn't help them break through the bottleneck of {2}...
+Desc_174
+Tried to rescue {2} that was imprisoned in {1} by {0}, but failed to find them...
+Desc_175
+Tried to rescue {2} that was imprisoned in {1} by {0}, but was spotted before the action...
+Desc_176
+Tried to rescue {2} that was imprisoned in {1} by {0}, but missed the opportunity...
+Desc_177
+Tried to rescue {2} that was imprisoned in {1} by {0}, but failed...
+Desc_178
+Secretly rescued {2} that was imprisoned in {1} by {0}...
+Desc_179
+Secretly rescued {2} that was imprisoned in {1} by {0} and managed to escape unscathed...
+Desc_180
+{0} stole {2} in {1}...
+Desc_181
+Tried to use a scheme to rescue {2} that was imprisoned in {1} by {0}, but failed to find them...
+Desc_182
+Tried to use a scheme to rescue {2} that was imprisoned in {1} by {0}, but was spotted before the action...
+Desc_183
+Tried to use a scheme to rescue {2} that was imprisoned in {1} by {0}, but missed the opportunity...
+Desc_184
+Tried to use a scheme to rescue {2} that was imprisoned in {1} by {0}, but failed...
+Desc_185
+Used a scheme to rescue {2} that was imprisoned in {1} by {0}...
+Desc_186
+Used a scheme to rescue {2} that was imprisoned in {1} by {0} and managed to escape unscathed...
+Desc_187
+{0} used a scheme to rescue {2} in {1}...
+Desc_188
+Tried to forcibly rescue{2} that was imprisoned in {1} by {0}, but failed to find them...
+Desc_189
+Tried to forcibly rescue {2} that was imprisoned in {1} by {0}, but was spotted before the action...
+Desc_190
+Tried to forcibly rescue {2} that was imprisoned in {1} by {0}, but missed the timing...
+Desc_191
+Tried to forcibly rescue {2} that was imprisoned in {1} by {0}, but failed...
+Desc_192
+Forcibly rescued {2} that was imprisoned in {1} by {0}...
+Desc_193
+Forcibly rescued {2} that was imprisoned in {1} by {0} and managed to escape unscathed...
+Desc_194
+{0} forcibly snatched {2} in {1}...
+Desc_195
+Tried to use {2} to poison {0} in {1}, but failed to find them...
+Desc_196
+Tried to use {2} to poison {0} in {1}, but was spotted before the action...
+Desc_197
+Tried to use {2} to poison {0} in {1}, but missed the opportunity...
+Desc_198
+Tried to use {2} to poison {0} in {1}, but failed...
+Desc_199
+Used {2} to poison {0} in {1}...
+Desc_200
+Used {2} to poison {0} in {1} and managed to escape unscathed...
+Desc_201
+Was poisoned by {0} with {2} in {1}...
+Desc_202
+Tried to covertly harm {0} in {1}, but failed to find them...
+Desc_203
+Tried to covertly harm {0} in {1}, but was spotted before the action...
+Desc_204
+Tried to covertly harm {0} in {1}, but missed the opportunity...
+Desc_205
+Tried to covertly harm {0} in {1}, but failed...
+Desc_206
+Covertly harmed {0} in {1}...
+Desc_207
+Covertly harmed {0} in {1} and managed to escape unscathed...
+Desc_208
+Was covertly harmed by {0} in {1}...
+Desc_209
+Tried to steal {0}'s {2} in {1}, but failed to find it...
+Desc_210
+Tried to steal {0}'s {2} in {1}, but was spotted before the action...
+Desc_211
+Tried to steal {0}'s {2} in {1}, but missed the opportunity...
+Desc_212
+Tried to steal {0}'s {2} in {1}, but failed...
+Desc_213
+Stole {0}'s {2} in {1}...
+Desc_214
+Stole {0}'s {2} in {1} and managed to escape unscathed...
+Desc_215
+Failed to escape after stealing {0}'s {2} in {1}, and had to return it to the owner...
+Desc_216
+{3} {2} were stolen by {0} in {1}...
+Desc_217
+{3} {2} were stolen by {0} in {1}, but were fortunately retrieved...
+Desc_218
+Tried to swindle {0} out of {2} in {1}, but failed to find it...
+Desc_219
+Tried to swindle {0} out of {2} in {1}, but was spotted before the action...
+Desc_220
+Tried to swindle {0} out of {2} in {1}, but missed the opportunity...
+Desc_221
+Tried to swindle {0} out of {2} in {1}, but failed...
+Desc_222
+Swindled {0} out of {2} in {1}...
+Desc_223
+Swindled {0} out of {2} in {1} and managed to escape unscathed...
+Desc_224
+Failed to escape after swindling {0} out of {2} in {1}, and had to return it to the owner...
+Desc_225
+Was swindled out of {3} {2} by {0} in {1}...
+Desc_226
+Was swindled out of {3} {2} by {0} in {1}, but fortunately retrieved them...
+Desc_227
+Tried to snatch {0}'s {2} in {1}, but failed to find it...
+Desc_228
+Tried to snatch {0}'s {2} in {1}, but was spotted before the action...
+Desc_229
+Tried to snatch {0}'s {2} in {1}, but missed the opportunity...
+Desc_230
+Tried to snatch {0}'s {2} in {1}, but failed...
+Desc_231
+Snatched {0}'s {2} in {1}...
+Desc_232
+Snatched {0}'s {2} in {1} and managed to escape unscathed...
+Desc_233
+Failed to escape after snatching {0}'s {2} in {1}, and had to return it to the owner...
+Desc_234
+{0} snatched {3} {2} in {1}...
+Desc_235
+{3} {2} were snatched by {0} in {1}, but were fortunately retrieved...
+Desc_236
+Tried to steal {0}'s {2} in {1}, but failed to find it...
+Desc_237
+Tried to steal {0}'s {2} in {1}, but was spotted before the action...
+Desc_238
+Tried to steal {0}'s {2} in {1}, but missed the opportunity...
+Desc_239
+Tried to steal {0}'s {2} in {1}, but failed...
+Desc_240
+Stole {0}'s {2} in {1}...
+Desc_241
+Stole {0}'s {2} in {1} and managed to escape unscathed...
+Desc_242
+Failed to escape after stealing {0}'s {2} in {1}, and had to return it to the owner...
+Desc_243
+{0} stole {2} in {1}...
+Desc_244
+{2} was stolen by {0} in {1}, but was fortunately retrieved...
+Desc_245
+Tried to swindle {0} out of {2} in {1}, but failed to find it...
+Desc_246
+Tried to swindle {0} out of {2} in {1}, but was spotted before the action...
+Desc_247
+Tried to swindle {0} out of {2} in {1}, but missed the opportunity...
+Desc_248
+Tried to swindle {0} out of {2} in {1}, but failed...
+Desc_249
+Swindled {0} out of {2} in {1}...
+Desc_250
+Swindled {0} out of {2} in {1} and managed to escape unscathed...
+Desc_251
+Failed to escape after swindling {0} out of {2} in {1}, and had to return it to the owner...
+Desc_252
+{0} used a scheme to rescue {2} in {1}...
+Desc_253
+Was swindled out of {2} by {0} in {1}, but fortunately retrieved it...
+Desc_254
+Tried to snatch {0}'s {2} in {1}, but failed to find it...
+Desc_255
+Tried to snatch {0}'s {2} in {1}, but was spotted before the action...
+Desc_256
+Tried to snatch {0}'s {2} in {1}, but missed the opportunity...
+Desc_257
+Tried to snatch {0}'s {2} in {1}, but failed...
+Desc_258
+Snatched {0}'s {2} in {1}...
+Desc_259
+Snatched {0}'s {2} in {1} and managed to escape unscathed...
+Desc_260
+Failed to escape after snatching {0}'s {2} in {1}, and had to return it to the owner...
+Desc_261
+{0} forcibly snatched {2} in {1}...
+Desc_262
+{2} was snatched by {0} in {1}, but was fortunately retrieved...
+Desc_263
+Robbed {0}'s grave in {1} and took {3} {2}...
+Desc_264
+Tried to rob {0}'s grave in {1} and take {2}, but failed...
+Desc_265
+Robbed {0}'s grave in {1} and took {2}...
+Desc_266
+Tried to rob {0}'s grave in {1} and take {2}, but failed...
+Desc_267
+Tried to plagiarize part {3} of {2} from {0} in {1}, but failed to find it...
+Desc_268
+Tried to plagiarize part {3} of {2} from {0} in {1}, but was spotted before the action...
+Desc_269
+Tried to plagiarize part {3} of {2} from {0} in {1}, but missed the opportunity...
+Desc_270
+Tried to plagiarize part {3} of {2} from {0} in {1}, but failed...
+Desc_271
+Plagiarized part {3} of {2} from {0} in {1}...
+Desc_272
+Plagiarized part {3} of {2} from {0} in {1} and managed to escape unscathed...
+Desc_273
+{0} plagiarized {2} in {1}...
+Desc_274
+Tried to swindle {0} out of part {3} of {2} in {1}, but failed to find it...
+Desc_275
+Tried to swindle {0} out of part {3} of {2} in {1}, but was spotted before the action...
+Desc_276
+Tried to swindle {0} out of part {3} of {2} in {1}, but missed the opportunity...
+Desc_277
+Tried to swindle {0} out of part {3} of {2} in {1}, but failed...
+Desc_278
+Swindled {0} out of part {3} of {2} in {1}...
+Desc_279
+Swindled {0} out of part {3} of {2} in {1} and managed to escape...
+Desc_280
+Was swindled out of {2} by {0} in {1}...
+Desc_281
+Tried to plagiarize part {3} of {2} from {0} in {1}, but failed to find it...
+Desc_282
+Tried to plagiarize part {3} of {2} from {0} in {1}, but was spotted before the action...
+Desc_283
+Tried to plagiarize part {3} of {2} from {0} in {1}, but missed the opportunity...
+Desc_284
+Tried to plagiarize part {3} of {2} from {0} in {1}, but failed...
+Desc_285
+Plagiarized part {3} of {2} from {0} in {1}...
+Desc_286
+Plagiarized part {3} of {2} from {0} in {1} and managed to escape unscathed...
+Desc_287
+{0} plagiarized {2} in {1}...
+Desc_288
+Tried to swindle {0} out of part {3} of {2} in {1}, but failed to find it...
+Desc_289
+Tried to swindle {0} out of part {3} of {2} in {1}, but was spotted before the action...
+Desc_290
+Tried to swindle {0} out of part {3} of {2} in {1}, but missed the opportunity...
+Desc_291
+Tried to swindle {0} out of part {3} of {2} in {1}, but failed...
+Desc_292
+Swindled {0} out of part {3} of {2} in {1}...
+Desc_293
+Swindled {0} out of part {3} of {2} in {1} and managed to escape...
+Desc_294
+Was swindled out of {2} by {0} in {1}...
+Desc_295
+Won the Fine Art debate against {0} in {1}...
+Desc_296
+Lost the Fine Art debate against {0} in {1}...
+Desc_297
+Exchanged {3} {2} for {5} {4} in {1}...
+Desc_298
+Gifted {3} {2} to {0} in {1}...
+Desc_299
+Bought {4} with {3} {2} in {1}...
+Desc_300
+Sold {4} for {3} {2} in {1}...
+Desc_301
+Gifted {2} to {0} in {1}...
+Desc_302
+Tried to gift a poisoned {2} to {0} in {1} but was rejected.
+Desc_303
+Received {3} {2} from {0} in {1}...
+Desc_304
+Received {2} from {0} in {1}...
+Desc_305
+Refused to accept the poisoned {2} gifted by {0} in {1}...
+Desc_306
+Shared {0} some insight into part {3} of {2} in {1}...
+Desc_307
+Shared {0} some insight into part {3} of {2} in {1}...
+Desc_308
+Gained some insight into part {3} of {2} from {0} in {1}...
+Desc_309
+Was taught by {0} in {1}, but failed to learn part {3} of {2}...
+Desc_310
+Gained some insight into part {3} of {2} from {0} in {1}...
+Desc_311
+Was taught by {0} in {1}, but failed to learn part {3} of {2}...
+Desc_312
+Invited {0} with {2} in {1} and drank with them to their heart's content...
+Desc_313
+Invited {0} with {2} in {1} but was subtly rejected...
+Desc_314
+Pitched goods to {0} in {1} and sold {2}...
+Desc_315
+Pitched {2} to {0} in {1} but was subtly rejected...
+Desc_316
+Treated {0} and gifted them medicine in {1} to help heal injuries...
+Desc_317
+Helped {0} repair their item in {1}...
+Desc_318
+Helped {0} groom in {1} and made them look glowing...
+Desc_319
+Helped {0} groom in {1} but made them look less attractive...
+Desc_320
+Helped {0} groom in {1} but accidentally shaved all their hair off...
+Desc_321
+Begged {0} and received {3} {2} in {1}...
+Desc_322
+Begged {0} for {3} {2} in {1} but was rejected...
+Desc_323
+Played music for {0} in {1}...
+Desc_324
+Invited {0} to a leisurely game of Weiqi in {1}...
+Desc_325
+Composed and recited poetry for {0} in {1}...
+Desc_326
+Painted a picture for {0} in {1}...
+Desc_327
+Was invited by {0} with {2} in {1} and drank with them to their heart's content...
+Desc_328
+Was invited by {0} with {2} in {1} but subtly rejected them...
+Desc_329
+Received a sales pitch from {0} in {1} and bought {2}...
+Desc_330
+Received a sales pitch for {2} from {0} in {1} but subtly rejected them...
+Desc_331
+Received medical treatment and medicine from {0} in {1} and healed injuries...
+Desc_332
+Accepted help from {0} in {1} and repaired an item...
+Desc_333
+Was groomed by {0} in {1} and eventually looked glowing...
+Desc_334
+Was groomed by {0} in {1} but eventually looked less attractive...
+Desc_335
+Was groomed by {0} in {1} but had all their hair shaved off instead...
+Desc_336
+Donated {3} {2} to {0} in {1}...
+Desc_337
+Refused to donate {3} {2} to {0} in {1}...
+Desc_338
+Enjoyed the music played by {0} in {1}...
+Desc_339
+Accepted {0}'s invitation to a leisurely game of Weiqi in {1}...
+Desc_340
+Enjoyed the poetry composed and recited by {0} in {1}...
+Desc_341
+Enjoyed the picture painted by {0} in {1}...
+Desc_342
+Made a piece of {1} in {0}...
+Desc_343
+Talked about Taoism with {0} in {1} and enlightened them...
+Desc_344
+Talked about Taoism with {0} in {1} but failed to enlighten them...
+Desc_345
+Talked about Buddhism with {0} in {1} and enlightened them...
+Desc_346
+Talked about Buddhism with {0} in {1} but failed to enlighten them...
+Desc_347
+Talked about Taoism with {0} in {1} and was enlightened...
+Desc_348
+Talked about Taoism with {0} in {1} but failed to become enlightened...
+Desc_349
+Talked about Buddhism with {0} in {1} and was enlightened...
+Desc_350
+Talked about Buddhism with {0} in {1} but failed to become enlightened...
+Desc_351
+Tried to collect tea or liquor in {0} and found {1}...
+Desc_352
+Tried to collect tea or liquor in {0} but found nothing...
+Desc_353
+Observed the astrological signs in {1} and divined {0}'s secret...
+Desc_354
+Observed the astrological signs in {0} but failed to know any secret...
+Desc_355
+Engaged in Cricket Duels with {0} in {1} and won...
+Desc_356
+Engaged in Cricket Duels with {0} in {1} but unfortunately lost...
+Desc_357
+Fell in love with {0} and spent the night with them in {1}...
+Desc_358
+Couldn't help the feelings for {0}, and tried to humiliate them in {1} but eventually failed...
+Desc_359
+Couldn't help the feelings for {0} and sexually assaulted them in {1}...
+Desc_360
+Released {0} from captivity in {1} and set them free...
+Desc_361
+Saw through {0}'s dirty trick in {1} and avoided being humiliated...
+Desc_362
+Was tricked and humiliated by {0} in {1} and became distraught...
+Desc_363
+Was released from captivity by {0} in {1} and regained freedom...
+Desc_364
+Bought a new batch of goods in {0}...
+Desc_365
+Unexpectedly found {2} {1} in {0} and felt blessed with good luck...
+Desc_366
+Unexpectedly found extremely rare {1} in {0} and felt blessed with good luck...
+Desc_367
+Unexpectedly found {1} in {0} and felt blessed with good luck...
+Desc_368
+Dreamed of a miraculous white deer in {0} and restored {1} Health.
+Desc_369
+Dreamed of a miraculous white deer in {0} and healed External Injury x{1}.
+Desc_370
+Dreamed of a miraculous white deer in {0} and healed Internal Injury x{1}.
+Desc_371
+Dreamed of a miraculous white deer in {0} and reduced {1} within the body.
+Desc_372
+Dreamed of a miraculous white deer in {0} and pacified Inner Breath.
+Desc_373
+Unexpectedly lost {2} {1} in {0} and felt stuck with bad luck...
+Desc_374
+Unexpectedly lost extremely rare {1} in {0} and felt stuck with bad luck...
+Desc_375
+Unexpectedly lost {1} in {0} and felt stuck with bad luck...
+Desc_376
+Dreamed of a sinister devil in {0} and lost {1} Health.
+Desc_377
+Dreamed of a sinister devil in {0} and took External Injury x{1}.
+Desc_378
+Dreamed of a sinister devil in {0} and took Internal Injury x{1}.
+Desc_379
+Dreamed of a sinister devil in {0} and gained {1} within the body.
+Desc_380
+Dreamed of a sinister devil in {0} and lost Inner Breath balance.
+Desc_381
+Defeated {1} in {0}, a threat to the world is momentarily gone...
+Desc_382
+Defeated {1} in {0}, stirring up new conflict in the martial world...
+Desc_383
+Was attacked by {1} in {0} and failed to survive...
+Desc_384
+Was hunted down by {1} in {0} and failed to get away...
+Desc_385
+Was poisoned by Monu's poison mist in {0}.
+Desc_386
+Was mistaken by Dayue Yaochang as a demon and slain in {0}.
+Desc_387
+Was affected by the calamity caused by Jin Huang'er in {0}.
+Desc_388
+Forged a grudge with {1} under the influence of Yi Yihou in {0}.
+Desc_389
+Was forced to take a lot of damage for Wei Qi in {0}.
+Desc_390
+Mindset temporarily changed to Rebellious under the influence of Yi Xiang in {0}.
+Desc_391
+Speed of aging was accelerated under the influence of Spellwright's sorcery in {0}.
+Desc_392
+Was sucked dry by an unknown demon in {0}.
+Desc_393
+Was rescued and cured by Monu in {0}.
+Desc_394
+Was slain by Dayue Yaochang in {0}.
+Desc_395
+Was affected by the auspicious blessings caused by Jin Huang'er in {0}.
+Desc_396
+Loved {1} under the influence of Yi Yihou in {0}.
+Desc_397
+Was protected by Wei Qi from a lot of damage in {0}.
+Desc_398
+Mindset temporarily changed to Benevolent under the influence of Yi Xiang in {0}.
+Desc_399
+Was trained by the Blood Maple and gained plenty of XP in {0}.
+Desc_400
+Speed of aging was slowed down under the influence of Spellwright's fairy arts in {0}.
+Desc_401
+Dreamed in {0} about a beast that pounced into their belly while hunting a rabbit, and found out they were pregnant on waking.
+Desc_402
+Dreamed in {0} about being chased by ghosts, and found out they were pregnant on waking.
+Desc_403
+Dreamed in {0} about falling into a boundless sea of fire, and found out they were pregnant on waking.
+Desc_404
+Dreamed in {0} about a child holding an iron hook and a jade seal, and found out they were pregnant on waking.
+Desc_405
+Dreamed in {0} about a crane throwing a five-color lingzhi into their belly, and found out they were pregnant on waking.
+Desc_406
+Dreamed in {0} about riding the red clouds in the sky, and found out they were pregnant on waking.
+Desc_407
+After spreading a Secret, {0} gained {1} prestige.
+Desc_408
+Was penalized for violating the sect's rules.
+Desc_409
+Was penalized for trying to defect from the sect.
+Desc_410
+Banished {0} from {1}, earning their grudge.
+Desc_411
+Was cured by {1} in {0}; the Fuyu Hilt drove away Xiangshu's Evil Will, restoring their sanity.
+Desc_412
+Became {1} in {0}.
+Desc_413
+Was banished by {0} in {1} and began holding a grudge against them.
+Desc_414
+Took the blame for {0} who violated the sect's rules in {1} and was severely punished!
+Desc_415
+Tried to defect from the sect, but escaped punishment because of {0}.
+Desc_416
+Heard that {1} was holding a Betrothal Contest in {0} and decided to participate.
+Desc_417
+Held a Betrothal Contest in {0}, and chose {1} as their husband.
+Desc_418
+Participated in a Betrothal Contest in {0} and won {1}'s heart.
+Desc_419
+Held a Betrothal Contest in {0}, but failed to find the love of their life.
+Desc_420
+Participated in {1}'s Sect Tournament in {0} and won.
+Desc_421
+Participated in {1}'s Sect Tournament in {0}.
+Desc_422
+Presided over {1}'s Sect Tournament in {0}.
+Desc_423
+Learned in {0} that the Martial World Tournament would be held in {1} and decided to participate.
+Desc_424
+Participated in the Martial World Tournament in {0} and won the first prize, becoming the reigning Chief of Martial World!
+Desc_425
+Participated in the Martial World Tournament in {0} and won the first prize, but didn't become the new Chief of Martial World.
+Desc_426
+Presided over the Martial World Tournament in {0} on {1}'s behalf.
+Desc_427
+Was attacked by a mysterious woman while participating in the Martial World Tournament in {0} and passed away.
+Desc_428
+Donated plenty to {1} in {0} to assist in the preparation of the Martial World Tournament.
+Desc_429
+Was assassinated by the Veil Scar Sect for holding the Insignia of the Shadowless and passed away in {0}.
+Desc_430
+Attempted to flee from a terrible natural disaster in {0} but didn't make it.
+Desc_431
+Experienced a terrible natural disaster in {0}.
+Desc_432
+Experienced a terrible natural disaster in {0} but was lucky enough to survive.
+Desc_433
+After hearing what {1} said in {0}, they thought about it and began to like {2} items.
+Desc_434
+After hearing what {1} said in {0}, they thought about it and began to hate {2} items.
+Desc_435
+After hearing what {1} said in {0}, they thought about it and began to yearn for {2}, which changed their ideal sect.
+Desc_436
+After hearing what {1} said in {0}, they thought about it and changed their Mindset toward {2}.
+Desc_437
+After hearing what {1} said in {0}, they thought about it and started to study {2}.
+Desc_438
+Tried to rob {1}'s grave in {0} but disturbed the monsters inside...
+Desc_439
+Tried to rob {0}'s grave in {1} but failed...
+Desc_440
+Was punished for {0} and had some property confiscated...
+Desc_441
+Was punished for {0}, demoted to {1}, had some martial arts destroyed and property confiscated...
+Desc_442
+Was punished for {0}, had their property confiscated, was expelled from the sect and had all their martial arts destroyed—ultimately becoming a beggar.
+Desc_443
+Was punished for {0}, demoted to {1}, had some martial arts destroyed, some property confiscated, and was abandoned by their spouse...
+Desc_444
+Was punished for {0}, had all their property confiscated, was expelled from their sect, had all their martial arts destroyed, and was abandoned by their spouse—ultimately becoming a beggar...
+Desc_445
+Was coerced by {2} in {1}, and had to become Sworn Siblings with {0}...
+Desc_446
+Was coerced by {2} in {0}, and had to marry {1}...
+Desc_447
+Was coerced by {2} in {0}, and had to recognize {1} as their foster father...
+Desc_448
+Was coerced by {2} in {0}, and had to recognize {1} as their foster mother...
+Desc_449
+Was coerced by {2} in {0}, and had to adopt {1} as their son...
+Desc_450
+Was coerced by {2} in {0}, and had to adopt {1} as their daughter...
+Desc_451
+Was coerced by {2} in {0}, and had to recognize {1} as their master...
+Desc_452
+Was coerced by {2} in {1}, and had to sever the sworn siblinghood with {0}...
+Desc_453
+Was coerced by {2} in {1}, and had to divorce {0}...
+Desc_454
+Was coerced by {2} in {0}, and had to end their apprenticeship with {1}...
+Desc_455
+Was coerced by {2} in {0}, and had to stop recognizing {1} as their foster father...
+Desc_456
+Was coerced by {2} in {0}, and had to stop recognizing {1} as their foster mother...
+Desc_457
+Was coerced by {2} in {0}, and had to stop recognizing {1} as their foster son...
+Desc_458
+Being coerced by {2} in {0}, and had to stop recognizing {1} as their foster daughter...
+Desc_459
+Recognized {0} as foster father in {1} and wished to work for him from here on out...
+Desc_460
+Recognized {0} as foster mother in {1} and wished to work for her from here on out...
+Desc_461
+Adopted {0} as son in {1} and took care of him from here on out...
+Desc_462
+Adopted {0} as daughter in {1} and took care of her from here on out...
+Desc_463
+Was coerced by {0} in {1}, and had to support their sect...
+Desc_464
+Learned in {0} that {1} would be held in {2} and decided to participate...
+Desc_465
+Participated in {1} in {0} and won first prize, becoming the new {2}!
+Desc_466
+Can only lament that their relationship won't work out. Cut off their love for {0} in {1}...
+Desc_467
+Recognized {1} as their master in {0}. The legacy shall be passed on, and they shall support one another...
+Desc_468
+Took in {1} as their apprentice in {0}. Their apprentice shall hopefully surpass them and pass on their legacy...
+Desc_469
+Stopped recognizing {0} as their foster parent in {1}, and they never saw one another again...
+Desc_470
+Stopped recognizing {0} as their foster child in {1}, and they never saw one another again...
+Desc_471
+Stopped recognizing {0} as their master in {1}...
+Desc_472
+Was expelled {0} from the sect in {1}...
+Desc_473
+It was time for them to go their separate ways, so they divorced {0} in {1}...
+Desc_474
+Was coerced {0} in {1} into offering benefits...
+Desc_475
+Admonished {0} in {1}...
+Desc_476
+Became more rule-abiding after being admonished by {0} in {1}...
+Desc_477
+Was admonished by {0} in {1}, and put away some of their grievances toward {0}...
+Desc_478
+Was coerced by {0} in {1} and put away some of their grievances toward {0}...
+Desc_479
+Began acting increasingly recklessly after being admonished by {0} in {1}...
+Desc_480
+Defeated all others in {1} and won the long-lost {0}...
+Desc_481
+Got a glimpse of the mysteries of {1} in {0}, learning Martial Arts and greatly improving their skills...
+Desc_482
+Was bewitched and lost their mind in {0}.
+Desc_483
+Dreamed in {0} that the pages of {1} were all rotten—an experience akin to facing an abyss shaking their will...
+Desc_484
+Dreamed in {0} that the pages of {1} were endless—a boundless sea of confusion assailed their mind...
+Desc_485
+Scoured a book in {0} but struggled to find an answer—enthralled by the book, they ultimately fell into depravity...
+Desc_486
+Had been longing for {2} for a long time in {1}, and decided to find {0}, the successor of the secret tome...
+Desc_487
+Ended their search for the secret tome in {0}...
+Desc_488
+Initiated a challenge to {0} in {1}, then defeated their opponent and won the {2}...
+Desc_489
+Initiated a challenge to {0} in {1}, but was defeated and failed to win the {2}...
+Desc_490
+Was challenged by {0} in {1}, then defeated their opponent and kept the {2}...
+Desc_491
+Was challenged by {0} in {1}, but was defeated and lost the {2}...
+Desc_492
+Was challenged by {0} in {1}, but ran away and barely kept the {2}...
+Desc_493
+Initiated a challenge to {0} in {1}, but was defeated at the last moment and failed to win the {2}...
+Desc_494
+Initiated a challenge to {0} in {1}, and tried to snatch the {2} but was defeated and had to run away...
+Desc_495
+Was challenged by {0} in {1}, then defeated them and managed to snatch the {2}...
+Desc_496
+Avoided {0}'s challenge in {1} and kept the {2}...
+Desc_497
+Initiated a challenge to {0} in {1} to try and win the {2} but the fight never happened...
+Desc_498
+Was moved by {0}'s sincerity in {1} and finally handed over the {2}...
+Desc_499
+Was sincere enough to move {0} in {1} and finally got the {2} as a reward...
+Desc_500
+Rejected {0}'s request to obtain the {2} in {1}...
+Desc_501
+Tried to be sincere enough to impress {0} in {1} and obtain the {2}, but failed...
+Desc_502
+Was impressed by {0}'s proposed remuneration in {1}, and sold {2} for {4} {3}...
+Desc_503
+Bought {2} from {0} in {1} for {4} {3}.
+Desc_504
+Rejected {0}'s proposal to sell {2} in {1}...
+Desc_505
+Tried to buy {2} from {0} in {1}, but failed...
+Desc_506
+Tried to gift {2} to {0} in {1} but was rejected...
+Desc_507
+Rejected {2} which {0} tried to gift them in {1}...
+Desc_508
+Subdued the bewitched {0} in {2}, destroyed their opponent's martial arts and obtained the {1}...
+Desc_509
+Subdued the bewitched {0} in {1} and kept their opponent safe...
+Desc_510
+Subdued the bewitched {0} in {1}...
+Desc_511
+Subdued the bewitched {0} in {1} and instigated the opponent to attack others...
+Desc_512
+Subdued and slew the bewitched {0} in {1}, obtaining the {2}...
+Desc_513
+Was subdued by {0} in {1} while bewitched, and had all their martial arts destroyed and lost the {2}...
+Desc_514
+Was subdued by {0} in {1} while bewitched and remained safe and sound...
+Desc_515
+Was subdued by {0} in {1} while bewitched...
+Desc_516
+Was subdued by {0} in {1} while bewitched and instigated to attack others...
+Desc_517
+Was subdued and slain by {0} in {1} while bewitched and lost the {2}...
+Desc_518
+Assaulted {0} in {1} while bewitched but fled in a hurry...
+Desc_519
+Was assaulted by the bewitched {0} in {1} but fought them off...
+Desc_520
+Was assaulted by the bewitched {0} in {1} but was lucky enough to escape...
+Desc_521
+Assaulted {0} in {1} while bewitched but they got away...
+Desc_522
+Defeated the depraved {0} in {1}.
+Desc_523
+Was defeated by {0} in {1} and freed from their pain.
+Desc_524
+Was impressed by {0}'s proposed remuneration in {1}, and sold {2} for {3} XP.
+Desc_525
+Bought {2} from {0} in {1} for {3} XP.
+Desc_526
+Resigned from their position as {3} of {2} in {0} to focus on exploring the mysteries within the secret tome {1}.
+Desc_527
+Cast loving glances at {0} in {1}, trying to feel them out.
+Desc_528
+Sensed {0}'s loving glances in {1}.
+Desc_529
+Begged {0} on their bare knees in {1}, barely salvaging their relationship.
+Desc_530
+Begged {0} on their bare knees in {1}, but still couldn't salvage their relationship.
+Desc_531
+{0} begged them on their bare knees in {1}, barely salvaging their relationship.
+Desc_532
+{0} begged them on their bare knees in {1}, but still couldn't salvage their relationship.
+Desc_533
+Held {0}'s hand for the first time in {1} and poured out their feelings.
+Desc_534
+First held hands with {0} in {1} and poured out their feelings.
+Desc_535
+Presented {0} to {2} in {1} in light of their vows.
+Desc_536
+Accepted {2} from {0} in {1}, a token representing their vows.
+Desc_537
+Invited {1} for a stroll in {0}, holding hands like a couple in love.
+Desc_538
+Was invited by {1} for a stroll in {0}, holding hands like a couple in love.
+Desc_539
+Vowed to love and cherish {0} forevermore in {1}.
+Desc_540
+Celebrated {0}'s birthday in {1}.
+Desc_541
+Was congratulated by {0} in {1} on their birthday.
+Desc_542
+Enjoyed a joyous time with {0} in {1} on their anniversary.
+Desc_543
+Their infidelity was brought to light and they were berated by {0} in {1}.
+Desc_544
+Berated {0} in {1} after learning of their infidelity.
+Desc_545
+Berated {0} in {1} after learning of their infidelity.
+Desc_546
+{0} kept them company in {1} throughout the pregnancy...
+Desc_547
+Tasted tea with {0} in {1}.
+Desc_548
+Tasted tea with {0} in {1} and offered compelling eloquence.
+Desc_549
+Tasted tea with {0} in {1} but offered unconvincing bombast.
+Desc_550
+Tasted tea with {0} in {1} but their Inner Breath was disturbed due to excessive sampling.
+Desc_551
+Joined a Wine Duel with {0} in {1}.
+Desc_552
+Joined a Wine Duel with {0} in {1} and won the drunken brawl.'
+Desc_553
+Joined a Wine Duel with {0} in {1} and was beaten in the drunken brawl.
+Desc_554
+Joined a Wine Duel with {0} in {1} but their Inner Breath was disturbed due to excessive sampling.
+Desc_555
+Accepted {0}'s suggestions in {1} and changed their name to {2}.
+Desc_556
+Gathered a group of talents in {0} and started the trend of practicing {1}.
+Desc_557
+Gathered a group of heroes in {0} and started the trend of practicing {1}.
+Desc_558
+Professed their support for {0} in {1}, enhancing their influence in the sect.
+Desc_559
+Obtained the support of {0} in {1}, and their influence in the sect was enhanced.
+Desc_560
+Was trained by {0} in {1} and gained increased mastery.
+Desc_561
+Was brought to {1} by a large number of beggars overnight to meet {0}.
+Desc_562
+Heeded {0}'s persuasion in {1} and cast aside the grudge...
+Desc_563
+Persuaded an old enemy in {0} to let go of the grudge...
+Desc_564
+Persuaded {0} in {1} to retire and stop caring about worldly affairs.
+Desc_565
+Heeded {0}'s persuasion in {1} and decided to retire and stop caring about worldly affairs.
+Desc_566
+Offered charitable healing in {0} to treat and detoxify the local residents.
+Desc_567
+Paid {0} a tribute in {1}.
+Desc_568
+Received a tribute from {0} in {1}.
+Desc_569
+Bought {3} from {0} for {2} silver in {1}.
+Desc_570
+Sold {3} to {0} for {2} silver in {1}.
+Desc_571
+Seeking Alms in {0} and received a total of {1} <SpName=sp_icon_resource_money> <color=#orange>Silver</color>...
+Desc_572
+Used nasty slang to drive away {0} in {1}.
+Desc_573
+Was driven away by {0} talking nasty slang in {1}.
+Desc_574
+Healed and detoxified {0} in {1}.
+Desc_575
+Was healed and detoxified by {0} in {1}.
+Desc_576
+Treated and detoxified {0} in {1} but with the wrong medicine.
+Desc_577
+Was healed and detoxified by {0} in {1} but with the wrong medicine.
+Desc_578
+Lengthened {0}'s lifespan in {1}, making them glowing.
+Desc_579
+Had their lifespan lengthened in {1} by {0}, granting them glowing health.
+Desc_580
+Preached the scriptures in {1} and converted {0} to Buddhism.
+Desc_581
+Listened to {0}'s preachings in {1} and was converted to Buddhism.
+Desc_582
+Preached the scriptures to {0} in {1} but failed to convert them.
+Desc_583
+Held a Liberation Ritual in {0} to pray so that the souls may escape eternal suffering and attain bliss.
+Desc_584
+Repelled the evil within {0} in {1}.
+Desc_585
+Had the evil within repelled by {0} in {1}.
+Desc_586
+Tried to repel the evil within {0} in {1} but failed.
+Desc_587
+Having gone through a variety of hardships in {0}, they finally realized the Tao, regaining their youth.
+Desc_588
+Failed their tribulations and passed away in {0}.
+Desc_589
+Failed to maintain their youth in {0} due to a lack of training.
+Desc_590
+Returned to youth in {0} due to their immaculate training.
+Desc_591
+Clarified the virtues to {0} in {1}, helping them regain the ability to tell right from wrong.
+Desc_592
+Listened to {0}'s clarification of the virtues in {1} and regained the ability to tell right from wrong.
+Desc_593
+Clarified the virtues to {0} in {1} but they became none the wiser.
+Desc_594
+Visited the grand temples of {0} and participated in Buddhist teachings.
+Desc_595
+Gained insight and comprehended {1} and {2} following their visit to the grand temples in {0}.
+Desc_596
+Gained insight and comprehended {1} following their visit to the grand temples in {0}.
+Desc_597
+Gained insight and comprehended {1} following their visit to the grand temples in {0}.
+Desc_598
+Gained insight and {1} XP following their visit to the grand temples in {0}.
+Desc_599
+Tell {0}'s fortunes in {1} and an auspicious omen appeared.
+Desc_600
+Tell {0}'s fortunes in {1} and a bad omen appeared.
+Desc_601
+Changed their and {0}'s fates in {1}, both seeing changes in their traits.
+Desc_602
+Had their and {0}'s fates changed in {1}, both seeing changes in their traits.
+Desc_603
+{0} traveled the lands and saw the vicissitudes of life, finally realizing the Tao in {1} and achieving eternal life.
+Desc_604
+Failed to maintain eternal life in {0} due to a lack of training.
+Desc_605
+Succeeded in attaining eternal life in {0} due to their immaculate training.
+Desc_606
+Passed away, but understood the intricacies of reincarnation in {1} and was reborn in the womb of {2} {0}.
+Desc_607
+Dreamed in {0} about entering a relaxing forest and picking a lotus flower, and found out they were pregnant on waking.
+Desc_608
+Suffered from bone fracturing poison in {0} and lost a great amount of Health...
+Desc_609
+Suffered from heart rupturing poison in {0} and would find it hard to use Nimble Footwork Arts if also inflicted with Acritoxin, Necrotoxin and Oneirotoxin...
+Desc_610
+Suffered from tendon tangling poison in {0} and lost the {1} in their Travel Bag while in agonizing pain...
+Desc_611
+Suffered from intestine splitting poison in {0} and would find it hard to withstand Pyrotoxin if also inflicted with Acritoxin, Necrotoxin and Cryotoxin...
+Desc_612
+Suffered from acupoint occlusion poison in {0} and would find it hard to use Annihilation Martial Arts if also inflicted with Pyrotoxin, Necrotoxin, and Oneirotoxin...
+Desc_613
+Suffered from organ decomposition poison in {0} and would find it hard to withstand Acritoxin if also inflicted with Pyrotoxin, Necrotoxin and Umbritoxin...
+Desc_614
+Suffered from sanguine ruination poison in {0} and inflicted others with Necrotoxin...
+Desc_615
+Suffered from searing enchantment poison in {0} and succumbed to evil doings...
+Desc_616
+Suffered from marrow burning poison in {0} and was completely disfigured...
+Desc_617
+Suffered from malignant Yin poison in {0}, causing a deterioration in all External Injuries...
+Desc_618
+Suffered from baneful blight poison in {0} and would find it hard to be intimate with anyone if also inflicted with Umbritoxin, Cryotoxin and Oneirotoxin...
+Desc_619
+Suffered from marrow congestion poison in {0}, causing Martial Arts to Recoil...
+Desc_620
+Suffered from pulse frosting poison in {0} and increased Inner Breath Chaos...
+Desc_621
+Suffered from blood coagulating poison in {0}, causing a deterioration in all Internal Injuries...
+Desc_622
+Suffered from infectious Yin poison in {0} and would find it hard to use Acumen Martial Art if also inflicted with Cryotoxin, Oneirotoxin, and Necrotoxin...
+Desc_623
+Suffered from grueling fear poison in {0} and would find it hard to withstand Umbritoxin if also inflicted with Cryotoxin, Oneirotoxin and Acritoxin...
+Desc_624
+Suffered from agonizing ordeal poison in {0} and inflicted others with Oneirotoxin...
+Desc_625
+Suffered from soulless rancor poison in {0} and would find it hard to use Protection Martial Arts if also inflicted with Umbritoxin, Oneirotoxin, and Necrotoxin...
+Desc_626
+Suffered from meridian severing poison in {0}, causing drainage of True Qi...
+Desc_627
+Suffered from blood sealing poison in {0} and would find it hard to withstand Cryotoxin if also inflicted with Umbritoxin, Oneirotoxin and Pyrotoxin...
+Desc_628
+Was defeated by Xiangshu Underlings during an excavation in {0} and lost all the found relics...
+Desc_629
+Defeated Xiangshu Underlings during an excavation in {0} and found {1}...
+Desc_630
+Was drained of blood and killed by a Ghost Lady in {0}...
+Desc_631
+Visited an immortal's residence in {0} and found a lost spiritual treasure, {1}...
+Desc_632
+Was inspired by an <color=cyan>Immortal Jade-Maiden</color> in {0} and decided to join the <color=cyan>Jade-Maiden Sect</color>...
+Desc_633
+Temporary: Had Deviation absorbed by the three demons in {0}.
+Desc_634
+Temporary: Fought the three demons in {0} with remarkable results.
+Desc_635
+Temporary: Fought the three demons in {0} with average results.
+Desc_636
+Temporary: Fought the three demons in {0} with no results.
+Desc_637
+Died of an unexplainable cause in Taiwu Village...
+Desc_638
+An awe-inspiring poem. Fought fiercely against an enemy sect in {0}...
+Desc_639
+Was poisoned in {0}...
+Desc_640
+Suffered from the Quintessence Heartbane in {0} and poisoned {1}...
+Desc_641
+Suffered from the Quintessence Heartbane in {0} and attacked {1}...
+Desc_642
+Was overjoyed in {1}, rendering the poison ineffective...
+Desc_643
+Attacked a sectmate in {0} and injured them...
+Desc_644
+Temporary: Received an order and attempted to assassinate Taiwu in {0}...
+Desc_645
+{0} won the championship of the Martial World Tournament and received congratulations as {1} from martial artists alike...
+Desc_646
+Thought about what {1} said in {0}, felt an aversion to {2}, and changed their ideal sect.
+Desc_647
+Received secret treatments from Jixi in {0} and made a full recovery...
+Desc_648
+Temporary: Joined the Tri-School Contest in {0}.
+Desc_649
+Temporary: Joined the Tri-School Contest in {1} and defeated {0}.
+Desc_650
+Temporary: Joined the Tri-School Contest in {1} and lost to {0}.
+Desc_651
+Reflected on past events and learned a lot in {0}...
+Desc_652
+Reread {1} in {0} and learned a lot from it...
+Desc_653
+Was implicated and penalized with {0} because {0} violated the sect's rules...
+Desc_654
+Decided to adopt the abandoned {0} in {1}...
+Desc_655
+Decided to terminate the adoption of {0} in {1}...
+Desc_656
+Adopted the abandoned {0} in {1} and raised the child like their own...
+Desc_657
+Was adopted by {0} in {1} and would be raised by a new parent...
+Desc_658
+Found {0} that they once abandoned and reunited with them in {1}...
+Desc_659
+Was found by {0} in {1} and reunited with them...
+Desc_660
+Killed by Xiangshu Underlings when protecting Sacred Wood in {0}...
+Desc_661
+After participating in the Lion-Face Clan's unique arts contest, fell mysteriously ill...
+Desc_662
+Encountered {1} in {0} and eventually subdued it...
+Desc_663
+Attacked by {1} in {0}, narrowly escaped death...
+Desc_664
+Explored {1} in {0}, then disappeared...
+Desc_665
+Trapped in {1} at {0}, ultimately couldn't escape and died...
+Desc_666
+Trapped in {2} at {1}, fortunately rescued by {0} and narrow escaped...
+Desc_667
+Learned the Secret of {1} in {0} and decided to spread it far and wide...
+Desc_668
+Learned the Secret of {1} in {0} and was eager to spread the news...
+Desc_669
+Learned the Secret of {1} in {0} but was reluctant to discuss it with others...
+Desc_670
+Learned the Secret of {1} in {0} and decided to keep it secret, rarely mentioning it to others...
+Desc_671
+Discussed the Secret of {2} with {0} in {1}, but failed to convince them...
+Desc_672
+Secretly informed {0} about the Secret of {2} in {1}...
+Desc_673
+Heard from {0} about the Secret of {2} in {1} and decided to spread it far and wide...
+Desc_674
+Heard from {0} about the Secret of {2} in {1} and was eager to spread the news...
+Desc_675
+Heard from {1} about the Secret of {0} in {2} but was reluctant to discuss it with others...
+Desc_676
+Heard from {1} about the Secret of {0} in {2} and decided to keep it Secret, rarely mentioning it to others...
+Desc_677
+Asked {0} to keep the secret of {2} in {1}, but they refused...
+Desc_678
+Secretly made a pact with {0} in {1} to keep the secret of {2}...
+Desc_679
+Agreed to {0}'s request in {1} to keep the secret of {2}...
+Desc_680
+Tried to matchmake {0} and {2} as {3} in {1}, but failed...
+Desc_681
+Tried to sever the relationship between {0} and {2} as {3} in {1}, but failed...
+Desc_682
+Successfully matched {0} and {2} as {3} in {1}, a happy union...
+Desc_683
+Successfully made {0} see the true color of {2} in {1}, severing their relationship as {3}...
+Desc_684
+Matchmade by {0} in {1}, decided to become {3} with {2}, a tale of joy...
+Desc_685
+Swayed by {0} in {1}, saw the true color of {2}, severing their relationship as {3}...
+Desc_686
+Because {0} was matchmade by {2} in {1}, became {3}, a tale of joy...
+Desc_687
+Because {0} was sowed discord by {2}in {1}, severed their relationship as {3}...
+Desc_688
+Discussed the Secret of {2} with {0} in {1}, only to find they already knew...
+Desc_689
+Enlightened by Taiwu's true essence, born from a mirror with the power of Egarim, named {0}...
+Desc_690
+Trapped in {1} at {0}, but fortunately escaped...
+Desc_691
+Used the Fuyu Hilt to expel the evil thoughts of Xiangshu's Evil Will from {0} in {1}, helping them regain sanity...
+Desc_692
+Explored {2} in {1} and successfully rescued {0}...
+Desc_693
+Explored {2} in {1}, tried to rescue {0} but failed...
+Desc_694
+Successfully tamed the wild {0} in {1}, making it obedient again...
+Desc_695
+Failed to tame the wild {0} in {1}, let it escape into the mountains...
+Desc_696
+Released {0} back into the wild in {1}...
+Desc_697
+Heard the song {2} composed for {0} in {1}, felt admiration for {0}...
+Desc_698
+As {1} hymns praises for Taiwu at {0}, passersby pause to listen, their Favorability toward Taiwu increases...
+Desc_699
+{2} напали на {0} в {1}…
+Desc_700
+learned at {0} a secret shared by {1}...
+Desc_701
+Получено из уст {0}: {1}…
+Desc_702
+Saw {1} practicing with a wisp of smoke at {0}, and interpreted {2}'s Part {3}...
+Desc_703
+Obtained the Relic {1} is looking for at {0}...
+Desc_704
+Confessed a past deed under {1}'s scrutiny at {0}; their Reputation has changed accordingly...
+Desc_705
+Received {1}'s guidance at {0}, and thus interpreted {2}'s Part {3}...
+Desc_706
+Played freely with {1} in {0}, regained Qi...
+Desc_707
+Challenged {0} in {1} and returned victorious...
+Desc_708
+Challenged {0} in {1} and returned defeated...
+Desc_709
+Was attacked by {1} in {0} and failed to survive...
+Desc_710
+Passed away peacefully in {0} due to limited lifespan...
+Desc_711
+Died unfortunately in {0} due to depleted health...
+Desc_712
+Life was publicly ended by {0} in {1}
+Desc_713
+Life was secretly ended by {0} in {1}
+Desc_714
+Fell into Corrupted, couldn't control self, ultimately ended by {0}...
+Desc_715
+Assassinated by Veil Scar Sect in {0}, died on the spot...
+Desc_716
+Due to demonic chaos, died at the hands of Xiangshu Underlings in {0}...
+Desc_717
+Bought {1} in {0}...
+Desc_718
+Sold {1} in {0}...
+Desc_719
+Engaged in {2} with {0} in {1}, suddenly aided by divine inspiration, won with unexpected moves.
+Desc_720
+Engaged in {2} with {0} in {1}, suddenly a flash of golden light momentarily dazed them, resulting in an inexplicable defeat.
+Desc_721
+Engaged in {2} with {0} in {1}, suddenly a hostility surge erupted, forging a lethal strike that led to overwhelming victory.
+Desc_722
+Engaged in {2} with {0} in {1}, but the sight of a vengeful specter shattered focus, leading to utter defeat.
+Desc_723
+Enchanted by {2} in {1}, developed a grudge against {0}...
+Desc_724
+Due to {2} being revealed, developed a grudge with {0} at {1}...
+Desc_725
+Due to {2} being revealed, {0} held a deep grudge in {1}...
+Desc_726
+Encountered {1} in {0}, which was unusually docile and easily subdued...
+Desc_727
+Encountered {1} in {0}, which was unusually fearful and easily subdued...
+Desc_728
+As if guided by an unseen force in {0}, unleashed unexpected moves, defeated {1}, ridding the world of a threat...
+Desc_729
+Suddenly a hostility surge erupted in {0}, forging a lethal strike that struck down {1}, ridding the world of a threat...
+Desc_730
+As if guided by an unseen force in {0}, unleashed unexpected moves, defeated {1}, staining hands with Xiake's blood...
+Desc_731
+Suddenly a hostility surge erupted in {0}, forging a lethal strike that struck down {1}, staining hands with Xiake's blood...
+Desc_732
+While practicing the Quintessence Heartbane in {0}, consumed by sorrow and despair, ultimately succumbing to Pure Deviation, poisoned by the mood...
+Desc_733
+Due to Poison Burst in {1}, attacked {0}...
+Desc_734
+Moments of joy briefly suppressed the poison within...
+Desc_735
+Eyes damaged by {0} in {1}, lost {2}...
+Desc_736
+Confused by {0}, Favorability toward {1} decreased...
+Desc_737
+Being resented by {0} in {1}, who was confused by {2}...
+Desc_738
+Infected by {0}, Inner Breath Chaos increased...
+Desc_739
+Disturbed by {0}, Psyche taken by evil thoughts...
+Desc_740
+Infested by {0}, gnawing at flesh, health decreased...
+Desc_741
+Frozen by {0}, Qi drained...
+Desc_742
+The {0} inside went berserk, devouring {1} completely...
+Desc_743
+{0}'s influence stirred uncontrollable emotions, leading to a buildup of toxic affliction...
+Desc_744
+Influenced by {2}'s love-inducing thoughts in {1}, spent a passionate night with {0}, who was implanted with {3}...
+Desc_745
+Spent a passionate night with {0} in {1}, who was influenced by {2}'s love-inducing thoughts, and was implanted with {3}...
+Desc_746
+Freed from the influence of the Five Immortals Sect, no longer affected by the sect's poison...
+Desc_747
+Seemingly due to an unnamed Poison Gu, mood dropped...
+Desc_748
+Seemingly due to an unnamed Poison Gu, Favorability toward others dropped...
+Desc_749
+Seemingly due to an unnamed Poison Gu, lost a small amount of Qi...
+Desc_750
+Seemingly due to an unnamed Poison Gu, got poisoned at {0}
+Desc_751
+Seemingly due to an unnamed Poison Gu, lost some belongings in {0}...
+Desc_752
+Disturbed by {0}, mood became unstable...
+Desc_753
+While enjoying fine wine, the {0} inside quietly transformed into {1}...
+Desc_754
+While enjoying fine wine, the {0} inside quietly transformed into {1}...
+Desc_755
+While savoring fine tea, the {0} inside quietly transformed into {1}...
+Desc_756
+While enjoying fine wine, the {0} inside quietly transformed into {1}...
+Desc_757
+When exhausted at {1}, {0} was implanted with {3}...
+Desc_758
+While coming into contact with {0} in {1}, who was on the verge of death, was implanted with {3}...
+Desc_759
+During Inner Breath Chaos, the {0} inside quietly transformed into {1}...
+Desc_760
+While hungry, the {0} inside quietly transformed into {1}...
+Desc_761
+While intimate with {0} in {1}, implanted him with {3}...
+Desc_762
+While intimate with {0} in {1}, was implanted with {3}...
+Desc_763
+While working, learned the essence of {0} Chapter {1}, gaining insight...
+Desc_764
+While working, mastered the method of {0} Chapter {1}, gaining clarity...
+Desc_765
+While working, had a fleeting realization, slightly improving {0}'s Talent...
+Desc_766
+While working, had a momentary enlightenment, slightly improving {0}'s Talent...
+Desc_767
+While working, felt a slight inspiration, slightly improving {0}'s Talent...
+Desc_768
+While working, felt a slight inspiration, slightly improving {0}'s Talent...
+Desc_769
+Succumbed to inner evil thoughts in {0}, finally became corrupted, transforming into a monstrous "Evil Beast"...
+Desc_770
+Received cure from {0} in {1}, the evil thoughts were expelled by the Fuyu Hilt, regaining sanity.
+Desc_771
+Used the Fuyu Hilt to expel {0}'s evil thoughts in {1}, helping them regain sanity...
+Desc_772
+Deposited {2} {1} in {0} Warehouse and earn {3} Contribution...
+Desc_773
+Deposited {1} in {0} Warehouse and earn {2} Contribution...
+Desc_774
+Retrieved {1} x{2} from {0} warehouse, consuming {3} contribution point(s)...
+Desc_775
+Retrieved {1} from {0} warehouse, consuming {2} contribution point(s)...
+Desc_776
+Deposited {2} {1} in {0} Warehouse...
+Desc_777
+Deposited {1} in {0} Warehouse...
+Desc_778
+Retrieved {2} {1} from {0} warehouse...
+Desc_779
+Retrieved {1} from {0} warehouse...
+Desc_780
+Decided to guard {1}'s warehouse in {0}...
+Desc_781
+Ended guarding {1} warehouse in {0}...
+Desc_782
+Due to {0} trespassing {1} warehouse, Favorability toward them dropped. Withdrew sect support and developed a grudge with them...
+Desc_783
+Due to trespassing {0} warehouse, Favorability with many affiliated members dropped. Lost sect support and developed a grudge with them...
+Desc_784
+Due to {0} trespassing {1} warehouse, Favorability toward them dropped. Withdrew sect support...
+Desc_785
+Due to trespassing {0} warehouse, Favorability with many affiliated members dropped. Lost sect support...
+Desc_786
+Due to {0} trespassing {1} warehouse, Favorability toward them dropped. Developed a grudge with them...
+Desc_787
+Due to trespassing {0} warehouse, Favorability with many affiliated members dropped. Developed a grudge...
+Desc_788
+Due to {0} trespassing {1} warehouse, Favorability toward them dropped...
+Desc_789
+Due to trespassing {0} warehouse, local favor decreased by <color=#pinkyellow>{1}%</color>...
+Desc_790
+Due to trespassing {0} warehouse, Favorability with many affiliated members dropped...
+Desc_791
+Due to {0} looting {1} warehouse, Favorability toward them dropped. Withdrew sect support, and developed a grudge...
+Desc_792
+Due to looting {0} warehouse, Favorability with many affiliated members dropped. Lost sect support, and developed grudges...
+Desc_793
+Due to {0} looting {1} warehouse, Favorability toward them dropped, withdrew sect support...
+Desc_794
+Due to looting {0}'s warehouse, Favorability with many members of {0}'s group dropped, lost sect support...
+Desc_795
+Due to {0} looting {1} warehouse, Favorability toward them dropped, and developed a grudge...
+Desc_796
+Due to looting {0} warehouse, Favorability with many affiliated members dropped, and developed grudges...
+Desc_797
+Due to {0} looting {1} warehouse, Favorability toward them dropped...
+Desc_798
+Due to looting {0} warehouse, local favor decreased by <color=#pinkyellow>{1}%</color>...
+Desc_799
+Due to looting {0} warehouse, Favorability with many affiliated members dropped...
+Desc_800
+Due to {0} donating supplies to {1} warehouse, Favorability toward them increased, and offered them sect support...
+Desc_801
+Due to donating supplies to {0} warehouse, Favorability with many affiliated members increased, and gained sect support...
+Desc_802
+Due to {0} donating supplies to {1} warehouse, Favorability toward them increased...
+Desc_803
+Due to donating supplies to {0} warehouse, gained local favor by <color=#pinkyellow>{1}%</color>...
+Desc_804
+Due to donating supplies to {0} warehouse, Favorability with many affiliated members increased...
+Desc_805
+Received {1} x{2} distributed by {0} warehouse...
+Desc_806
+Received {1} distributed by {0} warehouse...
+Desc_807
+Tried to poison {0} in {1}, but failed to find them...
+Desc_808
+Tried to poison {0} in {1}, but was spotted before the action...
+Desc_809
+Tried to poison {0} in {1}, but missed the timing...
+Desc_810
+Tried to poison {0} in {1}, but failed...
+Desc_811
+Poisoned {0} in {1}...
+Desc_812
+Poisoned {0} in {1} and managed to escape unscathed...
+Desc_813
+Was poisoned by {0} in {1}...
+Desc_814
+Tried to use {2} to covertly harm {0} in {1}, but failed to find them...
+Desc_815
+Tried to use {2} to covertly harm {0} in {1}, but was spotted before the action...
+Desc_816
+Tried to use {2} to covertly harm {0} in {1}, but missed the timing...
+Desc_817
+Tried to use {2} to covertly harm {0} in {1}, but failed...
+Desc_818
+Covertly harmed {0} with {2} in {1}...
+Desc_819
+Covertly harmed {0} with {2} in {1} and managed to escape unscathed...
+Desc_820
+Was covertly harmed by {0} with {2} in {1}...
+Desc_821
+Suddenly felt a faint dark aura enveloping in {0}, causing inexplicable restlessness and sorrowful anger...
+Desc_822
+Suddenly felt a thick fog-like dark aura enveloping in {0}, causing overwhelming restlessness and sorrowful anger...
+Desc_823
+Due to the dark aura, madness broke out, and in a fit of rage and sorrow, accidentally attacked {0} at {1}...
+Desc_824
+Was attacked by {0} in {1}, who suffered from madness caused by the Dark Aura...
+Desc_825
+Cured {0} of madness caused by Dark Aura in {1}.
+Desc_826
+Healed by {0}, a disciple of the Valley of Flowers, in {1}, breaking free from the madness caused by Dark Aura...
+Desc_827
+Discussed the past and present with Hua Ju, shared grand ambitions, and decided to abandon {0} in {1}, no longer obsessed.
+Desc_828
+Rode across rivers and mountains with Xuan Zhi, reveled in poetry and wine, and in that moment, abandoned {0} in {1}, no longer obsessed.
+Desc_829
+Devoted to Ying Jiao, risking life and limb, and inadvertently abandoned {0} in {1}, no longer obsessed.
+Desc_830
+Due to {2} being revealed, developed a grudge with {0} at {1}...
+Desc_831
+Due to {2} being revealed, {0} held a deep grudge in {1}...
+Desc_832
+Learned that {0} was wanted for fleeing after violating faction rules in {1}, and decided to set out to capture them...
+Desc_833
+Ended the capture of {0} in {1}
+Desc_834
+Was wanted by {2} for violating {1}'s faction rules in {0}, and decided to flee to {3} to hide...
+Desc_835
+Stopped the escape in {0}...
+Desc_836
+Was wanted by {0} for violating {1}'s faction rules in {2}, decided to seek shelter at {3}...
+Desc_837
+Gave up seeking shelter from {1} in {0}...
+Desc_838
+Successfully gained shelter from {1} in {0}, becoming {1} {2}...
+Desc_839
+After capturing {0} in {1}, began escorting them back to {2} for sect judgment...
+Desc_840
+Stopped escorting {0} in {1}...
+Desc_841
+Listening to Sutra in {0} prison, developed thoughts of renouncing the world, leading to changes in Favorability with acquaintances...
+Desc_842
+Successfully guided a sectmate in Martial Art cultivation in {0} prison, reducing the punishment time by 1 month...
+Desc_843
+Failed to guide a sectmate in Martial Art cultivation in {0} prison, increasing the punishment time by 1 month...
+Desc_844
+Tested acupuncture on self in {0} prison, leading to blocked meridians, as well as loss of Qi and True Qi...
+Desc_845
+Copied Taoist scriptures in {0} prison, struggled to comprehend their meaning, causing Inner Breath Chaos...
+Desc_846
+Due to listening to the suffering of the world in {0} prison, reflecting on self monthly, leading to inner demons...
+Desc_847
+Due to forced grueling training in {0} prison, gradually forgot the learned Fine Arts...
+Desc_848
+Due to copying Wang Chan's Scriptures in {0} prison, worldview and mindset changed...
+Desc_849
+Hearing a sorrowful tune in {0} prison, felt disheartened and emotionally numb, weakening certain traits...
+Desc_850
+Due to endless forced labor in {0} prison, prematurely aged in appearance...
+Desc_851
+Forced to consume {1} in {0} prison, living a life worse than death...
+Desc_852
+Subjected to secret disciplinary techniques in {0} prison, damaging the meridians and chakras, leading to True Qi loss...
+Desc_853
+Implanted with {1} in {0} prison, enduring immense suffering...
+Desc_854
+Forced to brawl with sectmates in {0} prison, ultimately won, reducing punishment time by 1 month...
+Desc_855
+Forced to brawl with sectmates in {0} prison, ultimately lost, increasing punishment time by 1 month...
+Desc_856
+Due to enduring the agony of being burned by fire in {0} prison, health severely deteriorated...
+Desc_857
+Subjected to torture in {0} prison, {1} was damaged...
+Desc_858
+Due to {0} trespassing {1} prison, developed a grudge and withdrew sect support...
+Desc_859
+Due to trespassing {0} prison, developed grudges with many affiliated members and lost sect support...
+Desc_860
+Due to {0} trespassing {1} prison, Favorability dropped and withdrew sect support...
+Desc_861
+Due to trespassing {0} prison, Favorability with many affiliated members dropped, and lost sect support...
+Desc_862
+Due to {0} trespassing {1} prison, developed a grudge with them...
+Desc_863
+Due to trespassing {0} prison, developed grudges with many affiliated members...
+Desc_864
+Thanks to {0}'s plea, escaped from {1} prison and regained freedom...
+Desc_865
+Pleaded with {1} to pardon criminal {0}, finally freeing {0} from {1} prison and restoring their freedom...
+Desc_866
+Due to {0}'s imprisoning of a possessed person, eliminating a threat to the people, Favorability increased and offered sect support...
+Desc_867
+Due to imprisoning a possessed person, eliminating a threat to the people, Favorability with many affiliated members of {0} increased, and gained sect support...
+Desc_868
+Due to {0} imprisoning a possessed person, eliminating a threat to the people, Favorability increased...
+Desc_869
+Due to imprisoning a possessed person, eliminating a threat to the people, Favorability with many affiliated members of {0} increased...
+Desc_870
+Captured by {0} in {1} and locked in the Taiwu Village Stone House...
+Desc_871
+Captured Possessed {0} in {1} and locked them in the Taiwu Village Stone House...
+Desc_872
+Due to {0}'s prison break, successfully escaped from {1} prison...
+Desc_873
+Because {0} trespassed into {2}'s prison to rescue {1}, formed a grudge and withdrew sect support...
+Desc_874
+Because of trespassing into {1}'s prison to rescue {0}, formed grudges with many of {1}'s affiliates, and lost sect support...
+Desc_875
+Because {0} trespassed into {2}'s prison to rescue {1}, withdrew sect support...
+Desc_876
+Because of trespassing into {1}'s prison to rescue {0}, lost sect support...
+Desc_877
+Because {0} trespassed into {2}'s prison to rescue {1}, formed a grudge...
+Desc_878
+Because of trespassing into {1}'s prison to rescue {0}, formed grudges with many of {1}'s affiliates...
+Desc_879
+Due to {0} refusing to hand over fugitive {1} from {2}, developed a grudge and withdrew sect support...
+Desc_880
+Due to refusing to hand over fugitive {0} from {1}, developed grudges with many affiliated members, and lost sect support...
+Desc_881
+Due to {0} refusing to hand over fugitive {1} from {2}, withdrew sect support...
+Desc_882
+Due to refusing to hand over fugitive {0} from {1}, lost sect support...
+Desc_883
+Due to {0} refusing to hand over fugitive {1} from {2}, developed a grudge...
+Desc_884
+Due to refusing to hand over fugitive {0} from {1}, developed grudges with many affiliated members...
+Desc_885
+Failed to capture fugitive {0} from {2} in {1} and returned in frustration...
+Desc_886
+Fought with {0} who came to hunt fugitive {2} in {1}, ultimately won and escaped...
+Desc_887
+Fought with {0} who came to hunt fugitive {3} to protect {1} in {2}...
+Desc_888
+Successfully captured fugitive {0} from {2} in {1}...
+Desc_889
+Was captured by {0} who came to hunt fugitive {2} in {1}...
+Desc_890
+Took custody of fugitive {0} from {2} at {1}...
+Desc_891
+Handed over {0} to {1} who came to hunt fugitive {2}...
+Desc_892
+Was delivered by {0} to {1} who came to hunt fugitive {2}...
+Desc_893
+After receiving {0} {4} {3}, handed over criminal {1} from {2}...
+Desc_894
+Bribed {0} with {4} {3} to release criminal {1} from {2}...
+Desc_895
+After a heated debate with {0}, was persuaded to release criminal {1} from {2}...
+Desc_896
+After a heated debate with {0}, persuaded them to release criminal {1} from {2}...
+Desc_897
+After a heated debate with {0}, was not persuaded to release criminal {1} from {2}...
+Desc_898
+After a heated debate with {0}, failed to persuade them to release criminal {2} from {1}...
+Desc_899
+While escorting criminal {2}, encountered obstruction from {0}, ultimately lost the battle and lost custody of criminal {1}...
+Desc_900
+While escorting criminal {2} in {0}, intervened and fought, ultimately won and successfully rescued {1}...
+Desc_901
+While escorting criminal {1} from {2}, encountered obstruction from {0}, ultimately repelled them...
+Desc_902
+While escorting criminal {1} from {2} in {0}, intervened and fought, ultimately lost the battle...
+Desc_903
+Was robbed by Fuloong Sanctuary bandits in {0} but turned the tables and eliminated them...
+Desc_904
+Was robbed by Fuloong Sanctuary bandits in {0}, failed to resist, and handed over {1} x{2} and {3} x{4} as tribute...
+Desc_905
+Was robbed by Fuloong Sanctuary bandits in {0} and handed over {1} x{2} and {3} x{4} as tribute...
+Desc_906
+Was extorted for tribute by Fuloong Sanctuary bandits in {0} but turned the tables and eliminated them...
+Desc_907
+Was extorted for tribute by Fuloong Sanctuary bandits in {1} but fortunately received help from {0} and narrowly escaped...
+Desc_908
+After turning themselves in to {1} in {0}, faced sect punishment, had half of their resources confiscated and sent to the warehouse...
+Desc_909
+After committing {0}, surrendered to {1} and faced sect punishment: all belongings confiscated to the warehouse and imprisoned for {2} months...
+Desc_910
+After committing {0}, surrendered to {1} and faced sect punishment: half of {1} martial skills destroyed and imprisoned for {2} months...
+Desc_911
+After committing {0}, surrendered to {1} and received sect punishment: all possessions confiscated to the warehouse, all {1} martial skills destroyed, and imprisoned for {2} months...
+Desc_912
+After turning themselves in to {1} in {0}, faced sect punishment, had all their possessions confiscated and sent to the warehouse, all {1} martial skills destroyed, and was expelled from the faction, ultimately becoming a beggar...
+Desc_913
+After turning themselves in to {1} in {0}, along with their spouse {2}, faced sect punishment, had all their possessions confiscated and sent to the warehouse, all {1} martial skills destroyed, and was expelled from the faction, ultimately becoming a beggar...
+Desc_914
+Due to committing the crime of {0} and being captured by {1}, faced sect punishment, had half of their resources confiscated and sent to the warehouse...
+Desc_915
+Due to committing the crime of {0} and being captured by {1}, faced sect punishment: half of items confiscated to the warehouse and imprisoned for {2} months...
+Desc_916
+Due to committing the crime of {0} and being captured by {1}, faced sect punishment: half of {1} martial skills destroyed and imprisoned for {2} months...
+Desc_917
+Due to committing the crime of {0} and being captured by {1}, faced sect punishment: all possessions confiscated to the warehouse, all {1} martial skills destroyed, and imprisoned for {2} months...
+Desc_918
+Due to committing the crime of {0} and being captured by {1}, faced sect punishment, had all their possessions confiscated and sent to the warehouse, all {1} martial skills destroyed, and was expelled from the faction, ultimately becoming a beggar...
+Desc_919
+Due to committing the crime of {0} and being captured by {1}, along with their spouse {2}, faced sect punishment, had all their possessions confiscated and sent to the warehouse, all {1} martial skills destroyed, and was expelled from the faction, ultimately becoming a beggar...
+Desc_920
+Due to being implicated in {0}' crime and punished by {1}, had all possessions confiscated and sent to the warehouse, all {1} martial skills destroyed, and was expelled from the faction, ultimately becoming a beggar...
+Desc_921
+After serving their full sentence in {0} prison, released and regained freedom...
+Desc_922
+Managed to escape from {0} prison and regained freedom...
+Desc_923
+For sending {0} to {1} prison, received a sect reward of {2} x{3}...
+Desc_924
+Sent {0} to {1} prison...
+Desc_925
+Was sent to {1} prison by {0}...
+Desc_926
+Imprisoned {0} in {1} prison...
+Desc_927
+Was imprisoned by {0} in {1} prison...
+Desc_928
+Deadly encounter with the criminal {0} from {2} in {1}, after a fierce battle, they were successfully captured...
+Desc_929
+Deadly encounter with {0} in {1}, after a fierce battle, was captured...
+Desc_930
+Deadly encounter with the criminal {0} from {2} in {1}, after a fierce battle, they managed to escape...
+Desc_931
+Deadly encounter with {0} in {1}, after a fierce battle, successfully escaped...
+Desc_932
+After gaining {0} {3} XP, handed over the criminal {1} from {2}...
+Desc_933
+Bribed {0} with {3} XP, secured the release of the criminal {1} from {2}...
+Desc_934
+For sending {0} to {1} prison, received {2} XP as rewards from the sect...
+Desc_935
+While relocating resources in {0}, fortune favored them, and they obtained {1}...
+Desc_936
+Using the Culinary Arts skills and {1} from the Kitchen Warehouse in {0}, cooked {2}...
+Desc_937
+Using the craftsmanship and {1} from the Workshop Warehouse in {0}, crafted {2}...
+Desc_938
+Repaired {1} in the Treasury in {0}, restoring it to its original condition...
+Desc_939
+Repaired {2} for {0} in {1}, restoring it to its original condition...
+Desc_940
+Disassembled {1} in the Workshop Warehouse in {0} and organized the resources properly...
+Desc_941
+While disassembling {1} in the Workshop Warehouse in {0}, used leftover materials to create {2}...
+Desc_942
+Using the knowledge of medicine and {1} from the Alchemy Warehouse in {0}, refined {2}...
+Desc_943
+Using {1} from the Alchemy Warehouse in {0}, detoxified {2}...
+Desc_944
+While detoxifying {2} with {1} from the Alchemy Warehouse in {0}, studied the poison's properties and successfully extracted {3}...
+Desc_945
+Used {1} from the Alchemy Warehouse in {0} to envenom {2}...
+Desc_946
+While peddling cargo in {1}, successfully sold {2} to {0}, earning {3} x{4}...
+Desc_947
+After haggling in {1}, finally spent {3} x{4} to buy {2} from {0}...
+Desc_948
+Guided {0} and {1} patiently in {2}, helping them let go of their past bitterness and resolve their mutual grudge...
+Desc_949
+Introduced {0} and {1} in {2}, making the two hit it off, improving their mutual Favorability...
+Desc_950
+Shared drinks with {0} and {1} in {2}, making the two become close friends...
+Desc_951
+Acted as a matchmaker for {0} and {1} in {2}, leading to their marriage and a happy union...
+Desc_952
+Witnessed {0} and {1} swear a sibling oath in {2}, who vowed to never abandon each other...
+Desc_953
+Help {0} adopt {1} in {2}, bringing joy to both the old and the young...
+Desc_954
+Provided treatment to {0} in {1}, earning {3} x{2}...
+Desc_955
+Provided treatment to {0} in {1} and earned Regional Favor for Taiwu...
+Desc_956
+Received treatment from {0} in {1} and gave {3} x{2} as thanks...
+Desc_957
+Received treatment from {0} in {1} and provided local Favor for Taiwu...
+Desc_958
+Got locked in the Taiwu Village Stone House after succumbing to the evil power of Xiangshu in {0} and turning into a demonic spirit serving it...
+Desc_959
+Succumbed to the evil power of Xiangshu in {0} and turned into a demonic spirit serving it, and were locked in {1} prison...
+Desc_960
+{2} was fully restored by {0} in {1}...
+Desc_961
+Retrieved {0} from the Taiwu Village Treasury...
+Desc_962
+Stored {0} in the Taiwu Village Treasury...
+Desc_963
+Stored {1} {0} in the Taiwu Village Treasury...
+Desc_964
+Retrieved {1} {0} from the Taiwu Village Treasury...
+Desc_965
+Delighted {1} with talents in {0}, improving their mood...
+Desc_966
+Saddened {1} with talents in {0}, lowering their mood...
+Desc_967
+With clever words in {0}, chatted happily with locals, improving {1}'s Favorability toward Taiwu...
+Desc_968
+With clever words in {0}, spread rumors among locals, lowering {1}'s Favorability toward Taiwu...
+Desc_969
+Enlightened the people in {0}, promoting culture and raising local cultural standards...
+Desc_970
+Indulged in vulgar trends in {0}, lowering local cultural standards...
+Desc_971
+Through friendly martial exchanges in {0}, improving {1} people's Favorability toward Taiwu...
+Desc_972
+Through martial exchanges in {0}, spread discord, lowering {1} people's Favorability toward Taiwu...
+Desc_973
+By punishing evildoers in {0}, brought peace to the people, increasing local stability...
+Desc_974
+By disrupting order in {0}, caused chaos, decreasing local stability...
+Desc_975
+While guarding, carefully investigated and learned about {0}...
+Desc_976
+To prevent {0} from breaking out, fought fiercely but was unfortunately injured...
+Desc_977
+Accepted Taiwu's dispatch and set off for {0}...
+Desc_978
+Due to other urgent matters in {0}, halted the current villager work...
+Desc_979
+Refined the toxins from {2} {3} {4} in {0} and successfully envenomed {1}...
+Desc_980
+While detoxifying {2} with {1} in {0}, studied the poison's properties and successfully extracted {3} {4} {5}...
+Desc_981
+Refined the toxins from {2} {3} {4} in the Alchemy Warehouse in {0} and successfully envenomed {1}...
+Desc_982
+While detoxifying {2} with {1} from the Alchemy Warehouse in {0}, studied the poison's properties and successfully extracted {3} {4} {5}...
+Desc_983
+Due to the lack of {1}, the attempt to cook in {0} failed...
+Desc_984
+Due to insufficient supplies in the Kitchen Warehouse, the attempt to cook in {0} failed...
+Desc_985
+Due to the lack of {1}, the attempt to handle Artisan work in {0} failed...
+Desc_986
+Due to insufficient supplies in the Workshop Warehouse, the attempt to craft in {0} failed.
+Desc_987
+Due to insufficient supplies in the Workshop Warehouse, the attempt to repair in {0} failed...
+Desc_988
+Due to insufficient supplies in the Workshop Warehouse, the attempt to disassemble in {0} failed...
+Desc_989
+Due to the lack of {1}, the attempt to handle Doctor work in {0} failed...
+Desc_990
+Due to insufficient supplies in the Alchemy Warehouse, the attempt to make medicine in {0} failed...
+Desc_991
+Due to insufficient supplies in the Alchemy Warehouse, the attempt to envenom {0} failed...
+Desc_992
+Due to insufficient supplies in the Alchemy Warehouse, the attempt to detox poison in {0} failed...
+Desc_993
+Too far from the Kitchen Warehouse in {0}, making it impossible to try cooking...
+Desc_994
+Too far from the Workshop Warehouse in {0}, making it impossible to proceed with artisan work...
+Desc_995
+Too far from the Alchemy Warehouse in {0}, making it impossible to proceed with doctor work...
+Desc_996
+Due to {1}'s insufficient Attainment, the attempt of {0} to perform the task failed...
+Desc_997
+Due to punishment from {0}, Prestige decreased by {1}, and favorability with {2} was reduced by <color=#pinkyellow>{3}%</color>...
+Desc_998
+Having undergone disciplinary rites under the Shaolin Sect and immersed in Buddhist teachings, they inclined toward monastic life, and changes their Favorability toward all people to Distant...
+Desc_999
+Disciplined by the Emei Sect and feared by locals, they were banned from learning Techniques and Fine Arts in the Bashu region for {0} month(s)...
+Desc_1000
+Disciplined by the Valley of Flowers, their meridians were sealed with golden needles, eliminating all Qi and reducing their True Qi limit for {0} months...
+Desc_1001
+Disciplined by the Wudang Sect, they meditated in seclusion, fasting, causing Inner Breath Chaos for {0} months...
+Desc_1002
+Disciplined by the Yuanshan Sect, witnessing the suffering of the Bewitched in the stone cell, they developed mental barriers, significantly lowering their mood...
+Desc_1003
+Disciplined by the Lion-Face Clan, exhausted from constant training, their skills deteriorated, and their Talent in all Fine Arts decreased for {0} months...
+Desc_1004
+Disciplined by the Ranshan Sect, their spirit entered a void, leaving them feeling empty, and they lost all Pure Essence effects for {0} months...
+Desc_1005
+Disciplined by the Jade-Maiden Sect, listening to mournful music, they became numb, and their Dispositions decreased for {0} months...
+Desc_1006
+Disciplined by the Swordsmith Villa, working day and night by the forge, enduring the scorching heat and relentless smoke, their appearance deteriorated...
+Desc_1007
+Disciplined by the Kongsang Sect, forced to serve as an Acolyte, swallowing {0} deadly poisons until their veins ran riot with kaleidoscopic torment...
+Desc_1008
+Disciplined by the Vajra Sect, afflicted by secret skills, their meridians and chakras malfunctioned, and their basic attributes decreased for {0} months...
+Desc_1009
+Disciplined by the Five Immortals Sect, infested with {0} Gu, they suffered constant bites...
+Desc_1010
+Disciplined by the Veil Scar Sect, their name was cast into the Demise Abyss, and they were continuously attacked by Veil Scar assassins for {0} months...
+Desc_1011
+Disciplined by the Fuloong Sanctuary, burned by fire, their health continuously decreased for {0} months...
+Desc_1012
+Disciplined by the Sanguine Sect, thrown into the blood pool, they suffered torture, damaging {0} body parts and enduring pain and injury...
+Desc_1013
+After being released for the {0} crime, was exiled from {1} and became a beggar...
+Desc_1014
+Due to being implicated in {0}' crime and punished by {1}: all possessions confiscated to the warehouse, all {1} martial skills destroyed, and imprisoned for {2} months...
+Desc_1015
+Due to {0}'s crimes, they were implicated under collective punishment. Upon release, they were expelled from {1} and became a beggar...
+Desc_1016
+As {0} was listed as a most-wanted criminal on {1}, an attempt was made to capture them, but they resisted, leading to a deep grudge and the withdrawal of sect support...
+Desc_1017
+As a wanted criminal on {0}, they refused to surrender, developeing grudges with many affiliated members and losing sect support...
+Desc_1018
+As {0} was listed as a most-wanted criminal on {1}, an attempt was made to capture them, but they resisted, leading to the withdrawal of sect support...
+Desc_1019
+As a wanted criminal on {0}, they refused to surrender, losing numerous sect supports...
+Desc_1020
+As {0} was listed as a most-wanted criminal on {1}, an attempt was made to capture them, but they resisted, leading to a grudge...
+Desc_1021
+As a wanted criminal on {0}, they refused to surrender, developeing grudges with many affiliated members...
+Desc_1022
+After listening to {0}'s advice in {1}, let go of the grudge against {2}...
+Desc_1023
+Obtained {2} from {0} in {1} and ate it on the spot, improving {0}'s mood and Favorability...
+Desc_1024
+After {0} obtained {2} in {1} and ate it on the spot, their mood and Favorability with {0} were improved...
+Desc_1025
+Using their reputation, they released many prisoners in {0}, gaining their support and improving Favorability...
+Desc_1026
+Due to {0}'s reputation, they received a pardon from {1}, getting {0} sect support and improving Favorability...
+Desc_1027
+Upon retrieving an oeder inscribed with {0}'s name from the Demise Abyss, they immediately set out to look for {0} to complete the assassination mission...
+Desc_1028
+Successfully completed the assassination mission in {1}, killing {0} on the spot...
+Desc_1029
+Was assassinated and killed by {0} in {1}...
+Desc_1030
+Tried to assassinate {0} in {1}, but failed, and was killed on the spot...
+Desc_1031
+Was assassinated by {0} in {1}, killing them on the spot.
+Desc_1032
+Gave up the mission to assassinate {0}...
+Desc_1033
+During the Evil Repelling Ritual, killed {0}, who was possessed by a demon...
+Desc_1034
+During the Evil Repelling Ritual, was killed by {0} due to demonic possession...
+Desc_1035
+Engaged in a desperate battle against {0} who came for a hunt in {1}—emerging victorious to evade arrest once more...
+Desc_1036
+Engaged in a desperate battle against {0} who came for hunt in {1}, but was ultimately overpowered and captured...
+Desc_1037
+After a heated debate with {0}, was persuaded to release {0} and revoke the arrest warrant...
+Desc_1038
+After a heated debate with {0}, persuaded {0} to avoid arrest and revoke the warrant...
+Desc_1039
+After a heated debate with {0}, was not persuaded and successfully captured {0}...
+Desc_1040
+After a heated debate with {0}, failed to persuade and surrendered...
+Desc_1041
+After receiving {0} {1} prestige, released {0} and revoked the arrest warrant...
+Desc_1042
+Bribed {0} with {1} prestige, evading arrest, and {0} withdrew the warrant...
+Desc_1043
+After receiving {0} {1} XP, released {0} and revoked the arrest warrant...
+Desc_1044
+Bribed {0} with {1} XP, evading arrest, and {0} withdrew the warrant...
+Desc_1045
+After receiving {0} {1} Silver, release {0} and revoked the arrest warrant...
+Desc_1046
+Bribed {0} with {1} Silver, evading arrest, and {0} withdrew the warrant...
+Desc_1047
+Wanted on {1} list, hunted by {0}, surrendered—now at {1}'s mercy...
+Desc_1048
+{0}, a top fugitive on the {1} wanted list, was apprehended without resistance and brought back to the sect for punishment...
+Desc_1049
+After hearing {1}'s stories in {0}, they reflected and changed their Aspiration to {2}...
+Desc_1050
+Fed {0} to {1}...
+Desc_1051
+Underwent the Golden Needle Revival technique by {0} in {1}, allowing their vitality to be renewed...
+Desc_1052
+Performed the Golden Needle Revival technique on {0} in {1}, transferring and renewing their life essence...
+Desc_1053
+Tempered by experience, grasped the mechanism of {0}...
+Desc_1054
+Using {1} as reference, comprehended the mechanism of {0}...
+Desc_1055
+Through love for {1}, grasped {0}'s mechanism...
+Desc_1056
+Through resentment toward {1}, grasped the mechanism of {0...
+Desc_1057
+Suffered deadly poison from Kongsang Sect's longevity elixir...
+Desc_1058
+Unexpectedly faced {1}'s attack in {0} - overwhelmed, had {2} seized...
+Desc_1059
+Suddenly encountered {1}'s assault in {0} - like a whirlwind, unprepared, lost {2} to confiscation...
+Desc_1060
+Took severe punishment from {1} on behalf of {0} during their elopement...
+Desc_1061
+Used local favor to plead for {0} during elopement, sparing them from {1}'s punishment...
+Desc_1062
+Helped {0} pass the retirement test from {1}'s elders during elopement, avoiding punishment...
+Desc_1063
+Assisted {0} in escaping sect hunt during elopement, avoiding {1}'s punishment...
+Desc_1064
+Through ingenious craft, discovered usable refined item {0}...
+Desc_1065
+With the Chicken's help, refined item {0} was remade into {1} through carving and polishing...
+Desc_1066
+By sending {0} to provide charitable healing in {1} under Taiwu's name, gained {2} Regional Favor...
+Desc_1067
+With the Chicken's aid, received mind and spirit regulation from Taiwu Village doctors, reducing corruption of Xiangshu's evil will...
+Desc_1068
+Through cost-benefit analysis with {0}, obtained their {1} of {2}...
+Desc_1069
+Lost {1} of {2} due to {0}'s cost-benefit analysis...
+Desc_1070
+Sold {4} to {0} who come for business with {3} {2} in {1}...
+Desc_1071
+Bought {0}'s {4} with {3} {2} in {1}...
+Desc_1072
+With the Chicken's help, {0} gained {2}'s favorability through commerce in {1}...
+Desc_1073
+By dispatching {0} for commerce in {1}, gained {2}'s favorability...
+Desc_1074
+Delighted while watching {0}'s performance in {1}, improving their mood...
+Desc_1075
+While watching {0}'s performance in {1}, became sorrowful, lowering mood...
+Desc_1076
+Enlightened the people in {0}, promoting culture and raising local cultural standards...
+Desc_1077
+Indulged in vulgar trends in {0}, lowering local cultural standards...
+Desc_1078
+Through proper conduct during performances in {0}, improved local stability by influencing Security...
+Desc_1079
+Through excessive indulgence during performances in {0}, disrupted social order and decreased Stability...
+Desc_1080
+With the Chicken's help in {0}, chatted happily with locals, improving {1} people's Favorability toward Taiwu...
+Desc_1081
+Affected by the Chicken in {0}, spread rumors among locals, lowering {1} people's Favorability toward Taiwu...
+Desc_1082
+With clever words in {1}, chatted happily with locals in {0}, improving some locals' Favorability toward Taiwu...
+Desc_1083
+With clever words in {1}, spread rumors among locals in {0}, lowering some locals' Favorability toward Taiwu...
+Desc_1084
+Chatted happily with {0} in {1}, improving their Favorability toward Taiwu...
+Desc_1085
+{0} spread rumors to them in {1}, lowering their Favorability toward Taiwu...
+Desc_1086
+While guarding Sword Mound {0}, suffered deeper Xiangshu's Evil Will corruption...
+Desc_1087
+To prevent {0} from breaking out, fought fiercely but was unfortunately injured...
+Desc_1088
+{2} sowed discord between {0} and {1}, causing them to foster a grudge and become sworn enemies...
+Desc_1089
+{2} mediated the relationship between {0} and {1}, helping them confess mutual affection...
+Desc_1090
+Placed an order with {0} in {1}...
+Desc_1091
+Received the ordered {1} from {0}...
+Desc_1092
+Confirmed {0}'s order in {1}...
+Desc_1093
+Fulfilled {0}'s order, delivering {1} to the recipient...
+Desc_1094
+Intercepted {1}'s order from {0}, causing dissatisfaction...
+Desc_1095
+{1} intercepted the product ordered from {0}, breeding resentment...
+Desc_1096
+The product originally intended for {0} was intercepted by {1} with a premium offer...
+Desc_1097
+{2} placed an order with {0} on behalf of {1}...
+Desc_1098
+Accepted {0}'s suggestions in {2} and changed their name to {1}...
+Desc_1099
+{1}'s order for {2} from {0} was successfully delivered...
+Desc_1100
+Completed {0}'s order on behalf of {1}, delivering {2} to the client...
+Desc_1101
+Purchased {0} at low price from merchant caravan...
+Desc_1102
+Through diligent research in {0}, improved {1} Talent...
+Desc_1103
+Through diligent research in {0}, improved {1} Talent...
+Desc_1104
+Due to disposition affinity during studies in {0}, enhanced {1} Talent...
+Desc_1105
+Due to disposition affinity during studies in {0}, enhanced {1} Talent...
+Desc_1106
+Under {0}'s supervision in {1}, gained significant improvement in {2} Talent...
+Desc_1107
+Under {0}'s supervision in {1}, gained significant improvement in {2} Talent...
+Desc_1108
+While studying in {0}, comprehended Chapter {2} of {1}...
+Desc_1109
+While studying in {0}, mastered Chapter {2} of {1}...
+Desc_1110
+Moved by Taiwu's reaffirmed support, left {0} to join Taiwu Village...
+Desc_1111
+Finished studying {0} and returned it to Treasury..
+Desc_1112
+Successfully managed operations in {0}, earning {1} {2}...
+Desc_1113
+Became {1} in {0}.
+Desc_1114
+When gathering resources at {0}, gained {1} with their expertise with the soil and climate...
+Desc_1115
+Joined {0}, became {1}...
+Desc_1116
+Left {0} and became sectless...
+Desc_1117
+Left {0} and joined {1}, became {2}...
+Desc_1118
+Bridged the gap between {0} and {1} to mediate their relationship...
+Desc_1119
+Spread gossips between {0} and {1} to damage their relationship...
+Desc_1120
+Favorability with {1} increased thanks to {0}'s kind words...
+Desc_1121
+Favorability with {1} decreased due to {0}'s influence...
+Desc_1122
+Decided to team up with {1} in {0} to protect {2}...
+Desc_1123
+Decided to team up with {1} in {0} to rescue {2}...
+Desc_1124
+Decided to team up with {1} in {0} to pay respects to {2}...
+Desc_1125
+Decided to team up with {1} in {0} to visit {2}...
+Desc_1126
+Decided to team up with {1} in {0} to search for treasures in {2}...
+Desc_1127
+Decided to team up with {1} in {0} to collect Nature's Gifts in {2}...
+Desc_1128
+Decided to team up with {1} in {0} to take revenge on {2}...
+Desc_1129
+Decided to team up with {1} in {0} to seek {2}...
+Desc_1130
+Decided to team up with {1} in {0} to flee to {2}...
+Desc_1131
+Teamed up with former sectmate {1} in {0} after both committing crimes and fled to {2} for shelter...
+Desc_1132
+Afflicted by Blackstone Ashes in {0}, the days are numbered...
+Desc_1133
+Passed away in {0} due to affliction from Blackstone Ashes...
+Desc_1134
+Received the bequeathed {2} in {1} according to {0}'s will...
+Desc_1135
+Attended a banquet at the invitation of Taiwu and amazed by the savory {0}, leaving {1} as a token of gratitude...
+Desc_1136
+Attended a banquet at the invitation of Taiwu and greatly pleased by the favorite {0}, leaving {1} as a token of gratitude...
+Desc_1137
+Attended a banquet at the invitation of Taiwu and pleasantly surprised by the savory {0} in {2}, leaving {1} as a token of gratitude...
+Desc_1138
+Attended a banquet at the invitation of Taiwu and overjoyed by the favorite {0} in {2}, leaving {1} as a token of gratitude in satisfaction...
+Desc_1139
+Attended a banquet at the invitation of Taiwu and delighted by the savory {0}, leaving {1} as a token of gratitude...
+Desc_1140
+Attended a banquet at the invitation of Taiwu and satiated by the savory {0}, leaving {1} as a token of gratitude...
+Desc_1141
+Attended a banquet at the invitation of Taiwu and satisfied by the savory {0} in {2}, leaving {1} as a token of gratitude...
+Desc_1142
+Attended a banquet at the invitation of Taiwu and ecstatic over the favorite {0} in {2}, leaving {1} as a token of gratitude in satisfaction...
+Desc_1143
+Attended a banquet at the invitation of Taiwu but failed to find any delicacy in the banquet hall, growing resentment as a result...
+Desc_1144
+Attended a banquet at the invitation of Taiwu with a belly already full, completely unmoved by the exquisite dishes on the table...
+Desc_1145
+Lost health after being attacked during a Xiangshu Underling Raid when protecting the Sacred Wood in {0}...
+Desc_1146
+Protected by Fuyu's Will in {0}, the affliction from Blackstone Ashes is temporarily halted...
+Desc_1147
+As affection for {0} grew since the marriage, the love is finally confessed...
+Desc_1148
+Found the perfect match right in the local area and wedded {1} of {0}...
+Desc_1149
+Found the perfect match and wedded {1} of {0}...
+Desc_1150
+Found the perfect match in a distant land and wedded {1} of {0}...
+Desc_1151
+Guided by the Heavenly Maiden, wandered through three thousand phantasmal realms within the Egarim...
+Desc_1152
+Returned from wandering within the Egarim, mind tempered and grown into adulthood...
+Desc_1153
+Jixi absorbed {0}'s True Qi
+Desc_1154
+Jixi used a seal to convert Five Elements Qi from {0} and transfer it to Taiwu
+Desc_1155
+With {0} being revealed, Wariness toward {1} has increased...
+Desc_1156
+With {0} being revealed, Wariness toward {1} has decreased...
+Desc_1157
+At {0}, devoted themselves to diligent cultivation, refining their Pure Essence...
+Desc_1158
+At {0}, conducted intensive study, increasing their {1} Talent
+Desc_1159
+At {0}, their Disposition resonated with {1}, increasing their {2} Talent...
+Desc_1160
+At {1}, received guidance from {0} and benefited greatly, increasing their {2} Talent...
+Desc_1161
+At {0}, conducted intensive study, increasing their {1} Talent...
+Desc_1162
+At {0}, their Disposition resonated with {1}, increasing their {2} Talent...
+Desc_1163
+At {1}, received guidance from {0} and benefited greatly, increasing their {2} Talent...
+Desc_1164
+At {0}, provided relief and aid to the common people...
+Desc_1205
+Witnessing {0} providing relief to the people at {1}, favorability toward them increased...
+Desc_1165
+At {0}, upheld justice and defeated {1}...
+Desc_1206
+Witnessing {0} uphold justice at {1}, favorability toward them increased...
+Desc_1166
+At {0}, swept the grounds and carried water...
+Desc_1207
+Witnessing {0} sweeping the grounds and carrying water at {1}, favorability toward them increased...
+Desc_1167
+At {0}, cultivated Martial Arts and successfully broke through the Bottleneck of {1}...
+Desc_1168
+At {0}, chanted scriptures and paid homage to the Buddha...
+Desc_1208
+Witnessing {0} chanting scriptures and worshipping the Buddha at {1}, favorability toward them increased...
+Desc_1169
+At {0}, translated Buddhist scriptures, increasing their {1} Talent...
+Desc_1170
+At {1}, reprimanded {0} and ordered them to reflect upon their mistakes in seclusion...
+Desc_1375
+At {1}, received a reprimand from {0} and reflected upon their mistakes in seclusion...
+Desc_1171
+At {0}, practiced Chan cultivation and martial arts...
+Desc_1376
+At {1}, observed {0}'s Chan cultivation and martial practice, learning {2} pages of {3}...
+Desc_1172
+At {0}, entered secluded meditation and learned {1} pages of {2}...
+Desc_1173
+At {0}, chopped wood and tended the fields...
+Desc_1380
+Witnessing {0} chopping wood and tending the fields at {1}, favorability toward them increased...
+Desc_1174
+At {0}, cleaned the Buddhist Temple and unexpectedly obtained {1}...
+Desc_1175
+At {1}, upheld justice and apprehended the fugitive {0}, who was wanted by {2}...
+Desc_1209
+At {1}, was apprehended and brought to justice by {0}...
+Desc_1176
+At {0}'s Dragon Pool, contemplated the Tao and learned {1} pages of {2}...
+Desc_1177
+At {0}'s Jinding, delivered a profound sermon with remarkable eloquence...
+Desc_1210
+At {1}'s Jinding, listened to {0}'s sermon and learned {2} pages of {3}...
+Desc_1178
+At {0}, diligently cared for the White Deer...
+Desc_1211
+Witnessing {0} caring for the White Deer at {1}, favorability toward them increased...
+Desc_1179
+At {0}, gathered herbs and searched for rare treasures, obtaining {1}{2}...
+Desc_1180
+At {0}, experimented with medicinal concoctions and obtained {1}...
+Desc_1181
+At {0}, spent {1}{2} of their own resources to treat the sick, saving lives and healing the wounded...
+Desc_1212
+At {1}, received treatment from {0} and recovered their health...
+Desc_1182
+At {1}, dispelled the Deathly Aura and removed {0}'s Blackstone Ash State...
+Desc_1383
+At {1}, received {0}'s aid in dispelling the Deathly Aura, removing the Blackstone Ash State...
+Desc_1183
+At {0}, held a medical lecture and imparted their knowledge without reservation...
+Desc_1213
+At {1}, attended {0}'s medical lecture and learned {2} pages of {3}...
+Desc_1184
+At {0}, researched incurable diseases and learned {1} pages of {2}...
+Desc_1185
+At {0}, guided devotees from all directions and spread salvation to the worthy...
+Desc_1214
+At {1}, received guidance from {0} and learned {1} pages of {2}...
+Desc_1186
+At {0}, cleaned the Taoist Temple...
+Desc_1215
+Witnessing {0} cleaning the Taoist Temple at {1}, favorability toward them increased...
+Desc_1187
+At {0}, presided over a religious ritual...
+Desc_1216
+At {1}, participated in the ritual presided over by {0} and learned {2} pages of {3}...
+Desc_1188
+At {0}, practiced fasting cultivation, increasing their {1} Talent...
+Desc_1189
+At {0}, entered secluded Tao contemplation and learned {1} pages of {2}...
+Desc_1190
+At {0}, cultivated the precepts behind closed doors and upheld discipline with utmost rigor...
+Desc_1217
+Witnessing {0} cultivating the precepts at {1}, favorability toward them increased...
+Desc_1191
+At {0}, underwent arduous mountain cultivation and successfully broke through the Bottleneck of {1}...
+Desc_1218
+Witnessing {0} undergoing arduous mountain cultivation at {1}, favorability toward them increased...
+Desc_1192
+At {0}, guarded the Stone Cell...
+Desc_1193
+At {0}, practiced martial arts through demon-subjugation exercises...
+Desc_1219
+At {1}, participated in {0}'s demon-subjugation exercise and thereby broke through {2}...
+Desc_1194
+At {0}, suppressed demonic qi...
+Desc_1220
+At {1}, had their demonic qi suppressed by {0}; both Mood and Deviation decreased...
+Desc_1195
+At {1}, treated {0}'s Madness and sent them to the Stone Cell of Taiwu Village...
+Desc_1384
+At {1}, after falling into Madness due to Deviation, Taiwu was taken into custody by {0} and sent to the Stone Cell of Taiwu Village...
+Desc_1196
+At {0}, patrolled the streets and marketplaces...
+Desc_1197
+At {0}, competed for territory...
+Desc_1198
+At {0}, competed in the Sleeping Lion Contest...
+Desc_1199
+At {0}, competed in the Brocade Lion Contest...
+Desc_1200
+At {0}, competed in the Furious Lion Contest...
+Desc_1201
+At {0}, trained the local militia...
+Desc_1221
+At {1}, participated in {0}'s militia training and studied {3} chapters of {2}...
+Desc_1202
+At {0}, upheld righteousness and loyalty...
+Desc_1222
+Witnessing {0}'s righteous deeds at {1}, favorability toward them increased...
+Desc_1203
+At {0}, conducted the Three Halls Drill...
+Desc_1223
+At {1}, participated in the Three Halls Drill hosted by {0} and studied {3} chapters of {2}...
+Desc_1204
+At {0}, gathered fellow disciples at the training grounds, deepening their Sectmate Friendship...
+Desc_1224
+At {1}, participated in the fellowship gathering hosted by {0} at the training grounds, deepening their Sectmate friendship...
+Desc_1225
+At {1}, sparred with fellow disciple {0}, deepening their Sectmate friendship...
+Desc_1226
+At {1}, witnessed {0} debating with Sectmate {2}, increasing favorability toward {0}...
+Desc_1227
+At {1}, exchanged martial skills with Sectmate {0}, deepening their Sectmate friendship...
+Desc_1228
+At {1}, witnessed {0} sparring with Sectmate {2}, increasing favorability toward {0}...
+Desc_1229
+At {0}, nurtured vital energy and performed Microcosmic Circulation...
+Desc_1230
+At {0}, immersed themselves wholeheartedly and achieved a breakthrough in {1}...
+Desc_1231
+At {0}, communed with Heaven and Earth, obtaining {1}{2}...
+Desc_1232
+At {0}, researched secret archives and studied various texts...
+Desc_1233
+At {0}, participated in the Yunmeng Assembly...
+Desc_1234
+At {0}, participated in the Yunmeng Assembly and studied {1} chapters of {2}...
+Desc_1235
+At {1}, invoked the Immortals' blessing, granting {0} Heavenly Fortune...
+Desc_1236
+At {1}, received an Immortal Blessing from {1} and was granted Heavenly Fortune...
+Desc_1237
+At {0}, swept the Emerald Stairs...
+Desc_1238
+Witnessing {0} sweeping the Emerald Stairs at {1}, favorability toward them increased...
+Desc_1239
+At {1}, helped {0} cleanse their body and refine their etiquette...
+Desc_1388
+At {1}, received body cleansing and etiquette refinement from {0}...
+Desc_1240
+At {1}, entered quiet cultivation together with {0}...
+Desc_1389
+At {1}, witnessed {0} cultivating in seclusion together with {2}; favorability toward {0} became more indifferent...
+Desc_1241
+At {0}, maintained Guqin and achieved a breakthrough in {1}...
+Desc_1242
+Witnessing {0} maintaining Guqin at {1}, favorability toward them increased...
+Desc_1243
+At {0}, researched precious jade treasures...
+Desc_1244
+At {1}, jointly researched precious jade treasures with {0}, learning {2} chapters of {3}...
+Desc_1245
+At {1}, invited the talented {0} to join the Jade-Maiden Sect...
+Desc_1246
+At {0}, contemplated emotions atop a Lone Summit, learning {1} chapters of {2}...
+Desc_1247
+At {0}, gathered firewood and tended the furnace...
+Desc_1248
+Witnessing {0} gathering firewood and tending the furnace at {1}, favorability toward them increased...
+Desc_1249
+At {0}, selected materials and obtained {1}{2}...
+Desc_1250
+At {0}, maintained tools and donated {1} to the Warehouse...
+Desc_1251
+At {0}, restored ancient relics and donated {1} to the Warehouse...
+Desc_1252
+At {0}, attempted to forge a masterpiece and achieved a breakthrough in {1}...
+Desc_1253
+At {0}, instructed Artisan...
+Desc_1254
+At {0}, received instruction and learned {1} chapters of {2}...
+Desc_1255
+At {0}, opened the forge and tested blades, learning {1} chapters of {2}...
+Desc_1377
+At {0}, pursued perfection and obtained {1}...
+Desc_1256
+At {0}, tended the fire while decocting medicine...
+Desc_1257
+Witnessing {0} tending the fire while decocting medicine at {1}, favorability toward them increased...
+Desc_1258
+At {0}, sorted medicinal herbs...
+Desc_1259
+At {0}, sorted poison...
+Desc_1260
+At {0}, experimented with Concoction, increasing {1} Talent...
+Desc_1261
+At {0}, experimented with Concoction and successfully refined {1}...
+Desc_1262
+At {0}, experimented with poisons, increasing {1} Talent...
+Desc_1263
+At {0}, experimented with poisons and successfully refined {1}...
+Desc_1264
+At {0}, tested medicines and compiled prescriptions...
+Desc_1265
+At {1}, worked with {0} to test medicines and compile prescriptions, learning {2} chapters of {1}...
+Desc_1266
+At {0}, tested poisons and compiled prescriptions...
+Desc_1267
+At {1}, worked with {0} to test poisons and compile prescriptions, learning {2} chapters of {1}...
+Desc_1268
+At {1}, found {0} willing to test medicine, successfully breaking through the Bottleneck of {2}...
+Desc_1390
+At {1}, agreed to {0}'s request to test medicine, helping them successfully break through the Bottleneck of {2}...
+Desc_1269
+At {0}, attempted to find someone to test medicine but failed...
+Desc_1270
+At {1}, found {0} willing to test poison, successfully breaking through the Bottleneck of {2}...
+Desc_1391
+At {1}, agreed to {0}'s request to test poison, helping them successfully break through the Bottleneck of {2}...
+Desc_1271
+At {0}, attempted to find someone to test poison but failed...
+Desc_1272
+At {0}, spent {1}{2} to provide treatment and conditioning for fellow disciples...
+Desc_1273
+At {1}, received treatment and conditioning from {0}...
+Desc_1274
+At {1}, absorbed Blackstone Ash to help {0} resist the corruption of Blackstone Ash...
+Desc_1385
+At {1}, had Blackstone Ash absorbed by {0}, helping resist the corruption of Blackstone Ash...
+Desc_1275
+At {0}, cleaned the temple...
+Desc_1276
+Witnessing {0} cleaning the temple at {1}, favorability toward them increased...
+Desc_1277
+While patrolling the region at {1}, secretly stole {2} from {0}...
+Desc_1278
+While patrolling the region at {1}, forcibly snatched {2} from {0}...
+Desc_1279
+While patrolling the region at {1}, swindled {2} from {0}...
+Desc_1280
+At {0}, collected offerings and deposited {1}'s resources into {2}...
+Desc_1281
+At {0}, suppressed resistance, causing injuries to many...
+Desc_1282
+At {1}, suffered injuries after being suppressed by {1} while resisting...
+Desc_1283
+At {0}, conducted a Divine Power Trial...
+Desc_1284
+At {1}, passed {0}'s Divine Power Trial and successfully broke through the Bottleneck of {2}...
+Desc_1285
+At {0}, delivered scriptures and bestowed enlightenment...
+Desc_1286
+At {1}, listened to {0}'s teachings and received enlightenment, learning {2} chapters of {3}...
+Desc_1287
+At {0}, held a grand religious assembly, collected offerings from {1}, and deposited them into the {2} Warehouse...
+Desc_1288
+At {0}, gathered poisonous materials and obtained {1}{2}...
+Desc_1289
+At {0}, conducted a ritual to worship the Gu Immortal...
+Desc_1290
+At {0}, participated in the ritual worshipping the Gu Immortal. {1} un-attuned Gu Larva or Gu became attuned Gu Larva...
+Desc_1291
+At {0}, conducted a ritual to worship spirits and deities...
+Desc_1292
+At {1}, participated in {0}'s ritual worshipping spirits and deities, learning {2} chapters of {3}...
+Desc_1293
+At {1}, instructed the Divine Maiden, enabling {0} to learn {2} chapters of {3}...
+Desc_1378
+At {1}, received instruction from {0}; the Divine Maiden learned {2} chapters of {3}...
+Desc_1294
+At {0}, bathed in the Sacred River and achieved a breakthrough in {2}...
+Desc_1295
+At {0}, refined a Prime Gu and obtained {1}...
+Desc_1379
+At {0}, instructed the Miao people...
+Desc_1382
+At {1}, received instruction from {0}; the Miao people learned {2} chapters of {3}...
+Desc_1296
+At {0}, gathered intelligence and uncovered the secret {1}...
+Desc_1297
+At {0}, gathered intelligence but found nothing...
+Desc_1298
+At {1}, received employer {0} and planned to eliminate {2} on their behalf...
+Desc_1392
+At {1}, was received by {0} and commissioned them to eliminate {2}...
+Desc_1299
+At {0}, erased traces and spread misinformation...
+Desc_1300
+At {0}, carried out an assignment...
+Desc_1301
+At {2}, adjudicated the dispute between {0} and {1}; the victor obtained {3}...
+Desc_1302
+At {1}, engaged in an adjudicated duel with {0}, emerged victorious, and obtained {2}...
+Desc_1303
+At {1}, engaged in an adjudicated duel with {0} and was defeated...
+Desc_1304
+At {0}, verified assignments...
+Desc_1381
+At {1}, underwent {0}'s assignment verification and learned {2} chapters of {3}...
+Desc_1305
+At {0}, issued a Death Warrant...
+Desc_1306
+At {0}, prepared meals and cooked food...
+Desc_1307
+Witnessing {0} preparing meals at {1}, favorability toward them increased...
+Desc_1308
+At {0}, inventoried the spoils of sea raids, greatly increasing the warehouse's resources...
+Desc_1309
+At {0}, led others in joint cultivation...
+Desc_1310
+At {1}, cultivated alongside {0} and learned {2} pages of {3}...
+Desc_1311
+At {0}, tested strength at the Volcano Arena and achieved a breakthrough in {1}...
+Desc_1312
+At {0}, presided over the Dragon Worship Rite, enabling Sectmates to break through in their sect Martial Arts...
+Desc_1313
+At {1}, participated in the Dragon Worship Rite hosted by {0} and achieved a breakthrough in {2}...
+Desc_1314
+At {0}, condensed Dragon Qi and learned {1} pages of {2}...
+Desc_1315
+At {0}, attended to the Head, gaining XP and favorability from sectmates...
+Desc_1316
+Witnessing {0} attending to the Head at {1}, favorability toward them increased...
+Desc_1317
+At {1}, oppressed the common people and stole {2} from {0}...
+Desc_1318
+At {1}, oppressed the common people and robbed {2} from {0}...
+Desc_1319
+At {1}, oppressed the common people and swindled {2} from {0}...
+Desc_1320
+At {1}, intended to oppress the common people, but failed to steal {2} from {0}...
+Desc_1321
+At {1}, intended to oppress the common people, but failed to rob {2} from {0}...
+Desc_1322
+At {1}, intended to oppress the common people, but failed to swindle {2} from {0}...
+Desc_1323
+At {1}, tested Congregant. Though {0} was injured, they were also granted {0} {2}...
+Desc_1324
+At {1}, imprisoned {0} as a blood sacrifice...
+Desc_1325
+At {0}, secretly gathered with sectmates to impart techniques...
+Desc_1326
+At {1}, received secret instruction from {0} and learned {2} pages of {3}...
+Desc_1327
+At {0}, conducted the Midnight Market Master Sacrifice, enabling sectmates to break through in their sect Martial Arts...
+Desc_1328
+At {1}, participated in {0}'s Midnight Market Master Sacrifice and achieved a breakthrough in {2}...
+Desc_1329
+At {0}, tempered demonic arts within the Blood Pool and learned {1} pages of {2}...
+Desc_1330
+At {0}, discussed affairs with the City Lord...
+Desc_1331
+Having received strong support during the council meeting of City Lord, favorability toward {0} increased...
+Desc_1332
+Due to speaking disrespectfully during the council meeting of City Lord, favorability toward {0} decreased...
+Desc_1333
+At {0}, participated in council affairs and gained Prestige...
+Desc_1334
+Having received strong support during the sect council meeting, favorability toward {0} increased...
+Desc_1335
+Due to speaking disrespectfully during the sect council meeting, favorability toward {0} decreased...
+Desc_1336
+At {0}, met with {1} in the Merchant Guild and transferred part of the warehouse resources to it...
+Desc_1337
+At {0}, met with the City Lord and held a lengthy discussion...
+Desc_1338
+At {0}, met with the Sect Leader and held a lengthy discussion...
+Desc_1339
+At {0}, managed city affairs and gained Prestige...
+Desc_1340
+At {1}, received some resources from the warehouse because {0} was responsible for managing {2}'s city affairs...
+Desc_1341
+At {0}, managed town affairs and gained Prestige...
+Desc_1342
+At {1}, received {3} from the warehouse because {0} was responsible for managing {2}'s town affairs...
+Desc_1343
+At {0}, managed stronghold affairs and gained Prestige...
+Desc_1344
+At {1}, was taught {3} pages of {4} because {0} was responsible for managing {2}'s stronghold affairs...
+Desc_1345
+At {0}, managed village affairs in {1}, gaining Prestige...
+Desc_1346
+At {1}, felt uplifted because {0} was responsible for managing {2}'s village affairs...
+Desc_1347
+At {1}, sought the friendship of the influential {0}...
+Desc_1348
+At {1}, befriended {0}. The two had an enjoyable conversation, increasing favorability...
+Desc_1349
+At {1}, learned that {0} had befriended {2}, causing favorability to decrease...
+Desc_1350
+At {0}, hosted a banquet...
+Desc_1351
+At {0}, invested in the Merchant Guild, earning {1}'s Favorability and receiving {2} as a gift from the guild...
+Desc_1352
+At {0}, lectured and shared knowledge, earning widespread respect and increasing Prestige...
+Desc_1353
+At {0}, listened to a lecture and learned {1} pages of {2}...
+Desc_1354
+At {0}, promoted goods through discounts and special offers...
+Desc_1355
+At {0}, paid tribute to the Merchant Guild, offering {1}{2} and gaining favorability with {3}...
+Desc_1356
+At {0}, provided medical consultations...
+Desc_1357
+Because {0} offered medical treatment at {1}, their own Health was restored...
+Desc_1358
+At {0}, fixed tools...
+Desc_1359
+At {0}, groomed and tidied their appearance...
+Desc_1360
+At {0}, became involved in a street dispute, gaining XP and learning {1} pages of {2}...
+Desc_1361
+At {0}, begged for silver...
+Desc_1362
+At {1}, learned a secret concerning {2} from {0}...
+Desc_1363
+At {0}, farmed the land, restoring soil fertility and enriching nearby resources...
+Desc_1364
+At {0}, praised {1}...
+Desc_1365
+At {0}, insulted {1}...
+Desc_1366
+At {0}, praised {1}...
+Desc_1367
+At {0}, insulted {1}...
+Desc_1368
+At {0}, praised {1}...
+Desc_1369
+At {0}, insulted {1}...
+Desc_1370
+At {0}, carefully sorted {1}, obtaining valuable reagent and other rare materials...
+Desc_1371
+At {0}, meditated in contemplation, restoring Mental State and reducing Deviation...
+Desc_1372
+At {0}, entered secluded meditation, restoring Mental State and reducing Deviation...
+Desc_1373
+At {0}, tracked insect calls and captured several high-quality Crickets...
+Desc_1374
+Politely declined the relic sought by {1} at {0}...
+Desc_1386
+At {0}, was forced to bear a great deal of damage on behalf of {1}...
+Desc_1387
+At {0}, was forced to bear a great deal of damage on behalf of {1}...
+Desc_1393
+Due to the mischief of the Evil Immortal True Pill Divine Maiden, at {0}, you inexplicably develop love and obsession for {1}, causing Xiangshu's Evil Will to penetrate deeper...
+Desc_1394
+Due to the mischief of the Evil Immortal Chihongzi, at {0}, you inexplicably feel resentment towards {1}, causing Xiangshu's Evil Will to penetrate deeper...
+Desc_1395
+Due to the mischief of the Evil Immortal Suxia, at {0}, you carelessly fall into her Qi Paralysis technique, unable to move...
+Desc_1396
+Due to the mischief of the Evil Immortal Pojin Shangren, at {0}, you are unexpectedly driven and transformed into a Demon Heaven Enforcer...
+Desc_1397
+Due to the mischief of the Evil Immortal Pojin Shangren, at {0}, you suffer an attack from the Demon Heaven Enforcer {1}...
+Desc_1398
+Due to the mischief of the Evil Immortal Wufangke, at {0}, you are secretly poisoned by {1}...
+Desc_1399
+Due to the mischief of the Evil Immortal Dianfan Demon, at {0}, part of your Circulation True Qi is secretly drained by {1}...
+Desc_1400
+Due to the mischief of the Evil Immortal Huogu Master, at {0}, you are attacked by the Corpse Demon {1} from the grave...
+

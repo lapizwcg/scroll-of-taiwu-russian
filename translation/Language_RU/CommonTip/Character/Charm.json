@@ -1,0 +1,91 @@
+{
+  "title": "Обаяние",
+  "EncyclopediaTipLink": "Charm",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "Обаяние — это внешняя привлекательность человека и его личное очарование…"
+        },
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 1
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_mousetip_point_0> К детям обаяние не применяется."
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_mousetip_point_0> Неопрятный вид резко снижает обаяние."
+        },
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 1
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_mousetip_point_0> Уровни обаяния (от низшего к высшему):"
+        },
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 1
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_charm_small_0> <color=#AttractionType_NonHuman>Чудовищный</color>"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_charm_small_0> <color=#AttractionType_Odious>Отвратительный</color>"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_charm_small_0> <color=#AttractionType_Ugly>Уродливый</color>"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_charm_small_1> <color=#AttractionType_Normal>Обычный</color>"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_charm_small_2> <color=#AttractionType_Outstanding>Привлекательный</color>"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_charm_small_3> <color=#AttractionType_Beautiful>Пригожий (муж.)/Изящная (жен.)</color>"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_charm_small_4> <color=#AttractionType_Brilliant>Величавый (муж.)/Грациозная (жен.)</color>"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_charm_small_5> <color=#AttractionType_Stunning>Несравненный (муж.)/Божественная (жен.)</color>"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<SpName=ui9_icon_charm_small_6> <color=#AttractionType_Godlike>Неземной</color>"
+        }
+      ]
+    }
+  ]
+}

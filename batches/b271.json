@@ -1,0 +1,72 @@
+{
+  "ui_language.txt": {
+    "LK_Attack": "Атака",
+    "LK_Attack_Penetrate": "Атака",
+    "LK_WeaponPenatrate": "Атака",
+    "LK_HitType_0": "Напор",
+    "LK_HitType_1": "Искусность",
+    "LK_HitType_2": "Стремительность",
+    "LK_HitType_3": "Чарование",
+    "LK_AvoidType_3": "Твёрдость",
+    "LK_CharacterAttribute_Tog_Attribute": "Свойства",
+    "LK_CharacterAttributeView_Samsara_Attribute": "Свойства",
+    "LK_CharacterAttributeView_Samsara_Feature": "Особенности",
+    "LK_GearMate_Tab_0": "Свойства",
+    "LK_GearMate_Toggle_0": "Свойства",
+    "LK_Team_Tog_Property": "Свойства",
+    "LK_Character_Sort_Type_Personality": "Свойства",
+    "LK_EventLog_Health": " Состояние здоровья"
+  },
+  "SpecialEffectDataField_language.txt": {
+    "Name_0": "Напор",
+    "Name_1": "Искусность",
+    "Name_2": "Стремительность",
+    "Name_3": "Чарование",
+    "Name_9": "Твёрдость"
+  },
+  "SkillBreakPlateGridBonusType_language.txt": {
+    "Name_0": "Напор",
+    "Name_1": "Искусность",
+    "Name_2": "Стремительность",
+    "Name_3": "Чарование",
+    "Name_9": "Твёрдость"
+  },
+  "SortItem_language.txt": {
+    "Names_24_0": "Напор",
+    "Names_25_0": "Искусность",
+    "Names_26_0": "Стремительность",
+    "Names_27_0": "Чарование",
+    "Names_36_0": "Твёрдость",
+    "Names_142_0": "Свойства"
+  },
+  "SkillBreakBonusEffect_language.txt": {
+    "ShortName_21": "Атака"
+  },
+  "TeammateCommand_language.txt": {
+    "EffectDisplayTextList_0_0": "Атака",
+    "EffectDisplayTextList_16_0": "Атака",
+    "EffectDisplayTextList_39_0": "Атака",
+    "EffectDisplayTextList_51_0": "Атака",
+    "EffectDisplayTextList_78_0": "Атака",
+    "EffectDisplayTextList_10_0": "Напор",
+    "EffectDisplayTextList_10_1": "Искусность",
+    "EffectDisplayTextList_10_2": "Стремительность",
+    "EffectDisplayTextList_10_3": "Чарование",
+    "EffectDisplayTextList_11_3": "Твёрдость",
+    "EffectDisplayTextList_26_0": "Напор",
+    "EffectDisplayTextList_26_1": "Искусность",
+    "EffectDisplayTextList_26_2": "Стремительность",
+    "EffectDisplayTextList_26_3": "Чарование",
+    "EffectDisplayTextList_27_3": "Твёрдость",
+    "EffectDisplayTextList_47_0": "Напор",
+    "EffectDisplayTextList_47_1": "Искусность",
+    "EffectDisplayTextList_47_2": "Стремительность",
+    "EffectDisplayTextList_47_3": "Чарование",
+    "EffectDisplayTextList_48_3": "Твёрдость",
+    "EffectDisplayTextList_59_0": "Напор",
+    "EffectDisplayTextList_59_1": "Искусность",
+    "EffectDisplayTextList_59_2": "Стремительность",
+    "EffectDisplayTextList_59_3": "Чарование",
+    "EffectDisplayTextList_60_3": "Твёрдость"
+  }
+}

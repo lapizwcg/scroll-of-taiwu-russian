@@ -1,0 +1,101 @@
+Name_0
+Into the Valley,\nWorn Hoofs and Distant Lights
+Name_1
+Bamboo Hut Chronicles,\nA Clever Mind at Work
+Name_2
+Slaying of Deep Serpents\nand Disruptive Blood
+Name_3
+Parasol Gathering,\nMuddy-Faced Delight
+Name_4
+Cutting Ao's Feet,\nVanquish Evil with Might and Power
+Name_5
+Secret Study\nand Bottleneck Breakthrough
+Name_6
+Qi Circulation,\nSecrets of Longevity
+Name_7
+Memories of Autumn,\nLonging of Youth
+Name_8
+Absurdity Abound,\nThe Distress of Setbacks
+Name_9
+Ruined Blade,\nShattered Husk and Departed Soul
+ToggleName_0
+Vol.1
+ToggleName_1
+Vol.2
+ToggleName_2
+Vol.3
+ToggleName_3
+Vol.4
+ToggleName_4
+Vol.5
+ToggleName_5
+Vol.6
+ToggleName_6
+Vol.7
+ToggleName_7
+Vol.8
+ToggleName_8
+Vol.9
+ToggleName_9
+Vol.10
+Desc_0
+Keywords: Movement, Vehicle, and Energy...
+Desc_1
+Keywords: Industry and Construction...
+Desc_2
+Keyword: Encounter and Battle...
+Desc_3
+Keywords: Gathering, Aspiration, and Crafting...
+Desc_4
+Keyword: Combat...
+Desc_5
+Keywords: Study and breakthrough...
+Desc_6
+Keyword: Microcosmic Circulation...
+Desc_7
+Keyword: Trait and Qi Attribute...
+Desc_8
+Keywords: Pure Essence and True Qi...
+Desc_9
+Keyword: Event...
+Head_0
+T
+Head_1
+T
+Head_2
+T
+Head_3
+T
+Head_4
+T
+Head_5
+T
+Head_6
+T
+Head_7
+T
+Head_8
+T
+Head_9
+T
+Tail_0
+C
+Tail_1
+C
+Tail_2
+C
+Tail_3
+C
+Tail_4
+C
+Tail_5
+C
+Tail_6
+C
+Tail_7
+C
+Tail_8
+C
+Tail_9
+C
+

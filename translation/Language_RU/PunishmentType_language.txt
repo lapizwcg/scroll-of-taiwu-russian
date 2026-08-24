@@ -1,0 +1,1027 @@
+Name_0
+Others
+Name_1
+Kill a Renowned person.
+Name_2
+Kill an Infamous person.
+Name_3
+Kill an Esteemed person.
+Name_4
+Imprison a Renowned person.
+Name_5
+Imprison an Infamous person.
+Name_6
+Imprison an Esteemed person.
+Name_7
+Kill Sectmate
+Name_8
+Imprison Sectmate
+Name_9
+Secret Love
+Name_10
+Tomb Raiding
+Name_11
+Stealing
+Name_12
+Выманить
+Name_13
+Snatch
+Name_14
+Poisoning
+Name_15
+Внезапный удар
+Name_16
+Poison Sectmate
+Name_17
+Sneak Attack on Sectmate
+Name_18
+Plagiarizing
+Name_19
+Envenom items.
+Name_20
+Breach Dietary Vow
+Name_21
+Dragged Down by Spouse
+Name_22
+Secretly execute a person.
+Name_23
+Secretly imprison a person.
+Name_24
+Befriend a Shaolin Disciple
+Name_25
+Befriend an Emei Disciple
+Name_26
+Befriend a Valley of Flowers Disciple
+Name_27
+Befriend a Wudang Disciple
+Name_28
+Befriend a Yuanshan Disciple
+Name_29
+Befriend a Lion-Face Clan Disciple
+Name_30
+Befriend a Ranshan Disciple
+Name_31
+Befriend a Jade-Maiden Sect disciple
+Name_32
+Befriend a Swordsmith Villa Disciple
+Name_33
+Befriend a Kongsang Sect Disciple
+Name_34
+Befriend a Vajra Disciple
+Name_35
+Befriend a Five Immortals Sect Disciple
+Name_36
+Befriend a Veil Scar Disciple
+Name_37
+Befriend a Fuloong Sanctuary Disciple
+Name_38
+Befriend a Sanguine Disciple
+Name_39
+Force the other to be silent in a Debate.
+Name_40
+Одержим Сяншу
+Name_41
+Escape during imprisonment.
+Name_42
+Enemy Sect Member
+Name_43
+An enemy within the sect.
+Name_44
+Having Children in Violation of Sect Rules
+Name_45
+Having Children in Violation of Sect Rules
+Name_46
+Having Children in Violation of Sect Rules
+Name_47
+Reciprocal Love in Violation of Sect Rules
+Name_48
+Reciprocal Love in Violation of Sect Rules
+Name_49
+Reciprocal Love in Violation of Sect Rules
+Name_50
+Marriage in Violation of Sect Rules
+Name_51
+Marriage in Violation of Sect Rules
+Name_52
+Marriage in Violation of Sect Rules
+Name_53
+Illicit Affair in Violation of Sect Rules
+Name_54
+Illicit Affair in Violation of Sect Rules
+Name_55
+Illicit Affair in Violation of Sect Rules
+Name_56
+Unrestrained Passion in Violation of Sect Rules
+Name_57
+Unrestrained Passion in Violation of Sect Rules
+Name_58
+Unrestrained Passion in Violation of Sect Rules
+Name_59
+Dating in Violation of Sect Rules
+Name_60
+Dating in Violation of Sect Rules
+Name_61
+Dating in Violation of Sect Rules
+Name_62
+Illicit Affair
+Name_63
+Необузданная страсть
+Name_64
+Marry a Shaolin disciple.
+Name_65
+Marry an Emei disciple.
+Name_66
+Marry a Valley of Flowers disciple.
+Name_67
+Marry a Wudang disciple.
+Name_68
+Marry a Yuanshan disciple.
+Name_69
+Marry a Lion-Face Clan disciple.
+Name_70
+Marry a Ranshan disciple.
+Name_71
+Marry a Jade-Maiden Sect disciple.
+Name_72
+Marry a Swordsmith Villa disciple.
+Name_73
+Marry a Kongsang Sect disciple.
+Name_74
+Marry a Vajra Sect disciple.
+Name_75
+Marry a Five Immortals Sect disciple.
+Name_76
+Marry a Veil Scar disciple.
+Name_77
+Marry a Fuloong Sanctuary disciple.
+Name_78
+Marry a Sanguine disciple.
+Name_79
+Become sworn siblings with a Shaolin disciple.
+Name_80
+Become sworn siblings with an Emei disciple.
+Name_81
+Become sworn siblings with a Valley of Flowers disciple.
+Name_82
+Become sworn siblings with a Wudang disciple.
+Name_83
+Become sworn siblings with a Yuanshan disciple.
+Name_84
+Become sworn siblings with a Lion-Face Clan disciple.
+Name_85
+Become sworn siblings with a Ranshan disciple.
+Name_86
+Become sworn siblings with a Jade-Maiden Sect disciple.
+Name_87
+Become sworn siblings with a Swordsmith Villa disciple.
+Name_88
+Become sworn siblings with a Kongsang Sect disciple.
+Name_89
+Become sworn siblings with a Vajra disciple.
+Name_90
+Become sworn siblings with a Five Immortals Sect disciple.
+Name_91
+Become sworn siblings with a Veil Scar disciple.
+Name_92
+Become sworn siblings with a Fuloong Sanctuary disciple.
+Name_93
+Become sworn siblings with a Sanguine disciple.
+Name_94
+Become Foster Family with a Shaolin Disciple
+Name_95
+Become Foster Family with an Emei Disciple
+Name_96
+Become Foster Family with a Valley of Flowers Disciple
+Name_97
+Become Foster Family with a Wudang Disciple
+Name_98
+Become Foster Family with a Yuanshan Disciple
+Name_99
+Become Foster Family with a Lion-Face Clan Disciple
+Name_100
+Become Foster Family with a Ranshan Disciple
+Name_101
+Become Foster Family with a Jade-Maiden Sect Disciple
+Name_102
+Become Foster Family with a Swordsmith Villa Disciple
+Name_103
+Become Foster Family with a Kongsang Sect Disciple
+Name_104
+Become Foster Family with a Vajra Disciple
+Name_105
+Become foster family with a Five Immortals Sect disciple.
+Name_106
+Become Foster Family with a Veil Scar Disciple
+Name_107
+Become Foster Family with a Fuloong Sanctuary Disciple
+Name_108
+Become Foster Family with a Sanguine Disciple
+Name_109
+Become Foster Family with a Shaolin Disciple
+Name_110
+Become Foster Family with an Emei Disciple
+Name_111
+Become Foster Family with a Valley of Flowers Disciple
+Name_112
+Become Foster Family with a Wudang Disciple
+Name_113
+Become Foster Family with a Yuanshan Disciple
+Name_114
+Become Foster Family with a Lion-Face Clan Disciple
+Name_115
+Become Foster Family with a Ranshan Disciple
+Name_116
+Become Foster Family with a Jade-Maiden Sect Disciple
+Name_117
+Become Foster Family with a Swordsmith Villa Disciple
+Name_118
+Become Foster Family with a Kongsang Sect Disciple
+Name_119
+Become Foster Family with a Vajra Disciple
+Name_120
+Become foster family with a Five Immortals Sect disciple.
+Name_121
+Become Foster Family with a Veil Scar Disciple
+Name_122
+Become Foster Family with a Fuloong Sanctuary Disciple
+Name_123
+Become Foster Family with a Sanguine Disciple
+Name_124
+Date with a Shaolin disciple.
+Name_125
+Date with an Emei disciple.
+Name_126
+Date with a Valley of Flowers disciple.
+Name_127
+Date with a Wudang disciple.
+Name_128
+Date with a Yuanshan disciple.
+Name_129
+Date with a Lion-Face Clan disciple.
+Name_130
+Date with a Ranshan disciple.
+Name_131
+Date with a Jade-Maiden Sect disciple.
+Name_132
+Date with a Swordsmith Villa disciple.
+Name_133
+Date with a Kongsang Sect disciple.
+Name_134
+Date with a Vajra disciple.
+Name_135
+Date with a Five Immortals Sect disciple.
+Name_136
+Date with a Veil Scar disciple.
+Name_137
+Date with a Fuloong Sanctuary disciple.
+Name_138
+Date with a Sanguine disciple.
+Name_139
+Retrieve a Lost Child From Shaolin
+Name_140
+Retrieve a Lost Child From Emei
+Name_141
+Retrieve a Lost Child From the Valley of Flowers
+Name_142
+Retrieve a Lost Child From Wudang
+Name_143
+Retrieve a Lost Child From Yuanshan
+Name_144
+Retrieve a Lost Child From the Lion-Face Clan
+Name_145
+Retrieve a Lost Child From Ranshan
+Name_146
+Retrieve a Lost Child From Jade-Maiden Sect
+Name_147
+Retrieve a Lost Child From the Swordsmith Villa
+Name_148
+Retrieve a Lost Child From the Kongsang Sect
+Name_149
+Retrieve a Lost Child From Vajra
+Name_150
+Retrieve a lost child from the Five Immortals Sect.
+Name_151
+Retrieve a Lost Child From Veil Scar
+Name_152
+Retrieve a Lost Child From the Fuloong Sanctuary
+Name_153
+Retrieve a Lost Child From Sanguine
+Name_154
+Public Execution of Sectmate
+Name_155
+Public Imprisonment of Sectmate
+Name_156
+Secret Execution of Sectmate
+Name_157
+Secret Imprisonment of Sectmate
+Name_158
+Fine Art Stealing
+Name_159
+Ремесло выманено обманом
+Name_160
+Stealing Technique
+Name_161
+Приём выманен обманом
+Name_162
+Breach Dietary Vow
+Name_163
+Breach Dietary Vow
+Name_164
+Breach Dietary Vow
+Name_165
+Break into the Outer Court Warehouse
+Name_166
+Break into the Inner Court Warehouse
+Name_167
+Break into the Forbidden Court Warehouse
+Name_168
+Break into the Outer Prison
+Name_169
+Break into the Inner Prison
+Name_170
+Break into the Forbidden Prison
+ShortName_0
+Forced Imprisonment
+ShortName_1
+Kill the Innocent
+ShortName_2
+Kill the Wicked
+ShortName_3
+Kill the Virtuous
+ShortName_4
+Imprison the Innocent
+ShortName_5
+Imprison the Wicked
+ShortName_6
+Imprison the Virtuous
+ShortName_7
+Kill Sectmate
+ShortName_8
+Imprison Sectmate
+ShortName_9
+Secret Love
+ShortName_10
+Tomb Raiding
+ShortName_11
+Stealing
+ShortName_12
+Выманить
+ShortName_13
+Snatch
+ShortName_14
+Poisoning
+ShortName_15
+Внезапный удар
+ShortName_16
+Poison Sectmate
+ShortName_17
+Sneak Attack on Sectmate
+ShortName_18
+Plagiarizing
+ShortName_19
+Отравить предмет
+ShortName_20
+Breach Dietary Vow
+ShortName_21
+Dragged Down by Others
+ShortName_22
+Secret Execution
+ShortName_23
+Secret Imprisonment
+ShortName_24
+Befriend Enemy
+ShortName_25
+Befriend Enemy
+ShortName_26
+Befriend Enemy
+ShortName_27
+Befriend Enemy
+ShortName_28
+Befriend Enemy
+ShortName_29
+Befriend Enemy
+ShortName_30
+Befriend Enemy
+ShortName_31
+Befriend Enemy
+ShortName_32
+Befriend Enemy
+ShortName_33
+Befriend Enemy
+ShortName_34
+Befriend Enemy
+ShortName_35
+Befriend Enemy
+ShortName_36
+Befriend Enemy
+ShortName_37
+Befriend Enemy
+ShortName_38
+Befriend Enemy
+ShortName_39
+Forced into silence
+ShortName_40
+Одержим Сяншу
+ShortName_41
+Escape Prison
+ShortName_42
+Враг
+ShortName_43
+Враг
+ShortName_44
+Secret Love
+ShortName_45
+Secret Love
+ShortName_46
+Secret Love
+ShortName_47
+Secret Love
+ShortName_48
+Secret Love
+ShortName_49
+Secret Love
+ShortName_50
+Secret Love
+ShortName_51
+Secret Love
+ShortName_52
+Secret Love
+ShortName_53
+Secret Love
+ShortName_54
+Secret Love
+ShortName_55
+Secret Love
+ShortName_56
+Secret Love
+ShortName_57
+Secret Love
+ShortName_58
+Secret Love
+ShortName_59
+Secret Love
+ShortName_60
+Secret Love
+ShortName_61
+Secret Love
+ShortName_62
+Secret Love
+ShortName_63
+Secret Love
+ShortName_64
+Befriend Enemy
+ShortName_65
+Befriend Enemy
+ShortName_66
+Befriend Enemy
+ShortName_67
+Befriend Enemy
+ShortName_68
+Befriend Enemy
+ShortName_69
+Befriend Enemy
+ShortName_70
+Befriend Enemy
+ShortName_71
+Befriend Enemy
+ShortName_72
+Befriend Enemy
+ShortName_73
+Befriend Enemy
+ShortName_74
+Befriend Enemy
+ShortName_75
+Befriend Enemy
+ShortName_76
+Befriend Enemy
+ShortName_77
+Befriend Enemy
+ShortName_78
+Befriend Enemy
+ShortName_79
+Befriend Enemy
+ShortName_80
+Befriend Enemy
+ShortName_81
+Befriend Enemy
+ShortName_82
+Befriend Enemy
+ShortName_83
+Befriend Enemy
+ShortName_84
+Befriend Enemy
+ShortName_85
+Befriend Enemy
+ShortName_86
+Befriend Enemy
+ShortName_87
+Befriend Enemy
+ShortName_88
+Befriend Enemy
+ShortName_89
+Befriend Enemy
+ShortName_90
+Befriend Enemy
+ShortName_91
+Befriend Enemy
+ShortName_92
+Befriend Enemy
+ShortName_93
+Befriend Enemy
+ShortName_94
+Befriend Enemy
+ShortName_95
+Befriend Enemy
+ShortName_96
+Befriend Enemy
+ShortName_97
+Befriend Enemy
+ShortName_98
+Befriend Enemy
+ShortName_99
+Befriend Enemy
+ShortName_100
+Befriend Enemy
+ShortName_101
+Befriend Enemy
+ShortName_102
+Befriend Enemy
+ShortName_103
+Befriend Enemy
+ShortName_104
+Befriend Enemy
+ShortName_105
+Befriend Enemy
+ShortName_106
+Befriend Enemy
+ShortName_107
+Befriend Enemy
+ShortName_108
+Befriend Enemy
+ShortName_109
+Befriend Enemy
+ShortName_110
+Befriend Enemy
+ShortName_111
+Befriend Enemy
+ShortName_112
+Befriend Enemy
+ShortName_113
+Befriend Enemy
+ShortName_114
+Befriend Enemy
+ShortName_115
+Befriend Enemy
+ShortName_116
+Befriend Enemy
+ShortName_117
+Befriend Enemy
+ShortName_118
+Befriend Enemy
+ShortName_119
+Befriend Enemy
+ShortName_120
+Befriend Enemy
+ShortName_121
+Befriend Enemy
+ShortName_122
+Befriend Enemy
+ShortName_123
+Befriend Enemy
+ShortName_124
+Befriend Enemy
+ShortName_125
+Befriend Enemy
+ShortName_126
+Befriend Enemy
+ShortName_127
+Befriend Enemy
+ShortName_128
+Befriend Enemy
+ShortName_129
+Befriend Enemy
+ShortName_130
+Befriend Enemy
+ShortName_131
+Befriend Enemy
+ShortName_132
+Befriend Enemy
+ShortName_133
+Befriend Enemy
+ShortName_134
+Befriend Enemy
+ShortName_135
+Befriend Enemy
+ShortName_136
+Befriend Enemy
+ShortName_137
+Befriend Enemy
+ShortName_138
+Befriend Enemy
+ShortName_139
+Befriend Enemy
+ShortName_140
+Befriend Enemy
+ShortName_141
+Befriend Enemy
+ShortName_142
+Befriend Enemy
+ShortName_143
+Befriend Enemy
+ShortName_144
+Befriend Enemy
+ShortName_145
+Befriend Enemy
+ShortName_146
+Befriend Enemy
+ShortName_147
+Befriend Enemy
+ShortName_148
+Befriend Enemy
+ShortName_149
+Befriend Enemy
+ShortName_150
+Befriend Enemy
+ShortName_151
+Befriend Enemy
+ShortName_152
+Befriend Enemy
+ShortName_153
+Befriend Enemy
+ShortName_154
+Kill Sectmate
+ShortName_155
+Imprison Sectmate
+ShortName_156
+Kill Sectmate
+ShortName_157
+Imprison Sectmate
+ShortName_158
+Plagiarizing
+ShortName_159
+Plagiarizing
+ShortName_160
+Plagiarizing
+ShortName_161
+Plagiarizing
+ShortName_162
+Breach Dietary Vow
+ShortName_163
+Breach Dietary Vow
+ShortName_164
+Breach Dietary Vow
+ShortName_165
+Break into the Outer Court
+ShortName_166
+Break into the Inner Court
+ShortName_167
+Break into the Forbidden Court
+ShortName_168
+Break into the Outer Court
+ShortName_169
+Break into the Inner Court
+ShortName_170
+Break into the Forbidden Court
+PunishmentDesc_0
+
+PunishmentDesc_1
+Publicly execute an Obscure or Morally Gray person.
+PunishmentDesc_2
+Publicly execute a person whose Reputation is below Obscure.
+PunishmentDesc_3
+Publicly execute a person whose Reputation is above Obscure.
+PunishmentDesc_4
+Publicly imprison an Obscure or Morally Gray person.
+PunishmentDesc_5
+Publicly imprison a person whose Reputation is below Obscure.
+PunishmentDesc_6
+Publicly imprison a person whose Reputation is above Obscure.
+PunishmentDesc_7
+
+PunishmentDesc_8
+
+PunishmentDesc_9
+
+PunishmentDesc_10
+Steal items or resources from a tomb.
+PunishmentDesc_11
+Steal items or resources.
+PunishmentDesc_12
+Swindle others out of their items or resources.
+PunishmentDesc_13
+Snatch items or resources from others.
+PunishmentDesc_14
+Poison on others.
+PunishmentDesc_15
+Covertly harm others.
+PunishmentDesc_16
+Harm a Sectmate with poison.
+PunishmentDesc_17
+Covertly harm a Sectmate.
+PunishmentDesc_18
+
+PunishmentDesc_19
+Envenom items.
+PunishmentDesc_20
+
+PunishmentDesc_21
+
+PunishmentDesc_22
+Secretly execute a person.
+PunishmentDesc_23
+Secretly imprison a person.
+PunishmentDesc_24
+Befriend a Shaolin member.
+PunishmentDesc_25
+Befriend an Emei member.
+PunishmentDesc_26
+Befriend a Valley of Flowers member.
+PunishmentDesc_27
+Befriend a Wudang member.
+PunishmentDesc_28
+Befriend a Yuanshan member.
+PunishmentDesc_29
+Befriend a Lion-Face Clan member.
+PunishmentDesc_30
+Befriend a Ranshan member.
+PunishmentDesc_31
+Befriend a Jade-Maiden Sect member.
+PunishmentDesc_32
+Befriend a Swordsmith Villa member.
+PunishmentDesc_33
+Befriend a Kongsang Sect member.
+PunishmentDesc_34
+Befriend a Vajra member.
+PunishmentDesc_35
+Befriend a Five Immortals Sect member.
+PunishmentDesc_36
+Befriend a Veil Scar member.
+PunishmentDesc_37
+Befriend a Fuloong Sanctuary member.
+PunishmentDesc_38
+Befriend a Sanguine member.
+PunishmentDesc_39
+Use "Forced Silence" against others in a Debate.
+PunishmentDesc_40
+Gain the trait "Possessed by Xiangshu."
+PunishmentDesc_41
+Escape during imprisonment.
+PunishmentDesc_42
+Belong to an enemy Sect.
+PunishmentDesc_43
+Form grudges with a Sectmate.
+PunishmentDesc_44
+Have children with someone.
+PunishmentDesc_45
+As an ordained disciple, have children with someone.
+PunishmentDesc_46
+As a prominent figure, have children with someone.
+PunishmentDesc_47
+Experience reciprocal love with someone.
+PunishmentDesc_48
+As an ordained disciple, experience reciprocal love with someone.
+PunishmentDesc_49
+As a prominent figure, experience reciprocal love with someone.
+PunishmentDesc_50
+Marry someone.
+PunishmentDesc_51
+As an ordained disciple, marry someone.
+PunishmentDesc_52
+As a prominent figure, marry someone.
+PunishmentDesc_53
+Spend a secret night with someone.
+PunishmentDesc_54
+As an ordained disciple, spend a secret night with someone.
+PunishmentDesc_55
+As a prominent figure, spend a secret night with someone.
+PunishmentDesc_56
+Unable to restrain passion, using vile means to sexually assault others.
+PunishmentDesc_57
+As an ordained disciple, unable to restrain passion, using vile means to sexually assault others.
+PunishmentDesc_58
+As a prominent figure, unable to restrain passion, using vile means to sexually assault others.
+PunishmentDesc_59
+Date someone.
+PunishmentDesc_60
+As an ordained disciple, date someone.
+PunishmentDesc_61
+As a prominent figure, date someone.
+PunishmentDesc_62
+Spend a secret night with someone.
+PunishmentDesc_63
+Unable to restrain passion, using vile means to sexually assault others.
+PunishmentDesc_64
+Experience reciprocal love with a Shaolin member.
+PunishmentDesc_65
+Experience reciprocal love with an Emei member.
+PunishmentDesc_66
+Experience reciprocal love with a Valley of Flowers member.
+PunishmentDesc_67
+Experience reciprocal love with a Wudang member.
+PunishmentDesc_68
+Experience reciprocal love with a Yuanshan member.
+PunishmentDesc_69
+Experience reciprocal love with a Lion-Face Clan member.
+PunishmentDesc_70
+Experience reciprocal love with a Ranshan member.
+PunishmentDesc_71
+Experience reciprocal love with a Jade-Maiden Sect member.
+PunishmentDesc_72
+Experience reciprocal love with a Swordsmith Villa member.
+PunishmentDesc_73
+Experience reciprocal love with a Kongsang Sect member.
+PunishmentDesc_74
+Experience reciprocal love with a Vajra Sect member.
+PunishmentDesc_75
+Experience reciprocal love with a Five Immortals Sect member.
+PunishmentDesc_76
+Experience reciprocal love with a Veil Scar member.
+PunishmentDesc_77
+Experience reciprocal love with a Fuloong Sanctuary member.
+PunishmentDesc_78
+Experience reciprocal love with a Sanguine member.
+PunishmentDesc_79
+Become sworn siblings with a Shaolin member.
+PunishmentDesc_80
+Become sworn siblings with an Emei member.
+PunishmentDesc_81
+Become sworn siblings with a Valley of Flowers member.
+PunishmentDesc_82
+Become sworn siblings with a Wudang member.
+PunishmentDesc_83
+Become sworn siblings with a Yuanshan member.
+PunishmentDesc_84
+Become sworn siblings with a Lion-Face Clan member.
+PunishmentDesc_85
+Become sworn siblings with a Ranshan member.
+PunishmentDesc_86
+Become sworn siblings with a Jade-Maiden Sect member.
+PunishmentDesc_87
+Become sworn siblings with a Swordsmith Villa member.
+PunishmentDesc_88
+Become sworn siblings with a Kongsang Sect member.
+PunishmentDesc_89
+Become sworn siblings with a Vajra member.
+PunishmentDesc_90
+Become sworn siblings with a Five Immortals Sect member.
+PunishmentDesc_91
+Become sworn siblings with a Veil Scar member.
+PunishmentDesc_92
+Become sworn siblings with a Fuloong Sanctuary member.
+PunishmentDesc_93
+Become sworn siblings with a Sanguine member.
+PunishmentDesc_94
+Acknowledge a Shaolin member as a foster parent.
+PunishmentDesc_95
+Acknowledge an Emei member as a foster parent.
+PunishmentDesc_96
+Acknowledge a Valley of Flowers member as a foster parent.
+PunishmentDesc_97
+Acknowledge a Wudang member as a foster parent.
+PunishmentDesc_98
+Acknowledge a Yuanshan member as a foster parent.
+PunishmentDesc_99
+Acknowledge a Lion-Face Clan member as a foster parent.
+PunishmentDesc_100
+Acknowledge a Ranshan member as a foster parent.
+PunishmentDesc_101
+Acknowledge a Jade-Maiden Sect member as a foster parent.
+PunishmentDesc_102
+Acknowledge a Swordsmith Villa member as a foster parent.
+PunishmentDesc_103
+Acknowledge a Kongsang Sect member as a foster parent.
+PunishmentDesc_104
+Acknowledge a Vajra member as a foster parent.
+PunishmentDesc_105
+Acknowledge a Five Immortals Sect member as a foster parent.
+PunishmentDesc_106
+Acknowledge a Veil Scar member as a foster parent.
+PunishmentDesc_107
+Acknowledge a Fuloong Sanctuary member as a foster parent.
+PunishmentDesc_108
+Acknowledge a Sanguine member as a foster parent.
+PunishmentDesc_109
+Adopt a Shaolin member as a foster child.
+PunishmentDesc_110
+Adopt an Emei member as a foster child.
+PunishmentDesc_111
+Adopt a Valley of Flowers member as a foster child.
+PunishmentDesc_112
+Adopt a Wudang member as a foster child.
+PunishmentDesc_113
+Adopt a Yuanshan member as a foster child.
+PunishmentDesc_114
+Adopt a Lion-Face Clan member as a foster child.
+PunishmentDesc_115
+Adopt a Ranshan member as a foster child.
+PunishmentDesc_116
+Adopt a Jade-Maiden Sect member as a foster child.
+PunishmentDesc_117
+Adopt a Swordsmith Villa member as a foster child.
+PunishmentDesc_118
+Adopt a Kongsang Sect member as a foster child.
+PunishmentDesc_119
+Adopt a Vajra member as a foster child.
+PunishmentDesc_120
+Adopt a Five Immortals Sect member as a foster child.
+PunishmentDesc_121
+Adopt a Veil Scar member as a foster child.
+PunishmentDesc_122
+Adopt a Fuloong Sanctuary member as a foster child.
+PunishmentDesc_123
+Adopt a Sanguine member as a foster child.
+PunishmentDesc_124
+Go on a date with a Shaolin member.
+PunishmentDesc_125
+Go on a date with an Emei member.
+PunishmentDesc_126
+Go on a date with a Valley of Flowers member.
+PunishmentDesc_127
+Go on a date with a Wudang member.
+PunishmentDesc_128
+Go on a date with a Yuanshan member.
+PunishmentDesc_129
+Go on a date with a Lion-Face Clan member.
+PunishmentDesc_130
+Go on a date with a Ranshan member.
+PunishmentDesc_131
+Go on a date with a Jade-Maiden Sect member.
+PunishmentDesc_132
+Go on a date with a Swordsmith Villa member.
+PunishmentDesc_133
+Go on a date with a Kongsang Sect member.
+PunishmentDesc_134
+Go on a date with a Vajra member.
+PunishmentDesc_135
+Go on a date with a Five Immortals Sect member.
+PunishmentDesc_136
+Go on a date with a Veil Scar member.
+PunishmentDesc_137
+Go on a date with a Fuloong Sanctuary member.
+PunishmentDesc_138
+Go on a date with a Sanguine member.
+PunishmentDesc_139
+Retrieve a lost child affiliated with the Shaolin Sect.
+PunishmentDesc_140
+Retrieve a lost child affiliated with the Emei Sect.
+PunishmentDesc_141
+Retrieve a lost child affiliated with the Valley of Flowers.
+PunishmentDesc_142
+Retrieve a lost child affiliated with the Wudang Sect.
+PunishmentDesc_143
+Retrieve a lost child affiliated with the Yuanshan Sect.
+PunishmentDesc_144
+Retrieve a lost child affiliated with the Lion-Face Clan.
+PunishmentDesc_145
+Retrieve a lost child affiliated with the Ranshan Sect.
+PunishmentDesc_146
+Retrieve a lost child affiliated with the Jade-Maiden Sect.
+PunishmentDesc_147
+Retrieve a lost child affiliated with the Swordsmith Villa.
+PunishmentDesc_148
+Retrieve a lost child affiliated with the Kongsang Sect.
+PunishmentDesc_149
+Retrieve a lost child affiliated with the Vajra Sect.
+PunishmentDesc_150
+Retrieve a lost child affiliated with the Five Immortals Sect.
+PunishmentDesc_151
+Retrieve a lost child affiliated with the Veil Scar Sect.
+PunishmentDesc_152
+Retrieve a lost child affiliated with the Fuloong Sanctuary.
+PunishmentDesc_153
+Retrieve a lost child affiliated with the Sanguine Sect.
+PunishmentDesc_154
+Publicly execute a Sectmate.
+PunishmentDesc_155
+Publicly imprison a Sectmate.
+PunishmentDesc_156
+Secretly execute a Sectmate.
+PunishmentDesc_157
+Secretly imprison a Sectmate.
+PunishmentDesc_158
+Steal someone's Fine Arts.
+PunishmentDesc_159
+Swindle someone out of their Fine Arts.
+PunishmentDesc_160
+Steal someone's Technique.
+PunishmentDesc_161
+Swindle someone out of their Technique.
+PunishmentDesc_162
+Eat meat.
+PunishmentDesc_163
+Consume liquor.
+PunishmentDesc_164
+As an ordained disciple, consume liquor or eat meat.
+PunishmentDesc_165
+Seize assets from the Outer Warehouse by force and injure the Outer Court Guard.
+PunishmentDesc_166
+Seize assets from the Inner Court Warehouse by force and injure the Inner Court guards.
+PunishmentDesc_167
+Seize assets from the Forbidden Court Warehouse by force and injure the Forbidden Court guards.
+PunishmentDesc_168
+Break into the Outer Prison and attempt to raid the prison.
+PunishmentDesc_169
+Break into the Inner Prison and attempt to raid the prison.
+PunishmentDesc_170
+Break into the Forbidden Prison and attempt to raid the prison.
+

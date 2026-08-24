@@ -1,0 +1,104 @@
+{
+  "title": "{LegendaryBookBonus.BonusTitle}",
+  "paragraphs": [
+    {
+      "name": "Default",
+      "type": "Default",
+      "atoms": []
+    },
+    {
+      "name": "Unlock",
+      "type": "Default",
+      "atoms": [
+        {
+          "name": "title",
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Особое действие"
+        },
+        {
+          "name": "desc",
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "{LegendaryBookBonus.UnlockEffectDesc}"
+        }
+      ]
+    },
+    {
+      "name": "Space",
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 2
+        }
+      ]
+    },
+    {
+      "name": "Effect",
+      "type": "Default",
+      "atoms": [
+        {
+          "name": "title",
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Прибавка к свойствам"
+        },
+        {
+          "name": "property01",
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "{LegendaryBookBonus.PropertyName01}",
+          "value": "{LegendaryBookBonus.PropertyValue01}"
+        },
+        {
+          "name": "property02",
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "{LegendaryBookBonus.PropertyName02}",
+          "value": "{LegendaryBookBonus.PropertyValue02}"
+        },
+        {
+          "name": "property03",
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "{LegendaryBookBonus.PropertyName03}",
+          "value": "{LegendaryBookBonus.PropertyValue03}"
+        },
+        {
+          "name": "property04",
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "{LegendaryBookBonus.PropertyName04}",
+          "value": "{LegendaryBookBonus.PropertyValue04}"
+        }
+      ]
+    },
+    {
+      "name": "CostExp",
+      "type": "Default",
+      "atoms": [
+        {
+          "name": "space",
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 2
+        },
+        {
+          "name": "title",
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Расход опыта"
+        },
+        {
+          "name": "value",
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "<SpName=mousetip_lilian> Расход опыта",
+          "value": "{LegendaryBookBonus.CurrentExp}/{LegendaryBookBonus.NeedExp}"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+Name_0
+Unknown Boy
+Name_1
+Unknown Girl
+Name_2
+Unknown Kid
+Name_3
+Unknown Woman
+Name_4
+
+Name_5
+
+Name_6
+
+Name_7
+
+Name_8
+
+Name_9
+Прохожий
+Name_10
+Прохожий
+Name_11
+Shaolin Disciple
+Name_12
+Emei Disciple
+Name_13
+Valley of Flowers Disciple
+Name_14
+Wudang Disciple
+Name_15
+Yuanshan Disciple
+Name_16
+Lion-Face Clan Disciple
+Name_17
+Ranshan Disciple
+Name_18
+Jade-Maiden Sect Disciple
+Name_19
+Swordsmiths' Disciple
+Name_20
+Kongsang's Disciple
+Name_21
+Vajra Disciple
+Name_22
+Five Immortals' Disciple
+Name_23
+Veil Scar Disciple
+Name_24
+Fuloong Sanctuary Disciple
+Name_25
+Sanguine Disciple
+Name_26
+
+Name_27
+Princess
+Name_28
+Старик
+Name_29
+Больной
+Name_30
+Woodcutter
+Name_31
+
+Name_32
+Слуга
+Name_33
+Старший
+Name_34
+Старший
+Name_35
+младший брат
+Name_36
+младшая сестра
+Name_37
+Malicious Servant
+Name_38
+Cui'e
+Name_39
+Shepherd
+Name_40
+Провожатый
+Name_41
+Глава семьи
+Name_42
+Sorcerer
+Name_43
+Thief
+Name_44
+Benefactor
+Name_45
+Враг
+Name_46
+Госпожа
+Name_47
+Child
+Name_48
+Старший
+Name_49
+Renowned Person
+Name_50
+Старик
+Name_51
+Fortune Teller
+Name_52
+Сваха
+Name_53
+Сваха
+Name_54
+Сваха
+Name_55
+Караван
+Name_56
+Управитель
+Name_57
+Слуга
+Name_58
+Слуга
+Name_59
+Слуга
+Name_60
+Слуга
+Name_61
+Local Person
+Name_62
+Buddhist Attendant
+Name_63
+Ученик-служитель
+Name_64
+Ученик-служитель
+Name_65
+Прислужник-даос
+Name_66
+Ученик-служитель
+Name_67
+Ученик-служитель
+Name_68
+Ученик-служитель
+Name_69
+Ученик-служитель
+Name_70
+Ученик-служитель
+Name_71
+Ученик-служитель
+Name_72
+Ученик-служитель
+Name_73
+Ученик-служитель
+Name_74
+Ученик-служитель
+Name_75
+Ученик-служитель
+Name_76
+Ученик-служитель
+Name_77
+Disciple Watching Over the Furnace
+Name_78
+Housemaid
+Name_79
+Adventurer
+Name_80
+Торговец
+Name_81
+Торговец
+Name_82
+Торговец
+Name_83
+Торговец
+Name_84
+Торговец
+Name_85
+Торговец
+Name_86
+Sect Attendant
+Name_87
+Торговец сверчками
+Name_88
+Старик
+Name_89
+
+Name_90
+
+Name_91
+
+Name_92
+
+Name_93
+
+Name_94
+
+Name_95
+
+Name_96
+
+Name_97
+
+Name_98
+
+Name_99
+
+Name_100
+
+Name_101
+
+Name_102
+
+Name_103
+
+Name_104
+Нищий
+Name_105
+Senior Disciple
+Name_106
+Passing-by Disciple
+Name_107
+Старый монах
+Name_108
+Юный монах
+Name_328
+Shaolin Elder
+Name_109
+Informant
+Name_110
+Boar Piglet
+Name_111
+Woodcutter
+Name_112
+Старик
+Name_113
+Девочка
+Name_114
+Мальчик
+Name_115
+Child
+Name_116
+Старый крестьянин
+Name_117
+Старый крестьянин
+Name_118
+Госпожа
+Name_119
+Даос
+Name_120
+Старый крестьянин
+Name_121
+Injured Taiwu Villager
+Name_122
+Injured Taiwu Villager
+Name_123
+Injured Taiwu Villager
+Name_124
+Основатели трёх школ
+Name_125
+Странствующий даос
+Name_126
+Земледелец
+Name_127
+Госпожа
+Name_128
+
+Name_129
+Buddhist Monk Building the Tower
+Name_130
+Книжник
+Name_131
+Ученик Зала летящего льва
+Name_132
+Чужеземный боец
+Name_133
+Градоправитель
+Name_134
+Traveler
+Name_135
+Drunkard
+Name_136
+Young Taoist
+Name_137
+Duck
+Name_138
+Mysterious Doctor
+Name_139
+Слуга
+Name_140
+
+Name_141
+
+Name_142
+
+Name_143
+
+Name_144
+
+Name_145
+
+Name_146
+
+Name_147
+
+Name_148
+Divine Maiden's Silhouette
+Name_149
+Gray Shadow
+Name_150
+Некто в чёрном
+Name_151
+Девушка
+Name_152
+Тень
+Name_153
+Ремесленник
+Name_154
+Loong Keeper Brother
+Name_155
+Loong Keeper Sister
+Name_156
+Young Girl in the Mist
+Name_157
+Villager
+Name_158
+Villager
+Name_159
+Ghostly Buddhist
+Name_160
+Eminent Monk Soul
+Name_161
+тётушка
+Name_162
+Miao Woman
+Name_163
+Девочка
+Name_164
+Miao Young Man
+Name_165
+Старик
+Name_166
+Даос
+Name_167
+Child
+Name_168
+Child
+Name_169
+Child
+Name_170
+Ranshan Disciple
+Name_171
+Ученик-служитель
+Name_172
+Disciple in the Mist
+Name_173
+Disciple in the Mist
+Name_174
+Child in the Mist
+Name_175
+Disciple in the Mist
+Name_176
+Лодочник
+Name_177
+Guard
+Name_178
+Guard
+Name_179
+Тень
+Name_180
+Tiny Shadowy Figure
+Name_181
+Giant Shadowy Figure
+Name_182
+Возрождённый
+Name_183
+Возрождённый
+Name_184
+Feng Qing
+Name_185
+Возрождённый
+Name_186
+Возрождённый
+Name_187
+Возрождённый
+Name_188
+Возрождённый
+Name_189
+
+Name_190
+
+Name_191
+
+Name_192
+
+Name_193
+
+Name_194
+Elderly in the Mist
+Name_195
+Старейшина
+Name_196
+Трактирщик
+Name_197
+Девочка
+Name_198
+Книжник
+Name_199
+Госпожа
+Name_200
+Man
+Name_201
+Девочка
+Name_202
+Мальчик
+Name_203
+Unknown Figure
+Name_204
+Envoy
+Name_205
+Mysterious Woman
+Name_206
+Люли
+Name_207
+Barred Rock Chicken
+Name_208
+Qingyuan Chicken
+Name_209
+Pheasant
+Name_210
+Bamboo Partridge
+Name_211
+Black Plumage Chicken
+Name_212
+Quail-tail Fowl
+Name_213
+Eared Pheasant
+Name_214
+Redleg Chicken
+Name_215
+Scholar Fowl
+Name_216
+Sycee Chicken
+Name_217
+Crimson Rooster
+Name_218
+Guo Chicken
+Name_219
+Zhu-Zhu Chicken
+Name_220
+Long-tailed Chicken
+Name_221
+Lady Amherst's Pheasant
+Name_222
+Golden Pheasant
+Name_223
+Langya Chicken
+Name_224
+Emerald Rooster
+Name_225
+Greengage Chicken
+Name_226
+Parasol Chicken
+Name_227
+Kuaiji Chicken
+Name_228
+Ink Black Chicken
+Name_229
+Peach Haven Chicken
+Name_230
+Bearded Chicken
+Name_231
+Deer Garden Chicken
+Name_232
+Emei Black Chicken
+Name_233
+Candlestick Chicken
+Name_234
+Huaixiang Chicken
+Name_235
+Gray Chicken
+Name_236
+Red Junglefowl
+Name_237
+Gushi Chicken
+Name_238
+Шёлковая курица
+Name_239
+Yuewa Chicken
+Name_240
+Jingning Chicken
+Name_241
+Black Fenghuang Chicken
+Name_242
+Crowing General Rooster
+Name_243
+Lueyang Chicken
+Name_244
+Annan Chicken
+Name_245
+Ornate-tailed Fowl
+Name_246
+Wenchang Chicken
+Name_247
+Snowcock
+Name_248
+White-headed Black Chicken
+Name_249
+Polydactyl Chicken
+Name_250
+Five-colored Chicken
+Name_251
+Rainbow Pheasant
+Name_252
+Fengchuan Chicken
+Name_253
+Hailing Chicken
+Name_254
+Shanggu Chicken
+Name_255
+Ningdu Chicken
+Name_256
+Qingzhou Chicken
+Name_257
+Fragrant Chicken
+Name_258
+Fortune Chicken
+Name_259
+Goujian Chicken
+Name_260
+Silver-eared Golden Chicken
+Name_261
+Jianning Chicken
+Name_262
+Wood Grouse
+Name_263
+Pallas's Sandgrouse
+Name_264
+Jiuzhen Chicken
+Name_265
+Chang'an Rooster
+Name_266
+Kunlun Chicken
+Name_267
+Golden-legged Chicken
+Name_268
+He Fowl
+Name_269
+Kun Fowl
+Name_270
+Житель деревни Тайу
+Name_271
+Туншэн
+Name_272
+Ou Yezi
+Name_273
+Небесный император
+Name_274
+Ученик Усадьбы Ковки Мечей
+Name_275
+Ученик Усадьбы Ковки Мечей
+Name_276
+Arcane Artisan
+Name_277
+Battleforge Artisan
+Name_278
+Зелёный кузнец
+Name_279
+
+Name_280
+Shaolin Disciple
+Name_281
+Emei Disciple
+Name_282
+Valley of Flowers Disciple
+Name_283
+Wudang Disciple
+Name_284
+Yuanshan Disciple
+Name_285
+Lion-Face Clan Disciple
+Name_286
+Ranshan Disciple
+Name_287
+Jade-Maiden Sect Disciple
+Name_288
+Swordsmiths' Disciple
+Name_289
+Kongsang's Disciple
+Name_290
+Vajra Disciple
+Name_291
+Five Immortals' Disciple
+Name_292
+Veil Scar Disciple
+Name_293
+Fuloong Sanctuary Disciple
+Name_294
+Sanguine Disciple
+Name_295
+Vulture
+Name_296
+Прохожий
+Name_297
+Прохожий
+Name_298
+Прохожий
+Name_299
+Yuanshan Disciple
+Name_300
+Yuanshan Disciple
+Name_301
+Yuanshan Disciple
+Name_302
+Девочка
+Name_303
+Man
+Name_304
+Villager
+Name_305
+герой
+Name_306
+Лекарь
+Name_307
+Yuanshan Elder Illusion
+Name_308
+Одержимые
+Name_309
+Отошедший от дел старейшина Юаньшань
+Name_310
+Тень
+Name_311
+Тень
+Name_312
+Baby
+Name_313
+Жань Синьду
+Name_314
+Половой
+Name_315
+Former Flying Lion Hall Member
+Name_316
+Former Flying Lion Hall Member
+Name_317
+Former Flying Lion Hall Member
+Name_318
+Сказитель
+Name_319
+Дух Жаньшань
+Name_320
+Дух Жаньшань
+Name_321
+Дух Жаньшань
+Name_322
+Messenger
+Name_323
+Бессмертный Сюй...
+Name_324
+Женщина
+Name_325
+Женщина
+Name_326
+Мальчик
+Name_327
+Алхимик
+Name_329
+Giant
+Name_330
+Figure in White
+Name_331
+Nameless Man
+Name_332
+Фуси
+Name_333
+Безымянная женщина
+Name_334
+Нюйва
+Name_335
+Демон
+Name_336
+Greatsword
+Name_337
+Loong Spirit
+Name_338
+Snow Mountain Goddess
+Name_339
+Verdant Satin
+Name_340
+The Plain Fox
+Name_341
+Du Zhaifu
+Name_342
+Jianmu Spirit
+Name_343
+Sage
+Name_344
+Huang Gubo
+Name_345
+Huang Gubo
+Name_346
+Bird
+Name_347
+Старик
+Name_348
+Bai the Benefactor
+Name_349
+Veil Scar Disciple
+Name_350
+Veil Scar Disciple
+Name_351
+Veil Scar Disciple
+Name_352
+Veil Scar Disciple
+Name_353
+Wudang Disciple
+Name_354
+Wudang Disciple
+Name_355
+Acting Shadow Ruler
+Name_356
+Chiyou
+Name_357
+Беженец
+Name_358
+Doctor Ning
+Name_359
+Madam Ning
+Name_360
+Seventh Sister Ning
+Name_361
+Мясо вепря
+Name_362
+Ethereal Serpent
+Name_363
+Martial World Hermit
+Name_364
+Will Incarnation
+Name_365
+Young Taoist
+Name_366
+Chick jin Huang'er
+Name_367
+Martial World Xiake
+Name_368
+Bashu Xiake
+Name_369
+Deputy Sect Leader
+Name_370
+Escaped Mt. Emei Disciple
+Name_371
+Child
+Name_372
+Тёмное пламя
+

@@ -1,0 +1,89 @@
+Name_0
+Ordinary Characters
+Name_1
+Villager
+Name_2
+Разбойник
+Name_3
+Ревнитель правды
+Name_4
+Близость
+Name_5
+Враг
+Name_6
+Одержимые
+Name_43
+Прислужник Сяншу
+Name_7
+Secret Tome Holder
+Name_8
+Особый персонаж
+Name_9
+Зверь
+Name_10
+Dreaming of Old Friends
+Name_11
+Star Fortune Malevolence
+Name_42
+Обезумевший демон
+Name_12
+Особый персонаж
+Name_13
+Beast (Fleeing, Tracking)
+Name_14
+Караван Воловьей спины
+Name_15
+Обоз Книгохранилища
+Name_16
+Обоз Янцзыйского торгового союза
+Name_17
+Обоз Оружейной витязя
+Name_18
+Обоз Аптеки Возрождения
+Name_19
+Караван Гуншу
+Name_20
+Обоз Павильона диковин
+Name_21
+Ambushed Caravan
+Name_22
+Bamboo Incarnation
+Name_23
+Взломщики могильника
+Name_24
+Jiao Loong
+Name_25
+Божественный лун
+Name_26
+Могила
+Name_27
+Раскопки
+Name_28
+Marker
+Name_29
+Торговец Воловьей спины
+Name_30
+Торговец Книгохранилища
+Name_31
+Торговец Янцзыйского торгового союза
+Name_32
+Торговец Оружейной витязя
+Name_33
+Торговец Аптеки Возрождения
+Name_34
+Торговец Каравана Гуншу
+Name_35
+Торговец Павильона диковин
+Name_36
+Cricket
+Name_37
+Вылазка
+Name_38
+Событие
+Name_39
+Notes
+Name_40
+Treasures
+Name_41
+Treasures (Out of Sight)
+

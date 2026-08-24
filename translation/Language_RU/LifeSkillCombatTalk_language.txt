@@ -1,0 +1,281 @@
+Name_0
+Opening Remarks for the Preparation Stage
+Name_1
+Ban Choices in the Preparation Stage
+Name_2
+Reveal Topics in the Preparation Stage
+Name_3
+Forfeiting Choices in the Preparation Stage
+Name_4
+Successful Secret Knowledge in the Preparation Stage
+Name_5
+Successful Temptation in the Preparation Stage
+Name_6
+Failed Secret Knowledge in the Preparation Stage
+Name_7
+Failed Temptation in the Preparation Stage
+Name_8
+AI's Secret Knowledge in the Preparation Stage
+Name_9
+AI's Temptation in the Preparation Stage
+Name_10
+Topic Decision in the Preparation Stage
+Name_11
+Opening Remarks
+Name_12
+Выставить довод
+Name_13
+Winning Contention Conflict
+Name_14
+Losing Contention Conflict
+Name_15
+Сдаться
+Name_16
+Вынудить сдаться
+Name_17
+Refused to surrender
+Name_18
+Normal Defeat
+Name_19
+Victory
+NormalContent_0
+
+NormalContent_1
+
+NormalContent_2
+
+NormalContent_3
+
+NormalContent_4
+I have heard of something before, do you know it?
+NormalContent_5
+You truly understand the situation well...
+NormalContent_6
+What does it matter if you know this? There's no need to say more...
+NormalContent_7
+
+NormalContent_8
+There's something I've heard of before, do you remember it?
+NormalContent_9
+Could these items be of some convenience to you?
+NormalContent_10
+So it's settled, no backing out.
+NormalContent_11
+
+NormalContent_12
+Do you know the true meaning of {0}? How should it be explained?
+NormalContent_13
+{0} is as easy as it comes. I shall explain it to you now.
+NormalContent_14
+{0} is too profound for my understanding.
+NormalContent_15
+
+NormalContent_16
+
+NormalContent_17
+
+NormalContent_18
+
+NormalContent_19
+
+JustContent_0
+Today's debate will reveal who is superior...
+JustContent_1
+A resort to your advantage...
+JustContent_2
+Why bother with that if you're truly well-learned?
+JustContent_3
+Choose as you like, I fear nothing!
+JustContent_4
+
+JustContent_5
+
+JustContent_6
+
+JustContent_7
+How could I possibly lose my dignity over such trivial gains?
+JustContent_8
+
+JustContent_9
+
+JustContent_10
+
+JustContent_11
+Please advise me!
+JustContent_12
+
+JustContent_13
+
+JustContent_14
+
+JustContent_15
+You've outplayed me. I give up.
+JustContent_16
+If you are not as skilled, why not admit defeat?
+JustContent_17
+I see your skills are ordinary, you may not win!
+JustContent_18
+Your skill is astonishing, I bow to you...
+JustContent_19
+I win! It was worth all the years of hard practice...
+KindContent_0
+You and I are merely expressing our own views...
+KindContent_1
+Then as you wish...
+KindContent_2
+Let me give you some leeway; it won't hurt...
+KindContent_3
+No need to worry...
+KindContent_4
+
+KindContent_5
+
+KindContent_6
+
+KindContent_7
+I am not someone who seeks profit at the expense of honor...
+KindContent_8
+
+KindContent_9
+
+KindContent_10
+
+KindContent_11
+Forgive me for my ignorance...
+KindContent_12
+
+KindContent_13
+
+KindContent_14
+
+KindContent_15
+I have lost my move, it's fine to stop here...
+KindContent_16
+I prefer peace, would you be willing to concede?
+KindContent_17
+How can we know who will win without a debate?
+KindContent_18
+You are a master in this field, I humbly admit my inferiority...
+KindContent_19
+Victory or defeat has been decided, fairness lies in the hearts of the people...
+EvenContent_0
+Everything will be judged fairly in the end...
+EvenContent_1
+What a pity...
+EvenContent_2
+That seems reasonable...
+EvenContent_3
+Anything will do...
+EvenContent_4
+
+EvenContent_5
+
+EvenContent_6
+
+EvenContent_7
+If one chases trivial gains, one shall lose the Tao...
+EvenContent_8
+
+EvenContent_9
+
+EvenContent_10
+
+EvenContent_11
+Ты слишком добр…
+EvenContent_12
+
+EvenContent_13
+
+EvenContent_14
+
+EvenContent_15
+Those who know when to yield are wise, this will do...
+EvenContent_16
+This text is so profound, do you truly understand?
+EvenContent_17
+Right and wrong must be settled in debate...
+EvenContent_18
+The judgment is clear, it turns out I've lost...
+EvenContent_19
+Deep research has brought me this victory...
+RebelContent_0
+It's not too late for you to concede!
+RebelContent_1
+Are you afraid?
+RebelContent_2
+Lack of proficiency is why you resorted to that...
+RebelContent_3
+Don't try to play tricks...
+RebelContent_4
+
+RebelContent_5
+
+RebelContent_6
+
+RebelContent_7
+Are you looking down on me?
+RebelContent_8
+
+RebelContent_9
+
+RebelContent_10
+
+RebelContent_11
+Wait and see!
+RebelContent_12
+
+RebelContent_13
+
+RebelContent_14
+
+RebelContent_15
+Fine, it's no longer interesting to debate with you now!
+RebelContent_16
+If you bow out now, I will spare you this time!
+RebelContent_17
+You speak arrogantly, but who knows the outcome?
+RebelContent_18
+Strange, did you use any underhanded tricks?
+RebelContent_19
+Ha-ha! What else do you have to say?
+EgoisticContent_0
+I will win the match effortlessly...
+EgoisticContent_1
+This is still futile...
+EgoisticContent_2
+Why be so cautious?
+EgoisticContent_3
+Show me your stuff.​..
+EgoisticContent_4
+
+EgoisticContent_5
+
+EgoisticContent_6
+
+EgoisticContent_7
+Such trivial gains are beneath my notice!
+EgoisticContent_8
+
+EgoisticContent_9
+
+EgoisticContent_10
+
+EgoisticContent_11
+Let me point you in the right direction...
+EgoisticContent_12
+
+EgoisticContent_13
+
+EgoisticContent_14
+
+EgoisticContent_15
+It's futile to continue without strategy, I'll retreat for now...
+EgoisticContent_16
+Do you really have the skill to debate with me?
+EgoisticContent_17
+With such abilities, how can you be so bold?
+EgoisticContent_18
+Next time, I may turn the tables...
+EgoisticContent_19
+It is only natural for me to win...
+

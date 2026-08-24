@@ -1,0 +1,29 @@
+Name_0
+Торс
+Name_1
+Поясница
+Name_2
+Голова и шея
+Name_3
+Левая рука
+Name_4
+Правая рука
+Name_5
+Левая нога
+Name_6
+Правая нога
+AcupointDesc_0
+Torso acupoint seal will <color=#brightred>reduce Inhale recovery rate by at least 20%, up to 60%...</color>\n<color=#yellow>Sealing multiple acupoints on the same area does not stack, and their effect weakens as time passes.</color>\n\nWhen 3 acupoints on the torso are sealed, <color=#brightred>Martial Arts that require the torso can no longer be cast...</color>
+AcupointDesc_1
+Midsection acupoint seal will <color=#brightred>reduce Stance recovery rate by at least 20%, up to 60%...</color>\n<color=#yellow>Sealing multiple acupoints on the same area do not stack, and their effect weakens as time passes.</color>\n\nWhen 3 acupoints on the midsection are sealed, <color=#brightred>Martial Arts that require the midsection can no longer be cast...</color>
+AcupointDesc_2
+Having a sealed Head-and-Neck acupoint <color=#brightred>reduces attack range by 0.4-0.8</color>.\n<color=#yellow>Multiple sealed acupoints on the same body part do not stack but reduce and weaken over time.</color>\n\n<color=#brightred>Martial Arts relying on your Head-and-Neck cannot be used</color> when 3 Head-and-Neck acupoints or more are sealed.
+AcupointDesc_3
+Having a sealed Left Arm acupoint <color=#brightred>lengthens weapon attack preparation time by 50%-150%</color>.\n<color=#yellow>Multiple sealed acupoints on the same body part do not stack but reduce and weaken over time.</color>\n\n<color=#brightred>Martial Arts relying on your Left Arm cannot be used</color> when 3 Left Arm acupoints or more are sealed.
+AcupointDesc_4
+Having a sealed Right Arm acupoint <color=#brightred>lengthens weapon attack preparation time by 50%-150%</color>.\n<color=#yellow>Multiple sealed acupoints on the same body part do not stack but reduce and weaken over time.</color>\n\n<color=#brightred>Martial Arts relying on your Right Arm cannot be used</color> when 3 Right Arm acupoints or more are sealed.
+AcupointDesc_5
+Having a sealed Left Leg acupoint <color=#brightred>lengthens movement time by 50%-150%</color>.\n<color=#yellow>Multiple sealed acupoints on the same body part do not stack but reduce and weaken over time.</color>\n\n<color=#brightred>Martial Arts relying on your Left Leg cannot be used</color> when 3 Left Leg acupoints or more are sealed.
+AcupointDesc_6
+Having a sealed Right Leg acupoint <color=#brightred>lengthens movement time by 50%-150%</color>.\n<color=#yellow>Multiple sealed acupoints on the same body part do not stack but reduce and weaken over time.</color>\n\n<color=#brightred>Martial Arts relying on your Right Leg cannot be used</color> when 3 Right Leg acupoints or more are sealed.
+

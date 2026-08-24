@@ -1,0 +1,29 @@
+OptionTitle_0
+Беседа
+OptionTitle_1
+Состязание
+OptionTitle_2
+Совершенствование
+OptionTitle_3
+Сближение
+OptionTitle_4
+Вражда
+OptionTitle_5
+Взаимодействие
+OptionTitle_6
+Hold [ESC] to Say Goodbye
+OptionRecordText_0
+
+OptionRecordText_1
+
+OptionRecordText_2
+
+OptionRecordText_3
+
+OptionRecordText_4
+
+OptionRecordText_5
+
+OptionRecordText_6
+(Take leave...)
+

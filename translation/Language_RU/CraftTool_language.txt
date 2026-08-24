@@ -1,0 +1,330 @@
+Name_0
+Carpenter's Toolbox
+Name_1
+Craftsman's Toolbox
+Name_2
+Cicada Planer
+Name_3
+Vermilion Lacquered Toolbox
+Name_4
+Amberite Iron Planer
+Name_5
+Myriad-Shapeshift Box
+Name_6
+Soulaxe Planer
+Name_7
+Tiny-Universe Box
+Name_8
+Gonshu's Miracle Casket
+Name_9
+Bronze Furnace
+Name_10
+Vermilion Smelter
+Name_11
+Dual-Flame Damascus Steel Smelter
+Name_12
+Glimmerdusk Iron Furnace
+Name_13
+Hunyuan Furnace
+Name_14
+Soulform Smelter
+Name_15
+Septuple Nimbus Smelter
+Name_16
+Jiu Han Furnace
+Name_17
+Ruoye Smelter
+Name_18
+Blackstone Grit
+Name_19
+Adamas Grit
+Name_20
+Emerald Grit
+Name_21
+Amberloong Grit
+Name_22
+Trigem Grit
+Name_23
+Arctic Grit
+Name_24
+Magentus Scented Grit
+Name_25
+Crystal Souldew Grit
+Name_26
+Loong Maiden Grit
+Name_27
+Sewing Kit
+Name_28
+Bamboo Loom
+Name_29
+Butterfly Shuttle
+Name_30
+Cirrus Shuttle
+Name_31
+Ivory Loom
+Name_32
+Centugrass Shuttle
+Name_33
+Huangmu Loom
+Name_34
+Seven-Hued Scented Shuttle
+Name_35
+Goddess Nimbus Shuttle
+Name_36
+Stone Pot
+Name_37
+Brass Double-Handled Pot
+Name_38
+Multi-Handled Pot
+Name_39
+Kitchen God's Pot
+Name_40
+Taotie Pot
+Name_41
+Fragrantia Pot
+Name_42
+Octo-Treasure Pot
+Name_43
+Aerosiderite Pot
+Name_44
+Thousand-Dou Pot
+Name_45
+Clay Mortar
+Name_46
+Centuherbs Cauldron
+Name_47
+Alchemist Pot
+Name_48
+Bodhi Mortar
+Name_49
+Ghost King Pot
+Name_50
+Prime Alchemist Ding
+Name_51
+Bloodjade Mortar
+Name_52
+Ultraglaze Cauldron
+Name_53
+Spirits' Remains Pot
+Name_54
+Голые руки
+Desc_0
+A small toolbox carried by carpenters. It contains saws, planers, carpenter's ink markers and wire drills among other common carpentry tools.
+Desc_1
+A small toolbox carried by carpentry craftsmen, filled with a range of tools more complete than that of the average carpenter. It contains small chisels, hammers, set squares, files and carpentry axes among others, thus allows for more intricate carpentry.
+Desc_2
+Finely designed, this planer is hard-wearing and cuts the wood into smooth chips no matter the its composition. Even carpentry novices can use it with ease, skimming off wood shavings as thin as cicada wings (hence its name).
+Desc_3
+A toolbox with a portable size and methodically-ordered inner compartments. It's constructed with silver and lacquered red, very useful and convenient as it can carry an assortment of carpentry tools.
+Desc_4
+This planer's blade is made from a peculiar metal that does not rust even when submerged in water. Its shank is amber throughout, yellowish and translucent. The wood it's used upon is given a certain pine, cypress-like aroma.
+Desc_5
+A box with a precisely-built structure cast from metal, which is able to take on countless varieties of shapes, hence the name. This box is extremely convenient and portable, and legend has it that it is invented by ancient carpentry sages.
+Desc_6
+The Zhuangzi reads "Zi Qing built a planer from wood. Such was its ethereal craftsmanship, all around lauded its quality as seemingly built by souls, or spirits, themselves." The Soulaxe Planer is said to be modeled on that used by famed Lu state craftsman Zi Qing, in the Spring and Autumn period. If you could concentrate your Qi, this tool can assist you to create products so wonderful you'd think they were the work of a mighty soul.
+Desc_7
+While appearing small, it is extremely spacious within: much like the Buddhist story of "Mt. Sumeru, held within a tiny mustard seed." It can be "as small or as large as one wishes, holding even the whole universe in its depths," hence the name.
+Desc_8
+A casket that is said to have been created by the legendary craftsman and inventor, Gongshu Ban. While there are only few kinds of simple tools within, they're designed with exceptional care. Even beginner craftsmen find using these tools to be second nature, as they're tried-and-true classics. The effort its creator poured into the casket would enlighten every one who behold it.
+Desc_9
+A smelting furnace forged from bronze. Utilizing various molds, common metals can be cast into individual or multiple shapes; an ancient and simple craft that yet can yield complex results.
+Desc_10
+This furnace is forged from refined metals of volcanoes. It bears vermilion patterning, which complements the flames beautifully as they dance within when smelting metals.
+Desc_11
+An ashen-colored furnace made of damascus steel, with its flame of Yin cyan and flame of Yang Vermillion. Only through the test of both Yin and Yang flames could metals be forged, hence the name.
+Desc_12
+A smelting furnace forged from glimmerdusk iron. A heavy-duty, high-temperature furnace that's square in shape and can refine metals for myriad times without any wear and tear. While it's somewhat unwieldy, it's still the furnace of choice for many metal craftsmen.
+Desc_13
+When melting down and forming metals within, this furnace channels both Yin and Yang energies as were present in primordial chaos. It brims with its own vitality: "At the primordial dawn of time when the laws of nature were formed, Yin and Yang Qi flowed freely with incomparable power."
+Desc_14
+It's said that "One's conscious comes from the soul itself," so does such relics, for which they never tarnish over the years. Whatever is forged within this furnace glimmers with a lifelike brightness, as if holding a soul of its own; hence its name.
+Desc_15
+True fire collects the essence of fire over the world, which is exactly apoted in this furnace. The flames of this furnace burn like the rays of the sun as they shine through a nimbus cloud. It's similar to those smelters used by Taoists when practicing alchemy, and those items forged within are purged of impurities, making them incredibly strong.
+Desc_16
+Jiu Han, refers to an extreme cold. No matter how furious the blaze within this furnace, its exterior stays icy cool. The heat is undetectable even if you stand right next to it. In fact, its cold aura only grows stronger with the heat inside. It's capable of smelting down just about anything over the world.
+Desc_17
+"With Ruoye running dry, the copper emerges, with which Ou yezi made the sword Chunjun." It's said that this furnace was made after that used by Ou Ye, hence is named after the Ruoye River of the story. It burns with cyan, white and crimson flames to forge swords that strike with an unearthly force, as powerful as the roar of a loong.
+Desc_18
+A common grit, dark and coarse, that can be used to cut and sand jade. It could be found and produced across the land, the best of which is that of Yan Zhao.
+Desc_19
+Grit crafted from diamonds, rugged and resilient yet translucent also. Commonly used to degrade jade. There is no stable output of this product. Occasional findings of the masses.
+Desc_20
+Crafted with cyan and white stones of exceptional hardness. Its grains are fine and it shines like a pearl or emerald, hence its name.
+Desc_21
+Crafted with amber-yellow stones found in the south. It wears a loong patterning, from which it gets its name. Any jade sanded with this grit also gains a fine patterning.
+Desc_22
+This grit is crafted with cyan, red and yellow gemstones. Whether used to break down or to polish jade, it functions all well.
+Desc_23
+Made with stones from the snowy mountains, it's as pure white and smooth as snow, and when used to treat jade it leaves one feeling like a cool breeze just blowing past even in the height of summer. This coolness is where it gets its name from.
+Desc_24
+This grit is crafted with magenta and golden colored stones with a hardness that can cut any jade over the world. What's more, it leaves stones smooth and a gentle aroma that grows as it serves.
+Desc_25
+Legend tells of an ancient, divine beast that died upon an icy peak. Its blood flowed for a hundred years, and didn't rot away for a thousand more, at last becoming souldew crystals. It's from those crystals that this grit is made, a mix of red and white with a divine gleam. Jade sanded with this grit seems to gain a spirit of its own.
+Desc_26
+This grit is made from the peculiar stones found in the East Sea. No water is needed when sanding down jade with it, as it produces water its own. Regarding this phenomenon, a poem reads "For what sorrow does the Loong Maiden weep so balefully? Her tears fall down upon the one who polishes the jade relentlessly."
+Desc_27
+A small pouch with the size of a child's palm, one side holding sewing needles of different sizes. Inside, it holds threads of various hues and can be used for simple clothes sewing.
+Desc_28
+A versatile loom crafted from bamboo, an easily-attained resource. However, somewhat delicate and light, it has to be held in place during use.
+Desc_29
+This kind of shuttle has been employed since generations, with simple construction and reminiscent of a butterfly when put to use. Two can also be used along in tandem, much like butterfly wings, hence its name.
+Desc_30
+A pure white throughout, this shuttle moves nimbly as it holds the threads in use, much like a cirrus cloud as it soars above in the sky. It's extremely fast, able to aid in the sewing of a significant piece of cloth within a single day.
+Desc_31
+A precious loom crafted with ivory, resistant to wind and rain. However, it is fairly large and requires you to sit before it to be used. It's said that such a loom was presented as a gift to the emperor by a neighboring states.
+Desc_32
+With myriad flowers attached with it, this short shuttle is often used for decorative pattern weaving and damask fabrics. So fine are the products it creates, it's as if having captured the beauty of a hundred grasses and flowers together (hence its name).
+Desc_33
+Huangmu, also known as Huang Daopo, is a legendary figure renowned for her contributions to weaving techniques in China. Wandering abroad she learned different methods and improved the loom, now known as the Huangmu Loom. It's incredibly swift, and brought life back to the industry in Jiangnan when she returned to her homeland.
+Desc_34
+A loom of marvelous wooden construction with a veritable rainbow of colors. It carries a faint fragrance which is passed on to the products it weaves, gentle like the light filtering through a cloud.
+Desc_35
+Legend has it that this wondrous shuttle was used by Zhinü herself, and it emanates a soft glow like morning rays shining through clouds. Clothing crafted with it is all flawless down to the finest detail, with every thread in its perfect place.
+Desc_36
+A pot made from common stone found everywhere. Though hard to be heated, these pots keep their contents warm, hence are commonly used to stew or roast food. It's said that sages have employed such tools since ancient antiquity.
+Desc_37
+A brass pot with two handles at its edges by which it can be picked up and moved. It gets heated very quickly, making it perfect for stir-frying, and is coated with a thin layer of iron to prevent corrosion.
+Desc_38
+This pot is wrought from raw iron and has six handles near its base that can be used to hold it in place. It was introduced from the Liao kingdom and often used by the military. This kind of pot is well suited to cooking, and features gourd patterning on it ('gourd,' a homophone for 'good fortune' in Chinese).
+Desc_39
+The Kitchen God watches over all cooking affairs from above, and this pot is modeled after the one he used before becoming an immortal. Anything cooked with it yields aromas so fine that they'd please even the gods, offering blessings for the years to come.
+Desc_40
+The Taotie is reputed to have been a ferocious and particularly gluttonous beast that lived long ago. Gourmets often laughingly refer to themselves as such. Hence the Taotie engravings upon this pot represent a love for delicacies and losing oneself in a love for fine cuisine.
+Desc_41
+This iron-constructed pot has small openings that allow for spices to be added, its fragrances lingering for years on end. All dishes prepared within it carry a fine aroma.
+Desc_42
+It is hexagonal, with two handles, six feet, and is engraved with eight different treasures. These features represent the Eight Auspicious Symbols: "The Eight Auspicious Symbols, known also as the Eight Treasures, encompass all in the six directions: north, east, south, west, heaven above and earth below." It's said to be able to cook any possible flavor of the world.
+Desc_43
+Refined from a deep bluish-black metal, its surface is mixed with gold. An non-rust, non-stick pot originally used as a means for the affluent to flaunt their wealth. It's incredibly light, and even a child can lift it with ease.
+Desc_44
+"A thousand dou of food, weigh less than a pot." A miraculous item said to have been crafted by master chef Yi Ya around the Spring and Autumn and Warring States periods. Anything cooked with it wears a perfect flavor, making the gourmets refreshed and ambitious as if conquering the world is as easy as spilling the salt. Others might be reminded of certain memories and absorbed in it... Different people get different tastes and feelings toward it.
+Desc_45
+A light and handy mortar made from clay, comprising one small cup and one medicine pestle, that can be used to crush and grind herbs for their sap.
+Desc_46
+A small three-legged bronze cauldron used to concoct medicine, with patterns of myriad herbs carved on it in commemoration of the Divine Farmer who tasted and recorded a hundred herbs for their medicinal use.
+Desc_47
+A metal pot used to practice alchemy that is cauldron-shaped with a narrow top and a round body, embellished with the patterns of ascension of the Heavenly Lord of Tao and its Virtue; a lid is provided to decoct the essence of pills.
+Desc_48
+A mortar made of mysterious emerald jade that nourishes medicinal herbs, embellished with patterns of bodhi tree leaves that symbolize the Bodhicitta of the Supreme Buddha. The inside turns red if used to make medicine, green if poison.
+Desc_49
+Legend has it that Ghost King is an envoy of the netherworld who can't be seen by living beings. A mortal can use this pot to make miraculous medicine as its flame turns black under Ghost King's spell.
+Desc_50
+Prime Alchemist, who is said to be a deity of health and prosperity, made this pot from inflammable sacred wood in western marshlands when he traveled the world to save mortal beings, hence its name.
+Desc_51
+Bloodjade is said to be nourished by fresh blood, with thin red threads visible inside. This mortar can preserve rare herbs and rejuvenate toxicants. Once medicine is completed, the mortar shows a divine and spiritual red glow.
+Desc_52
+A crystal clear, glowing stone with a distinct aroma, the glaze is said to be the five-colored stone once used by Nüwa to patch up the azure sky. The cauldron achieves a perfectly-balanced heat for decocting medicine.
+Desc_53
+It is said that the pot is made from spiritual beasts' remains, which has been through countless years of weathering. It feels like jade and icy to the touch. When used to make medicine, the pot produces a natural, jadelike wine to instantly concoct pills.
+Desc_54
+
+FunctionDesc_0
+<color=#pinkyellow>Increases Carpentry attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_1
+<color=#pinkyellow>Increases Carpentry attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_2
+<color=#pinkyellow>Increases Carpentry attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_3
+<color=#pinkyellow>Increases Carpentry attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_4
+<color=#pinkyellow>Increases Carpentry attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_5
+<color=#pinkyellow>Increases Carpentry attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_6
+<color=#pinkyellow>Increases Carpentry attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_7
+<color=#pinkyellow>Increases Carpentry attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_8
+<color=#pinkyellow>Increases Carpentry attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_9
+<color=#pinkyellow>Increases Smithing attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_10
+<color=#pinkyellow>Increases Smithing attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_11
+<color=#pinkyellow>Increases Smithing attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_12
+<color=#pinkyellow>Increases Smithing attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_13
+<color=#pinkyellow>Increases Smithing attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_14
+<color=#pinkyellow>Increases Smithing attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_15
+<color=#pinkyellow>Increases Smithing attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_16
+<color=#pinkyellow>Increases Smithing attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_17
+<color=#pinkyellow>Increases Smithing attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_18
+<color=#pinkyellow>Increases Jewelcrafting attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_19
+<color=#pinkyellow>Increases Jewelcrafting attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_20
+<color=#pinkyellow>Increases Jewelcrafting attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_21
+<color=#pinkyellow>Increases Jewelcrafting attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_22
+<color=#pinkyellow>Increases Jewelcrafting attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_23
+<color=#pinkyellow>Increases Jewelcrafting attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_24
+<color=#pinkyellow>Increases Jewelcrafting attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_25
+<color=#pinkyellow>Increases Jewelcrafting attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_26
+<color=#pinkyellow>Increases Jewelcrafting attainment when crafting, repairing, refining, or disassembling items.</color>
+FunctionDesc_27
+<color=#pinkyellow>Increases Weaving attainment when crafting, repairing, refining, or disassembling items, or styling clothings.</color>
+FunctionDesc_28
+<color=#pinkyellow>Increases Weaving attainment when crafting, repairing, refining, or disassembling items, or styling clothings.</color>
+FunctionDesc_29
+<color=#pinkyellow>Increases Weaving attainment when crafting, repairing, refining, or disassembling items, or styling clothings.</color>
+FunctionDesc_30
+<color=#pinkyellow>Increases Weaving attainment when crafting, repairing, refining, or disassembling items, or styling clothings.</color>
+FunctionDesc_31
+<color=#pinkyellow>Increases Weaving attainment when crafting, repairing, refining, or disassembling items, or styling clothings.</color>
+FunctionDesc_32
+<color=#pinkyellow>Increases Weaving attainment when crafting, repairing, refining, or disassembling items, or styling clothings.</color>
+FunctionDesc_33
+<color=#pinkyellow>Increases Weaving attainment when crafting, repairing, refining, or disassembling items, or styling clothings.</color>
+FunctionDesc_34
+<color=#pinkyellow>Increases Weaving attainment when crafting, repairing, refining, or disassembling items, or styling clothings.</color>
+FunctionDesc_35
+<color=#pinkyellow>Increases Weaving attainment when crafting, repairing, refining, or disassembling items, or styling clothings.</color>
+FunctionDesc_36
+<color=#pinkyellow>Increases Culinary Arts attainment when crafting or disassembling items.</color>
+FunctionDesc_37
+<color=#pinkyellow>Increases Culinary Arts attainment when crafting or disassembling items.</color>
+FunctionDesc_38
+<color=#pinkyellow>Increases Culinary Arts attainment when crafting or disassembling items.</color>
+FunctionDesc_39
+<color=#pinkyellow>Increases Culinary Arts attainment when crafting or disassembling items.</color>
+FunctionDesc_40
+<color=#pinkyellow>Increases Culinary Arts attainment when crafting or disassembling items.</color>
+FunctionDesc_41
+<color=#pinkyellow>Increases Culinary Arts attainment when crafting or disassembling items.</color>
+FunctionDesc_42
+<color=#pinkyellow>Increases Culinary Arts attainment when crafting or disassembling items.</color>
+FunctionDesc_43
+<color=#pinkyellow>Increases Culinary Arts attainment when crafting or disassembling items.</color>
+FunctionDesc_44
+<color=#pinkyellow>Increases Culinary Arts attainment when crafting or disassembling items.</color>
+FunctionDesc_45
+<color=#pinkyellow>Increases Medical Art or Toxicology attainment when crafting, repairing, disassembling, detoxifying, or envenoming items.</color>
+FunctionDesc_46
+<color=#pinkyellow>Increases Medical Art or Toxicology attainment when crafting, repairing, disassembling, detoxifying, or envenoming items.</color>
+FunctionDesc_47
+<color=#pinkyellow>Increases Medical Art or Toxicology attainment when crafting, repairing, disassembling, detoxifying, or envenoming items.</color>
+FunctionDesc_48
+<color=#pinkyellow>Increases Medical Art or Toxicology attainment when crafting, repairing, disassembling, detoxifying, or envenoming items.</color>
+FunctionDesc_49
+<color=#pinkyellow>Increases Medical Art or Toxicology attainment when crafting, repairing, disassembling, detoxifying, or envenoming items.</color>
+FunctionDesc_50
+<color=#pinkyellow>Increases Medical Art or Toxicology attainment when crafting, repairing, disassembling, detoxifying, or envenoming items.</color>
+FunctionDesc_51
+<color=#pinkyellow>Increases Medical Art or Toxicology attainment when crafting, repairing, disassembling, detoxifying, or envenoming items.</color>
+FunctionDesc_52
+<color=#pinkyellow>Increases Medical Art or Toxicology attainment when crafting, repairing, disassembling, detoxifying, or envenoming items.</color>
+FunctionDesc_53
+<color=#pinkyellow>Increases Medical Art or Toxicology attainment when crafting, repairing, disassembling, detoxifying, or envenoming items.</color>
+FunctionDesc_54
+

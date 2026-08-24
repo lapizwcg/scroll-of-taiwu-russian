@@ -1,0 +1,227 @@
+Name_0
+Number of Acquaintances
+Name_1
+Number of Friends
+Name_2
+Number of Enemies
+Name_3
+Number of Love Interests
+Name_4
+Number of Foster Parents
+Name_5
+Number of Sworn Siblings
+Name_6
+Number of Spouses
+Name_7
+Number of Children
+Name_8
+Total Battles
+Name_9
+Brawl Victories
+Name_10
+Duel Victories
+Name_11
+Limited-time Battle Wins
+Name_12
+Bewitched Characters Cured
+Name_13
+Cumulative Heal Injuries
+Name_14
+Cumulative Detox
+Name_15
+Cumulative External Injury Inflicted
+Name_16
+Cumulative Internal Injury Inflicted
+Name_17
+Cumulative Wound Inflicted
+Name_18
+Cumulative Mind Turbulence Duration Inflicted
+Name_19
+Cumulative Daze Inflicted
+Name_20
+Cumulative Openings Inflicted
+Name_21
+Cumulative Sealed Acupoints Inflicted
+Name_22
+Cumulative toxin Inflicted
+Name_23
+Cumulative Doom Markers Inflicted
+Name_24
+Cumulative Gu Planted
+Name_25
+Cumulative External Injury Suffered
+Name_26
+Cumulative Internal Injury Suffered
+Name_27
+Cumulative Wound Suffered
+Name_28
+Mind Turbulence Duration Suffered
+Name_29
+Cumulative Daze Suffered
+Name_30
+Cumulative Openings Suffered
+Name_31
+Cumulative Sealed Acupoints Suffered
+Name_32
+Cumulative Toxin Suffered
+Name_33
+Cumulative Doom Markers Suffered
+Name_34
+Number of items Used
+Name_35
+Number of Divine Sword shards Used
+Name_36
+Number of Support Command Uses
+Name_37
+Total Duration of Enemy Martial Arts Sealed
+Name_38
+Total Duration of Own Martial Arts Sealed
+Name_39
+Debates Won
+Name_40
+Cumulative Debate Strategy Uses
+Name_41
+Number of Fine Arts Acquired
+Name_42
+Fine Arts Book Chapters Studied
+Name_43
+Incomplete Fine Arts Book Chapters Studied
+Name_44
+Fine Arts Books Studied
+Name_45
+Study Strategies Used
+Name_46
+Number of Martial Arts Learned
+Name_47
+Martial Arts Book Chapters Studied
+Name_48
+Incomplete Martial Arts Book Chapters Studied
+Name_49
+Number of Martial Arts Book Study Sessions
+Name_50
+Number of Mechanism Comprehensions
+Name_51
+Number of Martial Arts Breakthroughs
+Name_52
+Microcosmic Circulations
+Name_53
+Circulation Strategies Used
+Name_54
+Number of Buildings Constructed
+Name_55
+Number of Resource Point Cultivations
+Name_56
+Number of Villagers Gained
+Name_57
+Number of Souls Released at Reincarnation Platform
+Name_58
+Western Regions Treasures Exchanged from Tea-Horse Caravan
+Name_59
+Number of Guests Hosted at Banquet Hall
+Name_60
+Amount of Resource Core Material Harvested
+Name_61
+Number of Management Gains
+Name_62
+Cumulative Silver Obtained
+Name_63
+Cumulative Prestige Obtained
+Name_64
+Cumulative Talents Recruited
+Name_65
+Cumulative Items Obtained
+Name_66
+Number of Items Crafted
+Name_67
+Accumulated Rank Grants
+Name_68
+Number of Soul Transformation Rituals Performed
+Name_69
+Lv.1 Aspiration Skills Mastered
+Name_70
+Lv.2 Aspiration Skills Mastered
+Name_71
+Lv.3 Aspiration Skills Mastered
+Name_72
+Number of Crickets Captured
+Name_73
+Number of Champion Crickets: Unique Captured
+Name_74
+Cricket Duel Victories
+Name_75
+Way Stations Established
+Name_76
+Sects Visited for the First Time
+Name_77
+Sect Support Obtained
+Name_78
+Вылазка завершена
+Name_79
+Chickens Adopted
+Name_80
+Number of Prosperous Sects
+Name_81
+Number of Fading Sects
+Name_82
+Number of Martial World Tournament Wins
+Name_83
+Attempts Secret Tome Obtained
+Name_84
+Prime Gu Refined
+Name_85
+Moundbreakers Defeated
+Name_86
+Clear [Monu Weave]
+Name_87
+Clear [Spiritsealer]
+Name_88
+Clear [Dark Frost]
+Name_89
+Clear [Fenghuang Cocoon]
+Name_90
+Clear [Ignideus Blaze]
+Name_91
+Clear [Candelor's Tail]
+Name_92
+Clear [Vitalos]
+Name_93
+Clear [Demonbind]
+Name_94
+Clear [Rainbow Ultima]
+Name_95
+Meet Bamboo Incarnation [Monu]
+Name_96
+Meet Bamboo Incarnation [Dayue Yaochang]
+Name_97
+Meet Bamboo Incarnation [Jiu Han]
+Name_98
+Meet Bamboo Incarnation [Jin Huang'er]
+Name_99
+Meet Bamboo Incarnation [Yi Yihou]
+Name_100
+Meet Bamboo Incarnation [Wei Qi]
+Name_101
+Meet Bamboo Incarnation [Yi Xiang]
+Name_102
+Meet Bamboo Incarnation [Blood Maple]
+Name_103
+Meet Bamboo Incarnation [Spellwright]
+Name_104
+Collect all Memories of [Monu]
+Name_105
+Collect all Memories of [Dayue Yaochang]
+Name_106
+Collect all Memories of [Jiu Han]
+Name_107
+Collect all Memories of [Jin Huang'er]
+Name_108
+Collect all Memories of [Yi Yihou]
+Name_109
+Collect all Memories of [Wei Qi]
+Name_110
+Collect all Memories of [Yi Xiang]
+Name_111
+Collect all Memories of [Blood Maple]
+Name_112
+Collect all Memories of [Spellwright]
+

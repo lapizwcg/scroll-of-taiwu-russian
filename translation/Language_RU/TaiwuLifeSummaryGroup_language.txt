@@ -1,0 +1,227 @@
+Name_0
+Relationship 0
+Name_1
+Relationship 1
+Name_2
+Relationship 2
+Name_3
+Relationship 3
+Name_4
+Relationship 4
+Name_5
+Relationship 5
+Name_6
+Relationship 6
+Name_7
+Relationship 7
+Name_8
+Battle 0
+Name_9
+Battle 1
+Name_10
+Battle 2
+Name_11
+Battle 3
+Name_12
+Battle 4
+Name_13
+Battle 5
+Name_14
+Battle 6
+Name_15
+Battle 7
+Name_16
+Battle 8
+Name_52
+Battle 9
+Name_53
+Battle 10
+Name_54
+Battle 11
+Name_55
+Battle 12
+Name_56
+Battle 13
+Name_57
+Battle 14
+Name_58
+Battle 15
+Name_59
+Battle 16
+Name_60
+Battle 17
+Name_61
+Battle 18
+Name_62
+Battle 19
+Name_63
+Battle 20
+Name_64
+Battle 21
+Name_65
+Battle 22
+Name_66
+Battle 23
+Name_67
+Battle 24
+Name_68
+Battle 25
+Name_69
+Battle 26
+Name_70
+Battle 27
+Name_71
+Battle 28
+Name_72
+Battle 29
+Name_73
+Battle 30
+Name_17
+Fine Art 0
+Name_18
+Fine Art 1
+Name_19
+Fine Art 2
+Name_74
+Fine Arts 3
+Name_75
+Fine Arts 4
+Name_76
+Fine Arts 5
+Name_77
+Fine Arts 6
+Name_20
+Martial Arts 0
+Name_21
+Martial Arts 1
+Name_22
+Martial Arts 2
+Name_23
+Martial Arts 3
+Name_78
+Martial Arts 4
+Name_79
+Martial Arts 5
+Name_80
+Martial Arts 6
+Name_81
+Martial Arts 7
+Name_24
+Industry 0
+Name_25
+Industry 1
+Name_26
+Industry 2
+Name_27
+Industry 3
+Name_28
+Industry 4
+Name_29
+Industry 5
+Name_30
+Industry 6
+Name_31
+Industry 7
+Name_32
+Industry 8
+Name_82
+Industry 9
+Name_83
+Industry 10
+Name_84
+Industry 11
+Name_85
+Industry 12
+Name_86
+Industry 13
+Name_87
+Industry 14
+Name_33
+Adventure 0
+Name_34
+Adventure 1
+Name_35
+Adventure 2
+Name_36
+Adventure 3
+Name_37
+Adventure 4
+Name_38
+Adventure 5
+Name_39
+Adventure 6
+Name_40
+Adventure 7
+Name_88
+Adventure 8
+Name_89
+Adventure 9
+Name_90
+Adventure 10
+Name_91
+Adventure 11
+Name_92
+Adventure 12
+Name_41
+Мону
+Name_42
+Мону
+Name_43
+Мону
+Name_44
+Даюэ Яочан
+Name_45
+Даюэ Яочан
+Name_46
+Даюэ Яочан
+Name_47
+Цзю Хань
+Name_48
+Цзю Хань
+Name_49
+Цзю Хань
+Name_50
+Цзинь Хуанъэр
+Name_93
+Цзинь Хуанъэр
+Name_94
+Цзинь Хуанъэр
+Name_95
+И Ихоу
+Name_96
+И Ихоу
+Name_97
+И Ихоу
+Name_98
+Вэй Ци
+Name_99
+Вэй Ци
+Name_100
+Вэй Ци
+Name_101
+И Сян
+Name_102
+И Сян
+Name_103
+И Сян
+Name_104
+Кровавый клён
+Name_105
+Кровавый клён
+Name_106
+Кровавый клён
+Name_107
+Заклинатель
+Name_108
+Заклинатель
+Name_109
+Заклинатель
+Name_110
+Invasions Resisted
+Name_51
+Aspiration 0
+Name_111
+Aspiration 1
+Name_112
+Aspiration 2
+

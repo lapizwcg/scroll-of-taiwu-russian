@@ -1,0 +1,97 @@
+TreasureDesc_0
+The evil immortal Chihongzi transformed from the Five-Fire Seven-Bird Fan.
+TreasureDesc_1
+The evil immortal Jiuyan transformed from the Nine-Loong Divine Flame Shroud.
+TreasureDesc_2
+The evil immortal Lady Yehua transformed from the Fanti Seal.
+TreasureDesc_3
+The evil immortal Wuxie Lady transformed from the Eight-Trigram Purple Ribbon Gown.
+TreasureDesc_4
+The evil immortal Suxia transformed from the God Trapper.
+TreasureDesc_5
+The evil immortal Master Pojin transformed from the Vanquisher.
+TreasureDesc_6
+The evil immortal Wufang Wanderer transformed from the Dunloong Stake.
+TreasureDesc_7
+The evil immortal Dianfan transformed from the Trinity Treasure Mirror.
+TreasureDesc_8
+The evil immortal Huogushi transformed from the Pure Glazed Bottle.
+TreasureDesc_9
+The evil immortal Bajiu Jianyin transformed from the Zhanxian Sword.
+TreasureDesc_10
+The evil immortal Divine Maiden of True Elixir transformed from the Primordial True Elixir.
+TreasureDesc_11
+The evil immortal Youxiao transformed from the Loong and Phoenix.
+TreasureState1_0
+Fan in hand, sneering askance.
+TreasureState1_1
+Shroud devouring nine loongs.
+TreasureState1_2
+Flipping seal terrified the void.
+TreasureState1_3
+Brushing robe, casting a charming sidelong glance.
+TreasureState1_4
+Whip and rope entangling bones.
+TreasureState1_5
+Holding the Vanquisher, devouring dust.
+TreasureState1_6
+Leaning on a stake, coldly glaring.
+TreasureState1_7
+Hanging mirror, intimidating souls.
+TreasureState1_8
+Holding a bottle, gathering baleful energy.
+TreasureState1_9
+Carrying a sword, slaughtering the living.
+TreasureState1_10
+Pinching a pellet, glancing sideways.
+TreasureState1_11
+Unfolding a talisman, cursing souls.
+TreasureState0_0
+Standing with a fan.
+TreasureState0_1
+Controlling a shroud, hovering in the air.
+TreasureState0_2
+Holding a seal, spanning the sky.
+TreasureState0_3
+Brushing clothes, sitting upright.
+TreasureState0_4
+Coiling a rope around the arm.
+TreasureState0_5
+Holding the pestle, lowering eyes.
+TreasureState0_6
+Gently stroking the treasure stake.
+TreasureState0_7
+Lifting a mirror to reflect a shadow.
+TreasureState0_8
+Counting fingers while holding a bottle.
+TreasureState0_9
+Waving a sword, chanting to oneself.
+TreasureState0_10
+Pinching a pellet and smiling.
+TreasureState0_11
+Unfolding a talisman, proclaiming an edict.
+TreasureName_0
+Веер пяти огней и семи птиц
+TreasureName_1
+Плащ божественного пламени девяти лунов
+TreasureName_2
+Печать, опрокидывающая небо
+TreasureName_3
+Одеяние с пурпурной лентой восьми триграмм
+TreasureName_4
+Ловец богов
+TreasureName_5
+Победитель
+TreasureName_6
+Кол, вяжущий луна
+TreasureName_7
+Драгоценное зеркало триединства
+TreasureName_8
+Чистый глазурный сосуд
+TreasureName_9
+Меч, разящий бессмертных
+TreasureName_10
+Изначальный истинный эликсир
+TreasureName_11
+Лун и фэнхуан
+

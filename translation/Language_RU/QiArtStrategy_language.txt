@@ -1,0 +1,247 @@
+Name_0
+Vital Force
+Name_1
+Forces Balance
+Name_2
+Unblock Meridians
+Name_3
+Energy Sea
+Name_4
+Shape Flow
+Name_5
+Unblocked Qi Surge
+Name_6
+Meridians Overflowing
+Name_7
+Body Refinement
+Name_8
+Genuine Power Surge
+Name_9
+Endless Flow
+Name_10
+Unblock Pathways
+Name_11
+Refine Spirit
+Name_12
+Endless Inner Breath
+Name_13
+Cultivate Breath
+Name_14
+Mystic Currents
+Name_15
+Energy Surge
+Name_16
+Небесный отклик
+Name_17
+Spirit Enlightenment
+Name_18
+Metal Force
+Name_19
+Wood Force
+Name_20
+Water Force
+Name_21
+Fire Force
+Name_22
+Earth Force
+Name_23
+Hunyuan Force
+Name_24
+Earth to Metal
+Name_25
+Water to Metal
+Name_26
+Wood to Metal
+Name_27
+Water to Wood
+Name_28
+Fire to Wood
+Name_29
+Earth to Wood
+Name_30
+Metal to Water
+Name_31
+Wood to Water
+Name_32
+Fire to Water
+Name_33
+Wood to Fire
+Name_34
+Earth to Fire
+Name_35
+Metal to Fire
+Name_36
+Fire to Earth
+Name_37
+Metal to Earth
+Name_38
+Water to Earth
+Name_39
+Restore Balance
+Name_40
+Return to Earth
+Desc_0
+Absorb Qi equal to 100% of monthly Microcosmic Circulation.
+Desc_1
+Transfer elemental attributes equal to 100% of Qi from monthly Microcosmic Circulation.
+Desc_2
+Absorb Microcosmic Circulation True Qi equal to 100% of monthly Microcosmic Circulation.
+Desc_3
+Absorb Qi ranging from 50% to 150% of monthly Microcosmic Circulation.
+Desc_4
+Transfer elemental attributes ranging from 50% to 150% of Qi from monthly Microcosmic Circulation.
+Desc_5
+Gain Microcosmic Circulation True Qi ranging from 50% to 150% of monthly Microcosmic Circulation.
+Desc_6
+Consume extra Qi to gain Qi equal to 200% of monthly Microcosmic Circulation.
+Desc_7
+Consume extra Qi to transfer elemental attributes equal to 200% of monthly Microcosmic Circulation.
+Desc_8
+Consume extra Qi to gain Microcosmic Circulation True Qi equal to 200% of monthly Microcosmic Circulation.
+Desc_9
+Boost monthly Qi gained from Microcosmic Circulation.
+Desc_10
+Increase the amount of elemental attributes transferred by Qi from Microcosmic Circulation each month.
+Desc_11
+Increase monthly True Qi growth from Microcosmic Circulation.
+Desc_12
+Randomly increase the monthly Qi gained from Microcosmic Circulation.
+Desc_13
+Randomly enhance elemental attributes transferred by Qi from monthly Microcosmic Circulation.
+Desc_14
+Randomly increase monthly Microcosmic Circulation True Qi growth from Microcosmic Circulation.
+Desc_15
+Consume extra Qi to greatly enhance monthly Qi gained from Microcosmic Circulation.
+Desc_16
+Consume extra Qi to greatly enhance elemental attributes transferred by Microcosmic Circulation each month.
+Desc_17
+Consume extra Qi to greatly enhance monthly Microcosmic Circulation True Qi growth from Microcosmic Circulation.
+Desc_18
+If the practitioner's Qi attribute is already non-conflicting [Metal] during Microcosmic Circulation, elemental attributes remain unchanged.
+Desc_19
+If the practitioner's Qi attribute is already non-conflicting [Wood] during Microcosmic Circulation, elemental attributes remain unchanged.
+Desc_20
+If the practitioner's Qi attribute is already non-conflicting [Water] during Microcosmic Circulation, elemental attributes remain unchanged.
+Desc_21
+If the practitioner's Qi attribute is already non-conflicting [Fire] during Microcosmic Circulation, elemental attributes remain unchanged.
+Desc_22
+If the practitioner's Qi attribute is already non-conflicting [Earth] during Microcosmic Circulation, elemental attributes remain unchanged.
+Desc_23
+If the practitioner's Qi attribute is already non-conflicting [Hunyuan] during Microcosmic Circulation, elemental attributes remain unchanged.
+Desc_24
+Consume extra Qi to prioritize transferring elemental attributes from [Earth] to [Metal] during Microcosmic Circulation.
+Desc_25
+Consume extra Qi to prioritize transferring elemental attributes from [Water] to [Metal] during Microcosmic Circulation.
+Desc_26
+Consume extra Qi to prioritize transferring elemental attributes from [Wood] to [Metal] during Microcosmic Circulation.
+Desc_27
+Consume extra Qi to prioritize transferring elemental attributes from [Water] to [Wood] during Microcosmic Circulation.
+Desc_28
+Consume extra Qi to prioritize transferring elemental attributes from [Fire] to [Wood] during Microcosmic Circulation.
+Desc_29
+Consume extra Qi to prioritize transferring elemental attributes from [Earth] to [Wood] during Microcosmic Circulation.
+Desc_30
+Consume extra Qi to prioritize transferring elemental attributes from [Metal] to [Water] during Microcosmic Circulation.
+Desc_31
+Consume extra Qi to prioritize transferring elemental attributes from [Wood] to [Water] during Microcosmic Circulation.
+Desc_32
+Consume extra Qi to prioritize transferring elemental attributes from [Fire] to [Water] during Microcosmic Circulation.
+Desc_33
+Consume extra Qi to prioritize transferring elemental attributes from [Wood] to [Fire] during Microcosmic Circulation.
+Desc_34
+Consume extra Qi to prioritize transferring elemental attributes from [Earth] to [Fire] during Microcosmic Circulation.
+Desc_35
+Consume extra Qi to prioritize transferring elemental attributes from [Metal] to [Fire] during Microcosmic Circulation.
+Desc_36
+Consume extra Qi to prioritize transferring elemental attributes from [Fire] to [Earth] during Microcosmic Circulation.
+Desc_37
+Consume extra Qi to prioritize transferring elemental attributes from [Metal] to [Earth] during Microcosmic Circulation.
+Desc_38
+Consume extra Qi to prioritize transferring elemental attributes from [Water] to [Earth] during Microcosmic Circulation.
+Desc_39
+Remove all active effects from Microcosmic Circulation and restore a portion of Willpower based on the removed effects.
+Desc_40
+Remove all active effects from Microcosmic Circulation.
+Dialog_0
+A warm surge rises in the Dantian, bringing a deep sense of comfort...
+Dialog_1
+"The five organs generate five energies"...\nWhen the five elements flow in balance, the body remains unharmed...
+Dialog_2
+Clear the energy pathways and remove blockages, allowing True Qi to flow freely...
+Dialog_3
+The energy sea opens wide, gathering Qi like rivers flowing into the ocean, ready for my command...
+Dialog_4
+"Guide the form with intent, lead the breath with form, and nurture the form with breath"...\nI should regulate my organs and keep my energy balanced...
+Dialog_5
+Draw in energy and channel it through the crown,\nletting it flow through the body to strengthen my True Qi...
+Dialog_6
+"Acupoints connect to meridians, meridians connect to vessels"...\nWith clear pathways, energy and blood flow freely, strengthening my Qi...
+Dialog_7
+The five elements cycle endlessly, washing through the body like flowing water...\nOver time, my physique will become lighter, and my bones more flexible...
+Dialog_8
+True Qi roars through the body like crashing waves, surging with unstoppable force...
+Dialog_9
+"The Dantian is like a wellspring, and the meridians like rivers"...\nWhen the rivers run smoothly, Qi naturally grows, flowing endlessly...
+Dialog_10
+Unblock acupoints and activate meridians,\nclearing stagnation like dredging channels, allowing elemental energy to flourish...
+Dialog_11
+"When the mind stays within, energy remains steady"...\nThe stronger the spirit, the greater the True Qi...
+Dialog_12
+A tranquil heart, free from distractions.\nInner Breath flows like an unending stream...
+Dialog_13
+By calming the mind and one with all,\nthe five elements flow more smoothly with every breath...
+Dialog_14
+"The Twelve Principal Meridians are like rivers, the Eight Extraordinary Meridians like lakes"...\nAs the lakes fill, True Qi accumulates...
+Dialog_15
+A warm surge rises like mist, a spring bursts forth.\nQi stirs and guides the flow...
+Dialog_16
+"Celestial Sense, Yin and Yang in balance entwined"...\nBy guiding Qi, I orchestrate the five elements like fish swimming through vast waters...
+Dialog_17
+"Purity of mind nurtures energy, and energy refines the spirit"...\nI circulate the Qi to generate True Qi effortlessly, like water overflowing its vessel...
+Dialog_18
+Gather the metal essence of the western soul, refining breath through resilience...
+Dialog_19
+Channel the wood essence of the eastern soul, concealing vision within its depths...
+Dialog_20
+Harness the water essence of the northern spirit, attuning the ears to subtle resonance...
+Dialog_21
+Draw upon the fire essence of the southern soul, sealing energy within the tongue...
+Dialog_22
+Absorbs the earth essence of the central mind, uniting the limbs in harmony...
+Dialog_23
+Merge Yin and Yang into a singular flow, comprehending the true form of existence...
+Dialog_24
+"Earth at center, breath takes flight, Yin's deep whisper births metal's light"...\nWhen directing spleen energy into the lungs, maybe...
+Dialog_25
+"From Taiyin, the waters rise, returning breath where Shaoyin lies"...\nWhen guiding kidney energy into the lungs, maybe...
+Dialog_26
+"Yin and Yang in endless fight, metal and wood shift day to night"...\nWhen leading liver energy into the lungs, maybe...
+Dialog_27
+"Taiyin transforms the breath, Shaoyang gives rise to wood's growth"...\nWhen directing kidney energy into the liver, maybe...
+Dialog_28
+"The Taiyang ignites, its flames arise, returning breath where Shaoyang resides"...\nWhen channeling heart energy into the liver, maybe...
+Dialog_29
+"Yin and Yang in clash reside, earth and wood in balance guide"...\nWhen guiding spleen energy into the liver, maybe...
+Dialog_30
+"Shaoyin lets essence flow, Taiyin makes waters grow"...\nWhen directing lung energy into the kidneys, maybe...
+Dialog_31
+"Shaoyang gives birth to wood, while Taiyin restores the flow for good"...\nWhen leading liver energy into the kidneys, maybe...
+Dialog_32
+"Yin and Yang in balance fight, fire and water blend just right"...\nWhen channeling heart energy into the kidneys, maybe...
+Dialog_33
+"Shaoyang transforms the breath of air, Taiyang ignites the flame's bright flare"...\nWhen directing liver energy into the heart, maybe...
+Dialog_34
+"Ziwei Enclosure gives birth to earth, returning breath to Taiyang"...\nWhen leading spleen energy into the heart, maybe...
+Dialog_35
+"Yin and Yang in boundless strife, metal and fire forge new life"...\nWhen guiding lung energy into the heart, maybe...
+Dialog_36
+"Taiyang ignites the breath of sky, from rushing air, the earth draws nigh"...\nWhen channeling heart energy into the spleen, maybe...
+Dialog_37
+"From Shaoyin, the metal gleams, returning breath to earth's deep streams"...\nWhen directing lung energy into the spleen, maybe...
+Dialog_38
+"Yin and Yang in boundless strife, water and Earth embrace in life"...\nWhen leading kidney energy into the spleen, maybe...
+Dialog_39
+"Clear the clutter, let truth remain. Find Zhending, pure and plain"...\nWith the scattered energy dispelled, my Psyche remains in security...
+Dialog_40
+Cleansing body and mind, returning to the original state—everything resets to its purest form...
+

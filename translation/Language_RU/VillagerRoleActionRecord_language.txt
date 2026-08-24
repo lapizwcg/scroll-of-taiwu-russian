@@ -1,0 +1,61 @@
+Name_0
+Resource
+Name_1
+Reagent
+Name_2
+Resource
+Name_3
+Relocate Tile
+Name_4
+Изготовленный предмет
+Name_5
+Починка предмета
+Name_6
+Obtain Refined Materials
+Name_7
+Изготовленный предмет
+Name_8
+Heal Patients
+Name_9
+Прирост влияния
+Name_10
+Heal Patients
+Name_11
+Favor Obtained
+Name_12
+Изготовленный предмет
+Name_13
+Gain Silver
+Name_14
+Купить
+Name_15
+Sell
+Name_16
+Increase Mood (Characters)
+Name_17
+Decrease Mood (Characters)
+Name_18
+Increase Culture
+Name_19
+Increase Stability
+Name_20
+Decrease Culture
+Name_21
+Decrease Stability
+Name_22
+Изготовленный предмет
+Name_23
+Battle
+Name_24
+Collect Insights
+Name_25
+Damage Suffered
+Name_26
+Increase Favorability (Characters)
+Name_27
+Decrease Favorability (Characters)
+Name_28
+Maintain Discipline
+Name_29
+Расход влияния
+

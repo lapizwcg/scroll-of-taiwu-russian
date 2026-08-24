@@ -1,0 +1,71 @@
+Desc_0
+Cannot use Tier 1, Tier 2, Tier 3 Martial Arts.
+Desc_1
+Can only use Tier 4, Tier 5, Tier 6 Martial Arts.
+Desc_2
+Can only use Tier 7, Tier 8, Tier 9 Martial Arts.
+Desc_3
+Can only equip up to 4 slots for Annihilation
+Desc_4
+Can only equip up to 3 slots for Annihilation
+Desc_5
+Can only equip up to 2 slots for Annihilation
+Desc_6
+Can only equip up to 4 slots for Footwork Arts.
+Desc_7
+Can only equip up to 3 slots for Footwork Arts.
+Desc_8
+Can only equip up to 2 slots for Footwork Arts.
+Desc_9
+Can only equip up to 4 slots for Protection.
+Desc_10
+Can only equip up to 3 slots for Protection.
+Desc_11
+Can only equip up to 2 slots for Protection.
+Desc_12
+Can only equip up to 4 slots for Acument.
+Desc_13
+Can only equip up to 3 slots for Acument.
+Desc_14
+Can only equip up to 2 slots for Acument.
+Desc_15
+Can only equip 1 weapon.
+Desc_16
+Defeat the opponent within 480 seconds.
+Desc_17
+Defeat the opponent within 240 seconds.
+Desc_18
+Defeat the opponent within 120 seconds.
+Desc_19
+Battlefield maximum range is 9.
+Desc_20
+Battlefield minimum range is 5.
+Desc_21
+At the start of the battle, 3 random parts receive 2 layers of external injury and 2 layers of internal injury.
+Desc_22
+At the start of the battle, 2 random parts receive 3 layers of external injury and 3 layers of internal injury.
+Desc_23
+At the start of the battle, 1 random part receives 6 layers of external injury and 6 layers of internal injury.
+Desc_24
+At the start of the battle, 2 random parts receive 1 level 4 openings and 1 level 4 sealed acupoint.
+Desc_25
+At the start of the battle, 4 random parts receive 1 level 4 openings and 1 level 4 sealed acupoint.
+Desc_26
+At the start of the battle, 6 random parts receive 1 level 4 openings and 1 level 4 sealed acupoint.
+Desc_27
+At the start of the battle, all types of True Qi lose 33%.
+Desc_28
+At the start of the battle, all types of True Qi lose 66%.
+Desc_29
+At the start of the battle, all types of True Qi lose 99%.
+Desc_30
+Reduces speed of Inhale and Stance by 80%
+Desc_31
+Reduces Movement Speed and Steadiness by 80%
+Desc_32
+Reduces Cast Speed and Qi Burst by 80%
+Desc_33
+Reduces Attack Speed and Weapon Speed by 80%
+Desc_34
+Reduces Qi Art Efficacy and Breath Control by 80%
+

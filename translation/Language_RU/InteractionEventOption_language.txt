@@ -1,0 +1,283 @@
+Name_0
+Share Insight
+Name_1
+Пустить в ход тайну
+Name_2
+Gather Secret
+Name_3
+Compliment
+Name_4
+Criticize
+Name_5
+Позвать
+Name_6
+Give Gift
+Name_7
+Бои сверчков
+Name_8
+Диспут
+Name_9
+Спарринг
+Name_10
+Challenge
+Name_11
+Seek Fine Arts guidance
+Name_12
+Seek Fine Arts guidance
+Name_13
+Seek Fine Arts guidance
+Name_14
+Seek Martial Art guidance
+Name_15
+Seek Martial Art guidance
+Name_16
+Seek Martial Art guidance
+Name_17
+Присвоение ремесла
+Name_18
+Plagiarize Martial Art
+Name_19
+Ремесло выманено обманом
+Name_20
+Martial Art Swindle
+Name_21
+Обмен книгами
+Name_22
+Позвать в спутники
+Name_23
+Позвать в спутники
+Name_24
+Invite to village
+Name_25
+Gain Support
+Name_26
+Recognize as foster father
+Name_27
+Recognize as foster mother
+Name_28
+Adopt as foster son
+Name_29
+Adopt as foster daughter
+Name_30
+Build close bond
+Name_31
+Confess love
+Name_32
+Свадебный союз
+Name_33
+Свадебный союз
+Name_34
+Разорвать связь
+Name_35
+Sworn Siblings
+Name_36
+Sever Sworn Siblinghood
+Name_37
+Introduce friends
+Name_38
+Sow discord
+Name_39
+Reconcile conflicts
+Name_40
+Matchmake
+Name_41
+Вещи выманены обманом
+Name_42
+Insight Swindle
+Name_43
+Secret Swindle
+Name_44
+Кража вещей
+Name_45
+Вещи отняты силой
+Name_46
+Poison
+Name_47
+Тайный вред
+Name_48
+Attack
+Name_49
+Challenge
+Name_50
+Demonslaughter
+Name_51
+Earnestly request
+Name_52
+Offer exchange
+Name_53
+Adopt Chicken
+Name_54
+Host Betrothal Contest
+Name_55
+Teas and Liquors Gathering
+Name_56
+Town Gathering
+Name_57
+Look at the stock
+Name_58
+Врачевание
+Name_59
+Repair Assistance Offered
+Name_60
+Grooming
+Name_61
+Silver Donation
+Name_62
+Рекомендовать ученика
+Name_63
+Recruit Disciple
+Name_64
+Созерцание сутр
+Name_65
+Celestial Management Tactics
+Name_66
+Вернувшиеся мертвецы
+Name_67
+Согласие со звёздами
+Name_68
+Затвор в каменной келье
+Name_69
+Разнести молву
+Name_70
+Писания Ван Чаня
+Name_71
+Отражение Эгарима
+Name_72
+Древние орудия Оу Ези
+Name_73
+Испытание мечников-кузнецов
+Name_74
+Эликсир долголетия
+Name_75
+Collect Tributes
+Name_76
+Омовение пяти ядов
+Name_77
+Заказ на убийство
+Name_78
+Верный слуга
+Name_79
+Обряд кровавого пруда
+Name_80
+Province Regulations
+Name_81
+Premium Treatment
+Name_82
+Medical Consultation
+Name_83
+Golden needle deliverance
+Name_84
+Пожалование титулов
+Name_85
+Tea Tasting
+Name_86
+Keen Eyes
+Name_87
+Fortune Teller
+Name_88
+Destiny Alterer
+Name_89
+Guiding to Goodness
+Name_90
+Withdrawal from the Fray
+Name_91
+Endorsement
+Name_92
+Wine Duel
+Name_93
+Preach Buddhism
+Name_94
+Evil Repelling Ritual
+Name_95
+Renaming Service
+Name_96
+Martial Arts Alliance Meeting
+Name_97
+Вернуть изваяние
+Name_98
+Pagoda Collapse
+Name_99
+Rumors within the Lion-Face Clan
+Name_100
+Commotion at the Lion-Face Clan
+Name_101
+Murder at Emei
+Name_102
+Reclusive Elder
+Name_103
+Concerns over Sect Orthodoxy
+Name_104
+Return the baby
+Name_105
+Kill and take
+Name_106
+Разрушение разума
+Name_107
+Inquire about the Mysterious One
+Name_108
+Inquire about the Mysterious One
+Name_109
+Ask about the Music Box
+Name_110
+Discuss the word "love"
+Name_111
+Persuade
+Name_112
+Worship the deceased
+Name_113
+Worship the deceased
+Name_114
+Worship the deceased
+Name_115
+Worship the deceased
+Name_116
+Repair the tomb
+Name_117
+Repair the tomb
+Name_118
+Repair the tomb
+Name_119
+Tomb raiding
+Name_120
+Извлечение гу
+Name_121
+Gu Channeling
+Name_122
+Capture the criminal
+Name_123
+Ask for prisoner
+Name_124
+True Loong Descent
+Name_125
+Divine Loong descend
+Name_126
+Aspiration Experience
+Name_127
+Gather Insight
+Name_128
+Acts of Benevolence
+Name_129
+Mediate Relationship
+Name_130
+Stability & Culture
+Name_131
+Mind-soothing Arts
+Name_132
+Commercial Commendation
+Name_133
+Manage Land
+Name_134
+Gossip in the Market
+Name_135
+Exchange Tool
+Name_136
+Take Star Fortune
+Name_137
+Max Capacity Enlightenment
+Name_138
+Deviation Cap Enlightenment
+Name_139
+Groom for this person
+Name_140
+Чернокаменный прах
+

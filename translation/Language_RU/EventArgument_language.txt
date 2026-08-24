@@ -1,0 +1,921 @@
+Name_0
+(Interact...)
+Name_1
+Гадание
+Name_2
+Очки роста
+Name_3
+Boolean Value
+Name_4
+String
+Name_72
+Condition
+Name_5
+Событие
+Name_48
+Global script
+Name_6
+Персонаж
+Name_7
+Предмет
+Name_85
+Item List
+Name_8
+Предмет
+Name_78
+Item Template List
+Name_9
+Клетка
+Name_105
+Tile template
+Name_10
+Номер поселения
+Name_59
+Settlement Type
+Name_11
+Sect
+Name_67
+Sect State
+Name_12
+Край
+Name_47
+Province
+Name_58
+Tile Matching Rules
+Name_13
+Ступень
+Name_14
+Вид
+Name_15
+Toxin Type
+Name_16
+Вид
+Name_17
+Mindset Type
+Name_18
+Dispositions Types
+Name_19
+Primary Attributes Type
+Name_53
+Favorability Type
+Name_96
+Свойства персонажа
+Name_97
+Прибавка к свойствам
+Name_20
+Пол
+Name_21
+Вид ресурса
+Name_22
+Вид предмета
+Name_23
+Вид предмета
+Name_24
+Вид боевого искусства
+Name_25
+Fine Art Type
+Name_51
+Ремёсла
+Name_26
+Equipment Slot
+Name_27
+Ячейка боевого искусства
+Name_28
+Five Elements Type
+Name_29
+Особенности персонажа
+Name_30
+Legacy Point
+Name_31
+Вид
+Name_60
+Character Matching Rules
+Name_32
+View Main Story Progress
+Name_33
+World Function
+Name_34
+Event template ID
+Name_35
+Боевое искусство
+Name_36
+Ремёсла
+Name_37
+Вид
+Name_38
+Appoint
+Name_39
+Task Chain
+Name_40
+Вылазка
+Name_41
+Condition
+Name_42
+Battle
+Name_43
+Итоги боя
+Name_84
+Вид боя
+Name_44
+Event dialogue actor
+Name_45
+enemy character template
+Name_46
+Fixed character template
+Name_49
+Character filter range
+Name_50
+Character filter conditions
+Name_52
+Призвание
+Name_107
+Умения призвания
+Name_54
+Global behavior
+Name_55
+Industry tile template
+Name_56
+Торговец
+Name_57
+Возраст
+Name_63
+World Favorability Type
+Name_61
+New Encounter Element
+Name_62
+New Encounter Element Tag
+Name_64
+Outlaw Base Template
+Name_65
+Tile Range Type
+Name_66
+Vision Type
+Name_68
+Regional Quest State
+Name_69
+Character Template
+Name_70
+Battle Simulation Results
+Name_71
+Major Event Template
+Name_73
+Encounter Element Tag Group Match Type
+Name_74
+Random Enemy Character Template
+Name_75
+Random Enemy Template
+Name_76
+Qi Type
+Name_77
+General Option Type
+Name_79
+Equipment Effects
+Name_80
+Instant Notification Template ID
+Name_81
+New Encounter
+Name_82
+Encounter Element
+Name_83
+Hostile Action Phase
+Name_86
+Scene change animation
+Name_101
+Cutscene Texture
+Name_87
+Encounter Tile
+Name_88
+Вид связи
+Name_127
+One-way Relation Type
+Name_89
+Region Story Preset Parameter Name
+Name_90
+Interaction Option
+Name_91
+Localization Text Index
+Name_92
+Insight
+Name_93
+Monthly Event Template ID
+Name_94
+Monthly Event Template ID
+Name_95
+Grave Level
+Name_98
+Insight Data
+Name_99
+Insight Type
+Name_100
+Tutorial Video
+Name_102
+Travel Bag Item Operation Type
+Name_103
+Tutorial Function Type
+Name_104
+Tutorial Chapter
+Name_106
+Dynamic Event Listener Behavior
+Name_108
+Event Trigger Parameters
+Name_109
+Encounter Tile Effect
+Name_110
+Encounter Global Effect
+Name_111
+Sect Alignment
+Name_112
+Tutorial Chapter
+Name_113
+Tutorial Chapter State
+Name_114
+Tutorial Chapter Trigger Point
+Name_115
+Taiwu Stats Category
+Name_116
+Achievement Stats
+Name_117
+Transformation State
+Name_118
+Воплощение Сяншу
+Name_119
+Bamboo Incarnation Quest State
+Name_120
+Incarnation Portrait State
+Name_121
+Sword Mound Insights Type
+Name_122
+Event character selection range
+Name_123
+Weather
+Name_124
+Character Title
+Name_125
+Репутация
+Name_126
+Одежда
+Name_128
+Xie Immortal
+Name_129
+Assistance Progress
+Desc_0
+Non-fixed type: The type is inferred at runtime based on the calculated result of input values or expressions.
+Desc_1
+
+Desc_2
+
+Desc_3
+
+Desc_4
+
+Desc_72
+An expression that evaluates to a Boolean value.
+Desc_5
+Event GUID: '\nSince event names can be edited at any time, they are unreliable. It is recommended to use expressions to directly fill in the GUID.
+Desc_48
+Script GUID: '\nSince script names can be edited at any time, they are unreliable. It is recommended to use expressions to directly fill in the GUID.
+Desc_6
+
+Desc_7
+
+Desc_85
+
+Desc_8
+
+Desc_78
+
+Desc_9
+
+Desc_105
+
+Desc_10
+
+Desc_59
+
+Desc_11
+
+Desc_67
+
+Desc_12
+
+Desc_47
+
+Desc_58
+
+Desc_13
+
+Desc_14
+
+Desc_15
+
+Desc_16
+
+Desc_17
+
+Desc_18
+
+Desc_19
+
+Desc_53
+
+Desc_96
+
+Desc_97
+
+Desc_20
+
+Desc_21
+
+Desc_22
+
+Desc_23
+
+Desc_24
+
+Desc_25
+
+Desc_51
+
+Desc_26
+
+Desc_27
+
+Desc_28
+
+Desc_29
+
+Desc_30
+
+Desc_31
+
+Desc_60
+
+Desc_32
+
+Desc_33
+
+Desc_34
+
+Desc_35
+
+Desc_36
+
+Desc_37
+
+Desc_38
+
+Desc_39
+
+Desc_40
+
+Desc_41
+
+Desc_42
+
+Desc_43
+
+Desc_84
+
+Desc_44
+
+Desc_45
+Corresponds to Character Config Table
+Desc_46
+Corresponds to Character Config Table
+Desc_49
+
+Desc_50
+
+Desc_52
+
+Desc_107
+
+Desc_54
+
+Desc_55
+
+Desc_56
+
+Desc_57
+
+Desc_63
+Favorability Change Parameters
+Desc_61
+
+Desc_62
+
+Desc_64
+
+Desc_65
+
+Desc_66
+
+Desc_68
+
+Desc_69
+Corresponds to Character Config Table
+Desc_70
+Battle Results Type Between NPCs
+Desc_71
+
+Desc_73
+Exact Match (Order Sensitive)
+Desc_74
+Corresponds to Character Config Table
+Desc_75
+Corresponds to RandomEnemy Config Table
+Desc_76
+Qi Type
+Desc_77
+General Option Type
+Desc_79
+Corresponds to EquipmentEffect Config Table
+Desc_80
+Corresponds to InstantNotification Config Table
+Desc_81
+New Encounter
+Desc_82
+The instance object corresponding to the encounter element.
+Desc_83
+The judgment phases when performing hostile actions or plagiarism.
+Desc_86
+Scene change animation order
+Desc_101
+Cutscene Texture Entry
+Desc_87
+
+Desc_88
+Character Relation Type
+Desc_127
+
+Desc_89
+Game-defined regional story save data, maps to Regional Story Parameter Box Key.
+Desc_90
+Linked Configuration Table: InteractionEventOption
+Desc_91
+Key in Multilingual Text Lstring Table
+Desc_92
+
+Desc_93
+Link to MonthlyEvent Configuration Table
+Desc_94
+Corresponds to Notification Config Table
+Desc_95
+Grave Level
+Desc_98
+Insight Data
+Desc_99
+Insight Type
+Desc_100
+Tutorial Video
+Desc_102
+Operation type for character's Travel Bag items
+Desc_103
+
+Desc_104
+
+Desc_106
+Used to dynamically register an event to temporarily bind to a certain function trigger node.
+Desc_108
+For event chains with trigger points, certain parameters are automatically passed in upon triggering.
+Desc_109
+
+Desc_110
+
+Desc_111
+
+Desc_112
+
+Desc_113
+
+Desc_114
+
+Desc_115
+
+Desc_116
+
+Desc_117
+
+Desc_118
+
+Desc_119
+
+Desc_120
+
+Desc_121
+
+Desc_122
+
+Desc_123
+
+Desc_124
+
+Desc_125
+
+Desc_126
+
+Desc_128
+
+Desc_129
+
+CustomEnumText_59_0
+No limit
+CustomEnumText_59_1
+Деревня
+CustomEnumText_59_2
+Городок
+CustomEnumText_59_3
+Острог
+CustomEnumText_59_4
+Главный город
+CustomEnumText_59_5
+Sect
+CustomEnumText_59_6
+Деревня Тайу
+CustomEnumText_67_0
+Unlock Special Interaction
+CustomEnumText_67_1
+Unlock Upgrade Interaction
+CustomEnumText_13_0
+Invalid
+CustomEnumText_13_1
+Ст. 9
+CustomEnumText_13_2
+Ст. 8
+CustomEnumText_13_3
+Tier 7
+CustomEnumText_13_4
+Tier 6
+CustomEnumText_13_5
+Tier 5
+CustomEnumText_13_6
+Tier 4
+CustomEnumText_13_7
+Tier 3
+CustomEnumText_13_8
+Tier 2
+CustomEnumText_13_9
+Tier 1
+CustomEnumText_16_0
+Заражение кровавоглазым гу
+CustomEnumText_16_1
+Заражение морочащим гу
+CustomEnumText_16_2
+Заражение растлевающим гу
+CustomEnumText_16_3
+Внутренний демон
+CustomEnumText_16_4
+Tenebrous King Gu
+CustomEnumText_16_5
+Ice Silkworm King Gu
+CustomEnumText_16_6
+Золотой шелкопряд
+CustomEnumText_16_7
+Cyan
+CustomEnumText_18_0
+Собранность
+CustomEnumText_18_1
+Смекалка
+CustomEnumText_18_2
+Пылкость
+CustomEnumText_18_3
+Отвага
+CustomEnumText_18_4
+Упорство
+CustomEnumText_18_5
+Удача
+CustomEnumText_18_6
+Согласие
+CustomEnumText_19_0
+Сила
+CustomEnumText_19_1
+Проворство
+CustomEnumText_19_2
+Воля
+CustomEnumText_19_3
+Телосложение
+CustomEnumText_19_4
+Костяк
+CustomEnumText_19_5
+Понимание
+CustomEnumText_53_0
+Murderous
+CustomEnumText_53_1
+Мстительный
+CustomEnumText_53_2
+Hateful
+CustomEnumText_53_3
+Vindictive
+CustomEnumText_53_4
+Antagonistic
+CustomEnumText_53_5
+Contemptuous
+CustomEnumText_53_6
+Distant
+CustomEnumText_53_7
+Indifferent
+CustomEnumText_53_8
+Friendly
+CustomEnumText_53_9
+Enthusiastic
+CustomEnumText_53_10
+Affectionate
+CustomEnumText_53_11
+Близость
+CustomEnumText_53_12
+Devoted
+CustomEnumText_97_0
+Accumulate
+CustomEnumText_97_1
+Additive Multiply
+CustomEnumText_97_2
+Multiplicative Multiply
+CustomEnumText_20_0
+Наугад
+CustomEnumText_20_1
+Женщина
+CustomEnumText_20_2
+Мужчина
+CustomEnumText_26_0
+Invalid
+CustomEnumText_26_1
+Weapon 1
+CustomEnumText_26_2
+Weapon 2
+CustomEnumText_26_3
+Weapon 3
+CustomEnumText_26_4
+Head Armor
+CustomEnumText_26_5
+Одежда
+CustomEnumText_26_6
+Body Armor
+CustomEnumText_26_7
+Handwear
+CustomEnumText_26_8
+Обувь
+CustomEnumText_26_9
+Relic 1
+CustomEnumText_26_10
+Relic 2
+CustomEnumText_26_11
+Relic 3
+CustomEnumText_26_12
+Средство передвижения
+CustomEnumText_26_13
+Ездовые животные
+CustomEnumText_26_14
+Зверь
+CustomEnumText_26_15
+Pouch 1
+CustomEnumText_26_16
+Pouch 2
+CustomEnumText_26_17
+Pouch 3
+CustomEnumText_27_0
+Искусства ци
+CustomEnumText_27_1
+Сокрушение
+CustomEnumText_27_2
+Nimble
+CustomEnumText_27_3
+Защита
+CustomEnumText_27_4
+Прозорливость
+CustomEnumText_28_0
+Metal
+CustomEnumText_28_1
+Wood
+CustomEnumText_28_2
+Вода
+CustomEnumText_28_3
+Огонь
+CustomEnumText_28_4
+Земля
+CustomEnumText_28_5
+Хуньюань
+CustomEnumText_43_0
+You Won
+CustomEnumText_43_1
+Enemy Won
+CustomEnumText_43_2
+You Fled
+CustomEnumText_43_3
+Enemy Fled
+CustomEnumText_43_4
+You Died
+CustomEnumText_43_5
+Foe Died
+CustomEnumText_84_0
+Спарринг
+CustomEnumText_84_1
+Драка
+CustomEnumText_84_2
+Поединок
+CustomEnumText_84_3
+Испытание
+CustomEnumText_49_0
+Карта мира
+CustomEnumText_49_1
+Current Province
+CustomEnumText_49_2
+Whole World
+CustomEnumText_57_0
+Baby
+CustomEnumText_57_1
+Child
+CustomEnumText_57_2
+Взрослость
+CustomEnumText_65_0
+Current Small Tile
+CustomEnumText_65_1
+All Tiles
+CustomEnumText_66_0
+Близко
+CustomEnumText_66_1
+Далеко
+CustomEnumText_68_0
+Неполная
+CustomEnumText_68_1
+Good Ending
+CustomEnumText_68_2
+Bad Ending
+CustomEnumText_70_0
+Complete Victory
+CustomEnumText_70_1
+Close Victory
+CustomEnumText_70_2
+Complete Defeat
+CustomEnumText_70_3
+Close Defeat
+CustomEnumText_73_0
+Exact Match
+CustomEnumText_73_1
+Any Match
+CustomEnumText_73_2
+Element Contains Parameter
+CustomEnumText_76_0
+Сокрушение
+CustomEnumText_76_1
+Nimble
+CustomEnumText_76_2
+Защита
+CustomEnumText_76_3
+Прозорливость
+CustomEnumText_83_0
+Identify Target
+CustomEnumText_83_1
+Hide and Lurk
+CustomEnumText_83_2
+Judge the Timing
+CustomEnumText_83_3
+Decisive Action
+CustomEnumText_83_4
+Escape
+CustomEnumText_83_5
+Completed
+CustomEnumText_88_0
+Non-Special Relationship
+CustomEnumText_88_1
+Кровный родич — родитель
+CustomEnumText_88_2
+Кровный родич — ребёнок
+CustomEnumText_88_3
+Кровный родич — брат/сестра
+CustomEnumText_88_4
+Сводная родня — родитель
+CustomEnumText_88_5
+Сводная родня — ребёнок
+CustomEnumText_88_6
+Сводная родня — брат/сестра
+CustomEnumText_88_7
+Приёмная семья — родитель
+CustomEnumText_88_8
+Приёмная семья — ребёнок
+CustomEnumText_88_9
+Приёмная семья — брат/сестра
+CustomEnumText_88_10
+Sworn Siblings
+CustomEnumText_88_11
+Spouse
+CustomEnumText_88_12
+Наставник
+CustomEnumText_88_13
+Disciple
+CustomEnumText_88_14
+Друг
+CustomEnumText_88_15
+Love
+CustomEnumText_88_16
+Vindictive
+CustomEnumText_127_0
+Love
+CustomEnumText_127_1
+Vindictive
+CustomEnumText_95_0
+Bury the body in a hurry
+CustomEnumText_95_1
+Ramshackle grave
+CustomEnumText_95_2
+Ordinary grave
+CustomEnumText_95_3
+Luxurious grave
+CustomEnumText_102_0
+Украсть
+CustomEnumText_102_1
+Выманить
+CustomEnumText_102_2
+Отнять
+CustomEnumText_102_3
+Direct Use
+CustomEnumText_111_0
+Evil
+CustomEnumText_111_1
+Neutral
+CustomEnumText_111_2
+Good
+CustomEnumText_113_0
+New Trigger
+CustomEnumText_113_1
+Прочитано
+CustomEnumText_113_2
+Цела
+CustomEnumText_117_0
+First Encounter
+CustomEnumText_117_1
+Goodbye
+CustomEnumText_117_2
+Revive
+CustomEnumText_119_0
+Неполная
+CustomEnumText_119_1
+Life Arc
+CustomEnumText_119_2
+Fate Arc
+CustomEnumText_119_3
+Dedication Arc
+CustomEnumText_119_4
+Torment Arc
+CustomEnumText_119_5
+Seal Arc Bad Ending
+CustomEnumText_119_6
+Release Arc Good Ending
+CustomEnumText_120_0
+Normal
+CustomEnumText_120_1
+Childhood Joy
+CustomEnumText_120_2
+Childhood Sorrow
+CustomEnumText_120_3
+Adult Joy
+CustomEnumText_120_4
+Adult Sorrow
+CustomEnumText_121_0
+Day
+CustomEnumText_121_1
+Land
+CustomEnumText_121_2
+People
+CustomEnumText_121_3
+Normal
+CustomEnumText_122_0
+Companion
+CustomEnumText_122_1
+Companion: Special Companion
+CustomEnumText_122_2
+Клетка
+CustomEnumText_122_3
+Companion Tile
+CustomEnumText_122_4
+Companion: Special Companion Tile
+CustomEnumText_125_0
+Злодейство
+CustomEnumText_125_1
+Позор
+CustomEnumText_125_2
+Дурная слава
+CustomEnumText_125_3
+Безвестность
+CustomEnumText_125_4
+Известность
+CustomEnumText_125_5
+Слава
+CustomEnumText_125_6
+Великая слава
+CustomEnumText_125_7
+Morally Gray
+CustomEnumText_125_8
+Invalid Value
+CustomEnumText_129_0
+Default
+CustomEnumText_129_1
+Inquire Assistance
+CustomEnumText_129_2
+Taiwu Agrees
+CustomEnumText_129_3
+Taiwu Refuses
+CustomEnumText_129_4
+Victory Monthly Event Triggered
+CustomEnumText_129_5
+Defeated by Taiwu
+

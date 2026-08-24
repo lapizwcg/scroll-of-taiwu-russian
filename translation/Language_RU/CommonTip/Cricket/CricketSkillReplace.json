@@ -1,0 +1,21 @@
+{
+  "title": "Умения сверчка",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "name": "originalSkillAtom",
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<color=#lightgrey>{skillName1}: {skillDesc1}</color>"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "<color=#brightyellow>{skillName2}: {skillDesc2}</color>"
+        }
+      ]
+    }
+  ]
+}

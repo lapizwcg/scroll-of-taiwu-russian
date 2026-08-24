@@ -1,0 +1,2011 @@
+Name_0
+Expansion Complete
+Name_1
+Demolition Complete
+Name_2
+Crafting Complete
+Name_3
+Construction Complete
+Name_4
+Gathering Complete
+Name_5
+Scale Dwindling
+Name_6
+Building Abandoned
+Name_7
+Construction Started
+Name_8
+Expansion Started
+Name_9
+Demolition Started
+Name_10
+Demolition Canceled
+Name_11
+Character Visit
+Name_12
+Character Leave
+Name_13
+Joining Taiwu Village
+Name_14
+Leaving Taiwu Village
+Name_15
+Missing Storehouse Item
+Name_16
+Prestige Loss
+Name_17
+New Way Station
+Name_18
+Crossing the Hidden Rift
+Name_19
+New Encounter
+Name_20
+Struck by Natural Disaster
+Name_21
+Joined Paths
+Name_22
+Parted Ways
+Name_23
+Новый склад ума
+Name_292
+Obtain Sect Training Permission
+Name_24
+Seek Support
+Name_25
+Reputation Increase
+Name_26
+Reputation Decrease
+Name_27
+Mood Improvement
+Name_28
+Mood Decline
+Name_29
+Прирост расположения
+Name_30
+Favorability Decline
+Name_31
+Favorability Level Increase
+Name_32
+Favorability Level Decrease
+Name_33
+Discovered Preferences
+Name_34
+Discovered Dislikes
+Name_35
+Absence of Likes
+Name_36
+Absence of Aversions
+Name_37
+Souldew Absorbed
+Name_38
+Martial Art Acquired
+Name_39
+Health Increase
+Name_40
+Health Decrease
+Name_41
+Deviation Increased
+Name_42
+Deviation Decreased
+Name_43
+Character Mania
+Name_44
+Character Possessed
+Name_45
+Attribute Restored
+Name_46
+Attribute Reduction
+Name_47
+Increase in Inner Breath Chaos
+Name_48
+Decrease in Inner Breath Chaos
+Name_49
+Worsening Injuries
+Name_50
+Injury Recovery
+Name_51
+Afflicted with Poison
+Name_52
+Character Detoxified
+Name_53
+XP Gained
+Name_54
+XP Lost
+Name_55
+Resources Increased
+Name_56
+Resources Decreased
+Name_57
+Полученные предметы
+Name_58
+Item Lost
+Name_59
+Reached Adulthood
+Name_60
+Character Died
+Name_61
+Сверчок погиб
+Name_62
+Close One Died
+Name_63
+Foe Died
+Name_64
+Foe Blessed
+Name_65
+Foe Cursed
+Name_66
+Foe Defeated
+Name_67
+Foe Defeated
+Name_68
+Foe Defeated
+Name_69
+Close One's Miscarriage
+Name_70
+Iniquity Disclosed
+Name_71
+Заброшено
+Name_72
+Close One's Desertion
+Name_73
+Awareness of Incest
+Name_74
+Close One's Childbirth
+Name_75
+Birth of Offspring
+Name_76
+Close One's Incest
+Name_77
+Close One's Broken Precept
+Name_78
+Close One's Romance
+Name_79
+Close One's Incest
+Name_80
+Close One's Broken Precept
+Name_81
+Lovers' Wedding
+Name_82
+Close One's Incest
+Name_83
+Blurring Friend and Foe
+Name_84
+Blurring Friend and Foe
+Name_85
+Blurring Friend and Foe
+Name_86
+Blurring Friend and Foe
+Name_87
+Blurring Friend and Foe
+Name_88
+Blurring Friend and Foe
+Name_89
+Close One's Breakup
+Name_90
+Distinguishing Friend from Foe
+Name_91
+Distinguishing Friend from Foe
+Name_92
+Lovers Intimacy
+Name_93
+Жители без дела
+Name_94
+Seniority Increased
+Name_95
+Skill Unlocked
+Name_96
+Skill Cooldown
+Name_97
+Effect Expired
+Name_98
+Beast Tracking
+Name_99
+Model of Heroism
+Name_100
+Model of Virtue
+Name_101
+Peaceful Living
+Name_102
+Withdrawal from the Fray
+Name_103
+Traveling Doctor
+Name_104
+Precept of Diet
+Name_105
+Precept of Abstinence
+Name_106
+Beast Tracking Failed
+Name_107
+Region Rise Ending
+Name_108
+Region Fall Ending
+Name_109
+Inspiration from Battle
+Name_110
+Inspiration from Debate
+Name_111
+Inspiration from Battle
+Name_112
+Inspiration from Debate
+Name_113
+Scripture Vault has been restored
+Name_114
+Reincarnation at the Reincarnation Platform Completed
+Name_115
+The base under administration vanished
+Name_116
+The Organization's Collected Tunes
+Name_117
+Tunes Collected from the Province
+Name_118
+The creation of an original approach is complete
+Name_119
+Силы народа в упадке
+Name_120
+The Divine Power of Thunder Marsh has Increased
+Name_121
+The Divine Power of Flood Marsh has Increased
+Name_122
+The Divine Power of Flame Marsh has Increased
+Name_123
+The Divine Power of Wind Marsh has Increased
+Name_124
+The Divine Power of Sand Marsh has Increased
+Name_125
+The Divine Power of Thunder Marsh has Waned
+Name_126
+The Divine Power of Flood Marsh has Waned
+Name_127
+The Divine Power of Flame Marsh has Waned
+Name_128
+The Divine Power of Wind Marsh has Waned
+Name_129
+The Divine Power of Sand Marsh has Waned
+Name_130
+Jiao's Attribute Enhancement
+Name_131
+Jiao's Attribute Weakening
+Name_132
+Jiao's gift attribute has increased
+Name_133
+Jiao's gift attribute has decreased
+Name_134
+Jiao's attribute increased by percentage
+Name_135
+Jiao's attribute decreased by percentage
+Name_136
+Jiao's attribute increased by float number
+Name_137
+Jiao's attribute decreased by float number
+Name_138
+Prime Gu has fled
+Name_139
+Смерть носителя
+Name_140
+Гибель главного гу
+Name_141
+Гибель главного гу
+Name_142
+Aware of the Eminent Monk's Secrets
+Name_143
+Favor has risen
+Name_144
+Prime Gu has fled I
+Name_145
+Prime Gu has fled II
+Name_146
+Triggering the Battle Circulation of Qi
+Name_147
+Triggering the Debate Circulation of Qi
+Name_148
+Xuan and Bai's incarnation as animals
+Name_149
+Xuan and Bai incarnated into human forms
+Name_150
+Trigger the mechanism
+Name_151
+Seniority Increased
+Name_152
+Rest and Recuperation
+Name_153
+Rest and Recuperation
+Name_154
+Ascending Beasts
+Name_155
+All Beasts Return to Spirit
+Name_156
+Tides Turn
+Name_157
+Words of Utmost Authority
+Name_158
+Lively Conversation
+Name_159
+Endorsement
+Name_160
+Endorsement
+Name_161
+Promotion Advocate
+Name_162
+Promotion Advocate
+Name_163
+Promotion Advocate
+Name_164
+Promotion Advocate
+Name_165
+Pardon Granted
+Name_166
+Nasty Slang
+Name_167
+Peaceful Living
+Name_168
+Безграничное искание Дхармы
+Name_169
+The Years in Tea
+Name_170
+Liberation Ritual
+Name_171
+Otherland Bounty Removal
+Name_172
+Otherland Negative Traits Removed
+Name_173
+Retire to Farm Life
+Name_174
+Gain Legacy
+Name_175
+Culture Improved
+Name_176
+Stability Improved
+Name_177
+Culture Declined
+Name_178
+Stability Declined
+Name_179
+Получить ресурсы
+Name_180
+Gain Foodstuff
+Name_181
+Fabric Reagent gained
+Name_182
+Herb Reagent gained
+Name_183
+Poison Reagent gained
+Name_184
+Pills & Solution
+Name_185
+Healing Concoction gained
+Name_186
+Detoxification Medicine gained
+Name_187
+Amplifying Concoction gained
+Name_188
+Gained Fruit
+Name_189
+Poultry Obtain gained
+Name_190
+Livestock Food gained
+Name_191
+Vegetable Food gained
+Name_192
+Gained Seafood
+Name_193
+Gained Liquor
+Name_194
+Gained Tea
+Name_195
+Gained Tool
+Name_196
+Gained Relic
+Name_197
+Arsenopyrite or Poison cream gained
+Name_198
+Gained Mechanism
+Name_199
+Gained Seal
+Name_200
+Gained Needle Box
+Name_201
+Gained Quenched Piercers
+Name_202
+Gained Concealed Weapons
+Name_203
+Gained Flute
+Name_204
+Gained Gloves
+Name_205
+Gained Fabric Gloves
+Name_206
+Gained Vajra Club
+Name_207
+Gained Sword
+Name_208
+Gained Blade
+Name_209
+Gained Polearm
+Name_210
+Gained Guqin
+Name_211
+Gained Whisk
+Name_212
+Gained Whip
+Name_213
+Gained Headpiece
+Name_214
+Gained Shoes
+Name_215
+Gained Armor
+Name_216
+Gained Bracers
+Name_217
+Gained Vehicle
+Name_218
+Gained XP
+Name_219
+Изучение
+Name_220
+Малый небесный круг
+Name_221
+Gained Province Favor
+Name_222
+Gained Attribute
+Name_223
+Underling Escaped
+Name_224
+Gained XP
+Name_225
+Pass Ravaged Plot
+Name_226
+Pass Blackstone Land
+Name_227
+Promotion Advocate
+Name_228
+Promotion Advocate
+Name_229
+Promotion Advocate
+Name_230
+Promotion Advocate
+Name_231
+Promotion Advocate
+Name_232
+Promotion Advocate
+Name_233
+Character Escaped
+Name_234
+Favor has risen
+Name_235
+Favor Decrease
+Name_236
+Destroy Outlaw
+Name_237
+Истребление странствующих воинов
+Name_238
+Destroy Xiangshu Underling
+Name_239
+Destroy Beast
+Name_240
+Pills & Solution
+Name_241
+Healing Concoction gained
+Name_242
+Detoxification Medicine gained
+Name_243
+Amplifying Concoction gained
+Name_244
+Bonus Reward Gathered
+Name_245
+Bonus XP Reward
+Name_246
+Bonus Favor Reward
+Name_247
+Item Upgrade Reward
+Name_248
+Extra Study Book
+Name_249
+Extra Microcosmic Circulation
+Name_250
+Изготовленный предмет
+Name_251
+Will Gained via Battle Rescue
+Name_252
+Will Gained via Stone House Rescue
+Name_253
+Common Fuyu's Will Gained
+Name_254
+Bonus Herb gathered
+Name_255
+Jixi eliminated an outlaw
+Name_256
+Character Qi Recovery
+Name_257
+Redeem Her Freedom
+Name_258
+Character Follow
+Name_259
+Character Stop Following
+Name_260
+Character goes to banquet
+Name_261
+Outlaw Eliminated
+Name_262
+Character becomes hostile to Taiwu
+Name_263
+Music banquet has begun
+Name_264
+Weiqi banquet has begun
+Name_265
+Poetry banquet has begun
+Name_266
+Painting banquet has begun
+Name_267
+Taiwu abandons redemption
+Name_268
+Hellstone Healing
+Name_269
+Hellstone Healing
+Name_270
+Hellstone Healing
+Name_271
+Hellstone Healing
+Name_272
+Hellstone Healing
+Name_273
+Hellstone Damage
+Name_274
+Hellstone Damage
+Name_275
+Hellstone Damage
+Name_276
+Hellstone Damage
+Name_277
+Hellstone Damage
+Name_278
+Hellstone Damage
+Name_279
+Hellstone Damage
+Name_280
+Hellstone Damage
+Name_281
+Hellstone Damage
+Name_282
+Hellstone Damage
+Name_285
+Qi became Metal
+Name_286
+Qi became Wood
+Name_287
+Qi became Water
+Name_288
+Qi became Fire
+Name_289
+Qi became Earth
+Name_283
+Character Died
+Name_284
+Character Died
+Name_290
+Wariness Increased
+Name_291
+Wariness Decreased
+Name_293
+Cricket Attribute Growth
+Name_294
+Cricket Attribute Growth
+Name_295
+Cricket Attribute Growth
+Name_296
+Cricket Attribute Growth
+Name_297
+Cricket Attribute Growth
+Name_298
+Cricket Attribute Growth
+Name_299
+Cricket Attribute Growth
+Name_300
+Cricket Attribute Growth
+Name_301
+Cricket Attribute Growth
+Name_302
+Cricket Attribute Growth
+Name_303
+Cricket Attribute Growth
+Name_304
+Cricket Attribute Growth
+Name_305
+Trigger explosive trap
+Name_306
+Trigger concealed weapon trap
+Name_307
+Trigger poison trap
+Name_308
+Trigger ghost whistle trap
+Name_309
+Trigger fog trap
+Name_310
+Auto-discard Items
+Name_311
+Auto-Disassemble Items
+Name_312
+Captive attempts to escape
+Name_313
+Kind Curer
+Name_314
+Poison Mist Entangled
+Name_315
+Demonslaughter
+Name_316
+Manslaughter
+Name_317
+Спасение Цзю Ханя
+Name_318
+Бедствие Цзю Ханя
+Name_319
+Fortuitous Invitation
+Name_320
+Jinxed
+Name_321
+Lust for Love
+Name_322
+Bewitched into Enmity
+Name_323
+Guardian Angel
+Name_324
+Took the Fall
+Name_325
+Clear Conscience
+Name_326
+Clouded Judgment
+Name_327
+Valiant Instructor
+Name_328
+Бедствие Кровавого клёна
+Name_329
+Почти бессмертный
+Name_330
+Подточенное долголетие
+Name_331
+Fortuitous Invitation
+Name_332
+Fortuitous Invitation
+Name_333
+Guardian Angel
+Name_334
+Took the Fall
+SimpleDesc_0
+The expansion of {0} {1} is complete!
+SimpleDesc_1
+The demolition of {0} {1} is complete!
+SimpleDesc_2
+The crafting of {1} in {0} is complete!
+SimpleDesc_3
+The construction of {0} {1} is complete!
+SimpleDesc_4
+{1} in {0} has new gaining!
+SimpleDesc_5
+The scale of {1} in {0} is <color=#red>dwindling</color>!
+SimpleDesc_6
+{1} in {0} has been deserted!
+SimpleDesc_7
+Start the construction of {1} in {0}...
+SimpleDesc_8
+Start the expansion of {1} in {0}...
+SimpleDesc_9
+Start the demolition of {1} in {0}...
+SimpleDesc_10
+Cancel the demolition of {1} in {0}...
+SimpleDesc_11
+A refugee arrived at {0}...
+SimpleDesc_12
+A refugee left {0}...
+SimpleDesc_13
+{0} joined Taiwu Village...
+SimpleDesc_14
+{0} left Taiwu Village...
+SimpleDesc_15
+Unfortunately, {0} in the storehouse is lost...
+SimpleDesc_16
+{1} in {0} lacks maintenance...
+SimpleDesc_17
+New Way Station found: {1}!
+SimpleDesc_18
+Everybody and their vehicles have been damaged!
+SimpleDesc_19
+New Encounter: [{1}]...
+SimpleDesc_20
+All companions have been damaged!
+SimpleDesc_21
+A new companion {0} joined the party!
+SimpleDesc_22
+{0} is no longer a companion...
+SimpleDesc_23
+{0}'s Mindset has changed...
+SimpleDesc_292
+Obtained Sect Training Permission from {0}...
+SimpleDesc_24
+<color=#lightblue>Sect Support</color> gained...
+SimpleDesc_25
+{0}'s <color=#ffffff>Reputation</color> has <color=#lightblue>increased</color>...
+SimpleDesc_26
+{0}'s <color=#ffffff>Reputation</color> has <color=#red>decreased</color>...
+SimpleDesc_27
+{0}'s <color=#ffffff>Mood</color> has <color=#lightblue>improved</color>...
+SimpleDesc_28
+{0}'s <color=#ffffff>Mood</color> has <color=#red>declined</color>...
+SimpleDesc_29
+<color=#ffffff>Favorability</color> of {1} toward {2} has <color=#lightblue>increased</color>...
+SimpleDesc_30
+<color=#ffffff>Favorability</color> of {1} toward {2} has <color=#red>decreased</color>...
+SimpleDesc_31
+The relationship between {0} and {1} has <color=#lightblue>improved</color>...
+SimpleDesc_32
+The relationship between {0} and {1} has been <color=#red>Estranged</color>...
+SimpleDesc_33
+Inquired the <color=#lightblue>Likes</color> of {0}...
+SimpleDesc_34
+Inquired the <color=#red>Hates</color> of {1}...
+SimpleDesc_35
+Inquired {1} <color=#lightblue>Likes</color> nothing...
+SimpleDesc_36
+Inquired {1} <color=#red>Hates</color> nothing...
+SimpleDesc_37
+{0} absorbed {1}'s spiritual Qi...
+SimpleDesc_38
+{0} learned a new Martial Art: {1}...
+SimpleDesc_39
+{0}'s Health <color=#lightgreen>increased</color>...
+SimpleDesc_40
+{0}'s Health <color=#red>decreased</color>...
+SimpleDesc_41
+{0}'s Deviation <color=#red>increased</color>...
+SimpleDesc_42
+{0}'s Deviation <color=#lightblue>decreased</color>...
+SimpleDesc_43
+{0} is now under <color=#red>Mania</color>!
+SimpleDesc_44
+{0} is now in <color=#red>Deviation</color>!
+SimpleDesc_45
+{0}'s {1} has <color=#lightblue>restored</color>...
+SimpleDesc_46
+{0}'s {1} has <color=#red>decreased</color>...
+SimpleDesc_47
+{0}'s Inner Breath Chaos has <color=#red>intensified</color>...
+SimpleDesc_48
+{0}'s Inner Breath Chaos has <color=#lightblue>reduced</color>...
+SimpleDesc_49
+{0}'s injuries have <color=#red>worsened</color>...
+SimpleDesc_50
+{0}'s injuries have <color=#lightblue>recovered</color>...
+SimpleDesc_51
+Toxins in {0}'s body have <color=#red>increased</color>...
+SimpleDesc_52
+Toxins in {0}'s body have <color=#lightblue>decreased</color>...
+SimpleDesc_53
+{0} <color=#lightblue>gained</color> {1} XP...
+SimpleDesc_54
+{0} <color=#red>lost</color> {1} XP...
+SimpleDesc_55
+{0} <color=#lightblue>gained</color> {2} {1}...
+SimpleDesc_56
+{0} <color=#red>lost</color> {2} {1}...
+SimpleDesc_57
+{0} <color=#lightblue>gained</color> {1}...
+SimpleDesc_58
+{0} <color=#red>lost</color> {1}...
+SimpleDesc_59
+{0} entered adulthood!
+SimpleDesc_60
+{0} passed away...
+SimpleDesc_61
+{0} the cricket passed away...
+SimpleDesc_62
+{2} inquired that {0} passed away...
+SimpleDesc_63
+{2} inquired that {0} passed away...
+SimpleDesc_64
+{2} inquired that {0} obtained something by chance...
+SimpleDesc_65
+{2} inquired that {0} was caught in a disaster...
+SimpleDesc_66
+{2} inquired that {0} lost a Debate...
+SimpleDesc_67
+{2} inquired that {0} lost...
+SimpleDesc_68
+{2} inquired that {0} suffered a humiliating loss...
+SimpleDesc_69
+{2} inquired that {0}'s loss of a child...
+SimpleDesc_70
+{0}'s abandonment has been disclosed...
+SimpleDesc_71
+{0} heard that they had been abandoned...
+SimpleDesc_72
+{1} heard that their relatives and friends abandoned their child...
+SimpleDesc_73
+{0} heard about how they were born...
+SimpleDesc_74
+{2} heard that their relatives and friends gave birth to a child...
+SimpleDesc_75
+{1} heard about the birth of their offspring...
+SimpleDesc_76
+{2} heard that their relatives and friends committed incest...
+SimpleDesc_77
+{2} heard that their close ones broke the precept...
+SimpleDesc_78
+{2} heard that their relatives and friends fell in love...
+SimpleDesc_79
+{2} heard that their relatives and friends committed incest...
+SimpleDesc_80
+{2} heard that their close ones broke the precept...
+SimpleDesc_81
+{2} heard that their lover got married...
+SimpleDesc_82
+{2} heard that their relatives and friends committed incest...
+SimpleDesc_83
+{2} heard that {0} could not tell friend from foe...
+SimpleDesc_84
+{2} heard that {0} could not tell friend from foe...
+SimpleDesc_85
+{2} heard that {0} could not tell friend from foe...
+SimpleDesc_86
+{2} heard that {0} could not tell friend from foe...
+SimpleDesc_87
+{2} heard that {0} could not tell friend from foe...
+SimpleDesc_88
+{2} heard that {0} could not tell friend from foe...
+SimpleDesc_89
+{2} heard that {0} broke up with their lover...
+SimpleDesc_90
+{2} heard that {0} estranged from their friend...
+SimpleDesc_91
+{2} heard that {0} severed the sworn siblinghood...
+SimpleDesc_92
+{2} heard that {0} spent a night with someone...
+SimpleDesc_93
+Idle Villager(s) in {0}: {1}
+SimpleDesc_94
+Seniority of the Aspiration {0} has increased...
+SimpleDesc_95
+Gained a deeper understanding of the Aspiration {0}...
+SimpleDesc_96
+{0} is now available...
+SimpleDesc_97
+{0}'s effect has expired...
+SimpleDesc_98
+A new beast has been found...
+SimpleDesc_99
+{1} has become the trend in {0}...
+SimpleDesc_100
+{1} has become the trend in {0}...
+SimpleDesc_101
+{0} has made peace with others...
+SimpleDesc_102
+{0} has retired from Martial World...
+SimpleDesc_103
+{0} performs charitable healing at {1}...
+SimpleDesc_104
+{0} eats meat and drinks liquor, breaking the precept...
+SimpleDesc_105
+{0} spends a night of intimacy with someone and breaks the precept...
+SimpleDesc_106
+There are no traces of beasts in this region...
+SimpleDesc_107
+Gained {0}'s Insight of Rise...
+SimpleDesc_108
+Gain an Insight of the fall of {0}...
+SimpleDesc_109
+Improve the comprehension of {0}...
+SimpleDesc_110
+Improve the comprehension of {0}...
+SimpleDesc_111
+Improve the comprehension of {0}...
+SimpleDesc_112
+Improve the comprehension of {0}...
+SimpleDesc_113
+Possession {0} has been restored...
+SimpleDesc_114
+{0} waiting for Rebirth in the Reincarnation Platform...
+SimpleDesc_115
+The Encounter under {2}'s administration has vanished...
+SimpleDesc_116
+The famous music piece "{1}" by {0} has been collected...
+SimpleDesc_117
+The famous music piece "{1}" by {0} has been collected...
+SimpleDesc_118
+{0} Martial Arts originality completed...
+SimpleDesc_119
+{0}'s {2} has ceased to offer help...
+SimpleDesc_120
+The Divine Power of Thunder Marsh has Increased...
+SimpleDesc_121
+The Divine Power of Flood Marsh has Increased...
+SimpleDesc_122
+The Divine Power of Flame Marsh has Increased...
+SimpleDesc_123
+The Divine Power of Wind Marsh has Increased...
+SimpleDesc_124
+The Divine Power of Sand Marsh has Increased...
+SimpleDesc_125
+The Divine Power of Thunder Marsh has Waned...
+SimpleDesc_126
+The Divine Power of Flood Marsh has Waned...
+SimpleDesc_127
+The Divine Power of Flame Marsh has Waned...
+SimpleDesc_128
+The Divine Power of Wind Marsh has Waned...
+SimpleDesc_129
+The Divine Power of Sand Marsh has Waned...
+SimpleDesc_130
+{0}'s attribute has increased...
+SimpleDesc_131
+{0}'s attribute has decreased...
+SimpleDesc_132
+{0}'s attribute has increased...
+SimpleDesc_133
+{0}'s attribute has decreased...
+SimpleDesc_134
+{0}'s attribute has increased...
+SimpleDesc_135
+{0}'s attribute has decreased...
+SimpleDesc_136
+{0}'s attribute has increased...
+SimpleDesc_137
+{0}'s attribute has decreased...
+SimpleDesc_138
+{0} has fled from within the host...
+SimpleDesc_139
+{0} has fled from within the host...
+SimpleDesc_140
+The Prime Gu inside {0} has died...
+SimpleDesc_141
+The Prime Gu inside {0} has died...
+SimpleDesc_142
+{0} is aware of the Eminent Monk's sacred sutra's Secrets
+SimpleDesc_143
+{0}'s Favor has risen...
+SimpleDesc_144
+{0} has fled from within the host...
+SimpleDesc_145
+{0} has fled from within the host...
+SimpleDesc_146
+Partially sensing {0}...
+SimpleDesc_147
+Partially sensing {0}...
+SimpleDesc_148
+Xuan and Bai persisted as the Dark Owl & White Deer...
+SimpleDesc_149
+The Dark Owl & White Deer persisted as human forms...
+SimpleDesc_150
+All companions have been damaged!
+SimpleDesc_151
+Seniority of the Aspiration {0} has increased...
+SimpleDesc_152
+The surrounding tile resources have been restored...
+SimpleDesc_153
+The Divine Tree has grown...
+SimpleDesc_154
+The vehicle {0} has been ascended to spirit and transformed into a companion...
+SimpleDesc_155
+The beast companion has been returned to spirit...
+SimpleDesc_156
+It has attracted several Just Xiakes and Outlaws...
+SimpleDesc_157
+Reveal a Secret to the public...
+SimpleDesc_158
+Inform {1} of this insight...
+SimpleDesc_159
+{0}'s influence <color=#brightblue>increases</color>...
+SimpleDesc_160
+{0}'s influence <color=#brightred>decreases</color>...
+SimpleDesc_161
+{0}'s <color=#pinkyellow>{1}</color> has improved...
+SimpleDesc_162
+{0}'s <color=#pinkyellow>Martial Arts</color> Talent has improved...
+SimpleDesc_163
+{0}'s <color=#pinkyellow>Fine Arts</color> Talent has improved...
+SimpleDesc_164
+{0}'s trait has changed...
+SimpleDesc_165
+{0} has released {1} prisoners...
+SimpleDesc_166
+The character on this tile has been driven away...
+SimpleDesc_167
+Resolved {0} people's hatred...
+SimpleDesc_168
+Completed the Buddhist temple pilgrimage...
+SimpleDesc_169
+{0}'s energy has been <color=#brightblue>increased</color>...
+SimpleDesc_170
+Successfully performed the Purgatory Releasing for {0} souls...
+SimpleDesc_171
+All bounties have been removed...
+SimpleDesc_172
+All Sect Penalties Have Been Removed...
+SimpleDesc_173
+{0}'s official position was lost...
+SimpleDesc_174
+Gain available Legacy [{0}]
+SimpleDesc_175
+{0}'s Culture has improved...
+SimpleDesc_176
+{0}'s Stability has improved...
+SimpleDesc_177
+{0}'s Culture has declined...
+SimpleDesc_178
+{0}'s Stability has declined...
+SimpleDesc_179
+Gained {1} x{2}...
+SimpleDesc_180
+Gain {1}...
+SimpleDesc_181
+Gain {1}...
+SimpleDesc_182
+Gain {1}...
+SimpleDesc_183
+Gain {1}...
+SimpleDesc_184
+Gained {0}...
+SimpleDesc_185
+Gained {0}...
+SimpleDesc_186
+Gained {0}...
+SimpleDesc_187
+Gained {0}...
+SimpleDesc_188
+Gain {1}...
+SimpleDesc_189
+Gain {1}...
+SimpleDesc_190
+Gain {1}...
+SimpleDesc_191
+Gain {1}...
+SimpleDesc_192
+Gain {1}...
+SimpleDesc_193
+Gain {1}...
+SimpleDesc_194
+Gain {1}...
+SimpleDesc_195
+Gain {1}...
+SimpleDesc_196
+Gain {1}...
+SimpleDesc_197
+Gain {1}...
+SimpleDesc_198
+Gain {1}...
+SimpleDesc_199
+Gain {1}...
+SimpleDesc_200
+Gain {1}...
+SimpleDesc_201
+Gain {1}...
+SimpleDesc_202
+Gain {1}...
+SimpleDesc_203
+Gain {1}...
+SimpleDesc_204
+Gain {1}...
+SimpleDesc_205
+Gain {1}...
+SimpleDesc_206
+Gain {1}...
+SimpleDesc_207
+Gain {1}...
+SimpleDesc_208
+Gain {1}...
+SimpleDesc_209
+Gain {1}...
+SimpleDesc_210
+Gain {1}...
+SimpleDesc_211
+Gain {1}...
+SimpleDesc_212
+Gain {1}...
+SimpleDesc_213
+Gain {1}...
+SimpleDesc_214
+Gain {1}...
+SimpleDesc_215
+Gain {1}...
+SimpleDesc_216
+Gain {1}...
+SimpleDesc_217
+Gain {1}...
+SimpleDesc_218
+Gained {1} XP...
+SimpleDesc_219
+Finish Book Study once...
+SimpleDesc_220
+Finish Microcosmic Circulation once
+SimpleDesc_221
+Gained {0} Favor...
+SimpleDesc_222
+{0}'s {1} has increased...
+SimpleDesc_223
+Enemy underlings fled in fear...
+SimpleDesc_224
+<color=#lightblue>Obtained </color>{0} XP...
+SimpleDesc_225
+Everyone's vehicles have been damaged!
+SimpleDesc_226
+Everyone's vehicles have been damaged!
+SimpleDesc_227
+{0}'s <color=#pinkyellow>primary attribute</color> has become {1}...
+SimpleDesc_228
+{0}'s <color=#pinkyellow>Martial Arts</color> Talent has become {1}...
+SimpleDesc_229
+{0}'s <color=#pinkyellow>Fine Art</color> Talent has become {1}...
+SimpleDesc_230
+{0}'s <color=#pinkyellow>primary attribute</color> has become {1}...
+SimpleDesc_231
+{0}'s <color=#pinkyellow>Martial Arts</color> Talent has become {1}...
+SimpleDesc_232
+{0}'s <color=#pinkyellow>Fine Art</color> Talent has become {1}...
+SimpleDesc_233
+{0} has escaped...
+SimpleDesc_234
+{0}'s Favor has risen...
+SimpleDesc_235
+{0}'s Favor has decreased...
+SimpleDesc_236
+Outlaw {0} destroyed...
+SimpleDesc_237
+Xiake {0} destroyed...
+SimpleDesc_238
+Underling {0} destroyed...
+SimpleDesc_239
+Beast {0} destroyed...
+SimpleDesc_240
+Gain {1}...
+SimpleDesc_241
+Gain {1}...
+SimpleDesc_242
+Gain {1}...
+SimpleDesc_243
+Gain {1}...
+SimpleDesc_244
+Gained additional {0} x{1}...
+SimpleDesc_245
+Gained {0} bonus XP...
+SimpleDesc_246
+Gained {0} bonus Favor...
+SimpleDesc_247
+Gained {0} unexpectedly...
+SimpleDesc_248
+Completed Book Study efficiently...
+SimpleDesc_249
+Completed Microcosmic Circulation efficiently...
+SimpleDesc_250
+Crafted <color=#pinkyellow>items</color> have been stored in Taiwu Village's <color=#pinkyellow>private vault</color>...
+SimpleDesc_251
+Gained {1} [Fuyu's Will]...
+SimpleDesc_252
+Gained {1} [Fuyu's Will]...
+SimpleDesc_253
+Gained {0} [Fuyu's Will]...
+SimpleDesc_254
+Gained {0} bonus...
+SimpleDesc_255
+{0}'s Favor has risen...
+SimpleDesc_256
+{0}'s Qi has increased...
+SimpleDesc_257
+{0} goes to {1}, waiting for {2} to redeem their freedom..
+SimpleDesc_258
+{0} starts following Taiwu...
+SimpleDesc_259
+{0} stops following Taiwu...
+SimpleDesc_260
+{0} is heading to the banquet...
+SimpleDesc_261
+{0} has been eliminated...
+SimpleDesc_262
+{0} has become hostile to Taiwu...
+SimpleDesc_263
+The music banquet has begun..
+SimpleDesc_264
+The Weiqi banquet has begun..
+SimpleDesc_265
+The poetry banquet has begun..
+SimpleDesc_266
+The painting banquet has begun..
+SimpleDesc_267
+{0} has given up on redeeming {1}..
+SimpleDesc_268
+The team's injuries and Inner Breath Chaos have been <color=#brightblue>reduced</color>...
+SimpleDesc_269
+The team's injuries and Inner Breath Chaos have been <color=#brightblue>reduced</color>...
+SimpleDesc_270
+The team's injuries and Inner Breath Chaos have been <color=#brightblue>reduced</color>...
+SimpleDesc_271
+The team's injuries and Inner Breath Chaos have been <color=#brightblue>reduced</color>...
+SimpleDesc_272
+The team's injuries and Inner Breath Chaos have been <color=#brightblue>reduced</color>...
+SimpleDesc_273
+The team's injuries and Inner Breath Chaos have <color=#brightred>increased</color>!
+SimpleDesc_274
+The team's injuries and Inner Breath Chaos have <color=#brightred>increased</color>!
+SimpleDesc_275
+The team's injuries and Inner Breath Chaos have <color=#brightred>increased</color>!
+SimpleDesc_276
+The team's injuries and Inner Breath Chaos have <color=#brightred>increased</color>!
+SimpleDesc_277
+The team's injuries and Inner Breath Chaos have <color=#brightred>increased</color>!
+SimpleDesc_278
+The team's injuries and Inner Breath Chaos have <color=#brightred>increased significantly</color>!
+SimpleDesc_279
+The team's injuries and Inner Breath Chaos have <color=#brightred>increased significantly</color>!
+SimpleDesc_280
+The team's injuries and Inner Breath Chaos have <color=#brightred>increased significantly</color>!
+SimpleDesc_281
+The team's injuries and Inner Breath Chaos have <color=#brightred>increased significantly</color>!
+SimpleDesc_282
+The team's injuries and Inner Breath Chaos have <color=#brightred>increased significantly</color>!
+SimpleDesc_285
+{0}'s Elemental Qi became <color=#FiveElementType_Jingang>Metal</color>...
+SimpleDesc_286
+{0}'s Elemental Qi became <color=#FiveElementType_Zixia>Wood</color>...
+SimpleDesc_287
+{0}'s Elemental Qi became <color=#FiveElementType_Xuanyin>Water</color>...
+SimpleDesc_288
+{0}'s Elemental Qi became <color=#FiveElementType_Chunyang>Fire</color>...
+SimpleDesc_289
+{0}'s Elemental Qi became <color=#FiveElementType_Guiyuan>Earth</color>...
+SimpleDesc_283
+{0} passed away...
+SimpleDesc_284
+{0} {1} passed away...
+SimpleDesc_290
+{0}'s Wariness toward {1} has increased...
+SimpleDesc_291
+{0}'s Wariness toward {1} has decreased...
+SimpleDesc_293
+{0}'s Endurance has increased...
+SimpleDesc_294
+{0}'s Resilience has increased...
+SimpleDesc_295
+{0}'s Inhale & Stance has increased...
+SimpleDesc_296
+{0}'s Strength has increased...
+SimpleDesc_297
+{0}'s Bite Force has increased...
+SimpleDesc_298
+{0}'s Critical Strike has increased...
+SimpleDesc_299
+{0}'s damage has increased...
+SimpleDesc_300
+{0}'s Disability has increased...
+SimpleDesc_301
+{0}'s Defense has increased...
+SimpleDesc_302
+{0}'s Damage Reduction has increased...
+SimpleDesc_303
+{0}'s Counterattack has increased...
+SimpleDesc_304
+{0}'s Durability has increased...
+SimpleDesc_305
+{0} triggers an explosive trap...
+SimpleDesc_306
+{0} triggers a concealed weapon trap...
+SimpleDesc_307
+{0} triggers a poison trap...
+SimpleDesc_308
+{0} triggers a ghost whistle trap...
+SimpleDesc_309
+{0} triggers a fog trap...
+SimpleDesc_310
+Automatically discarded {0}...
+SimpleDesc_311
+Auto-disassembled {1}...
+SimpleDesc_312
+Held captive by {0}, {1} is trying to escape...
+SimpleDesc_313
+Healed {0}'s injuries and toxin...
+SimpleDesc_314
+Inflicted injuries and toxin upon {0}...
+SimpleDesc_315
+Killed {0}...
+SimpleDesc_316
+Killed {0}...
+SimpleDesc_317
+Restored the resources of nearby tiles...
+SimpleDesc_318
+Devastated nearby tiles...
+SimpleDesc_319
+Bestowed Heavenly Fortune upon {0}...
+SimpleDesc_320
+Bestowed Unexpected Disaster upon {0}...
+SimpleDesc_321
+{0} has fallen in love with {1}...
+SimpleDesc_322
+{0} and {1} have form a grudge...
+SimpleDesc_323
+{0} received protection...
+SimpleDesc_324
+{0} bore the Health Status...
+SimpleDesc_325
+The mindset of nearby characters became Benevolent...
+SimpleDesc_326
+The mindset of nearby characters became Rebellious...
+SimpleDesc_327
+{0} was punished by the Blood Maple...
+SimpleDesc_328
+Summoned Xiangshu Underlings to nearby tiles...
+SimpleDesc_329
+Reduced {0}'s Current Age...
+SimpleDesc_330
+Increased {0}'s Current Age...
+SimpleDesc_331
+Failed to bestow Heavenly Fortune...
+SimpleDesc_332
+Failed to bestow Unexpected Disaster...
+SimpleDesc_333
+Wei Qi has begun protecting {0}...
+SimpleDesc_334
+Wei Qi has begun bringing calamity upon {0}...
+Desc_0
+The expansion of {1} in {0} is complete!
+Desc_1
+The demolition of {1} in {0} is complete!
+Desc_2
+The crafting of {1} in {0} is complete!
+Desc_3
+The construction of {1} in {0} is complete!
+Desc_4
+{1} in {0} has new gaining!
+Desc_5
+The scale of {1} in {0} is <color=#brightred>dwindling</color> due to a lack of maintenance!
+Desc_6
+{1} in {0} has been <color=#brightred>deserted</color> due to a lack of maintenance!
+Desc_7
+Start the construction of {1} in {0}...
+Desc_8
+Start the expansion of {1} in {0}...
+Desc_9
+Start the demolition of {1} in {0}...
+Desc_10
+
+Desc_11
+A refugee arrived at {1} in {0}...
+Desc_12
+A refugee left {1} in {0}...
+Desc_13
+{0} joined Taiwu Village...
+Desc_14
+{0} left Taiwu Village...
+Desc_15
+Unfortunately, {0} in the storehouse is lost because there are too many items stored.
+Desc_16
+{1} in {0} will <color=#brightred>lose prestige over time</color> due to a lack of maintenance...
+Desc_17
+New Way Station found in {0}: {1}!
+Desc_18
+Crossing the <color=#brightred>Hidden Rift</color> has damaged everybody and their vehicles!
+Desc_19
+New Encounter found in {0}: [{1}]...
+Desc_20
+All companions in party suffered injury due to the <color=#brightred>natural disaster</color> encountered in {0}!
+Desc_21
+A new companion {0} joined the party!
+Desc_22
+{0} is no longer a companion...
+Desc_23
+{0}'s Mindset has changed to {1}...
+Desc_292
+{0} has granted Taiwu Sect Training Permission...
+Desc_24
+{1} from {0} gave <color=#lightblue>Sect Support</color> to <color=#darkbrown>Taiwu</color> according to the teachings of ancestors...
+Desc_25
+{0}'s <color=#ffffff>Reputation</color> has <color=#lightblue>increased</color>...
+Desc_26
+{0}'s <color=#ffffff>Reputation</color> has <color=#brightred>decreased</color>...
+Desc_27
+{0}'s <color=#ffffff>Mood</color> has <color=#lightblue>improved</color>...
+Desc_28
+{0}'s <color=#ffffff>Mood</color> has <color=#brightred>declined</color>...
+Desc_29
+<color=#ffffff>Favorability</color> of {1} from {0} toward {2} has <color=#lightblue>increased</color>...
+Desc_30
+<color=#ffffff>Favorability</color> of {1} from {0} toward {2} has <color=#brightred>decreased</color>...
+Desc_31
+{0}'s <color=#ffffff>Favorability</color> toward {1} has <color=#lightblue>increased</color>, their relationship has become {2}...
+Desc_32
+{0}'s <color=#ffffff>Favorability</color> toward {1} has <color=#brightred>decreased</color>, their relationship has become {2}...
+Desc_33
+It's said that {1} from {0} <color=#lightblue>likes</color> {2}...
+Desc_34
+It's said that {1} from {0} <color=#brightred>hates</color> {2}...
+Desc_35
+Inquired {1} from {0} <color=#lightblue>Likes</color> nothing...
+Desc_36
+Inquired {1} from {0} <color=#brightred>Hates</color> nothing...
+Desc_37
+{0} absorbed {1}'s spiritual Qi, gaining <color=#pinkffffff>{2}</color> Qi...
+Desc_38
+
+Desc_39
+{0}'s Health <color=#lightblue>increased</color>...
+Desc_40
+{0}'s Health <color=#brightred>decreased</color>...
+Desc_41
+{0} feels overwhelmed by evil thoughts, and their Deviation <color=#brightred>increased</color>...
+Desc_42
+{0} feels steadfast in the Tao, and their Deviation <color=#lightblue>decreased</color>...
+Desc_43
+{0} is now under <color=#brightred>Mania</color>!
+Desc_44
+{0} is now in <color=#brightred>Deviation</color>!
+Desc_45
+{0}'s {1} has <color=#lightblue>restored</color> by {2}...
+Desc_46
+{0}'s {1} has <color=#brightred>decreased</color> by {2}...
+Desc_47
+{0}'s Inner Breath Chaos has <color=#brightred>intensified</color> by {1}...
+Desc_48
+{0}'s Inner Breath Chaos has <color=#lightblue>reduced</color> by {1}...
+Desc_49
+{0}'s {1} <color=#brightred>took</color> {2}...
+Desc_50
+{2} of {0}'s {1} has <color=#lightblue>recovered</color>...
+Desc_51
+{1} toxins in {0}'s body <color=#brightred>increased</color> by {2}...
+Desc_52
+{1}Toxins in {0}'s body <color=#lightblue>decreased</color> by {2}...
+Desc_53
+
+Desc_54
+
+Desc_55
+{0} <color=#lightblue>gained</color> {2} {1}...
+Desc_56
+{0} <color=#brightred>lost</color> {2} {1}...
+Desc_57
+{0} <color=#lightblue>gained</color> {1}...
+Desc_58
+{0} <color=#brightred>lost</color> {1}...
+Desc_59
+
+Desc_60
+{0} passed away...
+Desc_61
+{0} the cricket passed away...
+Desc_62
+{2}'s <color=#ffffff>mood</color> <color=#brightred>declined</color> upon hearing that {0} had passed away in {1}...
+Desc_63
+{2}'s <color=#ffffff>mood</color> <color=#lightblue>improved</color> upon hearing that {0} had passed away in {1}...
+Desc_64
+{2}'s <color=#ffffff>mood</color> <color=#brightred>declined</color> upon hearing that {0} got a serendipity in {1}...
+Desc_65
+{2}'s <color=#ffffff>mood</color> <color=#lightblue>improved</color> upon hearing that {0} was caught in a disaster in {1}...
+Desc_66
+{2}'s <color=#ffffff>mood</color> <color=#lightblue>improved</color> upon hearing that {0} was defeated by {1} in a Debate...
+Desc_67
+{2}'s <color=#ffffff>mood</color> <color=#lightblue>improved</color> upon hearing that {0} was defeated by {1} in a fight...
+Desc_68
+{2}'s <color=#ffffff>mood</color> <color=#lightblue>improved</color> upon hearing that {0} was beaten up by {1} in a fight...
+Desc_69
+{2}'s <color=#ffffff>mood</color> <color=#brightred>declined</color> upon hearing that {0}'s loss of a child...
+Desc_70
+{0}'s <color=#ffffff>mood</color> <color=#brightred>declined</color> due to their abandonment being disclosed...
+Desc_71
+{0}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon being abandoned...
+Desc_72
+{1}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0}'s abandonment iniquity...
+Desc_73
+{0}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon knowing how themselves were born...
+Desc_74
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} had a child with {1}...
+Desc_75
+{1}'s <color=#ffffff>mood</color> has <color=#lightblue>improved</color> upon knowing {0}'s newborn is his offspring...
+Desc_76
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} ignored ethics and had a child with {1}...
+Desc_77
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} broke the precept and had a child with {1}...
+Desc_78
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} was in love with {1}...
+Desc_79
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} ignored ethic and fell in love with {1}...
+Desc_80
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} broke the precept and fell in love with {1}...
+Desc_81
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} got married with {1}...
+Desc_82
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} ignored ethic and got married with {1}...
+Desc_83
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} befriended {1}...
+Desc_84
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} swore siblings with {1}...
+Desc_85
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} adopted {1} as son...
+Desc_86
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} adopted {1} as daughter...
+Desc_87
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} recognized {1} as foster father...
+Desc_88
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} recognized {1} as foster mother...
+Desc_89
+{2}'s <color=#ffffff>mood</color> has <color=#lightblue>improved</color> upon hearing that {0} broke up with {1}...
+Desc_90
+{2}'s <color=#ffffff>mood</color> has <color=#lightblue>improved</color> upon hearing that {0} estranged from {1}...
+Desc_91
+{2}'s <color=#ffffff>mood</color> has <color=#lightblue>improved</color> upon hearing that {0} severed the sworn siblinghood with {1}...
+Desc_92
+{2}'s <color=#ffffff>mood</color> has <color=#brightred>declined</color> upon hearing that {0} spent a night of intimacy with {1}...
+Desc_93
+
+Desc_94
+Seniority of the Aspiration {0} has increased...
+Desc_95
+The Aspiration {0}'s {1} is now available thanks to the increase of Seniority...
+Desc_96
+{0} is now available...
+Desc_97
+{0}'s effect has expired..
+Desc_98
+A {0} has been found in this region...
+Desc_99
+Following {2}, {3} people in {0} have started learning {1}...
+Desc_100
+Following {2}, {3} people in {0} have started learning {1}...
+Desc_101
+{2} people, including {1}, have made peace with {0} after someone mediated between them.
+Desc_102
+Following {1}'s advice, {0} has decided to retire and become a {2}...
+Desc_103
+{0} performs charitable healing at {1} and cures {2} patients...
+Desc_104
+{0} eats meat and drinks liquor, breaking the precept. {1} loses {2} Seniority...
+Desc_105
+{0} spends a night of intimacy with someone and broke the precept. {1} loses {2} Seniority...
+Desc_106
+There are no traces of beasts in this region...
+Desc_107
+You witness the ending of {0} and gain an Insight of Rise...
+Desc_108
+You witness the ending of {0} and gain an Insight of its fall...
+Desc_109
+Through Battle, {0} gains practical insights, advancing the study by {1}%. Only {2} opportunities for battle insight remain this month...
+Desc_110
+Through Debate, {0} gains practical insights, advancing the study by {1}%. Only {2} opportunities for battle insight remain this month...
+Desc_111
+Through Battle, {0} gains practical insights, advancing the study by {1}%. No more opportunities for battle insight remain this month...
+Desc_112
+Through Debate, {0} gains practical insights, advancing the study by {1}%. No more opportunities for battle insight remain this month...
+Desc_113
+{0} in the Scripture Vault has been restored...
+Desc_114
+{0} waiting for Rebirth in the Reincarnation Platform...
+Desc_115
+The {0} of {1} has vanished, and {2} is now idle...
+Desc_116
+The Famous Music Piece '{1}' by {0} has been included in the Music Box, and can be enjoyed at any time during your future journeys...
+Desc_117
+The Famous Music Piece '{1}' by {0} has been included in the Music Box, and can be enjoyed at any time during your future journeys...
+Desc_118
+{0} Martial Arts originality completed, you can now comprehend the techniques...
+Desc_119
+The industries of {0} have withered, regional culture has declined, and {1} is no longer able to provide {2} resources for assistance...
+Desc_120
+Enhanced by the Divine Power of Thunder Marsh, currently there are {0} layers...
+Desc_121
+Enhanced by the Divine Power of Flood Marsh, currently there are {0} layers...
+Desc_122
+Enhanced by the Divine Power of Flame Marsh, currently there are {0} layers...
+Desc_123
+Enhanced by the Divine Power of Wind Marsh, currently there are {0} layers...
+Desc_124
+Enhanced by the Divine Power of Sand Marsh, currently there are {0} layers...
+Desc_125
+Weakened by the Divine Power of Thunder Marsh, currently there are {0} layers...
+Desc_126
+Weakened by the Divine Power of Flood Marsh, currently there are {0} layers...
+Desc_127
+Weakened by the Divine Power of Flame Marsh, currently there are {0} layers...
+Desc_128
+Weakened by the Divine Power of Wind Marsh, currently there are {0} layers...
+Desc_129
+Weakened by the Divine Power of Sand Marsh, currently there are {0} layers...
+Desc_130
+{0}'s {1} has increased by {2}...
+Desc_131
+{0}'s {1} has decreased by {2}...
+Desc_132
+{0}'s {1} has increased...
+Desc_133
+{0}'s {1} has weakened...
+Desc_134
+{0}'s {1} has increased by {2}%...
+Desc_135
+{0}'s {1} has decreased by {2}%...
+Desc_136
+{0}'s {1} has increased by {2}...
+Desc_137
+{0}'s {1} has decreased by {2}...
+Desc_138
+{0} and {1}'s Five-Sylph Qi clashed within their bodies, and {2} managed to escape. With some searching, it may be possible to retrieve it...
+Desc_139
+{0}, due to the host's death in {1}, escaped from within {2}'s body and is now trapped in its grave. It may be possible to retrieve it with some effort...
+Desc_140
+{0} within {1} has met its end, its remains corroding the five organs, leaving the host in agony, and causing impairment to the character's traits...
+Desc_141
+{0} внутри {1} погиб…
+Desc_142
+{0} is aware of the Secrets of the Eminent Monk and the sacred sutra...
+Desc_143
+{0}'s Favor has risen...
+Desc_144
+{0} and {1}'s Five-Sylph Qi clashed within their bodies, and {2} managed to escape. With some searching, it may be possible to retrieve it...
+Desc_145
+The Five Qi within {0} and the <color=#darkbrown>Training Hall Wooden Dummy</color> clashed, causing it to escape through {1}. With some searching, it may be possible to retrieve it...
+Desc_146
+Partially sensing in battle, completing one cycle of Qi Arts operation on {0}, and the Instant Circulation will not trigger again this month...
+Desc_147
+Partially sensing in the Qi Arts Challenge Debate, completing one cycle of Qi Arts operation on {0}, and the Instant Circulation will not trigger again this month...
+Desc_148
+Due to {0}'s death during the Life-and-Death Cycle, the strength of Xuan and Bai waned, and they once again persisted as the Dark Owl & White Deer...
+Desc_149
+Xuan and Bai practiced self-cultivation and Qi cultivation, having regained their strength, and reappeared in human forms...
+Desc_150
+Due to accidentally triggering the underground mechanism while extinguishing the fire, all companions in the team suffered <color=#darkred>significant injury</color>!
+Desc_151
+Seniority of the Aspiration {0} has increased by {1}...
+Desc_152
+The surrounding tile resources have been restored by {0}%...
+Desc_153
+The Divine Tree has advanced by one stage in its growth...
+Desc_154
+The vehicle {0} has been ascended to spirit and transformed into a companion...
+Desc_155
+The beast companion has returned to spirit and has been transformed back into vehicle {0}...
+Desc_156
+It has attracted {0} Just Xiakes and {1} Outlaws...
+Desc_157
+Reveal a Secret about <color=#pinkyellow>{0}</color> to the public...
+Desc_158
+This insight was shared with {1} of {0}...
+Desc_159
+{0}'s influence has <color=#brightblue>increased</color> by <color=#pinkyellow>{1}%</color>, now at {2}...
+Desc_160
+{0}'s influence has <color=#brightred>decreases</color> by <color=#pinkyellow>{1}%</color>, now at {2}...
+Desc_161
+{0}'s <color=#pinkyellow>{1}</color> has improved...
+Desc_162
+{0}'s <color=#pinkyellow>Martial Arts</color> Talent has improved...
+Desc_163
+{0}'s <color=#pinkyellow>Fine Arts</color> Talent has improved...
+Desc_164
+{0}'s trait has changed...
+Desc_165
+Moved by Taiwu's renown, {0} has released {1} prisoners...
+Desc_166
+All of {0}'s characters have been driven away...
+Desc_167
+After mediation, {0} has given up their hatred toward others...
+Desc_168
+Completed the pilgrimage to {0} Buddhist temple, {1} Buddhist temples remaining...
+Desc_169
+{0}'s energy has <color=#brightblue>increased</color> by {1}...
+Desc_170
+Successfully performed the Purgatory Releasing for {0} souls...
+Desc_171
+The bounty of {1} on {0} has been removed...
+Desc_172
+The {1} Penalty faced by {0} has been removed...
+Desc_173
+{0} had their official position bestowed by the Royalty...
+Desc_174
+Gain available Legacy [{0}]...
+Desc_175
+{0}'s <color=#ffffff>culture</color> has <color=#lightblue>increased</color> by {1}...
+Desc_176
+{0}'s <color=#ffffff>Stability</color> has <color=#lightblue>increased</color> {1}...
+Desc_177
+{0}'s <color=#ffffff>Culture</color> has <color=#brightred>declined</color> by {1}...
+Desc_178
+{0}'s <color=#ffffff>Stability</color> has <color=#brightred>declined</color> by {1}...
+Desc_179
+Gained {1} x{2} while passing through a land of plentiful resources at {0}...
+Desc_180
+Gained {1} while passing through a land rich in delicacies {0}...
+Desc_181
+Gained {1} while passing through a land with diverse goods {0}...
+Desc_182
+Gained {1} while passing through a land rich in medicinal herbs {0}...
+Desc_183
+Gained {1} while passing through a land abundant in poisons {0}...
+Desc_184
+You came across Alchemy and Cauldrons and received {0}...
+Desc_185
+You came across Alchemy and Cauldrons and received {0}...
+Desc_186
+You came across Alchemy and Cauldrons and received {0}...
+Desc_187
+You came across Alchemy and Cauldrons and received {0}...
+Desc_188
+Gained {1} while passing through a land fragrant with melons and fruits {0}...
+Desc_189
+Gained {1} while passing through a land filled with birds {0}...
+Desc_190
+Gained {1} while passing through a land teeming with beasts {0}...
+Desc_191
+Gained {1} while passing through a land known for vegetarian delicacies {0}...
+Desc_192
+Gained {1} while passing through a land rich in aquatic produce {0}...
+Desc_193
+Gained {1} while passing through a land lined with taverns {0}...
+Desc_194
+Gained {1} while passing through a land famed for tea production {0}...
+Desc_195
+Gained {1} while passing through a land of bustling workshops {0}...
+Desc_196
+You came across Exhibition of Attire {0}, and received {1}...
+Desc_197
+You came across Armory of Weapons {0}, and received {1}...
+Desc_198
+You came across Armory of Weapons {0}, and received {1}...
+Desc_199
+You came across Armory of Weapons {0}, and received {1}...
+Desc_200
+You came across Armory of Weapons {0}, and received {1}...
+Desc_201
+You came across Armory of Weapons {0}, and received {1}...
+Desc_202
+You came across Armory of Weapons {0}, and received {1}...
+Desc_203
+You came across Armory of Weapons {0}, and received {1}...
+Desc_204
+You came across Armory of Weapons {0}, and received {1}...
+Desc_205
+You came across Armory of Weapons {0}, and received {1}...
+Desc_206
+You came across Armory of Weapons {0}, and received {1}...
+Desc_207
+You came across Armory of Weapons {0}, and received {1}...
+Desc_208
+You came across Armory of Weapons {0}, and received {1}...
+Desc_209
+You came across Armory of Weapons {0}, and received {1}...
+Desc_210
+You came across Armory of Weapons {0}, and received {1}...
+Desc_211
+You came across Armory of Weapons {0}, and received {1}...
+Desc_212
+You came across Armory of Weapons {0}, and received {1}...
+Desc_213
+You came across Collection of Armor {0}, and received {1}...
+Desc_214
+You came across Collection of Armor {0}, and received {1}...
+Desc_215
+You came across Collection of Armor {0}, and received {1}...
+Desc_216
+You came across Collection of Armor {0}, and received {1}...
+Desc_217
+Gained {1} at {0} upon tracing a strange sound to its source...
+Desc_218
+Visited the land of {0}, viewed and learned everything and gained {1} XP...
+Desc_219
+Enlightened by the abundant spiritual Qi, you completed one round of Book Study...
+Desc_220
+Enlightened by the abundant spiritual Qi, you completed one round of Microcosmic Circulation...
+Desc_221
+Province Favor increased in {0} after earning the locals' trust...
+Desc_222
+{0}'s {1} has increased by {2}...
+Desc_223
+Enemy {1} at {0} fled in fear of Taiwu...
+Desc_224
+Obtained {0} XP due to Toxic Swamp in nearby Industry...
+Desc_225
+Crossing the <color=#brightred>Ravaged Plot</color> has damaged everyone's vehicles!
+Desc_226
+Crossing the <color=#brightred>Blackstone Land</color> has damaged everyone's vehicles!
+Desc_227
+{0}'s <color=#pinkyellow>primary attribute</color> has become {1}...
+Desc_228
+{0}'s <color=#pinkyellow>Martial Arts</color> Talent has become {1}...
+Desc_229
+{0}'s <color=#pinkyellow>Fine Art</color> Talent has become {1}...
+Desc_230
+{0}'s <color=#pinkyellow>primary attribute</color> has become {1}...
+Desc_231
+{0}'s <color=#pinkyellow>Martial Arts</color> Talent has become {1}...
+Desc_232
+{0}'s <color=#pinkyellow>Fine Art</color> Talent has become {1}...
+Desc_233
+{0} has escaped...
+Desc_234
+{0}'s Favor has increased by {1}...
+Desc_235
+{0}'s Favor has decreased by {1}...
+Desc_236
+Outlaw {0} destroyed...
+Desc_237
+Xiake {0} destroyed...
+Desc_238
+Underling {0} destroyed...
+Desc_239
+Beast {0} destroyed...
+Desc_240
+You came across Alchemy and Cauldrons {0} and received {1}...
+Desc_241
+You came across Alchemy and Cauldrons {0} and received {1}...
+Desc_242
+You came across Alchemy and Cauldrons {0} and received {1}...
+Desc_243
+You came across Alchemy and Cauldrons {0} and received {1}...
+Desc_244
+Gained a bonus exploration reward {0} x{1}...
+Desc_245
+Gained {0} bonus XP from exploration reward...
+Desc_246
+Gained bonus exploration reward; Province {0}'s Favor increased significantly...
+Desc_247
+Gained {0} of higher tier as exploration reward...
+Desc_248
+Gained bonus exploration reward; completed one round of Book Study efficiently...
+Desc_249
+Gained bonus exploration reward; completed one round of Microcosmic Circulation efficiently...
+Desc_250
+As you are not in any town or village, the crafted <color=#pinkyellow>items</color> have been stored in Taiwu Village's <color=#pinkyellow>private vault</color>...
+Desc_251
+Cured {0} with the Fuyu Hilt, gained {1} Fuyu's Will...
+Desc_252
+Cured {0} Bewitched people in the Stone House, gained {1} Fuyu's Will...
+Desc_253
+Gained {0} [Fuyu's Will]...
+Desc_254
+Gained {0} bonus exploration reward...
+Desc_255
+Jixi eliminated an Outlaw, Taiwu gained {1} Regional Favor in {0}.
+Desc_256
+{0}'s Qi has increased...
+Desc_257
+{0} goes to {1}, waiting for {2} to redeem their freedom..
+Desc_258
+{0} starts following Taiwu...
+Desc_259
+{0} stops following Taiwu...
+Desc_260
+{0} is heading to the banquet...
+Desc_261
+{0} has been eliminated...
+Desc_262
+{0} has become hostile to Taiwu...
+Desc_263
+The music banquet has begun..
+Desc_264
+The Weiqi banquet has begun..
+Desc_265
+The poetry banquet has begun..
+Desc_266
+The painting banquet has begun..
+Desc_267
+{0} has given up on redeeming {1}..
+Desc_268
+Since the Five Elemental Qi can utilize the <color=#FiveElementType_Jingang>Metal Hellstone</color>, {0} and their companions are aided by the <color=#FiveElementType_Jingang>Metal Demonic Qi</color>, <color=#brightblue>reducing</color> their injuries and Inner Breath Chaos...
+Desc_269
+Since the Five Elemental Qi can utilize the <color=#FiveElementType_Zixia>Wood Hellstone</color>, {0} and their companions are aided by the <color=#FiveElementType_Zixia>Wood Demonic Qi</color>, <color=#brightblue>reducing</color> their injuries and Inner Breath Chaos...
+Desc_270
+Since the Five Elemental Qi can utilize the <color=#FiveElementType_Xuanyin>Water Hellstone</color>, {0} and their companions are aided by the <color=#FiveElementType_Xuanyin>Water Demonic Qi</color>, <color=#brightblue>reducing</color> their injuries and Inner Breath Chaos...
+Desc_271
+Since the Five Elemental Qi can utilize the <color=#FiveElementType_Chunyang>Fire Hellstone</color>, {0} and their companions are aided by the <color=#FiveElementType_Chunyang>Fire Demonic Qi</color>, <color=#brightblue>reducing</color> their injuries and Inner Breath Chaos...
+Desc_272
+Since the Five Elemental Qi can utilize the <color=#FiveElementType_Guiyuan>the special Earth Hellstone</color>, {0} and their companions are aided by the <color=#FiveElementType_Guiyuan>Earth Demonic Qi</color>, <color=#brightblue>reducing</color> their injurie sand Inner Breath Chaos...
+Desc_273
+Since the Elemental Qi is incompatible with the <color=#FiveElementType_Jingang>Metal Hellstone</color>, {0} and their companions are suffering from the <color=#FiveElementType_Jingang>Metal Demonic Qi</color>, <color=#brightred>worsening</color> their injuries and Inner Breath Chaos!
+Desc_274
+Since the Elemental Qi is incompatible with the <color=#FiveElementType_Zixia>Wood Hellstone</color>, {0} and their companions are suffering from the <color=#FiveElementType_Zixia>Wood Demonic Qi</color>, <color=#brightred>worsening</color> their injuries and Inner Breath Chaos!
+Desc_275
+Since the Elemental Qi is incompatible with the <color=#FiveElementType_Xuanyin>Water Hellstone</color>, {0} and their companions are suffering from the <color=#FiveElementType_Xuanyin>Water Demonic Qi</color>, <color=#brightred>worsening</color> their injuries and Inner Breath Chaos!
+Desc_276
+Since the Elemental Qi is incompatible with the <color=#FiveElementType_Chunyang>Fire Hellstone</color>, {0} and their companions are suffering from the <color=#FiveElementType_Chunyang>Fire Demonic Qi</color>, <color=#brightred>worsening</color> their injuries and Inner Breath Chaos!
+Desc_277
+Since the Elemental Qi is incompatible with the <color=#FiveElementType_Guiyuan>Earth Hellstone</color>, {0} and their companions are suffering from the <color=#FiveElementType_Guiyuan>Earth Demonic Qi</color>, <color=#brightred>worsening</color> their injuries and Inner Breath Chaos!
+Desc_278
+Since the Five Elemental Qi is suppressed by the <color=#FiveElementType_Jingang>Metal Hellstone</color>, {0} and their companions are suffering from the <color=#FiveElementType_Jingang>Metal Demonic Qi</color>, <color=#brightred>significantly worsening</color> their injuries and Inner Breath Chaos!
+Desc_279
+Since the Five Elemental Qi is suppressed by the <color=#FiveElementType_Zixia>Wood Hellstone</color>, {0} and their companions are suffering from the <color=#FiveElementType_Zixia>Wood Demonic Qi</color>, <color=#brightred>significantly worsening</color> their injuries and Inner Breath Chaos!
+Desc_280
+Since the Five Elemental Qi is suppressed by the <color=#FiveElementType_Xuanyin>Water Hellstone</color>, {0} and their companions are suffering from the <color=#FiveElementType_Xuanyin>Water Demonic Qi</color>, <color=#brightred>significantly worsening</color> their injuries and Inner Breath Chaos!
+Desc_281
+Since the Five Elemental Qi is suppressed by the <color=#FiveElementType_Chunyang>Fire Hellstone</color>, {0} and their companions are suffering from the <color=#FiveElementType_Chunyang>Fire Demonic Qi</color>, <color=#brightred>significantly worsening</color> their injuries and Inner Breath Chaos!
+Desc_282
+Since the Five Elemental Qi is suppressed by the <color=#FiveElementType_Guiyuan>Earth Hellstone</color>, {0} and their companions are suffering from the <color=#FiveElementType_Guiyuan>Earth Demonic Qi</color>, <color=#brightred>significantly worsening</color> their injuries and Inner Breath Chaos!
+Desc_285
+Affected by the <color=#FiveElementType_Jingang>Metal Demonic Qi</color>, {0}'s Elemental Qi became <color=#FiveElementType_Jingang>Metal</color>......
+Desc_286
+Affected by the <color=#FiveElementType_Zixia>Wood Demonic Qi</color>, {0}'s Elemental Qi became <color=#FiveElementType_Zixia>Wood</color>...
+Desc_287
+Affected by the <color=#FiveElementType_Xuanyin>Water Demonic Qi</color>, {0}'s Elemental Qi became <color=#FiveElementType_Xuanyin>Water</color>...
+Desc_288
+Affected by the <color=#FiveElementType_Chunyang>Fire Demonic Qi</color>, {0}'s Elemental Qi became <color=#FiveElementType_Chunyang>Fire</color>...
+Desc_289
+Affected by the <color=#FiveElementType_Guiyuan>Earth Demonic Qi</color>, {0}'s Elemental Qi became <color=#FiveElementType_Guiyuan>Earth</color>...
+Desc_283
+{0} passed away in {1}...
+Desc_284
+{0} {1} passed away in {2}...
+Desc_290
+{0}'s Wariness toward {1} has increased...
+Desc_291
+{0}'s Wariness toward {1} has decreased...
+Desc_293
+For amassing enough Cricket spirituality, {0}'s Endurance has increased... (Temporary description)
+Desc_294
+For amassing enough Cricket spirituality, {0}'s Resilience has increased... (Temporary description)
+Desc_295
+For amassing enough Cricket spirituality, {0}'s Vigor has increased... (Temporary description)
+Desc_296
+For amassing enough Cricket spirituality, {0}'s Strength has increased... (Temporary description)
+Desc_297
+For amassing enough Cricket spirituality, {0}'s Bite Force has increased... (Temporary description)
+Desc_298
+For amassing enough Cricket spirituality, {0}'s Critical Strike has increased... (Temporary description)
+Desc_299
+For amassing enough Cricket spirituality, {0}'s damage has increased... (Temporary description)
+Desc_300
+For amassing enough Cricket spirituality, {0}'s Disability has increased... (Temporary descript)
+Desc_301
+For amassing enough Cricket spirituality, {0}'s Defense has increased... (Temporary description)
+Desc_302
+For amassing enough Cricket spirituality, {0}'s Damage Reduction has increased... (Temporary description)
+Desc_303
+For amassing enough Cricket spirituality, {0}'s Counterattack has increased... (Temporary description)
+Desc_304
+For amassing enough Cricket spirituality, {0}'s Durability has increased... (Temporary description)
+Desc_305
+Upon triggering explosive trap, <color=#brightred>{0}'s multiple parts sustained External Injury</color> and gained the [Flesh Ripped] status. For a time to come, they <color=#brightred> will suffer random External Injury</color> while moving...
+Desc_306
+Upon triggering concealed weapon trap, <color=#brightred>{0}'s multiple parts sustained Internal Injury</color>, and gained [Hit by concealed weapon] status. For a time to come, <color=#brightred>their energy costs are greatly increased while moving</color>......
+Desc_307
+Upon triggering poison trap, <color=#brightred>{0} sustained multiple Poison damage</color>, and gained the [Inhaled Poison Gas] state. For a time to come, <color=#brightred>they will suffer random Internal Injury while moving</color>...
+Desc_308
+Upon triggering ghost whistle trap, <color=#brightred>{0} experiences Mood Reduction and Inner Breath Chaos increases</color>, gaining the [Startled] state. For a time to come, <color=#brightred>they will suffer increased Inner Breath Chaos while moving</color>...
+Desc_309
+Upon triggering ghost whistle trap, <color=#brightred>{0} is disoriented and lost, not knowing where they are</color>, and gains the [Mist] status. For a time to come, <color=#brightred>their vision will be restricted</color>...
+Desc_310
+Automatically discarded {0}...
+Desc_311
+Automatically used {0} and disassembled {1}...
+Desc_312
+Held captive by {0}, {1}'s Resilience is too high; they will attempt to escape upon the next month change, with a success probability of {2}...
+Desc_313
+Using the Monu Weave Divine Sword effect, healed all injuries and toxin affecting {0}...
+Desc_314
+Using the Monu Weave Divine Sword effect, inflicted injuries and toxin upon {0}...
+Desc_315
+Using the Spiritsealer Divine Sword effect, killed {0}...
+Desc_316
+Using the Spiritsealer Divine Sword effect, killed {0}...
+Desc_317
+Using the Dark Frost Divine Sword effect, restored all resources in nearby tiles...
+Desc_318
+Using the Dark Frost Divine Sword effect, devastated nearby tiles...
+Desc_319
+Using the Fenghuang Cocoon Divine Sword effect, bestowed Heavenly Fortune upon {0}...
+Desc_320
+Using the Fenghuang Cocoon Divine Sword effect, bestowed Unexpected Disaster upon {0}...
+Desc_321
+Using the Ignideus Blaze Divine Sword effect, caused {0} to fall in love with {1}...
+Desc_322
+Using the Ignideus Blaze Divine Sword effect, caused {0} and {1} to become enemies...
+Desc_323
+Due to the Candelor's Tail Divine Sword effect, {0}'s Health Status was transferred to nearby characters...
+Desc_324
+Due to the Candelor's Tail Divine Sword effect, {0} took on the Health Status of nearby characters...
+Desc_325
+Using the Vitalos Divine Sword effect, temporarily changed the mindset of all nearby characters to Benevolent...
+Desc_326
+Using the Vitalos Divine Sword effect, temporarily changed the mindset of all nearby characters to Rebellious...
+Desc_327
+Using the Demonbind Divine Sword effect, punished {0}...
+Desc_328
+Using the Demonbind Divine Sword effect, summoned Xiangshu Underlings to nearby tiles...
+Desc_329
+Using the Rainbow Ultima Divine Sword effect, reduced {0}'s Current Age...
+Desc_330
+Using the Rainbow Ultima Divine Sword effect, increased {0}'s Current Age...
+Desc_331
+Used the Fenghuang Cocoon Divine Sword effect, but it failed...
+Desc_332
+Used the Fenghuang Cocoon Divine Sword effect, but it failed...
+Desc_333
+Wei Qi has begun protecting {0}...
+Desc_334
+Wei Qi has begun bringing calamity upon {0}...
+

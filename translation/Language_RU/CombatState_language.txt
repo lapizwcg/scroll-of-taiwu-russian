@@ -1,0 +1,1518 @@
+Name_0
+Золотой рассекатель меридианов
+Name_1
+Золотой рассекатель меридианов
+Name_2
+Похищение души
+Name_3
+Похищение души
+Name_4
+Великий кулак ваджры
+Name_5
+Великий кулак ваджры
+Name_6
+Великий кулак ваджры
+Name_7
+Великий кулак ваджры
+Name_8
+Чань одного пальца Шаолиня
+Name_9
+Чань одного пальца Шаолиня
+Name_10
+Облегчённое тело
+Name_11
+Кувырок от одного касания
+Name_12
+Кувырок от одного касания
+Name_13
+Стиль подмены
+Name_14
+Стиль подмены
+Name_15
+Стиль подмены
+Name_16
+Стиль подмены
+Name_17
+Чань одного пальца Эмэй
+Name_18
+Чань одного пальца Эмэй
+Name_19
+Шаг летящего бессмертного с Цзиньдина
+Name_20
+Застывшее море крови
+Name_21
+Застывшее море крови
+Name_22
+Искусство меча тайцзи
+Name_23
+Искусство меча тайцзи
+Name_24
+Эликсир созерцателя
+Name_25
+Эликсир созерцателя
+Name_26
+Меч раскрытия и смыкания
+Name_27
+Меч раскрытия и смыкания
+Name_28
+Меч раскрытия и смыкания
+Name_29
+Меч раскрытия и смыкания
+Name_30
+Меч раскрытия и смыкания
+Name_31
+Меч раскрытия и смыкания
+Name_32
+Меч раскрытия и смыкания
+Name_33
+Меч раскрытия и смыкания
+Name_34
+Печать, отводящая ветер
+Name_35
+Печать, отводящая ветер
+Name_36
+Ни мысли о возвращении
+Name_37
+Пришествие фэнхуана
+Name_38
+Пришествие фэнхуана
+Name_39
+Лэйцзу разматывает кокон
+Name_40
+Лэйцзу разматывает кокон
+Name_41
+Палец Эгарима
+Name_42
+Песнь разорванных душ
+Name_43
+Хватающая рука горы Чай
+Name_44
+Хватающая рука горы Чай
+Name_45
+Ломоносовая костяная ладонь
+Name_46
+Ломоносовая костяная ладонь
+Name_47
+Малые восемь стилей: стук золота и яшмы
+Name_48
+Малые восемь стилей: стук золота и яшмы
+Name_49
+Малые восемь стилей: стук золота и яшмы
+Name_50
+Малые восемь стилей: стук золота и яшмы
+Name_51
+Великие восемь стилей: летящие горы, разбитые моря
+Name_52
+Великие восемь стилей: летящие горы, разбитые моря
+Name_53
+Кулак пятикратной ярости
+Name_54
+Кулак пятикратной ярости
+Name_55
+Ваджрная ладонь чёрного песка
+Name_56
+Ваджрная ладонь чёрного песка
+Name_57
+Хватка меридианов
+Name_58
+Хватка меридианов
+Name_59
+Испепеляющее искусство меча
+Name_60
+Испепеляющее искусство меча
+Name_61
+Висячая яшмовая верёвка
+Name_62
+Висячая яшмовая верёвка
+Name_63
+Поворот небесного змея
+Name_64
+Изгнание кровавой куклы
+Name_65
+Изгнание кровавой куклы
+Name_66
+Изгнание кровавой куклы
+Name_67
+Изгнание кровавой куклы
+Name_68
+Небо и море в упоении
+Name_69
+Пламя красного и синего бога
+Name_70
+Пламя красного и синего бога
+Name_71
+Пламя красного и синего бога
+Name_72
+Пламя красного и синего бога
+Name_73
+Скорпионий пинок
+Name_74
+Скорпионий пинок
+Name_75
+Скорбь Тайу
+Name_76
+Скорбь Тайу
+Name_77
+Скорбь Тайу
+Name_78
+Скорбь Тайу
+Name_79
+Скорбь Тайу
+Name_80
+Скорбь Тайу
+Name_81
+Скорбь Тайу
+Name_82
+Скорбь Тайу
+Name_83
+Раскрытие оружия
+Name_84
+Раскрытие оружия
+Name_85
+Раскрытие оружия
+Name_86
+Раскрытие оружия
+Name_87
+Раскрытие оружия
+Name_88
+Раскрытие оружия
+Name_89
+Раскрытие оружия
+Name_90
+Раскрытие оружия
+Name_91
+Раскрытие оружия
+Name_92
+Раскрытие оружия
+Name_93
+Испытание остроты
+Name_94
+Расщеплённое лезвие
+Name_95
+Расщеплённое лезвие
+Name_96
+Расщеплённое лезвие
+Name_97
+Расщеплённое лезвие
+Name_98
+Расщеплённое лезвие
+Name_99
+Расщеплённое лезвие
+Name_100
+Расщеплённое лезвие
+Name_101
+Расщеплённое лезвие
+Name_102
+Расщеплённое лезвие
+Name_103
+Расщеплённое лезвие
+Name_104
+Расщеплённое лезвие
+Name_105
+Расщеплённое лезвие
+Name_106
+Расщеплённое лезвие
+Name_107
+Расщеплённое лезвие
+Name_108
+Расщеплённое лезвие
+Name_109
+Расщеплённое лезвие
+Name_110
+Расщеплённое лезвие
+Name_111
+Расщеплённое лезвие
+Name_112
+Расщеплённое лезвие
+Name_113
+Расщеплённое лезвие
+Name_114
+Забытьё
+Name_115
+Забытьё
+Name_116
+Spiritual Imbalance
+Name_117
+Безмолвный разум
+Name_118
+Мимолётный цвет
+Name_119
+Тысяча способов
+Name_120
+Volatile Loong Depiction
+Name_121
+Око разума
+Name_122
+Беспечальные
+Name_123
+Дивное искусство теней
+Name_124
+Безымянное искусство меча
+Name_125
+Смертоносная мара
+Name_126
+Sky Divider
+Name_127
+Изначальное
+Name_128
+Novem-resembler
+Name_129
+Творец чудес
+Name_130
+Celestial Melodist
+Name_131
+Summit Surmounted
+Name_132
+Narrow Pass
+Name_133
+Meandering Path
+Name_134
+Boundless Wilderness
+Name_135
+Verdant Vigor
+Name_136
+Brisk Waters
+Name_137
+Misty Ripples
+Name_138
+Dense Canopies
+Name_139
+Gloaming Caves
+Name_140
+Sunken Toxin
+Name_141
+Heaven of Rejuvenation
+Name_142
+Яд спасения
+Name_143
+Яд спасения
+Name_144
+Яд спасения
+Name_145
+Яд спасения
+Name_146
+Кровавое разорение
+Name_147
+Мучительное испытание
+Name_148
+Monkey Mastery
+Name_149
+Eagle Mastery
+Name_150
+Boar Mastery
+Name_151
+Brown Bear Mastery
+Name_152
+Bison Mastery
+Name_153
+Python Mastery
+Name_154
+Leopard Mastery
+Name_155
+Lion Mastery
+Name_156
+Tiger Mastery
+Name_157
+Nimble Monkey Mastery
+Name_158
+Golden Eagle Mastery
+Name_159
+Black Boar Mastery
+Name_160
+Albino Bear Mastery
+Name_161
+Kuiniu Mastery
+Name_162
+Bashe Mastery
+Name_163
+Noir Leopard Mastery
+Name_164
+Aureate Lion Mastery
+Name_165
+White Tiger Mastery
+Name_166
+Введение семи кругов
+Name_167
+Введение семи кругов
+Name_168
+White Jiao Mastery
+Name_169
+Black Jiao Mastery
+Name_170
+Azure Jiao Mastery
+Name_171
+Red Jiao Mastery
+Name_172
+Yellow Jiao Mastery
+Name_173
+Yin-Yang Jiao Mastery
+Name_174
+Flying Thunder Jiao Mastery
+Name_175
+Thunderfire Jiao Mastery
+Name_176
+Golden-Eyed Jiao Mastery
+Name_177
+Azure Marsh Jiao Mastery
+Name_178
+Burning Cloud Jiao Mastery
+Name_179
+Mud Pool Jiao Mastery
+Name_180
+Flamehorn Jiao Mastery
+Name_181
+Mountain-Hiding Jiao Mastery
+Name_182
+Bone-Refining Jiao Mastery
+Name_183
+Sea-Disrupting Jiao Mastery
+Name_184
+Cloud-Drifting Jiao Mastery
+Name_185
+Abyssal Jiao Mastery
+Name_186
+Heavenly Thunder Jiao Mastery
+Name_187
+Desolate Path Jiao Mastery
+Name_188
+Qilin Jiao Mastery
+Name_189
+Underworld Jiao Mastery
+Name_190
+Immortal Mountain Jiao Mastery
+Name_191
+Flame Pond Jiao Mastery
+Name_192
+Blaze Hill Jiao Mastery
+Name_193
+Ditto Jiao Mastery
+Name_194
+Mammon Jiao Mastery
+Name_195
+Sea-Guarding Jiao Mastery
+Name_196
+Devouring Jiao Mastery
+Name_197
+Scattered-scales Jiao Mastery
+Name_198
+Colored Jiao Mastery
+Name_199
+Qiu Niu Mastery
+Name_200
+Yazi Mastery
+Name_201
+Chao Feng Mastery
+Name_202
+Pu Lao Mastery
+Name_203
+Suan Ni Mastery
+Name_204
+Ba Xia Mastery
+Name_205
+Bi An Mastery
+Name_206
+Fu Xi Mastery
+Name_207
+Chi Wen Mastery
+Name_208
+Искусство сабли шести согласий
+Name_209
+Искусство сабли шести согласий
+Name_210
+Мускус ядовитого пера
+Name_211
+Мускус ядовитого пера
+Name_212
+Жало скорпиона
+Name_213
+Жало скорпиона
+Name_214
+Зимний костобой
+Name_215
+Зимний костобой
+Name_216
+Приём кровавой ладони
+Name_217
+Приём кровавой ладони
+Name_218
+Стигийский палец
+Name_219
+Стигийский палец
+Name_220
+Палец мандалы
+Name_221
+Палец мандалы
+Name_222
+Напев яшмового цветка
+Name_223
+Напев яшмового цветка
+Name_224
+Gripped by Death
+Name_225
+Душа расколота
+Name_226
+Shaolin Legacy
+Name_227
+Emei Legacy
+Name_228
+Valley of Flowers Legacy
+Name_229
+Wudang Legacy
+Name_230
+Yuanshan Legacy
+Name_231
+Lion-Face Clan Legacy
+Name_232
+Ranshan Legacy
+Name_233
+Jade-Maiden Sect Legacy
+Name_234
+Swordsmiths Legacy
+Name_235
+Kongsang Legacy
+Name_236
+Metal Legacy
+Name_237
+The Five Immortals Legacy
+Name_238
+Veil Scar Legacy
+Name_239
+Fuloong Legacy
+Name_240
+Sanguine Legacy
+Name_241
+Колокол, зовущий духов
+Name_242
+Колокол, зовущий духов
+Name_243
+Beast Hunter
+Name_244
+Небесный горн
+Name_245
+Небесный горн
+Name_246
+Адский камень металла
+Name_247
+Адский камень дерева
+Name_248
+Адский камень воды
+Name_249
+Адский камень огня
+Name_250
+Адский камень земли
+Name_251
+Златой гу
+Name_252
+Златой гу
+TipsDesc_0
+
+TipsDesc_1
+
+TipsDesc_2
+
+TipsDesc_3
+
+TipsDesc_4
+
+TipsDesc_5
+
+TipsDesc_6
+
+TipsDesc_7
+
+TipsDesc_8
+
+TipsDesc_9
+
+TipsDesc_10
+
+TipsDesc_11
+
+TipsDesc_12
+
+TipsDesc_13
+
+TipsDesc_14
+
+TipsDesc_15
+
+TipsDesc_16
+
+TipsDesc_17
+
+TipsDesc_18
+
+TipsDesc_19
+
+TipsDesc_20
+
+TipsDesc_21
+
+TipsDesc_22
+
+TipsDesc_23
+
+TipsDesc_24
+
+TipsDesc_25
+
+TipsDesc_26
+
+TipsDesc_27
+
+TipsDesc_28
+
+TipsDesc_29
+
+TipsDesc_30
+
+TipsDesc_31
+
+TipsDesc_32
+
+TipsDesc_33
+
+TipsDesc_34
+
+TipsDesc_35
+
+TipsDesc_36
+
+TipsDesc_37
+
+TipsDesc_38
+
+TipsDesc_39
+
+TipsDesc_40
+
+TipsDesc_41
+
+TipsDesc_42
+
+TipsDesc_43
+
+TipsDesc_44
+
+TipsDesc_45
+
+TipsDesc_46
+
+TipsDesc_47
+
+TipsDesc_48
+
+TipsDesc_49
+
+TipsDesc_50
+
+TipsDesc_51
+
+TipsDesc_52
+
+TipsDesc_53
+
+TipsDesc_54
+
+TipsDesc_55
+
+TipsDesc_56
+
+TipsDesc_57
+
+TipsDesc_58
+
+TipsDesc_59
+
+TipsDesc_60
+
+TipsDesc_61
+
+TipsDesc_62
+
+TipsDesc_63
+
+TipsDesc_64
+
+TipsDesc_65
+
+TipsDesc_66
+Takes the Direct External Injury sustained from the next instance of {0}
+TipsDesc_67
+Takes the Direct Internal Injury sustained from the next instance of {0}
+TipsDesc_68
+
+TipsDesc_69
+
+TipsDesc_70
+
+TipsDesc_71
+
+TipsDesc_72
+
+TipsDesc_73
+
+TipsDesc_74
+
+TipsDesc_75
+
+TipsDesc_76
+
+TipsDesc_77
+
+TipsDesc_78
+
+TipsDesc_79
+
+TipsDesc_80
+
+TipsDesc_81
+
+TipsDesc_82
+
+TipsDesc_83
+
+TipsDesc_84
+
+TipsDesc_85
+
+TipsDesc_86
+
+TipsDesc_87
+
+TipsDesc_88
+
+TipsDesc_89
+
+TipsDesc_90
+
+TipsDesc_91
+
+TipsDesc_92
+
+TipsDesc_93
+
+TipsDesc_94
+
+TipsDesc_95
+
+TipsDesc_96
+
+TipsDesc_97
+
+TipsDesc_98
+
+TipsDesc_99
+
+TipsDesc_100
+
+TipsDesc_101
+
+TipsDesc_102
+
+TipsDesc_103
+
+TipsDesc_104
+
+TipsDesc_105
+
+TipsDesc_106
+
+TipsDesc_107
+
+TipsDesc_108
+
+TipsDesc_109
+
+TipsDesc_110
+
+TipsDesc_111
+
+TipsDesc_112
+
+TipsDesc_113
+
+TipsDesc_114
+
+TipsDesc_115
+
+TipsDesc_116
+
+TipsDesc_117
+Due to a glimpse into the mystery of a Secret Tome, the Power of your Martial Arts greatly increases or decreases according to the balance of Five Elements of your Qi.
+TipsDesc_118
+Due to a glimpse into the mystery of a Secret Tome, your Footwork cost greatly decreases in battles.
+TipsDesc_119
+Due to a glimpse into the mystery of a Secret Tome, the Power of your Protection and Acumen Martial Arts multiplies.
+TipsDesc_120
+Due to a glimpse into the mystery of a Secret Tome, after using Gauntlet weapons in 5 follow-ups on the enemy in one weapon attack round, if the wielder can drop their weapon, the enemy drops their current weapon and becomes Unarmed, or switches to available weapons. The closer the wielder is to the enemy, the more Direct DMG their Fist Martial Arts deal.
+TipsDesc_121
+Due to a glimpse into the mystery of a Secret Tome, after using Fist Arts in 5 follow-up attacks on an enemy in one weapon attack round, 1 of their Martial Arts will be Sealed for a short duration. The more sealed acupoints they have, the more Direct DMG your Finger Arts deal.
+TipsDesc_122
+Due to a glimpse into the mystery of a Secret Tome, use your weapons in place of leg armor and affect the cast effects of Kicking Arts. The lower the enemy's Stamina is, the more Direct DMG your Kicking Arts deal.
+TipsDesc_123
+Due to a glimpse into the mystery of a Secret Tome, your attacks using Concealed Weapons ignore the enemy's armor. The further apart you are from the enemy, the more Direct DMG your Concealed Weapons Martial Arts deal.
+TipsDesc_124
+Due to a glimpse into the mystery of a Secret Tome, when you hit an enemy with a sword, the chance of Follow-ups increases. The less usable styles the enemy has, the more Direct DMG the user's Sword Arts deal.
+TipsDesc_125
+Due to a glimpse into the mystery of a Secret Tome, when you hit the enemy with a blade, the Direct DMG dealt increases by 33%. The more openings the enemy has, the more Direct DMG the user's Blade Arts deal.
+TipsDesc_126
+Due to a glimpse into the mystery of a Secret Tome, after using Polearm weapons in 5 follow-ups on the enemy in one weapon attack round, the enemy's [Protection] duration reduces by half. The more Defeat Markers the user has, the more Direct DMG the user's Polearm Martial Arts deal.
+TipsDesc_127
+Due to a glimpse into the mystery of a Secret Tome, when the user lands a Pinpoint Strike using Exotic Weapons, additionally attacks 2 random parts of the enemy. The lower the enemy's Stance, the more Direct DMG the user's martial arts of Exotic Weapons deal.
+TipsDesc_128
+Due to a glimpse into the mystery of a Secret Tome, the range of your whips increases. The lower the enemy's Inhale, the more Direct DMG your Whip Martial Arts deal.
+TipsDesc_129
+Due to a glimpse into the mystery of a Secret Tome, when you land a Pinpoint Strike using ranged weapons, the chance of follow-up attacks multiplies. The more Pinpoint Strikes you land, the more Direct DMG your Ranged Martial Arts deal.
+TipsDesc_130
+Due to a glimpse into the mystery of a Secret Tome, when you hit an enemy using Enchanting Tones, they lose True Qi. The more Tone Moves you have, the more mental damage your Enchanting Tones Martial Arts deal.
+TipsDesc_131
+Reduces time consumed by Weapon Attack by 20%.
+TipsDesc_132
+Increases the Cast Speed of your Martial Arts by 20%.
+TipsDesc_133
+Reduces your enemy's Accuracy by 20%.
+TipsDesc_134
+Increases your Accuracy by 20%.
+TipsDesc_135
+Increases Inhale and Stance Recovery by 20%.
+TipsDesc_136
+Increases recovery speed of Stamina by 20%.
+TipsDesc_137
+Increases charge-up rate of Footwork Arts by 20%.
+TipsDesc_138
+Increases acquisition speed of Pinpoint Strikes by 20%.
+TipsDesc_139
+Increases the cooldown duration of your enemy's weapon attack by 20%.
+TipsDesc_140
+Increases the Toxins inflicted on your enemy by 50% and their levels by 1.
+TipsDesc_141
+Recovers all used Qi at the end of battle.
+TipsDesc_142
+The Venom of Salvation drastically increases your abilities.
+TipsDesc_143
+The Venom of Salvation drastically increases your abilities.
+TipsDesc_144
+The Venom of Salvation drastically increases your abilities.
+TipsDesc_145
+The Venom of Salvation drastically increases your abilities and makes you impervious to toxins.
+TipsDesc_146
+
+TipsDesc_147
+
+TipsDesc_148
+With Monkey Mastery, enhances the increase effects of the user's Martial Art power, and weakens the reduction effects.
+TipsDesc_149
+With Eagle Mastery, the greater the distance from the target, the higher the user's chance to land a fatal strike.
+TipsDesc_150
+With Boar Mastery, the closer the distance from the target, the higher the user's chance to land a fatal strike.
+TipsDesc_151
+With Brown Bear Mastery, the user deals more Direct Wound Damage to enemies while taking less Direct Wound Damage from them.
+TipsDesc_152
+With Bison Mastery, increases the user's Reflection power.
+TipsDesc_153
+With Python Mastery, the user's Healing and Detox effects are enhanced, while enemies' Healing and Detox effects are weakened.
+TipsDesc_154
+With Leopard Mastery, increases the user's Counter power.
+TipsDesc_155
+With Lion Mastery, the user's ability to weaken enemy Footwork Arts, Stamina, Inhale, and Stance is enhanced, while those weakening effects inflicted by enemies on the user are reduced.
+TipsDesc_156
+With Tiger Mastery, the user's Follow-up Damage dealt to enemies continuously increases until the end of Follow-up.
+TipsDesc_157
+With Nimble Monkey Mastery, enhances the increase effects of the user's Martial Art power, and weakens the reduction effects.
+TipsDesc_158
+With Golden Eagle Mastery, the greater the distance from the target, the higher the user's chance to land a fatal strike.
+TipsDesc_159
+With Black Boar Mastery, the closer the distance from the target, the higher the user's chance to land a fatal strike.
+TipsDesc_160
+With Albino Bear Mastery, the user deals more Direct Wound Damage to enemies while taking less Direct Wound Damage from them.
+TipsDesc_161
+With Kuiniu Mastery, the user's Reflection power increases.
+TipsDesc_162
+With Bashe Mastery, the user's Healing and Detox effects are enhanced, while enemies' Healing and Detox effects are weakened.
+TipsDesc_163
+With Noir Leopard Mastery, the user's Counter power increases.
+TipsDesc_164
+With Aureate Lion Mastery, the user's ability to weaken enemy Footwork Arts, Stamina, Inhale, and Stance is enhanced, while those weakening effects inflicted by enemies on the user are reduced.
+TipsDesc_165
+With White Tiger Mastery, the user's Follow-up Damage dealt to enemies continuously increases until the end of Follow-up.
+TipsDesc_166
+Slowly and steadily generates True Qi of a random type.
+TipsDesc_167
+Slowly and steadily drains True Qi of a random type.
+TipsDesc_168
+With White Jiao Mastery, increases the user's [Composure].
+TipsDesc_169
+With Black Jiao Mastery, the user's [Intelligence] increases.
+TipsDesc_170
+With Azure Jiao Mastery, increases the user's [Enthusiasm].
+TipsDesc_171
+With Red Jiao Mastery, increases the user's [Valor].
+TipsDesc_172
+With Yellow Jiao Mastery, increases the user's [Fortitude].
+TipsDesc_173
+With Yin-Yang Jiao Mastery, increases the user's [Composure] and [Intelligence].
+TipsDesc_174
+With Flying Thunder Jiao Mastery, increases the user's [Composure] and [Enthusiasm].
+TipsDesc_175
+With Thunderfire Jiao Mastery, increases the user's [Composure] and [Valor].
+TipsDesc_176
+With Golden-Eyed Jiao Mastery, increases the user's [Composure] and [Fortitude].
+TipsDesc_177
+With Azure Marsh Jiao Mastery, increases the user's [Wit] and [Enthusiasm].
+TipsDesc_178
+With Burning Cloud Jiao Mastery, increases the user's [Wit] and [Valor].
+TipsDesc_179
+With Mud Pool Jiao Mastery, increases the user's [Intelligence] and [Fortitude].
+TipsDesc_180
+With Flamehorn Jiao Mastery, increases the user's [Enthusiasm] and [Valor].
+TipsDesc_181
+With Mountain-Hiding Jiao Mastery, increases the user's [Enthusiasm] and [Fortitude].
+TipsDesc_182
+With Bone-Refining Jiao Mastery, increases the user's [Valor] and [Fortitude].
+TipsDesc_183
+With Sea-Disrupting Jiao Mastery, increases the user's [Composure], [Wit] and [Enthusiasm].
+TipsDesc_184
+With Cloud-Drifting Jiao Mastery, increases the user's [Composure], [Wit] and [Valor].
+TipsDesc_185
+With Abyssal Jiao Mastery, increases the user's [Composure], [Intelligence] and [Fortitude].
+TipsDesc_186
+With Heavenly Thunder Jiao Mastery, increases the user's [Composure], [Enthusiasm] and [Valor].
+TipsDesc_187
+With Desolate Path Jiao Mastery, increases the user's [Composure], [Enthusiasm] and [Fortitude].
+TipsDesc_188
+With Qilin Jiao Mastery, increases the user's [Composure], [Valor] and [Fortitude].
+TipsDesc_189
+With Underworld Jiao Mastery, increases the user's [Wit], [Enthusiasm] and [Valor].
+TipsDesc_190
+With Immortal Mountain Jiao Mastery, increases the user's [Wit], [Enthusiasm] and [Fortitude].
+TipsDesc_191
+With Flame Pond Jiao Mastery, increases the user's [Wit], [Valor] and [Fortitude].
+TipsDesc_192
+With Blaze Hill Jiao Mastery, increases the user's [Enthusiasm], [Valor] and [Fortitude].
+TipsDesc_193
+With Ditto Jiao Mastery, increases the user's [Composure], [Wit], [Enthusiasm], and [Valor].
+TipsDesc_194
+With Mammon Jiao Mastery, increases the user's [Composure], [Wit], [Enthusiasm], and [Fortitude].
+TipsDesc_195
+With Sea-Guarding Jiao Mastery, increases the user's [Composure], [Wit], [Valor], and [Fortitude].
+TipsDesc_196
+With Devouring Jiao Mastery, increases the user's [Composure], [Enthusiasm], [Valor], and [Fortitude].
+TipsDesc_197
+With Scattered-scales Jiao Mastery, increases the user's [Wit], [Enthusiasm], [Valor], and [Fortitude].
+TipsDesc_198
+With Colored Jiao Mastery, increases the user's [Composure], [Wit], [Enthusiasm], [Valor], and [Fortitude].
+TipsDesc_199
+With Qiu Niu Mastery, the user's Force, Precision, and Dexterity are enhanced by their Sway, while their Resistance, Parry, and Dodge are boosted by their Poise.
+TipsDesc_200
+With Yazi Mastery, a portion of any Direct DMG enemies inflict on the user will be added to the user's next attack.
+TipsDesc_201
+With Chao Feng Mastery, the user's Stamina Recovery Speed increases.
+TipsDesc_202
+With Pu Lao Mastery, the user reduces Direct DMG taken based on how close the attacker's Qi and Physical Martial Arts Ratios are.
+TipsDesc_203
+With Suan Ni Mastery, the Wound Damage dealt by the user is boosted. When the user inflicts a direct external or internal injury, there is a chance to convert the damage into Wound Damage.
+TipsDesc_204
+With Ba Xia Mastery, the user ignores weight penalties from weapons and armor. Heavier equipment increases their weapon and armor power cap.
+TipsDesc_205
+With Bi An Mastery, attacking enemies with negative Reputation boosts the user's Phy. Penetration and Qi Penetration based on their reputation; when attacked by enemies with negative Reputation, the user's Phy. Defense and Qi Defense increase likewise.
+TipsDesc_206
+With Fu Xi Mastery, the user's Hit and Deflection scale with their Music, Weiqi, Literature, and Painting Attainment; the user's Attack and Defend scale with their Carpentry, Smithing, Weaving, and Jewelcrafting Attainment.
+TipsDesc_207
+With Chi Wen Mastery, for each available style the user costs, all lost True Qi restores by 2; for each available move the enemy costs, all excess True Qi drains by 2.
+TipsDesc_208
+
+TipsDesc_209
+
+TipsDesc_210
+
+TipsDesc_211
+
+TipsDesc_212
+
+TipsDesc_213
+
+TipsDesc_214
+
+TipsDesc_215
+
+TipsDesc_216
+
+TipsDesc_217
+
+TipsDesc_218
+
+TipsDesc_219
+
+TipsDesc_220
+
+TipsDesc_221
+
+TipsDesc_222
+
+TipsDesc_223
+
+TipsDesc_224
+Death aura surges in the chest like thunderstrike, causing excruciating pain and crippling Qi circulation...
+TipsDesc_225
+Corroding death aura shreds internal organs with spectral blades, amplifying agony while impairing vital meridians...
+TipsDesc_226
+Boosts Shaolin Martial Arts power. Weakens The One Reborn's Shaolin Martial Arts power...
+TipsDesc_227
+Boosts Emei Martial Arts power. Weakens The One Reborn's Emei Martial Arts power...
+TipsDesc_228
+Boosts Valley of Flowers Martial Arts power. Weakens The One Reborn's Valley of Flowers Martial Arts power...
+TipsDesc_229
+Boosts Wudang Martial Arts power. Weakens The One Reborn's Wudang Martial Arts power...
+TipsDesc_230
+Boosts Yuanshan Martial Arts power. Weakens The One Reborn's Yuanshan Martial Arts power...
+TipsDesc_231
+Boosts Lion-Face Clan Martial Arts power. Weakens The One Reborn's Lion-Face Clan Martial Arts power...
+TipsDesc_232
+Boosts Ranshan Martial Arts power. Weakens The One Reborn's Ranshan Martial Arts power...
+TipsDesc_233
+Boosts Jade-Maiden Sect Martial Arts power. Weakens The One Reborn's Jade-Maiden Sect Martial Arts power...
+TipsDesc_234
+Boosts Swordsmiths Martial Arts power. Weakens The One Reborn's Swordsmiths Martial Arts power...
+TipsDesc_235
+Boosts Kongsang Sect Martial Arts power. Weakens The One Reborn's Kongsang Sect Martial Arts power...
+TipsDesc_236
+Boosts Vajra Sect Martial Arts power. Weakens The One Reborn's Vajra Sect Martial Arts power...
+TipsDesc_237
+Boosts Five Immortals Sect Martial Arts power. Weakens The One Reborn's Five Immortals Sect Martial Arts power ...
+TipsDesc_238
+Boosts Veil Scar Martial Arts power. Weakens The One Reborn's Veil Scar Martial Arts power...
+TipsDesc_239
+Boosts Fuloong Martial Arts power. Weakens The One Reborn's Fuloong Martial Arts power...
+TipsDesc_240
+Boosts Sanguine Martial Arts power. Weakens The One Reborn's Sanguine Martial Arts power...
+TipsDesc_241
+Stricken by the Ghostcall Bell, all Secondary Attributes are halved. Only by striking down its master can one glimpse a sliver of hope...
+TipsDesc_242
+Recoiled by the Ghostcall Bell, all Secondary Attributes are halved. Spirit shattered, will undone, powerless to resist...
+TipsDesc_243
+While battling beasts, the character's Hit, Deflection, Attack, and Defense increases...
+TipsDesc_244
+Transforms the weapon into a Mystic Armament: Mystic Armament cannot be disarmed and does not break from weapon attacks. Direct DMG dealt by Mystic Armament cannot be reduced by any effect, unless the target is protected by Mystic Armor.
+TipsDesc_245
+Transforms the armor into Mystic Armor: Mystic Armor cannot be disarmed and does not break from weapon attacks. Direct DMG blocked by Mystic Armor cannot be enhanced by any effect, unless the attacker is wielding a Mystic Armament.
+TipsDesc_246
+If the character's Qi is Wood-natured, then the character continuously gains random Injury Markers and more Chaos; if the character's inner energy is Water-natured, then continuously removes random Injury Markers and newly acquired Chaos...
+TipsDesc_247
+If the character's Qi is Earth-natured, then the character continuously gains random Injury Markers and more Chaos; if the character's inner energy is Fire-natured, then continuously removes random Injury Markers and newly acquired Chaos...
+TipsDesc_248
+If the character's Qi is Fire-natured, then the character continuously gains random Injury Markers and more Chaos; if the character's inner energy is Wood-natured, then continuously removes random Injury Markers and newly acquired Chaos...
+TipsDesc_249
+If the character's Qi is Metal-natured, then the character continuously gains random Injury Markers and more Chaos; if the character's inner energy is Earth-natured, then continuously removes random Injury Markers and newly acquired Chaos...
+TipsDesc_250
+If the character's Qi is Water-natured, then the character continuously gains random Injury Markers and more Chaos; if the character's inner energy is Metal-natured, then continuously removes random Injury Markers and newly acquired Chaos...
+TipsDesc_251
+Due to the Aureate Gu consuming other Gu Larvae, Direct DMG taken by the host is reduced...
+TipsDesc_252
+Due to the Aureate Gu consuming other Gu Larvae, Direct DMG taken by the host is increased...
+Desc_0
+
+Desc_1
+
+Desc_2
+
+Desc_3
+
+Desc_4
+
+Desc_5
+
+Desc_6
+
+Desc_7
+
+Desc_8
+
+Desc_9
+
+Desc_10
+
+Desc_11
+
+Desc_12
+
+Desc_13
+
+Desc_14
+
+Desc_15
+
+Desc_16
+
+Desc_17
+
+Desc_18
+
+Desc_19
+
+Desc_20
+
+Desc_21
+
+Desc_22
+
+Desc_23
+
+Desc_24
+
+Desc_25
+
+Desc_26
+
+Desc_27
+
+Desc_28
+
+Desc_29
+
+Desc_30
+
+Desc_31
+
+Desc_32
+
+Desc_33
+
+Desc_34
+
+Desc_35
+
+Desc_36
+
+Desc_37
+
+Desc_38
+
+Desc_39
+
+Desc_40
+
+Desc_41
+
+Desc_42
+
+Desc_43
+
+Desc_44
+
+Desc_45
+
+Desc_46
+
+Desc_47
+
+Desc_48
+
+Desc_49
+
+Desc_50
+
+Desc_51
+
+Desc_52
+
+Desc_53
+
+Desc_54
+
+Desc_55
+
+Desc_56
+
+Desc_57
+
+Desc_58
+
+Desc_59
+
+Desc_60
+
+Desc_61
+
+Desc_62
+
+Desc_63
+
+Desc_64
+
+Desc_65
+
+Desc_66
+
+Desc_67
+
+Desc_68
+
+Desc_69
+
+Desc_70
+
+Desc_71
+
+Desc_72
+
+Desc_73
+
+Desc_74
+
+Desc_75
+
+Desc_76
+
+Desc_77
+
+Desc_78
+
+Desc_79
+
+Desc_80
+
+Desc_81
+
+Desc_82
+
+Desc_83
+
+Desc_84
+
+Desc_85
+
+Desc_86
+
+Desc_87
+
+Desc_88
+
+Desc_89
+
+Desc_90
+
+Desc_91
+
+Desc_92
+
+Desc_93
+
+Desc_94
+
+Desc_95
+
+Desc_96
+
+Desc_97
+
+Desc_98
+
+Desc_99
+
+Desc_100
+
+Desc_101
+
+Desc_102
+
+Desc_103
+
+Desc_104
+
+Desc_105
+
+Desc_106
+
+Desc_107
+
+Desc_108
+
+Desc_109
+
+Desc_110
+
+Desc_111
+
+Desc_112
+
+Desc_113
+
+Desc_114
+
+Desc_115
+
+Desc_116
+
+Desc_117
+
+Desc_118
+
+Desc_119
+
+Desc_120
+
+Desc_121
+
+Desc_122
+
+Desc_123
+
+Desc_124
+
+Desc_125
+
+Desc_126
+
+Desc_127
+
+Desc_128
+
+Desc_129
+
+Desc_130
+
+Desc_131
+<color=#lightgrey>In <color=#lightblue>Mountains and Mountain Ranges</color>, time consumed by Weapon Attack reduces.</color>
+Desc_132
+<color=#lightgrey>In <color=#lightblue>Canyons and Natural Strongholds</color>, Cast Speed of Martial Arts increases.</color>
+Desc_133
+<color=#lightgrey>In <color=#lightblue>Hills and Highland Expanse</color>, your enemy's Accuracy reduces.</color>
+Desc_134
+<color=#lightgrey>In <color=#lightblue>Fields and Plains</color>, ally Accuracy increases.</color>
+Desc_135
+<color=#lightgrey>In <color=#lightblue>Woodlands and Forests</color>, Inhale and Stance Recovery increase.</color>
+Desc_136
+<color=#lightgrey>In <color=#lightblue>Riverbanks, River Valleys and Stream Valleys</color>, recovery speed of Stamina increases.</color>
+Desc_137
+<color=#lightgrey>In <color=#lightblue>Lakes</color>, charge-up rate of Footwork Arts increases.</color>
+Desc_138
+<color=#lightgrey>In <color=#lightblue>Thick Woods</color>, the acquisition speed of Pinpoint Strikes increases.</color>
+Desc_139
+<color=#lightgrey>In <color=#lightblue>Caves</color>, the cooldown duration of your enemy's Weapon Attack increases.</color>
+Desc_140
+<color=#lightgrey>In <color=#lightblue>Swamps</color>, the toxins inflicted on your enemy greatly increase and their levels increase by 1.</color>
+Desc_141
+<color=#lightgrey>In <color=#lightblue>Havens</color>, recovers all used Qi at the end of battle.</color>
+Desc_142
+
+Desc_143
+
+Desc_144
+
+Desc_145
+
+Desc_146
+
+Desc_147
+
+Desc_148
+Monkey Mastery: <color=#brightblue>Enhances the increase effects of the user's Martial Arts power, and weakens the reduction effects</color>
+Desc_149
+Eagle Mastery: <color=#brightblue>the greater the distance from the target, the higher the user's chance to land a fatal strike.</color>
+Desc_150
+Boar Mastery: <color=#brightblue>the closer the distance from the target, the higher the user's chance to land a fatal strike.</color>
+Desc_151
+Brown Bear Mastery: <color=#brightblue>the user deals more Direct Wound Damage to the target while taking less Direct Wound Damage from them.</color>
+Desc_152
+Bison Mastery: <color=#brightblue>increases the user's Reflection power.</color>
+Desc_153
+Python Mastery: <color=#brightblue>the user's Healing and Detox effects are enhanced, while enemies' Healing and Detox effects are weakened.</color>
+Desc_154
+Leopard Mastery: <color=#brightblue>increases the user's Counter power.</color>
+Desc_155
+Lion Mastery: <color=#brightblue> the user's ability to weaken enemy Footwork Arts, Stamina, Inhale, and Stance is enhanced, while those weakening effects inflicted by enemies on the user are reduced.</color>
+Desc_156
+Tiger Mastery: <color=#brightblue>the user's Follow-up Damage dealt to enemies continuously increases until the end of Follow-up.</color>
+Desc_157
+Nimble Monkey Mastery: <color=#brightblue>enhances the increase effects of the user's Martial Arts power, and weakens the reduction effects.</color>
+Desc_158
+Golden Eagle Mastery: <color=#brightblue>the greater the distance from the target, the higher the user's chance to land a fatal strike.</color>
+Desc_159
+Black Boar Mastery: <color=#brightblue>the closer the distance from the target, the higher the user's chance to land a fatal strike.</color>
+Desc_160
+Albino Bear Mastery: <color=#brightblue>the user deals more Direct Wound Damage to enemies while taking less Direct Wound Damage from them.</color>
+Desc_161
+Kuiniu Mastery: <color=#brightblue>increases the user's Reflection power.</color>
+Desc_162
+Bashe Mastery: <color=#brightblue>the user's Healing and Detox effects are enhanced, while enemies' Healing and Detox effects are weakened.</color>
+Desc_163
+Noir Leopard Mastery: <color=#brightblue>the user's Counter power increases.</color>
+Desc_164
+Aureate Lion Mastery: <color=#brightblue>the user's ability to weaken enemy Footwork Arts, Stamina, Inhale, and Stance is enhanced, while those weakening effects inflicted by enemies on the user are reduced.</color>
+Desc_165
+White Tiger Mastery: <color=#brightblue>the user's Follow-up Damage dealt to enemies continuously increases until the end of Follow-up.</color>
+Desc_166
+
+Desc_167
+
+Desc_168
+White Jiao Mastery: <color=#brightblue>increases the user's [Composure].</color>
+Desc_169
+Black Jiao Mastery: <color=#brightblue>increases the user's [Wit].</color>
+Desc_170
+Azure Jiao Mastery: <color=#brightblue>increases the user's [Enthusiasm].</color>
+Desc_171
+Red Jiao Mastery: <color=#brightblue>increases the user's [Valor].</color>
+Desc_172
+Yellow Jiao Mastery: <color=#brightblue>increases the user's [Fortitude].</color>
+Desc_173
+Yin-Yang Jiao Mastery: <color=#brightblue>increases the user's [Composure] and [Wit].</color>
+Desc_174
+Flying Thunder Jiao Mastery: <color=#brightblue>increases the user's [Composure] and [Enthusiasm].</color>
+Desc_175
+Thunderfire Jiao Mastery: <color=#brightblue>increases the user's [Composure] and [Valor].</color>
+Desc_176
+Golden-Eyed Jiao Mastery: <color=#brightblue>increases the user's [Composure] and [Fortitude].</color>
+Desc_177
+Azure Marsh Jiao Mastery: <color=#brightblue>increases the user's [Wit] and [Enthusiasm].</color>
+Desc_178
+Burning Cloud Jiao Mastery: <color=#brightblue>increases the user's [Wit] and [Valor].</color>
+Desc_179
+Mud Pool Jiao Mastery: <color=#brightblue>increases the user's [Wit] and [Fortitude].</color>
+Desc_180
+Mud Flamehorn Jiao Mastery: <color=#brightblue>increases the user's [Enthusiasm] and [Valor].</color>
+Desc_181
+Mountain-Hiding Jiao Mastery: <color=#brightblue>increases the user's [Enthusiasm] and [Fortitude].</color>
+Desc_182
+Bone-Refining Jiao Mastery: <color=#brightblue>increases the user's [Valor] and [Fortitude].</color>
+Desc_183
+Sea-Disrupting Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Wit] and [Enthusiasm].</color>
+Desc_184
+Cloud-Drifting Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Wit] and [Valor].</color>
+Desc_185
+Abyssal Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Wit] and [Fortitude].</color>
+Desc_186
+Heavenly Thunder Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Enthusiasm] and [Valor].</color>
+Desc_187
+Desolate Path Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Enthusiasm] and [Fortitude].</color>
+Desc_188
+Qilin Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Valor] and [Fortitude].</color>
+Desc_189
+Underworld Jiao Mastery: <color=#brightblue>increases the user's [Wit], [Enthusiasm] and [Valor].</color>
+Desc_190
+Immortal Mountain Jiao Mastery: <color=#brightblue>increases the user's [Wit], [Enthusiasm] and [Fortitude].</color>
+Desc_191
+Flame Pond Jiao Mastery: <color=#brightblue>increases the user's [Wit], [Valor] and [Fortitude].</color>
+Desc_192
+Blaze Hill Jiao Mastery: <color=#brightblue>increases the user's [Enthusiasm], [Valor] and [Fortitude].</color>
+Desc_193
+Ditto Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Wit], [Enthusiasm], and [Valor].</color>
+Desc_194
+Mammon Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Wit], [Enthusiasm], and [Fortitude].</color>
+Desc_195
+Sea-Guarding Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Wit], [Valor], and [Fortitude].</color>
+Desc_196
+Devouring Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Enthusiasm], [Valor], and [Fortitude].</color>
+Desc_197
+Scattered-scales Jiao Mastery: <color=#brightblue>increases the user's [Wit], [Enthusiasm], [Valor], and [Fortitude].</color>
+Desc_198
+Colored Jiao Mastery: <color=#brightblue>increases the user's [Composure], [Wit], [Enthusiasm], [Valor], and [Fortitude].</color>
+Desc_199
+Qiu Niu Mastery: <color=#brightblue>the user's Force, Precision, and Dexterity are enhanced by their Sway, while their Resistance, Parry, and Dodge are boosted by their Poise.</color>
+Desc_200
+Yazi Mastery: <color=#brightblue>a portion of any Direct DMG enemies inflict on the user will be added to the user's next attack.</color>
+Desc_201
+Chao Feng Mastery: <color=#brightblue>increases the user's Stamina Recovery Speed.</color>
+Desc_202
+Pu Lao Mastery: <color=#brightblue>the user reduces Direct DMG taken based on how close the attacker's Qi and Physical Martial Arts Ratios are.</color>
+Desc_203
+Suan Ni Mastery: <color=#brightblue>the Wound Damage dealt by the user is boosted. When the user inflicts a direct external or internal injury, there is a chance to convert the damage into Wound Damage.</color>
+Desc_204
+Ba Xia Mastery: <color=#brightblue>the user ignores weight penalties from weapons and armor. Heavier equipment increases their weapon and armor power cap.</color>
+Desc_205
+Bi An Mastery: <color=#brightblue>attacking enemies with negative Reputation boosts the user's Phy. Penetration and Qi Penetration based on their reputation; when attacked by enemies with negative Reputation, the user's Phy. Defense and Qi Defense increase likewise.</color>
+Desc_206
+Fu Xi Mastery: <color=#brightblue>the user's Hit and Deflection scale with their Music, Weiqi, Literature, and Painting Attainment; the user's Attack and Defend scale with their Carpentry, Smithing, Weaving, and Jewelcrafting Attainment.</color>
+Desc_207
+Chi Wen Mastery: <color=#brightblue>for each available style the user costs, all True Qi below its initial value restores by 2; for each available move the enemy costs, all True Qi above its initial value drains by 2.</color>
+Desc_208
+
+Desc_209
+
+Desc_210
+
+Desc_211
+
+Desc_212
+
+Desc_213
+
+Desc_214
+
+Desc_215
+
+Desc_216
+
+Desc_217
+
+Desc_218
+
+Desc_219
+
+Desc_220
+
+Desc_221
+
+Desc_222
+
+Desc_223
+
+Desc_224
+
+Desc_225
+
+Desc_226
+
+Desc_227
+
+Desc_228
+
+Desc_229
+
+Desc_230
+
+Desc_231
+
+Desc_232
+
+Desc_233
+
+Desc_234
+
+Desc_235
+
+Desc_236
+
+Desc_237
+
+Desc_238
+
+Desc_239
+
+Desc_240
+
+Desc_241
+
+Desc_242
+
+Desc_243
+
+Desc_244
+
+Desc_245
+
+Desc_246
+
+Desc_247
+
+Desc_248
+
+Desc_249
+
+Desc_250
+
+Desc_251
+
+Desc_252
+

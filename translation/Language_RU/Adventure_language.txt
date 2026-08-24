@@ -1,0 +1,789 @@
+Name_0
+Возвращение в Бамбуковую хижину
+Name_1
+Вниз по течению
+Name_2
+Лиловый бамбук на чернокаменье
+Name_3
+Большая обезьяна
+Name_4
+Горящее селение
+Name_5
+Заброшенная почтовая станция
+Name_6
+Потаённая горная река
+Name_7
+Выход из глубокой долины
+Name_8
+Бессмертный из гробницы
+Name_9
+Турнир вольного света
+Name_10
+Сошествие таинственного бамбука
+Name_11
+Иной край
+Name_12
+Марево Тутовой горы
+Name_13
+Скрытая угроза Фулуна
+Name_14
+Жуткая загадка I
+Name_15
+Истинное наследие
+Name_16
+Обряд луна
+Name_17
+Сон о Цинлане
+Name_18
+Построение трёх начал, губящее демонов
+Name_19
+Уговорить трёх демонов
+Name_20
+Состязание трёх школ
+Name_21
+Уникальные приёмы Львиноликих
+Name_22
+Великое испытание мечом
+Name_23
+Собран целиком
+Name_24
+Погибель сердца сути
+Name_25
+Странности Секты Пяти Бессмертных
+Name_26
+Мор в селении
+Name_27
+Борьба судьбы
+Name_28
+Падающая звезда
+Name_29
+Морок Эгарима II
+Name_30
+Морок Эгарима III
+Name_31
+Морок Эгарима I
+Name_32
+Скорбные смутные сны
+Name_33
+Призрачный лик
+Name_34
+Тайна сутры
+Name_35
+Жуткая загадка II
+Name_36
+Звёздный праздник
+Name_37
+Праздник царя Паня
+Name_38
+Жуткая загадка III
+Name_39
+Одинокий журавль
+Name_40
+Тайны внизу
+Name_41
+Крайнее истощение
+Name_42
+Уговорить трёх демонов
+Name_43
+Вернувшиеся мертвецы
+Name_44
+След тени
+Name_45
+След чудака
+Name_46
+Возвращение зла
+Name_47
+Последний поединок с чудаком
+Name_48
+Возрождённый
+Name_49
+Town Gathering
+Name_50
+Cozy Tea Gathering
+Name_51
+Cozy Feast
+Name_52
+Tavern Feast
+Name_53
+Свадебный обряд
+Name_54
+Чайное собрание во дворе
+Name_55
+Чайное собрание в усадьбе
+Name_56
+Manor Feast
+Name_57
+Спор сект
+Name_58
+Логово злобных попрошаек
+Name_59
+Стан воров
+Name_60
+Разбойничье логово
+Name_61
+Логово отступников
+Name_62
+Долина злодеев
+Name_63
+Обольстительная ловушка
+Name_64
+Братская могила
+Name_65
+Дом чудаков
+Name_66
+Мёртвая земля
+Name_67
+Поле смерти
+Name_68
+Обитель демонов
+Name_69
+На краю гибели
+Name_70
+Зал странствующих воинов
+Name_71
+Союз ревнителей правды
+Name_72
+Диковинные тайные владения
+Name_73
+Blade Arts Tournament
+Name_74
+Sword Arts Tournament
+Name_75
+Турнир секты
+Name_76
+Instrument Arts Tournament
+Name_77
+Springtime Market
+Name_78
+Concealed Weapon Tournament
+Name_79
+Polearm Arts Tournament
+Name_80
+Exotic Weapons Tournament
+Name_81
+Fist Arts Tournament
+Name_82
+Whip Arts Tournament
+Name_83
+Kicking Arts Tournament
+Name_84
+Ranged Weapons Tournament
+Name_85
+Finger Arts Tournament
+Name_86
+Culinary Arts Debate Tournament
+Name_87
+Toxicology Debate Tournament
+Name_88
+Smithing Debate Tournament
+Name_89
+Jewelcrafting Debate Tournament
+Name_90
+Medical Art Debate Tournament
+Name_91
+Weaving Debate Tournament
+Name_92
+Debate Tournament: Carpentry
+Name_93
+Турнир сверчков
+Name_94
+Betrothal Contest Chengdu
+Name_95
+Betrothal Contest Dali
+Name_96
+Betrothal Contest Fuzhou
+Name_97
+Betrothal Contest Guangzhou
+Name_98
+Betrothal Contest Guizhou
+Name_99
+Betrothal Contest Hangzhou
+Name_100
+Betrothal Contest Jiangling
+Name_101
+Betrothal Contest The Capital
+Name_102
+Betrothal Contest Liaoyang
+Name_103
+Betrothal Contest Qinzhou
+Name_104
+Betrothal Contest Qingzhou
+Name_105
+Betrothal Contest Shouchun
+Name_106
+Betrothal Contest Taiyuan
+Name_107
+Betrothal Contest Xiangyang
+Name_108
+Betrothal Contest Yangzhou
+Name_109
+Betrothal Contest Chengdu (F)
+Name_110
+Betrothal Contest Dali (F)
+Name_111
+Betrothal Contest Fuzhou (F)
+Name_112
+Betrothal Contest Guangzhou (F)
+Name_113
+Betrothal Contest Guizhou (F)
+Name_114
+Betrothal Contest Hangzhou (F)
+Name_115
+Betrothal Contest Jiangling (F)
+Name_116
+Betrothal Contest The Capital (F)
+Name_117
+Betrothal Contest Liaoyang (F)
+Name_118
+Betrothal Contest Qinzhou (F)
+Name_119
+Betrothal Contest Qingzhou (F)
+Name_120
+Betrothal Contest Shouchun (F)
+Name_121
+Betrothal Contest Taiyuan (F)
+Name_122
+Betrothal Contest Xiangyang (F)
+Name_123
+Betrothal Contest Yangzhou (F)
+Name_124
+Find Black Bear
+Name_125
+Find Monkey's Head Mushroom
+Name_126
+Find Blue Peacock
+Name_127
+Find Kaluga
+Name_128
+Find Purpletwist Bamboo
+Name_129
+Find Dark Sandalwood
+Name_130
+Find Cicadae Gold
+Name_131
+Find Aerosiderite
+Name_132
+Find Kunlun Oily Jade
+Name_133
+Find Deus Gemstone
+Name_134
+Find Cicada Goldwing
+Name_135
+Find Panthea Silk
+Name_136
+Беда и удача
+Name_137
+Прихоть творения
+Name_138
+Круговорот жизни и смерти
+Name_139
+Отражения двойственности
+Name_140
+Взаимозависимость
+Name_141
+Find Poison Hemlock
+Name_142
+Find Millennia Ice Silkworm
+Name_143
+Find Millennia Cyan Spider
+Name_144
+Find Shapeshift Mandala
+Name_145
+Find Vilified Blossom
+Name_146
+Find Sanguis Toad
+Name_147
+Могильник мечей "Тёмный иней"
+Name_148
+Могильник мечей "Пламя Игнидея"
+Name_149
+Могильник мечей "Кокон фэнхуана"
+Name_150
+Могильник мечей "Печать духов"
+Name_151
+Могильник мечей "Предел радуги"
+Name_152
+Могильник мечей "Хвост Канделора"
+Name_153
+Могильник мечей "Ткань Мону"
+Name_154
+Могильник мечей "Оковы демона"
+Name_155
+Могильник мечей "Виталос"
+Name_156
+Часть мучений: Тёмный иней
+Name_157
+Часть мучений: Пламя Игнидея
+Name_158
+Часть мучений: Кокон фэнхуана
+Name_159
+Часть мучений: Печать духов
+Name_160
+Часть мучений: Предел радуги
+Name_161
+Часть мучений: Хвост Канделора
+Name_162
+Часть мучений: Ткань Мону
+Name_163
+Часть мучений: Оковы демона
+Name_164
+Часть мучений: Виталос
+Name_165
+Часть раздумий: Тёмный иней
+Name_166
+Часть раздумий: Пламя Игнидея
+Name_167
+Часть раздумий: Кокон фэнхуана
+Name_168
+Часть раздумий: Печать духов
+Name_169
+Часть раздумий: Предел радуги
+Name_170
+Часть раздумий: Хвост Канделора
+Name_171
+Часть раздумий: Ткань Мону
+Name_172
+Часть раздумий: Оковы демона
+Name_173
+Часть раздумий: Виталос
+Name_174
+Свет, запирающий демонов: Тёмный иней
+Name_175
+Свет, запирающий демонов: Пламя Игнидея
+Name_176
+Свет, запирающий демонов: Кокон фэнхуана
+Name_177
+Свет, запирающий демонов: Печать духов
+Name_178
+Свет, запирающий демонов: Предел радуги
+Name_179
+Свет, запирающий демонов: Хвост Канделора
+Name_180
+Свет, запирающий демонов: Ткань Мону
+Name_181
+Свет, запирающий демонов: Оковы демона
+Name_182
+Свет, запирающий демонов: Виталос
+Name_183
+Classics of the Unfettered
+Name_184
+Collection of Fleeting Flare
+Name_185
+Свод тысячи способов
+Name_186
+Tome of Shadowcraft Marvel
+Name_187
+The Chant of Wordless Mind
+Name_188
+Novem-resembler
+Name_189
+Celestial Melodist
+Name_190
+The Record of Lethal Mara
+Name_191
+Творец чудес
+Name_192
+Безымянное искусство меча
+Name_193
+Book of the Primordial
+Name_194
+Volatile Loong Depiction
+Name_195
+Око разума
+Name_196
+Sky Divider
+Desc_0
+Вокруг Бамбуковой хижины разлит покой, а засыпанная листвой тропа выдаёт, что здесь давно никто не ходил.
+Desc_1
+Река, которую приёмный отец начертил на карте, должна течь отсюда вниз...
+Desc_2
+На чернокаменной глыбе растёт диковинный лиловый бамбук. Откуда взялась глыба и как на ней держится бамбук - неизвестно...
+Desc_3
+Долиной завладела большая обезьяна, и прочие сбегаются к ней. Гвалт не смолкает, и у Бамбуковой хижины от них то и дело беда...
+Desc_4
+Пламя пожирает округу, всё ещё слышны вой и плач... В селении кто-то остался!
+Desc_5
+Заброшенная почтовая станция стала логовом злобных попрошаек...
+Desc_6
+У подножия горы течёт длинная сумрачная река. Её конец скрыт во тьме и как будто таит неведомые опасности.
+Desc_7
+Ничем не приметное место с четырьмя огромными валунами, заросшими зеленью. Один чёрный, один белый, один зелёный и один жёлтый, и каждый лежит на своей стороне света. Без подсказки такое едва найдёшь, но по карте приёмного отца выход именно здесь.
+Desc_8
+Здесь древняя гробница. Уж не гробница ли это легендарного Бессмертного из гробницы?
+Desc_9
+Много героев странствует по свету, каждый силён в своём деле и каждый метит в главы вольного света. Но кто из них одолеет соперников и поднимется выше прочих?
+Desc_10
+Вдали стоит смоляно-чёрный бамбук...
+Desc_11
+Путь откроется лишь тому, кто предельно сосредоточен...
+Desc_12
+Время от времени идут слухи о зелёном тумане, что поднимается в глубине горы Кунсан...
+Desc_13
+В Обители Фулун стоит жуткая тишина, и вокруг ни души. Что-то здесь неладно. Надо как можно скорее докопаться до сути!
+Desc_14
+В последнее время в деревне Тайу творятся странные дела. Посреди ночи слышны непонятные звуки. Может быть, если разобраться, станет ясно, что происходит...
+Desc_15
+Борьба за истинное наследие боевых искусств в Секте Эмэй вышла из-под власти, и ученики сцепляются на каждом шагу.\nТеперь, когда судьба Белой обезьяны неизвестна, а Ши Хоуцзю всё крепче забирает власть, Наследнику Тайу надо решать, пока не поздно! Промедление может обернуться сожалением на всю жизнь...
+Desc_16
+Обитель Фулун гудит от волнения: вовсю идут приготовления к великому обряду истинного луна. Гремят барабаны, гремят возгласы - все нетерпеливо ждут прихода луна...
+Desc_17
+Туман укрывает гору Жаньшань и мешает правду с мороком. Пока в Павильоне Цинлан идёт состязание трёх школ, судьба вот-вот даст свой ответ...
+Desc_18
+Мечи указывают в небо и поднимают сияющую луну; клинки метут по кручам и вызывают студёный ветер. На вершине Большого Юаньшаня тысяча учеников Юаньшань стоит в строю. Построение трёх начал, губящее демонов, вот-вот будет запущено!
+Desc_19
+Описания пока нет
+Desc_20
+После долгих лет молчания легендарное состязание трёх школ возвращается на гору Жаньшань.\nУченики в лучших одеждах стоят в строгом ожидании прихода наставников...
+Desc_21
+Клан Львиноликих проводит состязание уникальных приёмов. Стража стоит повсюду, и внутрь войдут только достойные...
+Desc_22
+Под тусклой луной горн всё ещё горит. Великое испытание мечом началось. Победа, наследие и честь - всё решается в этот миг...
+Desc_23
+В четырёх сочленениях спрятаны тонкие механизмы, а сама сборка служит хитрым узлом. Теперь, когда бронзовые детали собраны, устройство наконец может обрести облик...
+Desc_24
+В Секте Пяти Бессмертных без всякой видимой причины висит едкий запах крови...
+Desc_25
+Неведомо почему по Секте Пяти Бессмертных расползаются кровавые пятна, и в воздухе стоит едкий смрад. Вид разбросанных повсюду бездыханных тел мяо поистине страшен...
+Desc_26
+Прежде мирная округа, а теперь двери накрепко заперты. Молва твердит о редком смертельном море, что косит эти земли. Никакое снадобье не помогает больным, и селян держит страх...
+Desc_27
+Нет
+Desc_28
+Небесное пламя над островом Чимин угасло, и ходят слухи о рухнувшей звезде. Землю теперь усыпали странные переливчатые осколки глазури, мерцающие нездешним светом. Уж не сошёл ли наконец истинный лун, укрывшись внутри?
+Desc_29
+На Пике Нефритовой Девы, подле Эгарима, отражённый мир смещается. Горы и реки меняют облик, а туман и облака кружат, как в великой пустоте. Быть может, шагнув в зеркало ещё раз, удастся узнать правду о роковом падении старшей сестры?
+Desc_30
+На Пике Нефритовой Девы, подле Эгарима, отражённый мир смещается. Горы и реки меняют облик, а туман и облака кружат, как в великой пустоте. Быть может, шагнув в зеркало ещё раз, удастся узнать правду о роковом падении старшей сестры?
+Desc_31
+На Пике Нефритовой Девы, подле Эгарима, отражённый мир смещается. Горы и реки меняют облик, а туман и облака кружат, как в великой пустоте. Быть может, шагнув в зеркало ещё раз, удастся узнать правду о роковом падении старшей сестры?
+Desc_32
+Тебя держат страшные сны и наполняют сердце сомнением. В деревне Тайу то и дело творятся странности, и правда вот-вот выйдет наружу. Цзиси ушла без предупреждения, и надо пойти по её следам и спросить, что вообще происходит...
+Desc_33
+Кроваво-красный свет бросает тень на густую зелень. Ни единого насекомого не видно. Приглядевшись, различаешь укромную гробницу, от которой веет смертью.\nСквозь открытую дверь тянет призрачным ветром, и силуэт в красных одеждах исчезает внутри...
+Desc_34
+Сухие деревья, карканье ворон, дикая трава качается на ветру.\n\nВ глубине гор стоит укромный древний храм. Некогда звучные напевы давно смолкли. Остались лишь обломки кипарисовых пней да покрытые пылью ступени. Молва твердит, что внутри затаились злодеи, что место отравлено тёмной силой и что оттуда никто не возвращался...
+Desc_35
+В последнее время в деревне Тайу творятся странные дела. Посреди ночи слышны непонятные звуки. Может быть, если разобраться, станет ясно, что происходит...
+Desc_36
+Под ясной луной и мерцающей звёздной рекой мужчины и женщины в роскошных нарядах поют, пляшут и пьют вволю под небесным сводом...
+Desc_37
+Развеваются цветные ленты, ритмично гремят барабаны. Издали видно большое собрание: там поют песнь царя Паня и в лад ей движутся в пляске царя Паня...
+Desc_38
+В последнее время в деревне Тайу творятся странные дела. Посреди ночи слышны непонятные звуки. Может быть, если разобраться, станет ясно, что происходит...
+Desc_39
+Высокие заснеженные вершины скрывают старые, забытые истории. Таинственный незнакомец когда-то написал здесь "Одинокого журавля и зеркальную воду" (музыкальная шкатулка) — но кто знает, живут ли ещё на Пике Нефритовой Девы утраченные предания былого?
+Desc_40
+На горе Эмэй круто вздымаются отвесные обрывы, и один неверный шаг может стоить увечья, а то и жизни.\n\nА что лежит внизу, мало кто знает: туда почти никто не спускался. Слухов много, да кто скажет, где правда?
+Desc_41
+Нет
+Desc_42
+Описания пока нет
+Desc_43
+
+Desc_44
+Заглушка
+Desc_45
+Заглушка
+Desc_46
+Нет
+Desc_47
+Заглушка
+Desc_48
+Тот возрождённый и правда вернулся в деревню Тайу, но просто стоял и смотрел на неё издали. Он не двигался и ничего не делал - будто ждал, что "Тайу" придёт сам.
+Desc_49
+The long Main Street buzzed with voices, lined with a thousand stalls showcasing new goods. With the assistance of local merchants, guilds from various regions held a gathering here...
+Desc_50
+A cozy tea gathering is being prepared with the assistance of the area's scholars...
+Desc_51
+A cozy feast is being prepared with the assistance of the area's scholars...
+Desc_52
+A tavern feast is being prepared with the assistance of the area's scholars...
+Desc_53
+Праздничный двор полон звуков гонгов и барабанов: играют свадьбу Наследника Тайу...
+Desc_54
+Во дворе готовят чайное собрание, и здешние книжники помогают...
+Desc_55
+A manor tea gathering is being prepared with the assistance of the area's scholars...
+Desc_56
+A manor feast is being prepared with the assistance of the area's scholars...
+Desc_57
+Идёт спор сект, и он как будто связан с Тайу...
+Desc_58
+Внутри засела шайка злобных попрошаек — они донимают путников на дорогах и разносят злобу и хвори всюду, куда приходят...
+Desc_59
+У здешних людей то и дело пропадают вещи, и поговаривают, будто вокруг шныряют воры...
+Desc_60
+Bandits have banded together and seized the nearby roads and bridges, causing trouble both near and far...
+Desc_61
+Exiled Disciples from various sects have banded together to perhaps exact revenge or simply for other more nefarious purposes...
+Desc_62
+Demons in the flesh with blood-debts from both good and evil sects have banded together to cause further havoc and devastation in their pursuit of their evil ways...
+Desc_63
+The Enthralling Trap is shrouded in a red mist, from which drifts an alluring fragrance, accompanied by faint laughter and decadent music...
+Desc_64
+A place of death and decay filled with countless corpses that casts a shadow across the land, especially now that the warlocks have been frequenting it to conduct experiments...
+Desc_65
+Home to a bunch of heretics. While they are powerful indeed, their moral compasses are gray, and they act solely on their own whims...
+Desc_66
+Many outlander cults have gathered and erected altars for their ghostly sacrifices. Each day they sacrifice lives for nothing but pleasure...
+Desc_67
+A terrible area where many murders have been committed. Crazed madmen, their minds twisted by the Puppeteer, still roam the area...
+Desc_68
+An evil Qi pervades the area, and the possessed are drawn to it. An unknown demonic cult known for harming the forces of good resides here...
+Desc_69
+Serving as a barrier to the outside realms until the conflict of the world let it slumber no longer, forcing those previously living in seclusion to return...
+Desc_70
+Мир в разоре, злодеи вошли в силу. Простой люд не знает, куда деваться. Но силы странствующих воинов поднимаются, чтобы нанести злодеям тяжкий удар, и многие сходятся здесь...
+Desc_71
+Spring flourishes and the nightly rains are plentiful. Chaos grips the world, yet Xiake are born each day. Clamor can be heard nearby as the disciples of some sect gather here for some unknown reason...
+Desc_72
+Грубый, будто телесный голос тревожит эту дальнюю глушь. Хорошо укрытое, это уединённое место похоже на диковинные тайные владения, полные странностей. Пожалуй, стоит осмотреть их получше...
+Desc_73
+A blade arts tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_74
+A sword arts tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_75
+Здесь проходит большое событие секты - турнир секты. Ученики всех званий вернулись, чтобы поучиться, испросить наставления и показать своё дарование.
+Desc_76
+An instrument arts tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_77
+Spring covers the land in warmth, and the land awakens once more. The local merchants have seized the opportunity to host a Springtime Market.
+Desc_78
+A concealed weapon tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_79
+A Polearm Arts tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_80
+An Exotic Weapons Tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_81
+A fist arts tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_82
+A whip arts tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_83
+A Kicking Arts tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_84
+A Ranged Weapons tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_85
+A finger arts tournament is being held here. Masters from every corner of the land are eager to attend and show their mettle!
+Desc_86
+Chefs gather here on each Start of Winter to participate in cookouts, enjoy themselves, and compete for the prestigious Master Chef title.
+Desc_87
+Physicians gather here on each Start of Winter to test their toxicology skills, enjoy themselves, and compete for the prestigious Deadly Poisoner title.
+Desc_88
+Artisans gather here on each Start of Winter to test their skills, enjoy themselves, and compete for the prestigious Smithing Grandmaster title.
+Desc_89
+Artisans gather here on each Start of Winter to test their skills, enjoy themselves, and compete for the prestigious Grandmaster Jeweler title.
+Desc_90
+Physicians gather here on each Start of Winter to develop new treatment methods and test their medical arts against fellow practitioners...
+Desc_91
+Artisans gather here on each Start of Winter to test their skills, enjoy themselves, and compete for the prestigious Grandmaster Weaver title.
+Desc_92
+Artisans gather here on each Start of Winter to test their Fine Arts, enjoy themselves, and compete for the prestigious Grandmaster Carpenter title!
+Desc_93
+The triennial cricket tournament is in full swing, and master cricket breeders from all over the land have gathered to battle, enjoy themselves, and compete for the prestigious Cricket Great General!
+Desc_94
+A Large Park feast is being held at a villa in Chengdu, where the owners hope to reel in the perfect partner for their offspring...
+Desc_95
+The ladies of Dali are hosting a lunar dance and have invited suitors to participate. Perhaps this is a great chance to find that special someone...
+Desc_96
+Rumors claim that the ancestors of a family in Fuzhou appeared in their dreams, proclaiming they'd choose a suitable match for the family's descendant. She is now kneeling before the ancestral temple's altar awaiting the one who'll pass the trials...
+Desc_97
+The fragrance of flowers permeates the air in Guangzhou all year round. A noble is looking for a partner, and if anyone plucks flowers and fashions them into a crown that is a sign they are interested...
+Desc_98
+A singing contest is being held here where people use songs to express their feelings. The perfect spot for two kindred spirits to form the bonds of marriage...
+Desc_99
+A Betrothal Contest is being held in Hangzhou where lanterns have a role in tying the knot. As a figure awaits her destined partner at a broken bridge by the West Lake, a lit lantern carries fate, while an extinguished one belies broken dreams...
+Desc_100
+Nine attendants accompany me to the reunion, a custom widely celebrated in Jiangling. They serve as a test of faith to any suitor wishing to seek a their hand in marriage.
+Desc_101
+A noble in the Capital has reached betrothal age. Lanterns and jolly decorations fill the city, with servants rushing hither and thither to welcome new arrivals. Someone also said that 'just morals attract aid,' which I cannot fully fathom...
+Desc_102
+The Yan Mountains pierce the clouds, while the Liao River slithers through the landscape. Upon a nearby grassland, a Betrothal Contest of the bond of White Horse & Azure Ox is being held.
+Desc_103
+The Qinzhou caravans meander on, their camel bells ringing with each hoof-clad step. Martial artists from all over gather to join the celebrations, while a young hopeful awaits a hero to offer the most valuable of gifts—clear water...
+Desc_104
+A betrothal contest is being held in Qingzhou. Legends claim that if someone's destiny is intertwined with that of the bridge, a red line shall appear upon their wrist, marking the end of their search for love...
+Desc_105
+A massive Betrothal Contest is being held at the Yunmeng Lakes, and people are reveling in the celebration!
+Desc_106
+A downcast noble of Taiyuan is hosting a grand betrothal contest. Partnerless warriors and heroes gather for a chance to see the suitor's beauty and contend for their hand in marriage. Yet, others gather simply to revel in the entertainment...
+Desc_107
+The Han River snakes through the landscape, polished stones lining its banks. They say that a noble is currently holding a betrothal contest here. According to Xiangyang's customs, you'll have to search for a Chuantian necklace stone, and you may just impress them enough to gain their affection.
+Desc_108
+Festival vessels gather as those aboard scatter petals right and left. Supposedly, a pageant is being held in Yangzhou, and one participant is searching for their knight in shining armor...
+Desc_109
+A Large Park feast is being held at a villa in Chengdu. And the host wishes to select the perfect suitor for the Successor of Taiwu...
+Desc_110
+A lunar dance is being held for the Successor of Taiwu in Dali, and plenty of suitors have been invited. Perhaps this is a great chance to find that special someone...
+Desc_111
+A grand wedding ceremony is being held for the Successor of Taiwu at an ancestral temple in Fuzhou. Anyone yearning for their hand in marriage must undertake the ancestors' trials and prevail...
+Desc_112
+The fragrance of flowers permeates the air in Guangzhou all year round. The Successor of Taiwu is looking for a partner, and if anyone plucks flowers and fashions them into a crown that is a sign they are interested...
+Desc_113
+A singing contest is being held in Guizhou for the Successor of Taiwu where people use songs to express their feelings. The perfect spot for two kindred spirits to form the bonds of marriage...
+Desc_114
+A Betrothal Contest is being held in Hangzhou for the Successor of Taiwu. Lanterns play a role in tying the knot. As the Heir awaits their destined partner atop a broken bridge, a lit lantern carries fate, while an extinguished one belies broken dreams...
+Desc_115
+Nine attendants accompany me to the reunion, a custom widely celebrated in Jiangling. They serve as a test of faith to any suitor wishing to seek the Successor of Taiwu's hand in marriage...
+Desc_116
+A grand betrothal contest is being held at the Capital to find the right someone for the Successor of Taiwu. Lanterns and jolly decorations fill the city, with servants rushing hither and thither to welcome new arrivals. Someone also said that "just morals attract aid," which I cannot fully fathom...
+Desc_117
+The Yan Mountains pierce the clouds, while the Liao River slithers through the landscape. Upon a nearby grassland, a Betrothal Contest of the bond of White Horse & Azure Ox is being held for the Successor of Taiwu...
+Desc_118
+The Qinzhou caravans meander on, their camel bells ringing with each hoof-clad step. Martial artists from all over gather to join the celebrations, while the Successor of Taiwu awaits a hero to offer the most valuable of gifts—clear water...
+Desc_119
+A betrothal contest is being held in Qingzhou for the Successor of Taiwu. One matchmaker has said that if someone's destiny is linked to theirs, then a red line will appear upon their wrist...
+Desc_120
+A massive Betrothal Contest is being held at the Yunmeng Lakes for the Successor of Taiwu and people are reveling in the celebration!
+Desc_121
+A grand betrothal contest is being held in Taiyuan for the Successor of Taiwu. Partnerless warriors and heroes gather for a chance to see her beauty and contend for her hand in marriage. Yet, others gather to simply revel in the entertainment...
+Desc_122
+The Han River snakes through the landscape. They say that the Successor of Taiwu is currently holding a betrothal contest here. According to Xiangyang's customs, gifting her the most heavenly of stones may just impress them enough to gain their affection...
+Desc_123
+Festival vessels gather as those aboard scatter petals right and left. Supposedly, a pageant is being held in Yangzhou, and the Successor of Taiwu is searching for their knight in shining armor...
+Desc_124
+The beasts in the area ran in all directions following the natural disaster... Someone claimed to see a black bear fleeing in this direction...
+Desc_125
+The wheat in the area began growing at astonishing rates following the natural disaster. I wonder if more spiritual objects have begun growing too...
+Desc_126
+The rolling green hills here are home to an abundance of birds, with the occasional odd sound... Perhaps a Blue Peacock roams the area...
+Desc_127
+The natural disaster caused the hills to crumble and crack, and river water flowed in to create vast waters...
+Desc_128
+The area's fengshui is in disarray. The earth is severely lacking in spiritual Qi, and earthquakes are frequent.\n<color=#darkgrey>(This Encounter requires gold/silver materials..)</color>
+Desc_129
+The woodland in this area has mysteriously transformed, with a thick fog now enveloping it. It is now impossible to discern what happens within.\n<color=#darkgrey>(This Encounter requires iron materials)</color>
+Desc_130
+A cavern appears following the natural disaster. While its narrow passages are difficult to navigate, a faint spiritual light shines from within, as if it contains a rare treasure.\n<color=#darkgrey>(This Encounter requires jade materials)</color>
+Desc_131
+A meteor plummeted from the sky into this area, forming a mountain of iron encircled by a veritable sea of flames.\n<color=#darkgrey>(This Encounter requires stone materials)</color>
+Desc_132
+Legends claim that a strange phenomenon occurred here following the natural disaster, starlight gathering in a single spot.\n<color=#darkgrey>(This Encounter requires plant fabric)</color>
+Desc_133
+The stones in the area began to glow following the natural disaster. This glow seemingly occurred due to the creation of a valuable treasure.\n<color=#darkgrey>(This Encounter requires fur fabrics)</color>
+Desc_134
+Legends claim that a myriad of rare and exotic beasts appeared in the woodland following the natural disaster. Some even claim to have seen golden crickets.\n<color=#darkgrey>(This Encounter requires wooden materials)</color>
+Desc_135
+A vast expanse of towering mulberry trees appeared following the natural disaster. This expanse is home to an abundance of silkworms, and possibly even the Panthea only spoken of in legends.\n<color=#darkgrey>(This Encounter requires bamboo and rattan materials)</color>
+Desc_136
+Беда и удача связаны нераздельно: лишь пройдя через беду, по-настоящему узнаешь удачу. Обретение и утрата - одно, и лишь отказавшись от чего-то, начнёшь беречь то, что имеешь. После стихийного бедствия это место наполнилось лиловым сиянием - знамением того, что беда исчерпана и рождается удача, что за страданием придёт счастье. Найдётся ли на этой земле человек столь высоких достоинств, чтобы принять такое благословение...
+Desc_137
+Погребённые здесь древние звери и насекомые один за другим ожили после стихийного бедствия. Небо и земля, быть может, и переменились, но у этой земли может быть лишь один хозяин. Наследию прошлого не ужиться вместе — каждый тянется к власти. И всё же живое дополняет живое, ведь все мы связаны превращением.
+Desc_138
+Живые жертвуют собой ради умирающих, а мёртвые возвращаются в землю, чтобы утешить живых. Стихийное бедствие собрало здесь смрад смерти. Но из смерти неизбежно родится жизнь. Жизнь и смерть сцеплены в бесконечном круговороте. Где есть смерть, там есть и надежда на жизнь. А значит, отдав жизнь за правое дело, можно обрести величайшее из сокровищ.
+Desc_139
+Стихийное бедствие сдвинуло землю и вздыбило небо, ввергнув всё в хаос. Инь и ян вернулись в ничто, и всё сущее вернулось в небытие. Древние звери мелькали то в земле, то в небе, а орхидеи сливались с призрачными тенями, как во сне. Пока по-настоящему не войдёшь в самый хаос, отличить явь от морока и правду от лжи попросту невозможно.
+Desc_140
+Где рыщут ядовитые змеи, там и противоядие под рукой. Стихийное бедствие наполнило округу ядом, скверна расползлась и застила солнце. Эта странность приманила всякое зверьё, в том числе огромных змей и жаб.
+Desc_141
+Serene open grassland and woods as far as the eye can see, yet no one dares draw close. This tranquil area is said to house a myriad of poisonous insects.
+Desc_142
+Legends claim the hills became enshrouded in a freezing mist following the natural disaster. During times of heavy winds, one can sense great spiritual creatures born within.
+Desc_143
+The area's vegetation began withering out of nowhere following the natural disaster. Someone later claims to have seen a cyan spider, its body covered in jade.
+Desc_144
+A wind carries an odd fragrance throughout the tranquil deep valley. While seemingly close, it's impossible to see any flowers from afar.
+Desc_145
+A veritable Blossom Sea began growing here after the natural disaster, many of them poisonous.
+Desc_146
+The water in this area has remained still, unchanging, since the natural disaster, its surface covered in a terrible red-tint.
+Desc_147
+После ухода Бессмертного из гробницы близ деревни Тайу появились семь могильников мечей.\nНа этом могильнике, что дышит лютым холодом, вырезано слово "Тёмный иней". Будто что-то пытается вырваться наружу...
+Desc_148
+После ухода Бессмертного из гробницы близ деревни Тайу появились семь могильников мечей.\nНа этом могильнике, объятом зловещим пламенем, вырезаны слова "Пламя Игнидея". Будто что-то пытается вырваться наружу...
+Desc_149
+После ухода Бессмертного из гробницы близ деревни Тайу появились семь могильников мечей.\nНа этом могильнике, сияющем лучистым светом, вырезаны слова "Кокон фэнхуана". Будто что-то пытается вырваться наружу...
+Desc_150
+После ухода Бессмертного из гробницы близ деревни Тайу появились семь могильников мечей.\nНа этом могильнике, лишённом земной живости, вырезано слово "Печать духов". Будто что-то пытается вырваться наружу...
+Desc_151
+После ухода Бессмертного из гробницы близ деревни Тайу появились семь могильников мечей.\nНа этом могильнике, купающемся в солнечном свете, вырезаны слова "Предел радуги". Будто что-то пытается вырваться наружу...
+Desc_152
+После ухода Бессмертного из гробницы близ деревни Тайу появились семь могильников мечей.\nНа этом могильнике, вокруг которого свиваются змеи и луны, вырезаны слова "Хвост Канделора". Будто что-то пытается вырваться наружу...
+Desc_153
+После ухода Бессмертного из гробницы близ деревни Тайу появились семь могильников мечей.\nНа этом могильнике, где поют иволги и пляшут ласточки, вырезаны слова "Ткань Мону". Будто что-то пытается вырваться наружу...
+Desc_154
+После ухода Бессмертного из гробницы близ деревни Тайу появились семь могильников мечей.\nНа этом могильнике, заросшем кроваво-красными клёнами, вырезано слово "Оковы демона". Будто что-то пытается вырваться наружу...
+Desc_155
+После ухода Бессмертного из гробницы близ деревни Тайу появились семь могильников мечей.\nНа этом могильнике, что словно мерцает на грани яви, вырезано слово "Виталос". Будто что-то пытается вырваться наружу...
+Desc_156
+Цзю Хань не знал, что делать, и, похоже, терзался великой болью.
+Desc_157
+И Ихоу не знала, что делать, и, похоже, терзалась великой болью.
+Desc_158
+Цзинь Хуанъэр не знала, что делать, и, похоже, терзалась великой болью.
+Desc_159
+Даюэ Яочан не знал, что делать, и, похоже, терзался великой болью.
+Desc_160
+Заклинатель не знал, что делать, и, похоже, терзался великой болью...
+Desc_161
+Вэй Ци не знал, что делать, и, похоже, терзался великой болью.
+Desc_162
+Мону не знала, что делать, и, похоже, терзалась великой болью.
+Desc_163
+Кровавый клён не знал, что делать, и, похоже, терзался великой болью.
+Desc_164
+И Сян не знал, что делать, и, похоже, терзался великой болью.
+Desc_165
+Цзю Хань нахмурился, ушёл в раздумья, и мысли его блуждали.
+Desc_166
+И Ихоу нахмурилась, ушла в раздумья, и мысли её блуждали.
+Desc_167
+Цзинь Хуанъэр нахмурилась, ушла в раздумья — что же ей вспомнилось...
+Desc_168
+Даюэ Яочан нахмурился, ушёл в раздумья, и мысли его блуждали.
+Desc_169
+Заклинатель нахмурилась, ушла в раздумья,<NL>и мысли её блуждали...
+Desc_170
+Вэй Ци нахмурился, ушёл в раздумья, и мысли его блуждали.
+Desc_171
+Мону нахмурилась, ушла в раздумья, и мысли её блуждали.
+Desc_172
+Кровавый клён нахмурился, ушёл в раздумья, и мысли его блуждали.
+Desc_173
+И Сян нахмурился, ушёл в раздумья, и мысли его блуждали.
+Desc_174
+Владения божественного света
+Desc_175
+Владения божественного света...
+Desc_176
+Владения божественного света...
+Desc_177
+Владения божественного света...
+Desc_178
+Владения божественного света...
+Desc_179
+Владения божественного света...
+Desc_180
+Владения божественного света...
+Desc_181
+Владения божественного света...
+Desc_182
+Владения божественного света
+Desc_183
+The secret tome Classics of the Unfettered has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_184
+The secret tome, Collection of Fleeting Flare, has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_185
+The secret tome Thousand Method Compendium has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_186
+The profound Tome of Shadowcraft Marvel has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_187
+The secret tome The Chant of Wordless Mind has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_188
+The secret tome Novem-resembler has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_189
+The secret tome Celestial Melodist has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_190
+The secret tome Record of Lethal Mara has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_191
+The secret tome Maker of Miracles has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_192
+The secret tome Nameless Swordcraft has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_193
+The secret tome Book of the Primordial has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_194
+The secret tome Volatile Loong Depiction has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_195
+The secret tome Mind's Eye has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+Desc_196
+The secret tome Sky Divider has been found! Martial artists from every corner of the world are gathering, and battle is imminent. Who will reign supreme and claim this knowledge for themselves?
+

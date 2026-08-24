@@ -1,0 +1,187 @@
+Name_0
+Blood Debts are Hard to Settle
+Name_1
+Save People from Harm
+Name_2
+Detain and Harm
+Name_3
+Punish the Wicked
+Name_4
+Utmost Righteousness
+Name_5
+Let Go of Evil
+Name_6
+Can't Tell Right from Wrong
+Name_7
+Enemy of the Wicked
+Name_8
+Enemy of the Wicked
+Name_9
+Can't Tell Right from Wrong
+Name_10
+Befriender of the Good
+Name_11
+Befriender of the Wicked
+Name_12
+Good Friendship
+Name_13
+Collude in Evildoing
+Name_14
+A Perfect Match
+Name_15
+Dishonor Virtue and Act a Disgrace
+Name_16
+Rescue and Console the Good
+Name_17
+Shelter the Wicked
+Name_18
+Journey to Improve Virtue
+Name_19
+Recognize a Thief as a Relative
+Name_20
+Generous in Giving
+Name_21
+Help the Wicked
+Name_22
+Good Teachers, Great Friends
+Name_23
+Enable the Wicked
+Name_24
+Rescue the Dying and Wounded
+Name_25
+Coddle a Backstabber
+Name_26
+Do Physical Harm
+Name_27
+Punish the Wicked
+Name_28
+Plagiarizing
+Name_29
+Steal Property
+Name_30
+Rob Property
+Name_31
+Grave Robber
+Name_32
+Use Poison to do Harm
+Name_33
+Flee As Fast As Possible
+Name_34
+Bully the Weak
+Name_35
+Exploit One's Vulnerability
+Name_36
+Victory in Competition
+Name_37
+Defeat in Competition
+Name_38
+Benevolent and Kind
+Name_39
+The Wrong Path
+Name_40
+Speak Sternly and Justly
+Name_41
+Speak Insolently
+Name_42
+Behave Recklessly
+Name_43
+Uninhibited
+Name_44
+Eyes Only for Gain
+Name_45
+An Immense Satisfaction
+Name_46
+Hearsay
+Name_47
+Easy Target
+Name_48
+Favored
+Name_49
+Rebuked
+Name_50
+Deceived
+Name_51
+Coerced
+Name_52
+Praised
+Name_53
+Ridiculed
+Name_54
+Forefathers' Gratitude
+Name_55
+Forefathers' Crimes
+Name_56
+Nasty Slang
+Name_57
+Beg for Money
+Name_58
+Death by Charlatan
+Name_59
+Act as Justice Demands
+Name_60
+Kill Xiakes
+Name_61
+Violate the Social Code
+Name_62
+Break the Norms
+Name_63
+Pay No Heed to Ethics
+Name_64
+Turn Your Back on Predecessors
+Name_65
+A Fickle Heart
+Name_66
+Wolf in Sheep's Clothing
+Name_67
+Humiliated
+Name_68
+Invite Humiliation
+Name_69
+Rise to the Challenge
+Name_70
+A Bully and Coward
+Name_71
+The Established Sect
+Name_72
+Evil Outlaw
+Name_73
+Morally Gray
+Name_74
+Morally Gray
+Name_75
+Debate Won
+Name_76
+Debate Lost
+Name_77
+Creating Exquisite Items
+Name_78
+Loong Metamorphosis
+Name_79
+Trespassing the Warehouse
+Name_80
+Ransacking the Warehouse
+Name_81
+Spreading Benevolence
+Name_82
+Guilt-Laden Soul
+Name_83
+Seizing Fugitives
+Name_84
+Kneeling in Defeat
+Name_85
+Speechless
+Name_86
+The Established Sect
+Name_87
+Evil Outlaw
+Name_88
+Morally Gray
+Name_89
+Morally Gray
+Name_90
+Unrestrained Recklessness
+Name_91
+Vigilante Valor
+Name_92
+Poor Craftsmanship
+

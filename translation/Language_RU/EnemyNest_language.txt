@@ -1,0 +1,61 @@
+TipTitle_0
+[Tribute: Outlaw Base]
+TipTitle_1
+[Tribute: Outlaw Base]
+TipTitle_2
+[Tribute: Outlaw Base]
+TipTitle_3
+[Gain: Outlaw Base]
+TipTitle_4
+[Tribute: Outlaw Base]
+TipTitle_5
+[Gain: Outlaw Base]
+TipTitle_6
+[Gain: Outlaw Base]
+TipTitle_7
+[Buff: Outlaw Base]
+TipTitle_8
+[Buff: Outlaw Base]
+TipTitle_9
+[Gain: Outlaw Base]
+TipTitle_10
+[Buff: Outlaw Base]
+TipTitle_11
+[Buff: Outlaw Base]
+TipTitle_12
+[Assistance: Xiakes' Stronghold]
+TipTitle_13
+[Assistance: Xiakes' Stronghold]
+TipTitle_14
+[Buff: Xiakes' Stronghold]
+TipDesc_0
+After you've captured this Outlaw Base and sent villagers to administer it, you'll gain an Insight of the place from the beggars every time you collect tribute here.
+TipDesc_1
+After you've captured this Outlaw Base and sent villagers to administer it, you'll gain some of the [Silver] income every time you collect tribute here.
+TipDesc_2
+After you've captured this Outlaw Base and sent villagers to administer it, you'll gain weapons from the Bandits' Stronghold every time you collect tribute here.
+TipDesc_3
+You'll obtain a manual of this Sect's Martial Art when you capture this Outlaw Base.
+TipDesc_4
+Taiwu will continuously gain [Prestige] once this captured Outlaw Base is administered by stationed villagers.
+TipDesc_5
+You'll meet a companion with good Fine Arts Talent when you capture this Outlaw Base.
+TipDesc_6
+You'll obtain an Antideath Pill when you capture this Outlaw Base.
+TipDesc_7
+After you've captured this Outlaw Base, you'll have a better chance of having an Epiphany while studying at the House of Eccentrics.
+TipDesc_8
+After you've captured this Outlaw Base, your Heal and Detox will be more effective at the Land of Death.
+TipDesc_9
+You'll meet a companion with good Martial Art Talent when you capture this Outlaw Base.
+TipDesc_10
+Bewitched people will gather at this place under the effects of a Demonic Cult.
+TipDesc_11
+After you've captured this Outlaw Base, you'll have a better chance of breaking through the Martial Art limit at the Brink of Ruin.
+TipDesc_12
+Taiwu will keep gaining [XP] if you send villagers to help Xiakes punish the wicked after capturing this Outlaw Base.
+TipDesc_13
+Taiwu will keep gaining [Resources] from this place if you send villagers to help heroes assisting the poor after capturing this Outlaw Base.
+TipDesc_14
+With the Esteemed Recluse's help, your Max Capacity will be raised from breakthrough here.
+

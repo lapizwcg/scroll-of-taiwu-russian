@@ -1,0 +1,23 @@
+Name_0
+Тайу
+Name_1
+The World
+Name_2
+Влияние
+Name_3
+Sect
+Name_4
+Персонаж
+Name_5
+Взаимодействие
+Name_6
+Совершенствование
+Name_7
+Battle
+Name_8
+Хозяйство
+Name_9
+Предмет
+Name_10
+Странствия
+

@@ -1,0 +1,49 @@
+Name_0
+Месяц Тигра
+Name_1
+Месяц Кролика
+Name_2
+Месяц Дракона
+Name_3
+Месяц Змеи
+Name_4
+Месяц Лошади
+Name_5
+Месяц Козы
+Name_6
+Месяц Обезьяны
+Name_7
+Месяц Петуха
+Name_8
+Месяц Собаки
+Name_9
+Месяц Свиньи
+Name_10
+Месяц Крысы
+Name_11
+Месяц Быка
+FiveElementsTypeDesc_0
+Дерево (Тигр)
+FiveElementsTypeDesc_1
+Дерево (Кролик)
+FiveElementsTypeDesc_2
+Земля (Дракон)
+FiveElementsTypeDesc_3
+Огонь (Змея)
+FiveElementsTypeDesc_4
+Огонь (Лошадь)
+FiveElementsTypeDesc_5
+Земля (Коза)
+FiveElementsTypeDesc_6
+Металл (Обезьяна)
+FiveElementsTypeDesc_7
+Металл (Петух)
+FiveElementsTypeDesc_8
+Земля (Собака)
+FiveElementsTypeDesc_9
+Вода (Свинья)
+FiveElementsTypeDesc_10
+Вода (Крыса)
+FiveElementsTypeDesc_11
+Земля (Бык)
+

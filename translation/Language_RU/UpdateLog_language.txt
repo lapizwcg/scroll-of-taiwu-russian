@@ -1,0 +1,571 @@
+VersionTitle_0
+Seasonal Festivals
+VersionTitle_1
+Roam the World
+VersionTitle_2
+Endless Fun
+VersionTitle_3
+Gathering Storm
+VersionTitle_4
+Чудо по наитию
+VersionTitle_5
+Venomous Heart
+VersionTitle_6
+Красавица кровавой гробницы
+VersionTitle_7
+Path of Chan Arts & Peerless Poison
+VersionTitle_8
+Cultured Warrior & Coiled Shellsnake
+VersionTitle_9
+White Ape Hermit & Reflections in Reverse
+VersionTitle_10
+Return of the Dreaming Soul
+VersionTitle_11
+Fuloong Sanctuary Martial Art Updates
+VersionTitle_12
+Quintessence Heartbane & Wordless Sutra
+VersionTitle_13
+Dark Owl & White Deer & Qinglang Pavilion
+VersionTitle_14
+Fuloong Plumes
+VersionTitle_15
+Smithing Training
+VersionTitle_16
+Skyshine Needles
+VersionTitle_17
+Разгадать механизм
+VersionTitle_18
+Eloquent Wit
+VersionTitle_19
+United as One
+VersionTitle_20
+Трое заточённых демонов
+SubentryTitles_0_0
+Spring - Springtime Market
+SubentryTitles_0_1
+Summer - Martial Arts Competition
+SubentryTitles_0_2
+Autumn - Cricket Tournament
+SubentryTitles_0_3
+Winter - Debate Tournament
+SubentryTitles_1_0
+Sect Support Effects
+SubentryTitles_1_1
+Betrayal Feature
+SubentryTitles_1_2
+Travel Events
+SubentryTitles_1_3
+Турнир секты
+SubentryTitles_1_4
+Marriage
+SubentryTitles_1_5
+Bamboo Incarnation
+SubentryTitles_1_6
+Enhanced Tile Info Display
+SubentryTitles_2_0
+New Secret Interactions
+SubentryTitles_2_1
+Character AI Upgrade
+SubentryTitles_2_2
+Battle AI Upgrade
+SubentryTitles_2_3
+Debate System Remake and AI Upgrade
+SubentryTitles_3_0
+Secret Tomes
+SubentryTitles_3_1
+Обучение
+SubentryTitles_3_2
+Notes
+SubentryTitles_3_3
+Real-time Notifications
+SubentryTitles_4_0
+Aspiration and Seniority
+SubentryTitles_4_1
+Character Creation
+SubentryTitles_4_2
+Encounter Improvements
+SubentryTitles_4_3
+Companion Command Logic Optimizations
+SubentryTitles_4_4
+Item Excavation
+SubentryTitles_4_5
+Nurturing Children
+SubentryTitles_5_0
+Смешанный токсин
+SubentryTitles_5_1
+Cricket Duels Optimizations
+SubentryTitles_5_2
+Combat-Related Optimizations
+SubentryTitles_5_3
+Handpick
+SubentryTitles_5_4
+Ruins Core Material
+SubentryTitles_5_5
+Engine Upgrade
+SubentryTitles_6_0
+Sanguine Sect Regional Story\nBlood Tomb Beauty
+SubentryTitles_6_1
+Sanguine Sect Martial Art Updates
+SubentryTitles_6_2
+Combat-Related Optimizations
+SubentryTitles_6_3
+Quick Start
+SubentryTitles_6_4
+World Details Settings
+SubentryTitles_7_0
+Shaolin Sect Regional Story\nPath of Chan Arts
+SubentryTitles_7_1
+Kongsang Sect Regional Story\nPeerless Poison
+SubentryTitles_7_2
+Shaolin Sect & Kongsang Sect\nMartial Art Updates
+SubentryTitles_7_3
+Combat-Related Optimizations
+SubentryTitles_7_4
+Guild Betrayal
+SubentryTitles_8_0
+Lion-Face Clan Regional Story\nCultured Warrior
+SubentryTitles_8_1
+Wudang Sect Regional Story\nCoiled Shellsnake
+SubentryTitles_8_2
+Lion-Face Clan & Wudang Sect\nMartial Art Updatess
+SubentryTitles_8_3
+Combat System Adjustments
+SubentryTitles_8_4
+Character Trait Improvements
+SubentryTitles_8_5
+Operations with Bare Hands are supported in Industry
+SubentryTitles_8_6
+Store Energy at Month Advance
+SubentryTitles_8_7
+Map Movement Interval Adjustments
+SubentryTitles_9_0
+Emei Sect Regional Story\nWhite Ape Hermit
+SubentryTitles_9_1
+Special Feature: Self-created Mind Method
+SubentryTitles_9_2
+Jade-Maiden Sect Regional Story\nReflections in Reverse
+SubentryTitles_9_3
+Special Feature: Creation of life
+SubentryTitles_9_4
+Emei Sect & Jade-Maiden Sect\nMartial Art Updates
+SubentryTitles_9_5
+Combat and Martial Arts\nAdjustments
+SubentryTitles_9_6
+Industry Building Improvements
+SubentryTitles_9_7
+Monthly Review UI Improvements
+SubentryTitles_10_0
+Return of the Dreaming Soul
+SubentryTitles_10_1
+Legacy System Adjustments
+SubentryTitles_10_2
+Taiwu's Animal Companions
+SubentryTitles_10_3
+Five Immortals Sect & Vajra Sect\nMartial Art Updates
+SubentryTitles_10_4
+Village Support and Sect Support Updates
+SubentryTitles_10_5
+Mod Interface Adjustments\nBuilt-in Workshop
+SubentryTitles_10_6
+Active Love and Hate Markers
+SubentryTitles_10_7
+Deactivation Indicators in Martial Arts UI
+SubentryTitles_11_0
+Fuloong Sanctuary Martial Art Updates
+SubentryTitles_12_0
+Five Immortals Sect Regional Story\nQuintessence Heartbane
+SubentryTitles_12_1
+Special Feature: Refine Prime Gu
+SubentryTitles_12_2
+Vajra Sect Regional Story\nWordless Sutra
+SubentryTitles_12_3
+Special Feature: Soul Transformation Ritual
+SubentryTitles_12_4
+Yuanshan Sect & Ranshan Sect\nMartial Art Updates
+SubentryTitles_13_0
+Valley of Flowers Regional Story\nDark Owl & White Deer
+SubentryTitles_13_1
+Special Feature: Life and Death
+SubentryTitles_13_2
+Ranshan Sect Regional Story\nQinglang Pavilion
+SubentryTitles_13_3
+Special Feature: Entrust a Secret Tome
+SubentryTitles_13_4
+Valley of Flowers Martial Art Updates
+SubentryTitles_13_5
+Adjustments to the Tool Durability Mechanism
+SubentryTitles_13_6
+Combat-Related Optimizations
+SubentryTitles_13_7
+Adjustments to the Circulation and Study Gameplay
+SubentryTitles_13_8
+Improved Display of Resources Held by Characters
+SubentryTitles_13_9
+Rebirth of imprinted character
+SubentryTitles_13_10
+New Warehouse Feature for Factions
+SubentryTitles_13_11
+New Qi Arts of the Lion-Face Clan
+SubentryTitles_13_12
+Added Worldbuilding Storylines and Dialogues
+SubentryTitles_13_13
+Companion Deployment\nNew Interactions During Battle
+SubentryTitles_14_0
+Fuloong Sanctuary Regional Story\nFuloong Plumes
+SubentryTitles_14_1
+Special Feature: Deploy Chickens
+SubentryTitles_14_2
+Faction Prison System
+SubentryTitles_14_3
+Taiwu Villager profession
+SubentryTitles_14_4
+Combat-Related Optimizations
+SubentryTitles_14_5
+Quick Tile Character Info Display
+SubentryTitles_14_6
+Relation
+SubentryTitles_14_7
+Guild Betrayal\nUpdates
+SubentryTitles_14_8
+Cricket Duels system update
+SubentryTitles_14_9
+Expanded Doctor Interactions
+SubentryTitles_15_0
+Swordsmith Villa Regional Story\nSmithing Training
+SubentryTitles_15_1
+Special Feature: Mechanism Companion
+SubentryTitles_15_2
+Swordsmith Villa Martial Art Updates
+SubentryTitles_15_3
+Aspiration System Updates
+SubentryTitles_15_4
+Bounty Sytem for Taiwu
+SubentryTitles_15_5
+Gifts and Special Dialogues from Intimates
+SubentryTitles_15_6
+Custom Martial Art Sets for Companions
+SubentryTitles_15_7
+Guild Related
+SubentryTitles_16_0
+Interaction between Villager and Treasury
+SubentryTitles_16_1
+Character Interaction\nSkill Check Animation
+SubentryTitles_16_2
+The character's current ideal Sect instruction
+SubentryTitles_16_3
+Insight System Introduction
+SubentryTitles_17_0
+Favor and Rank Interaction Updates
+SubentryTitles_17_1
+Breakthrough System Updates
+SubentryTitles_17_2
+Shaolin Sect Region Story\nSpecial Interaction Updates
+SubentryTitles_17_3
+Legacy System Updates
+SubentryTitles_18_0
+Debate System Updates
+SubentryTitles_18_1
+Map Exploration Rewards
+SubentryTitles_18_2
+Veil Scar Sect Martial Art Updates
+SubentryTitles_19_0
+Industry Updates
+SubentryTitles_19_1
+Optimized Strikes and Parry Mechanics
+SubentryTitles_19_2
+Improved Debate System
+SubentryTitles_19_3
+Added new Resource Spots effects.
+SubentryTitles_19_4
+Industry Management Optimization
+SubentryTitles_19_5
+Combat Optimization
+SubentryTitles_20_0
+Yuanshan Sect Regional Story\nThree Imprisoned Demons
+SubentryTitles_20_1
+Special Feature:\nThree Demons Disrupting Array/Trinity Protection Array
+SubentryTitles_20_2
+Fatal Blackstone Ash and Fuyu's Will
+SubentryTitles_20_3
+New Divine Tier 1 Martial Arts
+SubentryTitles_20_4
+Standard and Special Medicine Effects Adjustment
+SubentryTitles_20_5
+Warehouse and Prison Mechanics Updates
+SubentryTitles_20_6
+New Regional Story Triggers
+SubentryTitles_20_7
+New Industry Building: Banquet Hall
+SubentryTitles_20_8
+Value Attributes Updates
+SubentryTitles_20_9
+Favor Interaction\nLoyal Servant Adjustment
+SubentryTitles_20_10
+Obtain Core Materials from Resource Spots
+SubentryTitles_20_11
+Spectator Mode
+SubentryDescriptions_0_0
+Each spring, cities, towns, and villages may host a Springtime Market. At the marketplace, various Guilds gather, offering discounts, VIP invitations, and other activities! Taiwu can freely browse Guild stalls at the marketplace. Spending enough may earn Guild VIP status, granting access to exclusive goods!
+SubentryDescriptions_0_1
+Each summer, to encourage martial prowess and physical fitness, main cities host Martial Arts Competitions focused on specific Martial Artss or schools of martial arts. Fighters skilled in these disciplines gather to compete for the prestigious title of "Master of Martial Arts."
+SubentryDescriptions_0_2
+Every three autumns, cities come alive with the Cricket Tournament, drawing enthusiasts who gather to celebrate this beloved pastime. Those with some spare coin join to compete for the coveted title of "Cricket General." The event features different Cricket Duels, betting, purchasing prized crickets, acquiring special cricket jars, and even cricket care and training. If qualified, step into the arena and vie for the title!
+SubentryDescriptions_0_3
+Winter brings the Debate Tournament, a contest unlike any other, showcasing talents in Culinary Arts, Medical Art, Toxicology, Smithing, Carpentry, Weaving and Jewelcrafting. Experts in these fields gather to battle for the honor of "Master Artisan." Success requires more than book knowledge—participants must carefully consider their guests' professions, ages, and mindsets to craft the perfect presentation. Only those who impress the judges with thoughtful and fitting creations will rise to the top and claim the championship!
+SubentryDescriptions_1_0
+New interactive effects have been introduced to sect support, increasing its impact beyond battles and enriching gameplay.
+SubentryDescriptions_1_1
+When hostile actions are witnessed by the target, grudges are formed, causing Betrayal.
+SubentryDescriptions_1_2
+Journeying across the Martial World brings endless tales—unexpected treasures, chance meetings with friends, and lurking dangers. Explore fifteen distinct regions during the journey, each filled with unique stories waiting to unfold.
+SubentryDescriptions_1_3
+The Martial World is full of competing sects. Amidst chaos and intrigue, every three years, sects hold grand martial tournaments to test their disciples' skill, talent, and virtue. With the turmoil intensifying, these contests grow increasingly fierce and important. For the Successor of Taiwu, who bear solemn oaths inscribed on stele, participating in these elite tournaments is a precious chance to gain insight and grow stronger. (Tournament difficulty evolves alongside the invasion progress, expanding from basic small and large contests to nine escalating tiers—from "Super Tiny" to "Grand Grand Grand Grand" battles—each with greater rewards.)
+SubentryDescriptions_1_4
+Wedded Union is a momentous event—the binding of hearts and hands for life. After expressing the desire to wed, prepare to invite friends and family and plan a memorable celebration. But beware: Yet rejoice with caution: Weddings demand solemn grace, Lest merry rites become parting's lament... (Translation: Marriage seals life's pivotal covenant. Would you risk your union on reckless jests?)
+SubentryDescriptions_1_5
+The Violet Bamboo remembers every lifetime...Though buried deep underground, the unresolved past still haunts the soul. Touching the Sword Hilt, Taiwu unveils fragments of this ancient scroll, seeking to ease the suffering of tormented spirits for a greater cause. As the Bamboo Incarnation's story fully unfolds, what truths and sorrows will they reveal to Taiwu? (Note: These violet-bamboo transmuted beings prove both charming companions and eloquent conversationalists! Their talents extend far beyond...)
+SubentryDescriptions_1_6
+New toggles in the map interface and system settings allow players to display friends, enemies, and guilds clearly on each tile. This enhanced visibility helps plan movements and objectives with greater precision.
+SubentryDescriptions_2_0
+A brand-new Secret Interaction system now allows to influence characters across the world of Taiwu through the Secrets. Whether you choose to coerce someone for personal gain or use persuasion and guidance (features newly added in this update), the goal is to shift from merely observing the lives of NPCs to actively intervening in meaningful ways. Secrets represent snapshots of the lives of AI characters, and serve as the gateway for you to step into and influence their stories.
+SubentryDescriptions_2_1
+We've significantly expanded and restructured character AI, refining a wide range of behavioral details. Characters now behave more logically and dynamically, offering a more immersive world.
+SubentryDescriptions_2_2
+All battle AI has been completely rebuilt to be more strategic and challenging, allowing AI opponents to respond with greater variety and adaptability in combat.
+SubentryDescriptions_2_3
+The Debate system has also been reworked from the ground up, along with its corresponding AI, bringing a fresh layer of depth and competition to these non-combat contests.
+SubentryDescriptions_3_0
+Ever since the mysterious disappearance of the Fourteen Secret Tomes, strange and powerful artifacts have lain dormant throughout the world of Taiwu. But such relics of another realm were never meant to remain buried forever. In time, they are bound to fall into the hands of those—whether by fate or design—who will stir the winds of destiny. Thus begins the Tome Crisis that will sweep across Taiwu...
+SubentryDescriptions_3_1
+The "Tutorial" has been redesigned and reopened. While introducing parts of the game's lore and world, it now also provides a guided walkthrough of essential gameplay mechanics and basic operations.
+SubentryDescriptions_3_2
+The in-game Notes now provides clearer tracking of active storylines, quest objectives, and game progress. Never lose sight of your path again.
+SubentryDescriptions_3_3
+Real-time notifications have been rebuilt to deliver more precise and actionable feedback during gameplay, keeping you better informed at every moment.
+SubentryDescriptions_4_0
+From wandering warriors to common scholars, wealthy magnates to reclusive monks, or even royal peers and otherworldly masters... the world of Taiwu embraces all walks of life. The Aspiration System now offers 18 distinct paths, each representing a different lifestyle, philosophy, and set of powers. Players can develop their chosen Aspiration through Seniority, unlocking stronger abilities, switching freely to meet new challenges, or even mastering all Aspirations in time.
+SubentryDescriptions_4_1
+The system for generating and inheriting characters' Primary Attributes, martial arts and Fine Arts Talent has been fully revamped. Character quality now more accurately reflects their tier and background—while still allowing room for unpredictability. After all, as the saying goes: "Greatness knows no birthright."
+SubentryDescriptions_4_2
+Encounters now unfold in two distinct phases: Planning Phase and the Journey Phase, making each adventure more strategic and rewarding.
+SubentryDescriptions_4_3
+The logic behind companion orders has been completely reworked. Companions can now be selected based on their battle order traits, providing players with meaningful combat support tailored to different situations.
+SubentryDescriptions_4_4
+When a character loses or Taiwu discards an item, it no longer vanishes into thin air. Instead, it becomes buried in a nearby tile. Items decay and disappear over time at different rates depending on their type. A new excavation mechanic allows players to retrieve such items, before time and decay claim them forever.
+SubentryDescriptions_4_5
+New Monthly Events related to First Birthday Picking Ceremony and early education have been added, deepening the bond between Taiwu and their offspring.
+SubentryDescriptions_5_0
+Compound toxins is a novel system blending six base toxins: During combat, if a character is afflicted with at least three types of poison, the activation of any poison can trigger special compound poison effects. There are up to 20 unique effects possible from all combinations of the six toxins, and multiple effects can trigger simultaneously. Outside of combat, characters can apply up to three different toxins to a single item, creating up to 20 different possible poison effects based on these combinations.
+SubentryDescriptions_5_1
+In Cricket Duels, adjusted the quantity and tier of resources and items bet by opponents, while increasing the resources characters hold. This allows characters who meet the conditions to bet with the highest quantities or tier of resources and items available.
+SubentryDescriptions_5_2
+Added damage thresholds for a character's Psyche, Wound, and seven specific body parts. Each body part has separate thresholds for external and internal injuries. When damage reaches these thresholds, a visible Injury Marker will appear to clearly indicate the wound status. Also tweaked some Martial Art effects, improved the parry system, and adjusted how openings affect final damage. Significantly boosted the accuracy of pinpoint strike attacks and introduced a new adaptive weapon type: the Larynxound. A complete auto-battle settings panel has been implemented, along with overall AI improvements.
+SubentryDescriptions_5_3
+By consuming any one of the six basic resources—Foodstuff, wood, metal, jade, fabric, or herbs—players can obtain corresponding crafting Reagents and refinement materials.
+SubentryDescriptions_5_4
+Excavating ruins offers a chance to find core construction materials. However, Damaged Regions are extremely dangerous and excavation may alert Xiangshu underlings. Players should choose excavation sites carefully.
+SubentryDescriptions_5_5
+Upgraded the Unity engine version and backend .NET framework for improved stability and performance. The runtime libraries are now included within the game directory. To prevent MOD failures and help players identify outdated mods, an expiration warning has been added to the MOD interface, with an option to manually enable mods and bypass version checks.
+SubentryDescriptions_6_0
+To live is but a prelude to death; to die is the beginning of life. Outside Yangzhou City, ghostly shadows flicker; within the Sanguine Valley, the blood-stained tombs stand tall and ominous. Secrets abound, and the dead rise again from their graves, yet no one knows the full truth. Past events are lost to time; only fate brings the living and the dead to cross paths once more. This encounter may finally unravel the mysteries of the Blood Tomb Beauty and delve into the origins of the Sanguine Sect's secret arts...
+SubentryDescriptions_6_1
+Sanguine Sect Martial Arts have been updated...
+SubentryDescriptions_6_2
+To enhance the combat experience and increase both fun and challenge, improvements have been made to battle mechanics and related operations, including resource consumption previews and the reservation system. A comprehensive system for overall poisoning and toxin resistance has been introduced. Additionally, a new skill refinement feature, "Simplification" has been added, allowing certain Martial Arts to reduce their Martial Art Practice slot consumption.
+SubentryDescriptions_6_3
+In the initial storyline segment when leaving the Deep Valley, a "Quick Start" option has been added, enabling players to skip the Secluded Village and Outcast Village quests and proceed directly to Taiwu Village.
+SubentryDescriptions_6_4
+Three new world detail settings have been introduced: "Study Speed," "Breakthrough Difficulty," and "Circulation Speed." All adjustable to suit individual gameplay preferences.
+SubentryDescriptions_7_0
+Mt. Song Shaolin Temple welcomes all. Ten thousand doctrines, boundless devotion. Among its many Buddhist pagodas, a mysterious collapse continues without end... If all things follow cause and effect, could it be that the Shaolin monks have somehow angered the Buddha? Compassion and kindness arise from the heart, but so does cruelty. Why do the Shaolin monks, who should embody mercy and salvation, study deadly martial techniques? After meeting the old monk in the dream, can Taiwu finally master the Path of Chan Arts?
+SubentryDescriptions_7_1
+Snow blankets Changbai's peaks, as azure clouds drift into Kongsang domain. Kongsang, secluded in the mountains, prides itself on unparalleled knowledge of medicine and poison. Yet, they disdain so-called immortal elixirs and rare toxins as mere mundane trinkets. The descendants of the Liao family, obsessed with refining poisons, scoff at Kongsang's pursuit of immortality as a foolish dream wasted over centuries.
+SubentryDescriptions_7_2
+Martial Arts of the Shaolin and Kongsang Sects have been iterated and refined.
+SubentryDescriptions_7_3
+Significant improvements and deeper mechanics have been introduced in combat, including an updated acupoint system and the ability to improve resilience through Martial Arts cultivation. The activation conditions for Martial Arts requiring "full power" have been revamped to use more precise and dynamic calculations, resulting in a more flexible and realistic combat experience.
+SubentryDescriptions_7_4
+In Taiwu's world, trade guilds monopolize most resources, controlling many aspects of daily life. Although trade remains a buyer-seller relationship, guilds now have preferences that influence which factions, cities, and sects can access certain goods. A new system of Betrayal has been added: early in the game, players can spend significant resources to buy the highest-tier items from guild shops through leveraging this mechanic, adding a strategic layer to resource management and trade relations.
+SubentryDescriptions_8_0
+Rumors swirl through Guangdong: "Blind Cat disciples can't read a word, yet they catch thieves mid-river and brew vinegar like aged wine. How can they compare to the legendary General Li—master of both sword and scroll?" The Lion-Face Clan has long been seen as a group of rough men from the countryside. They never cared much for books, let alone poetry. But is this "Cultured Warrior" ideal just an empty dream—useless in the real world? Is loyalty and courage just vanity—a stubborn delusion? Perhaps the Successor of Taiwu will find the answer, after reading these verses, after seeing the blood-soaked battlefield.
+SubentryDescriptions_8_1
+But lately, something strange has happened. A mysterious old Taoist claiming to be one of Wudang's founders has appeared on the mountain. He goes around warning disciples who practice Heterodox Martial Arts. No one knows why. Is the old Taoist telling the truth, or is it just a trick? There's only one way to find out. Taiwu must climb the Sacred Wood and uncover the deeper secrets of the world. Yin and Yang follow their laws—orthodox and heterodox paths diverge. Are all reverse-cultivation Martial Arts truly heretical? The priest claims this sacred wood pierces the heavens, bridging the mortal realm to divine treasures. But are his words truth or deception? Fake or real? Unproven, thus unknowable. Very well—let the Successor of Taiwu climb this Sacred Wood and unravel the Dao!
+SubentryDescriptions_8_2
+Martial Arts of the Lion-Face Clan and Wudang sects have been iterated and refined.
+SubentryDescriptions_8_3
+Gradually refined the detailed effects of Inner Breath Chaos on characters and combat. Standardized rules governing how weapons and armor interact when affecting defense, footwork arts, and countering each other. Continued optimizing and improving the combat strategy of skill-changing, an important means of acquiring designated moves and striking specific enemy parts. Adjusted mechanics for reflection, parry, annihilation, in-battle True Qi gain and consumption, companion support commands, and formation systems...
+SubentryDescriptions_8_4
+New Trait "Outlaw Leader" is added to bosses in Outlaw Base Encounter events, greatly boosting their combat abilities. New Traits for Xiake have been introduced to enhance their power and individuality. New Trait Sect Leader is added for sect leaders, granting powerful benefits. If a character loses their leadership status, this trait is also removed. Characters may now reincarnate from animals in previous lives, inheriting unique animal-based traits.
+SubentryDescriptions_8_5
+Added a Bare Hands crafting option.
+SubentryDescriptions_8_6
+At the turn of each month, unused time is now automatically converted into extra Vitality, ensuring more efficient use of the time system.
+SubentryDescriptions_8_7
+Minimum movement interval on the map has been reduced from 1 tile to 0.1 tile, allowing for more precise navigation. Mount-based movement boosts now properly apply during map traversal, improving overall travel efficiency.
+SubentryDescriptions_9_0
+The recent "Severed Hand Murders" remain unsolved, and tensions over the True Martial Legacy are escalating. Rumors swirl—some say it's the work of a man-eating white ape spirit lurking in the mountains. Amid the chaos, a reclusive elder returns, carrying the will of the sect's founder and vowing to uncover the truth. In the midst of this turmoil, Taiwu finds themselves caught in a web of mist. Can they unravel the mystery without betraying their principles or squandering this fateful opportunity?
+SubentryDescriptions_9_1
+Through this short Emei storyline, Taiwu will gain the support of a special character—one who can co-develop martial arts alongside them. Together, they can craft customized Mind Methods that can be applied to any Martial Arts, such as: Changing the targeted body part of an attack, reducing style cost, or even increasing style cost to dramatically boost a technique.
+SubentryDescriptions_9_2
+What is love, in this mortal world? The Jade-Maiden Sect, though well-versed in its ways, long ago deemed romance futile. They severed passion's ties—yet what truly hides behind their mirrors? No one has yet unraveled the mystery behind the Egarim. One soul is cursed, forever barred from rebirth. Another is immortal, but condemned to solitude. Martial World is ever-changing—meetings and partings come swift as the tide. What is it, in this life, that your heart clings to most? When the Successor of Taiwu finally understands... perhaps then, they will unravel the meaning of love.
+SubentryDescriptions_9_3
+By unlocking the latent power of the Egarim, Taiwu gains the ability to create a unique living being, a mysterious companion, unlike any mortal, born to resist the corruption of Xiangshu itself.
+SubentryDescriptions_9_4
+Martial Arts of Emei Sect and Jade-Maiden Sect have been iterated and refined.
+SubentryDescriptions_9_5
+Certain combat actions, such as healing, detoxify, escape, or beast attacks, can now be performed while moving. When a Martial Art is sealed, its power will temporarily drop to zero, affecting all related bonus attributes.
+SubentryDescriptions_9_6
+The construction range requirement for Industry buildings has been adjusted. Previously, required resources or buildings needed to be within one tile. Now, they can be within two tiles. However, if the required resource or building is exactly two tiles away, the resulting effects provided by the building—such as production output or available item slots—will be reduced to 50%.
+SubentryDescriptions_9_7
+The event from last month review has been improved. You can now review all event notifications from each of the twelve months in a given year. As in-game content continues to expand, the number of monthly notifications has become overwhelming. To address this, a brand-new display mode has been added to better categorize and present monthly events and system prompts.
+SubentryDescriptions_10_0
+"Until now, has it ended?" The world is shattered and the heavens overturned. Immortals have vanished, ending in disgrace. Huanxin has perished and the Fuyu Hilt is broken. Taiwu's great power remains unfulfilled. So many regrets have become helpless sighs, for looking back only reveals emptiness and the past cannot be reclaimed. But is the past truly unreachable? What if one could mend those regrets and start over... A mysterious power from the void allows Taiwu to "Return of the Dreaming Soul," going back to where the dream first started.
+SubentryDescriptions_10_1
+The legacy mechanism has been revised so that most legacies can now accumulate on the Fuyu Hilt, continuously passing down to the next Successor of Taiwu.
+SubentryDescriptions_10_2
+The beasts of Taiwu's world have always been loyal companions and helpful allies. This update adds new unique combat talents for the beasts as well as special benefits they grant Taiwu when used as mounts.
+SubentryDescriptions_10_3
+Martial Arts and Gu Effects of the Five Immortals Sect and Vajra Sect have been iterated and refined.
+SubentryDescriptions_10_4
+With the addition of regional support functionality, Taiwu can now spend a certain amount of regional favor to increase the support level of a resource tile within any village, town, or sect's industry map. This will grant a monthly yield of the resources produced by that tile.
+SubentryDescriptions_10_5
+The existing mod management and mod upload interfaces have been updated. A new built-in Workshop feature is now available within the game, allowing players to browse and subscribe to Workshop mods directly in-game.
+SubentryDescriptions_10_6
+A new system for actively expressing love and marking hostility has been added. Taiwu can now mark other characters according to their own will.
+SubentryDescriptions_10_7
+When a Martial Art no longer meets the requirements for use due to "insufficient technique slots" or "Martial Art merging," it will no longer be removed outright, which would disrupt the Practice layout. Instead, the skill will be shown as "inactive," keeping the layout intact on the Practice interface.
+SubentryDescriptions_11_0
+Changed Fuloong Sanctuary's Martial Arts...
+SubentryDescriptions_12_0
+In the Five Venoms Valley, a mysterious girl suddenly appears, claiming to be a fairy spirit who favors asking about people's wishes. Strange incidents frequently occur in the Five Immortals Land, bizarre and uncanny, hiding unknown secrets. Matters of fate rise and fall unexpectedly. What seemed like just a dream from Miaojiang turns real when the mysterious girl reappears. The Poison Sages cause Pure Deviation; the Head's final writings are entrusted to Taiwu. The fairy girl seen in the Five Venoms Valley, by fate unintended, makes a vow under the thousand mountains, wandering under moonlight and through the vast sky. Whether the Divine Matron's request will be granted, and the mysteries of the Quintessence Heartbane be solved or not, all rests on Taiwu's decision.
+SubentryDescriptions_12_1
+Drawing upon the Gu Immortal's spiritual power, one may refine Prime Gu within the Myriad Gu Jar. Bathed in countless poisons, the Prime Gu born here possesses poison far beyond that of ordinary Gu...
+SubentryDescriptions_12_2
+Beyond the Western Regions, the Successor of Taiwu finally reaches the towering Kunlun Mountains—where snow crowns the summits and prayer flags whip in the wind. Here lies the domain of Vajra Temple, the Nirvana Vajra Sect. There, wandering souls suffer trapped in dire straits. Only Taiwu's spirit can sense and reveal their true forms. The Nirvana Vajra Sect wields false Vajrayana, cruel and merciless, causing monks to die unjustly and the people to suffer, with no hope of rescue.
+SubentryDescriptions_12_3
+By harnessing mysterious power, Taiwu may unlock the hidden force of the Reincarnation Platform, potentially allowing many souls to regain bodies and avoid the cycle of reincarnation.
+SubentryDescriptions_12_4
+Martial Arts of the Yuanshan and Ranshan sects have been iterated and refined.
+SubentryDescriptions_13_0
+In White Deer Marsh, an oddity has appeared, and strange, eerie events unfold everywhere. Threads tangled and twisted, with no clear source of the disaster. Or by unresolved vows and lingering obsessions from the past? Meeting the mysterious Dark Owl & White Deer and wandering through a fairy-like dream, Taiwu ventures once more into the Valley of Flowers, hoping to uncover the truth behind this baffling madness.
+SubentryDescriptions_13_1
+Through the Octomancy Requiem bound by fate, drawing from death to nurture life, withering to flourishing, a unique interplay of the Five Elements emerges.
+SubentryDescriptions_13_2
+An immortal is said to be one who "takes elixirs and guards unity, harmonizing with heaven," another who "forgoes grains, breathing in wind and dew"; one who "flies amidst clouds with divine ease," another who "ascend to the mountains—so say the ancient scripts. Yet if they truly exist, why do a hundred witnesses describe them in a thousand ways? And if they do not, why does Ranshan's entire sect devote itself to cultivation, elixirs, and the endless pursuit of the celestial path?" Let Taiwu journey to mist-wrapped Ranshan Mountain, step into the Qinglang Pavilion, and demand an answer: What truly makes an immortal..
+SubentryDescriptions_13_3
+Harnessing the immortal power of Ranshan Mountain, the secret tome can be concealed deep within the mortal world, helping people lay down their worldly attachments and relinquish the secret tomes they once clung to...
+SubentryDescriptions_13_4
+Valley of Flowers Martial Arts have been updated...
+SubentryDescriptions_13_5
+When using high-tier tools on lower-tier targets, durability consumption is reduced, and in some cases, durability will not be consumed at all.
+SubentryDescriptions_13_6
+Six new Defeat Markers have been added, many of which can now trigger effects outside of battle. The fixed Daze Marker significantly increases the effectiveness of mental damage. Adjustments have been made to the effects of various Pure Essence levels. Players can now choose whether the Pinpoint Strike applies either an Opening effect or a sealed acupoint effect. Different Qi Arts will grant attribute bonuses during use based on the amount of True Qi. After amassing True Qi, it will feed back to boost Qi Arts, providing extra True Qi bonuses. The "Counterattack Battle" rule has been refined to better fit its Trial design.
+SubentryDescriptions_13_7
+By spending Willpower and time, players can perform up to three additional Microcosmic Circulation per month, selecting different auxiliary Qi Arts and strategies to enhance various Microcosmic Circulation effects. Circulation not only restores Qi and alters elemental affinities, but also grants four types of Circulation True Qi: Annihilation, Protection, Nimble, and Acumen. Similarly, players can perform up to three extra study sessions monthly by consuming Comprehension and time. The Epiphany mechanic is now more flexible, reference book setups are clearer and more effective, and available study strategies are shown as soon as study begins.
+SubentryDescriptions_13_8
+All character resources are now displayed as items in their inventory UI, making it easier and clearer to track possessions. Equipment overweight penalties have been adjusted to include additional benefits when carrying excess gear.
+SubentryDescriptions_13_9
+When creating a new save file, players can choose up to 100 previously imprinted characters to bring into the new Taiwu world, continuing their stories anew.
+SubentryDescriptions_13_10
+Each sect and town now features warehouses that provide various supplies to faction members, affecting their status. These warehouses serve as primary locations for storing materials and exchanging contributions. When certain conditions are met, the Successor of Taiwu may exchange for vital resources from faction storehouses. These warehouses deploy guarded defenses proportionate to their stockpiles' value - trespassers face coordinated guardian forces employing tactical formations.
+SubentryDescriptions_13_11
+Tier 5 Qi Art for Lion-Face Clan "Grand Valor" added...
+SubentryDescriptions_13_12
+New story events related to guilds reveal the hidden tales behind Taiwu world's traders and guilds. To enhance immersion and worldbuilding, over 500 new dialogue lines related to the world state, regional factions, profession and Xiangshu invasion progress have been added for various characters. Traveling companions will now trigger short dialogues based on their experiences on the map, personalities, and professions. These interactions provide guidance and make companionship more lively and engaging.
+SubentryDescriptions_13_13
+If the main combatant's Favorability with their allies is low at battle start, allies may trigger special dialogues and replace their support commands with negative commands that automatically activate and harm their main combatant. During battle, depending on ally mindsets and Favorability, special dialogues may trigger when support commands are used, instantly removing cooldowns on those commands.
+SubentryDescriptions_14_0
+Smoke veils crimson rain, is heaven weeping? Wind chants over drowned seas, a grand dream fulfilled. Legends speak of a True Loong that once descended upon Chiming Island, only to vanish into slumber. To awaken it once more, the Fuloong Sanctuary has spent years in blood-soaked rituals and fanatical worship. Now, as blazing fire rains from the heavens and boils the sea, could their prayers have been answered at last?
+SubentryDescriptions_14_1
+In Taiwu Village, the Chickens remain docile and tame. By assigning Chickens their unique roles to help villagers in Taiwu Village, players can turn these mystical creatures into powerful assets. With proper planning, their abilities will greatly benefit the village.
+SubentryDescriptions_14_2
+The new prison system brings greater depth and realism to law and punishment in the Taiwu world. Crimes and consequences are now visibly enforced by factions, making justice more transparent. This system enriches personal histories across the land and opens new interactive possibilities such as issuing bounties, prison breaks, and prisoner transfers. It's time for Taiwu to stand up for justice.
+SubentryDescriptions_14_3
+Taiwu can now assign villagers distinct professions, shaping the village's development and influencing the world beyond. Whether uplifting the people or sowing chaos, the village's fate lies in your hands. The village warehouse has also been upgraded to better manage item access based on villager professions.
+SubentryDescriptions_14_4
+The combat system has been further refined for clarity and efficiency. Footwork Arts and Stamina have been merged into a single feature. Companion support commands are now easier to manage, and the combat AI for both enemies and Taiwu has been made smarter. New features include Refine & Envenom and Toxin Extraction, as well as a new "Sparring Mode" and "Training Mode" in the Training Hall.
+SubentryDescriptions_14_5
+You can now instantly view detailed character information on each map tile. This makes planning interactions more convenient and helps you find key people with ease.
+SubentryDescriptions_14_6
+While traveling, Taiwu may part ways with important friends and companions. With the new "Follow" function, you can keep track of their status and stay updated no matter how far apart you are.
+SubentryDescriptions_14_7
+The revamped Betrayal system now offers clearer access to high-tier items earlier in the game. Merchant and caravan locations are more transparently displayed across the map, helping you better understand each guild's influence.
+SubentryDescriptions_14_8
+Cricket Duels have been improved to show all of your opponent's possible wagers up front, eliminating the guesswork. This makes it easier to win the specific rewards you're after. Fight presentation has also received visual updates.
+SubentryDescriptions_14_9
+Both Taiwu and doctors in the world can now assist others in restoring health and stabilizing Inner Breath using their expertise in Medical Art or Toxicology. These enhancements provide better tools for surviving the challenges of the Martial World.
+SubentryDescriptions_15_0
+When drawn blades turn men into passing guests, We'll speak of white-haired years weathered by time. Before the founding of the Swordsmith Villa, it was said a master smith once forged the legendary sword Zhanlu with copper from the Ruoye Creek and tin from the Chijin Mountains. Today, the Swordsmith Villa seeks to relive that legacy, but unexpected turmoil threatens to sever its ancestral line.
+SubentryDescriptions_15_1
+Using secret skill of Heaven's Mechanism, players can now forge mechanical companions. These automata can fight, command formations, and grow stronger through Taiwu's training. They can learn Martial Arts and Fine Arts, sharpen their skills, and even become key assets in battle.
+SubentryDescriptions_15_2
+With the time-honored techniques of the Swordsmith Villa, the new Weapon Unleash and Divine Weapon Reforge systems have been added. Combined with updated martial effects, players can now unlock the true potential of weapons and experiment with powerful Swordsmith Villa Martial Arts combining with various weapons.
+SubentryDescriptions_15_3
+Each concoction unique as its maker. A major rework brings deeper, more meaningful gameplay to each Aspiration path. Every Aspiration now offers unique skills, flexible activation mechanics, and greater influence over character development—allowing you to shape a truly one-of-a-kind Taiwu.
+SubentryDescriptions_15_4
+Taiwu's fame brings both reverence and scrutiny. While they may not be judged like common criminals, violating local laws or sect codes will now trigger penalties. Let Successors of Taiwu walk with virtue, for the world watches their every move.
+SubentryDescriptions_15_5
+Old friends and new acquaintances alike now offer gifts to Taiwu to express their gratitude and deepen your relationship. These interactions help strengthen bonds and provide practical support in your adventures.
+SubentryDescriptions_15_6
+You can now freely assign Martial Arts and battle strategies to companions, giving you more control over their role in combat. With the right support commands and coordination, companions can become a decisive force on the battlefield. This greatly enhances the value and rewards of companion development as a whole.
+SubentryDescriptions_15_7
+New seasonal items have been added to merchant guilds, and the behavior of trade caravans has been improved to better reflect the pulse of life in the Taiwu world.
+SubentryDescriptions_16_0
+Villagers in Taiwu Village will now take or store items from the Treasury based on their personal needs.
+SubentryDescriptions_16_1
+When Taiwu engages in friendly or hostile actions toward others, new animations and more detailed conditions will now visually convey whether the action succeeds or fails.
+SubentryDescriptions_16_2
+The tooltip for the "Affiliation" icon on character pages now includes a description of the Ideal Sect mechanic.
+SubentryDescriptions_16_3
+Each category tab in the Insight interface now features detailed tooltips explaining how each type of insight is acquired and how chatting with others may reveal additional information.
+SubentryDescriptions_17_0
+Across the Taiwu world, each profession demonstrates unique marvels while every sect holds specialized mastery. This version brings a comprehensive overhaul to favor and profession interactions, enriching gameplay and making it easier for Taiwu to gain effective support while roaming the Martial World.
+SubentryDescriptions_17_1
+Martial Arts training requires harmonizing knowledge with practice. After learning a technique, there is no longer a need to increase cultivation levels. You can directly breakthrough and grasp the true essence of the technique in combat. Alternatively, by studying worldly objects or human emotions to activate Mechanism, you can gain special bonus effects for your martial arts.
+SubentryDescriptions_17_2
+Shaolin Sect's old regional event "Wall-Gazing Meditation" removed. New interaction "Demonic Trials" added. The old special interaction Wall Meditation in the Shaolin Sect region has been removed and replaced with the new Demonic Trials.
+SubentryDescriptions_17_3
+Generations of Taiwu have passed down their legacy, with the efforts of predecessors sheltering their descendants. The Legacy system has been adjusted to reduce randomness and deepen its connection with world details. Passing down the Fuyu Hilt is no longer an end or failure, but a new beginning.
+SubentryDescriptions_18_0
+Advance with measured steps, and excel in strategic command. The redesigned Debate system now presents verbal duels as a three-lane board, making the gameplay clearer, more engaging, and easier to enjoy. Each Fine Art type offers unique and distinctive strategies to explore.
+SubentryDescriptions_18_1
+Enhanced exploration rewards. As Xiangshu's invasion progresses, various resources and items will appear across the Taiwu world for players to discover and collect on the map.
+SubentryDescriptions_18_2
+Replaced the Martial Art of Veil Scar Sect's...
+SubentryDescriptions_19_0
+Refined Industry Gameplay Pace and experience, streamlined building construction, villager profession development, and work assignments to achieve a more intuitive and immediate operation; Increased villager autonomy to strengthen the bond between Taiwu and the villagers, making the village more lively and personal
+SubentryDescriptions_19_1
+Simplified the current combat system by removing the parry mechanic. Weapon attacks no longer consume Strikes but instead include brief preparation and cooldown times before and after attacks based on weapon type. Accordingly, adjusted the acquisition and recovery rates of Stance and Inhale.
+SubentryDescriptions_19_2
+Enhanced the Debate process and added audience effects on the battlefield. Audiences with different alignments can create special zones that influence the Debate situation. Adjusted audience evaluation mechanics and improved various stages of interaction, including pressure effects and turn order rules.
+SubentryDescriptions_19_3
+Added special effects to Resource Spots within industries. Characters or industry buildings located in a faction or within a settlement's influence area will now gain different types of resource yields and buff effects...
+SubentryDescriptions_19_4
+Optimized filtering logic, operation flow, and information display in industry buildings and various interfaces, making it easier and more convenient to manage industries and villager professions...
+SubentryDescriptions_19_5
+Added a new defensive Martial Art, Yin-Yang Iron Skin, which increases the limit for Wound Markers. Adjusted Martial Arts such as Frenzy Staff so that instead of allowing normal attacks during execution, they now allow skill-changing during execution. Combat now also supports queuing normal attacks and companion commands. Increased the worsening multiplier of Cryotoxin and Pyrotoxin. Updated the special effects of the Martial Art Mahakala's Blade...
+SubentryDescriptions_20_0
+Steles stand tall, bronze bells toll, swords clash, startling demons and spirits. Heaven and Earth are shrouded in uncertainty. Yuanshan Sect has long been devoted to upholding righteousness and banishing Xiangshu. With countless disciples and a vast reputation, they are rightly hailed as the greatest sect in the martial world. Now, rumors spread that Yuanshan Sect has found a salvation that may cleanse the world of its disasters. Yet, when Taiwu ascends Greater & Lesser Yuanshan and enters the Yuanshan Prison, Taiwu realizes that this path of salvation may conceal an even greater mystery... Yuanshan... Since Taiwu has bared heart for all beings, it falls upon Taiwu to rescue the lost.
+SubentryDescriptions_20_1
+With the aid of departed friends, one may command divine and demonic incarnations. With proper command, victory is assured.
+SubentryDescriptions_20_2
+Xiangshu invades the world, threatening all beings by inflicting the Fatal Blackstone Ash trait. Characters afflicted with Fatal Blackstone Ash will die after a set period. After saving the bewitched, you gain Fuyu's Will based on the Pure Essence of the saved character. Using Fuyu's Will on characters with Fatal Blackstone Ash trait can slow down the invasion.
+SubentryDescriptions_20_3
+Added Divine Tier 1 Techniques: Wudang Qi Art: Primeval Innate Art; Ranshan Qi Art: Marrow Seal; Emei Finger Arts: Celestial Hand; Lion-Face Clan Polearm Arts: Eight Demonbane Spears.
+SubentryDescriptions_20_4
+Adjusted standard and special medicine effects related to healing, inner breathing, health, detoxification, and attributes.
+SubentryDescriptions_20_5
+Divided prisons and warehouses into low, middle, and deep levels. Adjusted entry conditions and guard strength for each level, along with the tiers of stored items, prisoner ranks, and the generation logic for items and resources in warehouses.
+SubentryDescriptions_20_6
+Added support for manually enabling or disabling untriggered regional stories in the system settings after loading a save.
+SubentryDescriptions_20_7
+Added the Banquet Hall. Serve food and drinks to guests to raise their Mood and Favorability. They may send a Greet Back Gift afterward. Special dish combinations can trigger multiple themed banquets.
+SubentryDescriptions_20_8
+Unified price and value into a single value attribute, and adjusted related mechanics, including equipment affixes and Treasury contributions.
+SubentryDescriptions_20_9
+Enabled adjusting the attributes of the generated Loyal Servant by consuming resources.
+SubentryDescriptions_20_10
+Added a chance for resource gathering structures to obtain core materials from their corresponding resource spots.
+SubentryDescriptions_20_11
+Enabled Spectator Mode in settings to hide battle UI for better viewing of your combat.
+

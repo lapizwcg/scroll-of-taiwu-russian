@@ -1,0 +1,384 @@
+Name_0
+Barred Rock Chicken
+Name_1
+Qingyuan Chicken
+Name_2
+Pheasant
+Name_3
+Bamboo Partridge
+Name_4
+Black Plumage Chicken
+Name_5
+Quail-tail Fowl
+Name_6
+Eared Pheasant
+Name_7
+Redleg Chicken
+Name_8
+Scholar Fowl
+Name_9
+Sycee Chicken
+Name_10
+Crimson Rooster
+Name_11
+Guo Chicken
+Name_12
+Zhu-Zhu Chicken
+Name_13
+Long-tailed Chicken
+Name_14
+Lady Amherst's Pheasant
+Name_15
+Golden Pheasant
+Name_16
+Langya Chicken
+Name_17
+Emerald Rooster
+Name_18
+Greengage Chicken
+Name_19
+Parasol Chicken
+Name_20
+Kuaiji Chicken
+Name_21
+Ink Black Chicken
+Name_22
+Peach Haven Chicken
+Name_23
+Bearded Chicken
+Name_24
+Deer Garden Chicken
+Name_25
+Emei Black Chicken
+Name_26
+Candlestick Chicken
+Name_27
+Huaixiang Chicken
+Name_28
+Gray Chicken
+Name_29
+Red Junglefowl
+Name_30
+Gushi Chicken
+Name_31
+Шёлковая курица
+Name_32
+Yuewa Chicken
+Name_33
+Jingning Chicken
+Name_34
+Black Fenghuang Chicken
+Name_35
+Crowing General Rooster
+Name_36
+Lueyang Chicken
+Name_37
+Annan Chicken
+Name_38
+Ornate-tailed Fowl
+Name_39
+Wenchang Chicken
+Name_40
+Snowcock
+Name_41
+White-headed Black Chicken
+Name_42
+Polydactyl Chicken
+Name_43
+Five-colored Chicken
+Name_44
+Rainbow Pheasant
+Name_45
+Fengchuan Chicken
+Name_46
+Hailing Chicken
+Name_47
+Shanggu Chicken
+Name_48
+Ningdu Chicken
+Name_49
+Qingzhou Chicken
+Name_50
+Fragrant Chicken
+Name_51
+Fortune Chicken
+Name_52
+Goujian Chicken
+Name_53
+Silver-eared Golden Chicken
+Name_54
+Jianning Chicken
+Name_55
+Wood Grouse
+Name_56
+Pallas's Sandgrouse
+Name_57
+Jiuzhen Chicken
+Name_58
+Chang'an Rooster
+Name_59
+Kunlun Chicken
+Name_60
+Golden-legged Chicken
+Name_61
+He Fowl
+Name_62
+Kun Fowl
+Name_63
+Императорская курица
+Desc_0
+These chickens have a barred, black and white plumage resembling dark reeds. They enjoy roaming by rivers and hiding among tall reeds while pecking at grass seeds, acorns, berries, and small insects such as ants and flies.
+Desc_1
+This breed can be traced back to the late Tang Dynasty, a crossbreed between domestic chickens and pheasants. Originating from Qingyuan, Guangdong, they have small dark dots on their back and are small, fit and nimble, often seen foraging in the wild or in fields.
+Desc_2
+With small heads and long tails, pheasants are elusive birds that are prone to darting into nearby bushes at the first sight of strangers. Yet the ancient Confucian text Bai Hu Tong notes how they're "not wont to be lured by food, nor threatened by intimidation." As such, scholars consider them a symbol of integrity and so present them as gifts when visiting friends.
+Desc_3
+The Bamboo Partridge, also termed "Nigugu," often calls out several dozen times in a row until out of breath. Their colorful plumage means they're easily spotted, especially amid their favored bushes and bamboo forests. They don't fear people, and will often scrap among each other for fun.
+Desc_4
+Standing proud and graceful, the Black Plumage Chicken has a bright red comb and glossy black feathers. They're a free-range breed that forage on insects and wild herbs, laying greenish eggs that are especially delicious. In times of old, they were offered in tribute to the imperial palace.
+Desc_5
+The tail of the seven constellation mansions is the Vermilion Bird, one of the Four Symbols. Referred to as Quail-tail Fowl, this term was later used to name this bird species. Their chicken-like heads paired with short quail-like tails grant them an unconventional charm. Bronze mirrors would often be detailed with Quail-tail Fowl designs in the Han Dynasty, symbolizing the Vermilion Bird.
+Desc_6
+Eared pheasants have unique appearances with red heads, blue plumage and upward tails, and are fit and graceful runners that only live on mountains. They make loud and clear calls and are not afraid of people, capable of digging for food and nesting in hay.
+Desc_7
+These birds resemble pheasants with red legs and dark plumage and can be used to cure swellings and dry skin, also known as 'Tong Qu' in The Classic of Mountains and Seas. They are rare waders that feed on plants, fish and insects, capable of moving quickly in woods and on lakes.
+Desc_8
+Legends tell of a Scholar Chuzong of the Pei state, who in the Jin Dynasty kept a wondrously intelligent chicken even capable of speech. Speaking chickens of high intelligence have often been found since, known as 'Scholar Fowls.'
+Desc_9
+It's said that "The trilling of Sycee Chickens, with their prominent heads and tails like a crescent-shaped ingot, is most pleasant." Their endearing appearance with short legs and chubby bodies means their cries never grow grating.
+Desc_10
+The poet Lu You wrote, "We pledge loyalty to each other with the blood of a crimson rooster." Their call is clear and crisp, and their plumage is a deep crimson. In times of old they were used in sacrifices and vows, for they symbolize permanence with shiny and brilliant feathers, hard-edged and sharp beaks, and a most striking appearance.
+Desc_11
+There were officials in charge of sacrificial chickens for rituals in the Zhou Dynasty. It's told that they insisted on only using chickens from the Guo state. These chickens are slender, handsome, a mottle of black and red, and have been bred in the regions of the Guo state for generations.
+Desc_12
+The Biographies of Immortals tell of Zhu, an old man who kept over a thousand chickens for over a century and called each by name. In time they were sold on and spread across the land. Yellow and white in color, they are proud and smart with heads held high, often found perching on trees. They answer their owner's call: "Zhu-Zhu."
+Desc_13
+The Book of the Later Han states "There exists a long-tailed chicken, tail five chi in length." These were once a precious tribute for nobles, placed upon high platforms. Their tail feathers are graceful and sweeping. The chickens are valued so highly, and some even had them carved upon their tombs.
+Desc_14
+Emperor Huizong of Song once wrote, "Autumn frost and white crests on Lady Amherst's pheasants," a line for his painting 'Golden Pheasant on Cotton Rose.' They sport long, narrow combs with white coloring on their necks, tails and breasts; a bright-colored plumage. Scholars have often lauded their beauty in paintings and poetry.
+Desc_15
+Golden pheasants' combs are gold throughout, with colorful plumages as brilliant as brocade. They're said to resemble the Fenghuang, a most auspicious creature. Thus, their imagery is often used in imperial decorations and embellishments.
+Desc_16
+Qin Shi Huang traveled to Langya three times in search of a golden elixir for immortality. Alchemist Xu Fu offered a precious ingredient from the sea and simmered it with the local chicken, the latter which the emperor found just as delectable as the marine delicacy. He even deemed it capable of prolonging one's life, naming it the 'Langya Chicken.'
+Desc_17
+Zuo Si once wrote, "While golden steeds are swift and glowing, the elusive emerald rooster preens itself with a marvelous shine." Legend tells of an emerald rooster deity that descends upon the earth with a fantastic glow, granting good fortune to all who see it. Many seek it out, building shrines as offerings for its blessing and protection.
+Desc_18
+Certain chickens can be seen pecking at greengages and the worms that gather as they fall. Thus they're known as Greengage Chickens, ordinary with a mottled brown plumage; yet their meat is fine, tender and unique with a faint sweet flavor, perhaps due to their greengage diet.
+Desc_19
+Poet Yao Mian once wrote, "Chickens drink from chrysanthemum-rich ponds, out upon parasol trees." Bred in Jiangnan, these diminutive and short-legged birds bear an endearing snow-white plumage. They like to nest in parasol trees or in bamboo forests, drinking from lakes and ponds surrounded by trees and blossoms. Hence they carry a fresh aroma of flowers and leaves.
+Desc_20
+Stocky birds that, despite their size, are largely unable to cry. A newly-appointed governor was once taunted as being "unable to speak for himself, like a Kuaiji Chicken"; yet he simply replied, "Although quiet, the Kuaiji Chicken are more than capable of slaying the corrupt before them."
+Desc_21
+These chickens are inky-black throughout their plumage, skin, flesh, bones and innards. Most are left to roam freely in woods and mountains, feeding on wild plants and bugs.
+Desc_22
+In the Taiyuan era of the Jin Dynasty, a Wuling fisherman found himself in an idyllic haven of blossoming peach trees having sailed to a river's end. There he was fascinated by plump and fluffy chickens like none he'd seen before, and sought to take some eggs back to hatch for himself.
+Desc_23
+Chickens with large heads, wide necks, and plump rears bearing short tails. Tufts of elongated feathers grow below their beaks like beards, hence their name.
+Desc_24
+Hailing from the lands there the Wu kings of old bred their deer, these chickens are large and sturdy with a golden plumage. They emanate a majestic beauty from beak to tail, akin to distinguished generals.
+Desc_25
+Rotund birds from Emei with thick layers of black feathers, able to withstand the harsh cold with their fluffy plumage. Strong wings and great agility render them able to leap high and evade attack.
+Desc_26
+Confucian work the Lunzi tells of "a chicken able to prolong daylight with its cry, spurring fires to burn on brighter." Candlestick Chicken is considered an ancient marvel, feeding on the ground by day and either airborne or roosting in trees by night. Their crow can keep the sun shining high in the skies.
+Desc_27
+A variety easy to breed, feeding on cereal, rice and potatoes in their coops along with worms and leaves when roaming in mountains and creeks.
+Desc_28
+Chickens named for their grayish plumage, legs, beak and comb. They are often kept in farms, orchards or within woods where they feed on grass, ants, gravel, and fallen fruits.
+Desc_29
+Well-proportioned birds adept at both flying and running, often gliding low in woods and feeding on flowers, leaves and berries. They call out with a distinctive "cock-a-doodle-doo" crow.
+Desc_30
+These chickens are moderate in size, with fluffy plumage and a curled black tail resembling the closed hand of the Buddha. When they sprint, their tail feathers dance elegantly in the wind.
+Desc_31
+Small chickens with dark flesh and contrasting silver plumage, thin and fluffy feathers atop their heads. They're a model breed, with ten unusual qualities: a large comb, tasseled head, green napes, beard, five-toed feet, fluffy legs, silky feathers, and black skin, bones and flesh.
+Desc_32
+These chickens are bred in Yunnan and have silky white plumage with a texture like wool. As such, the local Yi people named it 'Yuewa,' their word for wool. These birds prefer to feed on grass and aren't keen on flight, hence often nest in grasslands or bushes.
+Desc_33
+In the Western Han Dynasty, Jingning was a strategic military point stationed with troops. Chickens were introduced to these regions, bred upon the barren mountains. Years passed as they foraged and traveled with the troops, slowly growing larger and sturdier than their predecessors.
+Desc_34
+Named for their black plumage and the fluffy head feathers resembling a Fenghuang crown. Legend has it they're not of this earth, given their bizarre appearance: deep black eyes, blood and innards.
+Desc_35
+During Emperor Cheng of Han's rule, he was offered a chicken tall as a child by the county of Yuexi. It would crow at length, and be fed treats for clear and long crows that could even last an entire year. Emperor Cheng was pleased with the chicken, bestowing upon it the title of 'Commander-in-chief.'
+Desc_36
+A well-built variety with broad, fluffy chests and thick, long legs. They are talented foragers in the wild, hence farmers often let them roam into woods and call them back at nightfall.
+Desc_37
+Small birds with mottled plumages, named for the region in which they're bred. They're a sedentary type, short and shy of people, often freezing and cowering with heads held back when approached.
+Desc_38
+These birds have short and round tails, and are ill-suited for flight. They hide in the branches, motionless when approached. Only when the threat leaves do they flap their wings and fly an escape, the noise filling the air.
+Desc_39
+They're said to have developed smaller frames over years of feeding on fallen banyan tree fruit. Yet their plumage has grown to have a brilliant sheen, albeit little seen given that they prefer to stay in quiet, shady areas.
+Desc_40
+Snowcocks resemble quails, with their light gray coloring and distinctive white belly feathers. These rare birds reside on snow-covered mountains, drinking the ice that melts.
+Desc_41
+Never eat the black chicken, or illness shall consume you. This bird is said to live among poisonous southern marshes, over generations becoming toxic through years of feeding on dirt and vermin. All who consume their flesh will suffer an illness that's hard to cure.
+Desc_42
+These chickens are unique in appearance, with snow-white heads and six-toed feet. Solitary creatures, they poison all who eat them.
+Desc_43
+These chickens have a five-colored plumage of blue, yellow, red, white and black. Only when at death's door do they crow, and eating their meat can bring on sadness and depression.
+Desc_44
+A pheasant with a rainbow-colored plumage. They often flap their wings like a Fenghuang when bathed in sunlight, as if flying to the sun. This resemblance means many consider them harbingers of good fortune. However, reaching the lands where they live is a mean feat for any mortal, and few ever see them.
+Desc_45
+Chickens often kept in bamboo forests by creeks, on mountains, or in woods. They subsist on wild plants and insects, charming-looking birds with short bodies and thin bones.
+Desc_46
+This breed roams among mudflats, an elegant and delightful bird with black, yellow or white plumage. The latter coloration is the rarest.
+Desc_47
+These chickens were first bred on the grasslands north of the Great Wall. Perky creatures with long tails, they're easy to feed and enjoy roaming freely among bushes and fields.
+Desc_48
+The plumage, beaks and legs of these birds are all yellow. They're a docile and affectionate breed that prefers to live in groups, and are resistant to illness.
+Desc_49
+With black plumage and white skin, the bodies of these chickens shimmer with a golden hue, and their large eyes flit about energetically. They are said to have been bred in Shandong since the Zhou Dynasty.
+Desc_50
+With gold-hued wings and a peculiar aroma, these chickens are small and agile, difficult to find in the wooded mountains they roam.
+Desc_51
+These gentle creatures bear a lustrous plumage, with short legs and pointed tails. They're favored for their docile nature, and how they coo and dance excitedly when spotting a precious artifact. As such, they're considered good luck.
+Desc_52
+In the Spring and Autumn period, King Goujian of Yue is said to have gathered fine chickens, cross-breeding them for exhibition. Thus these beautiful chickens came to be, with striking plumages akin to jade when seen from afar. They're highly sociable and are known to shed tears when their owner dies.
+Desc_53
+Their beautiful golden plumage aside, silvery feathers like white peach petals adorn the sides of their heads. So melodic is their cry, one would almost think they understood music and emotion. They're amiable creatures and friendly to all.
+Desc_54
+These chickens have lustrous plumage and are fit and agile runners that roam freely on both mountains and plains.
+Desc_55
+These birds feed on pine needles, fresh fruits and insects. Although poor fliers, their sharp claws and strong legs help them dig in the ground, and they have blade-like wings and a clear, loud call.
+Desc_56
+These birds are small like doves, and they soar with great speed, often traveling along with desert outlanders in search of water. The New History of the Tang reads, "Outlanders shall soon arrive when the Pallas's sandgrouse travels south."
+Desc_57
+These chickens are said to originate from the Jiuzhen area. They are hearty eaters with a trumpet-like crow that resounds with each high tide. Their lengthy beaks make them bold and ferocious fighters.
+Desc_58
+Chen Hongzu once wrote, "Gold-feathered and with iron-like talons, they hold their heads and tails high." Chang'an roosters are burly, fierce fighters. Emperor Xuanzong of the Tang Dynasty once ordered his armies to breed these roosters, so as to inspire the troops with their spirit and valor.
+Desc_59
+These chickens originally lived in lands of ice and snow, brought over from Tibet after the Tang Dynasty. They have black plumage and blueish legs, able to withstand extreme cold. They're also known to be aggressive fighters, with long wings that allow them to soar up high.
+Desc_60
+These chickens are pure white aside from their reddish-gold legs. Their razor-sharp claws are as hard as iron, and their strong wings allow them to fly for miles on end. They're said to be descendants of the legendary Jinwu, the Golden Bird; thus they do not mingle with common birds.
+Desc_61
+They resemble common pheasants, with yellowy-black plumage and brown crest, their feathers shaped like a crown. He Fowl are brutal creatures ready to fight to the death if necessary, so there are many old ballads eulogizing their great loyalty.
+Desc_62
+Around three chi tall, these otherworldly beauties have long wattles, red beaks and a yellowish-white plumage. Their ferocity is unmatched, hence they're sure to emerge from battle the victor. Legend tells that they're related to the Fenghuang, and drink clear, sweet spring water in the morning, perching upon fine trees by night: unmatched by any other bird.
+Desc_63
+Broad-bodied and brimming with energy, these elegant birds feed on fragrant rice. Their true lifespan is unknown, and their widespread renown has led to their name: the Imperial Chicken.
+EventDesc_0
+Feathers of ebony and ivory, reminiscent of reed blossoms,
+EventDesc_1
+A petite frame adorned with delicate dark speckles on its back,
+EventDesc_2
+With a modest head and an elongated tail, it hides amid dense thickets,
+EventDesc_3
+Its plumage bursts with vibrant hues, unafraid of human presence,
+EventDesc_4
+A comb of vivid crimson crowns a coat of shimmering blue-black feathers,
+EventDesc_5
+Head held high like a proud fowl, yet its tail is as short as that of a quail,
+EventDesc_6
+A scarlet head, an azure body, with tail feathers gracefully arched upward,
+EventDesc_7
+Resembling a mountain fowl, with a sable body and feet aglow in red,
+EventDesc_8
+Its clamor rises in bursts, as if it could utter human speech,
+EventDesc_9
+Stubby legs and a rotund form render it akin to a golden ingot,
+EventDesc_10
+A voice as resonant as the tide, with feathers aflame in red brilliance,
+EventDesc_11
+Adorned in scarlet and ebony, its slender, elegant form exudes refined beauty,
+EventDesc_12
+Clad in yellow and white plumage, it stands with a proud tilt of its head.
+EventDesc_13
+Its tail trails to the ground in graceful splendor,
+EventDesc_14
+With a narrow, elongated crest and white feathers gracing its neck, tail, and belly, its body radiates an exotic allure,
+EventDesc_15
+With a golden-yellow crown atop its head, its body displays a dazzling array of five colors,
+EventDesc_16
+Its feathers gleam brightly, its physique robust,
+EventDesc_17
+Covered in emerald feathers, it possesses a delicate form,
+EventDesc_18
+With an unremarkable appearance and an earth-yellow body,
+EventDesc_19
+Pure white in color, with a small body and short legs,
+EventDesc_20
+Large and strong, not adept at crowing,
+EventDesc_21
+Raven-black feathers cloak its inky form,
+EventDesc_22
+Large and lustrous, unlike common chickens,
+EventDesc_23
+With a large head, thick neck, and short tail feathers,
+EventDesc_24
+Tall and upright in posture, cloaked in golden feathers,
+EventDesc_25
+A rounded physique, covered in tightly grown black feathers,
+EventDesc_26
+Entirely jet-black, except for the neck feathers which are fiery red,
+EventDesc_27
+Sturdy in build, its feathers yellow and white,
+EventDesc_28
+Entirely gray, reminiscent of drifting mist,
+EventDesc_29
+With a well-proportioned body, its crow sounds like "cock-a-doodle-doo."
+EventDesc_30
+Delicately built, its tail feathers curl like a Buddha's hand,
+EventDesc_31
+Petite in stature, its skin and flesh are black, cloaked in silver feathers,
+EventDesc_32
+Covered in white, silk-like feathers, resembling pine-needle wool,
+EventDesc_33
+Massive in size, its tail feathers are jet-black,
+EventDesc_34
+Cloaked in black, the down on its head fluffs up like a Fenghuang crest,
+EventDesc_35
+Its plumage resembles dark clouds touched by snowfall, with wings patterned in black and white,
+EventDesc_36
+Tall and mighty, with a broad and deep chest, and thick, long legs,
+EventDesc_37
+Petite in form, with a variety of colors,
+EventDesc_38
+With short, rounded wings, it has a petite figure,
+EventDesc_39
+Of ordinary appearance, with a petite build,
+EventDesc_40
+Quail-like form, light gray body, snow-white belly,
+EventDesc_41
+Black body, white head, resembling a hawk,
+EventDesc_42
+Snow-white head, its claws feature four spurs and six toes,
+EventDesc_43
+Adorned in five radiant hues—azure, yellow, red, white, and black,
+EventDesc_44
+Clad in a spectrum of seven colors, its wings gently flutter in light,
+EventDesc_45
+Compact frame with delicate bones, endearing and charming,
+EventDesc_46
+Graceful posture, slender and elongated tail feathers,
+EventDesc_47
+Entirely cloaked in white plumage, with an extended tail,
+EventDesc_48
+Yellow feathers, beak, and legs; resembling a golden ingot,
+EventDesc_49
+Black feathers with white skin, gleaming with metal hues,
+EventDesc_50
+Feathers adorned with golden hues, emanating a unique aroma,
+EventDesc_51
+Short shanks, uplifted tail, vibrant plumage,
+EventDesc_52
+Feathers appear jade-like from afar, seemingly fond of human interaction,
+EventDesc_53
+Golden body color complemented by silver ear tufts resembling white peach blossom petals, exceptionally vibrant,
+EventDesc_54
+Lustrous plumage, robust physique,
+EventDesc_55
+Sharp claws, sturdy legs, blade-like wings, resonant voice,
+EventDesc_56
+Pigeon-sized, swift in flight,
+EventDesc_57
+Sharp, trumpet-like call,
+EventDesc_58
+Golden feathers, iron spurs, high crest, raised tail,
+EventDesc_59
+Black feathers, blue legs, long wings, pugnacious nature,
+EventDesc_60
+A pure white form, save for feet tinged with reddish-gold,
+EventDesc_61
+Yellow-black body, tufted head resembling a crown,
+EventDesc_62
+Long beard, red beak, yellow-white coloration,
+EventDesc_63
+

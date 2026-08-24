@@ -1,0 +1,289 @@
+Name_0
+Ignorant of the World
+Name_1
+Veiled in Mist
+Name_2
+Peaceful
+Name_3
+Volatile
+Name_4
+Perilous
+Name_5
+Grim
+Name_6
+Dire
+Name_7
+Doomed
+Name_8
+Arrival of Xiangshu
+Name_9
+Teetering World
+Name_10
+Перегруз
+Name_11
+Travel Bag Weight Cap Exceeded
+Name_12
+Insufficient Storehouse Space
+Name_13
+Max Capacity Exceeded
+Name_14
+External Injury
+Name_15
+Internal Injury
+Name_16
+Смятение дыхания
+Name_17
+Сильный яд
+Name_18
+Безумие Сяншу
+Name_19
+Одержимость Сяншу
+Name_20
+События Могильника мечей
+Name_21
+Появление демона
+Name_22
+Martial World Tournament is being prepared...
+Name_23
+Martial World Tournament Gathering...
+Name_24
+Турнир вольного света
+Name_25
+Path of Chan Arts
+Name_26
+Отшельник-белая обезьяна
+Name_27
+Dark Owl & White Deer
+Name_28
+Coiled Shellsnake
+Name_29
+Трое заточённых демонов
+Name_30
+Cultured Warrior
+Name_31
+Павильон Цинлан
+Name_32
+Reflections in Reverse
+Name_33
+Smithing Training
+Name_34
+Peerless Poison
+Name_35
+Wordless Sutra
+Name_36
+Погибель сердца сути
+Name_37
+По ту сторону добра и зла
+Name_38
+Fuloong Plumes
+Name_39
+Красавица кровавой гробницы
+Name_40
+Companion Injured
+Name_41
+Reset world details
+Name_42
+Divine Power of Thunder Marsh
+Name_43
+Divine Power of Flood Marsh
+Name_44
+Divine Power of Wind Marsh
+Name_45
+Divine Power of Flame Marsh
+Name_46
+Divine Power of Sand Marsh
+Name_47
+Land of Eternal Flame
+Name_48
+Final Tribulation
+Name_49
+Wanted Bounties
+Name_50
+Demonbane Vigil
+Name_51
+При смерти
+Name_52
+Displaced and Homeless
+Name_53
+Столкновение ци
+Name_54
+Cultivation Suggestions
+Name_55
+Abyss Calamity
+Desc_0
+Fresh from the secluded valleys, yet unaware of the ways of the Martial World...
+Desc_1
+Shrouded in mist, the true face of the Martial World remains unseen...\n\nSect Support Cap: <color=#8FBAE7FF>30%</color>\n\nOnly <color=#GradeColor_1>Ordinary</color> Persons may be possessed by Xiangshu...\nOnly <color=#GradeColor_1>Ordinary</color> Persons are willing to become Taiwu's companions...
+Desc_2
+The Martial World is at peace, and Xiangshu is nowhere to be seen...\n\nSect Support Cap: <color=#8FBAE7FF>40%</color>\n\nOnly <color=#GradeColor_2>Established</color> Persons may be possessed by Xiangshu...\nOnly <color=#GradeColor_2>Established</color> Persons are willing to become Taiwu's companions...
+Desc_3
+Xiangshu has manifested itself, and danger is surging in the darkness of the world...\n\nSect Support Cap: <color=#8FBAE7FF>50%</color>\n\nEven <color=#GradeColor_3>Recognized</color> Persons may be possessed by Xiangshu...\nEven <color=#GradeColor_3>Recognized</color> Persons are willing to become Taiwu's companions...
+Desc_4
+The formidable enemy is looming, and the world is reigned by chaos...\n\nSect Support Cap: <color=#8FBAE7FF>60%</color>\n\nEven <color=#GradeColor_4>Exceptional</color> Persons may be possessed by Xiangshu...\nEven <color=#GradeColor_4>Exceptional</color> Persons are willing to become Taiwu's companions...
+Desc_5
+Sightings of Xiangshu have been reported by many, and everyone has been on edge...\n\nSect Support Cap: <color=#8FBAE7FF>70%</color>\n\nEven <color=#GradeColor_5>Distinguished</color> Persons may be possessed by Xiangshu...\nEven <color=#GradeColor_5>Distinguished</color> Persons are willing to become Taiwu's companions...
+Desc_6
+Xiangshu has launched its attack, tearing countless families asunder...\n\nSect Support Cap: <color=#8FBAE7FF>80%</color>\n\nEven <color=#GradeColor_6>Accomplished</color> Persons may be possessed by Xiangshu...\nEven <color=#GradeColor_6>Accomplished</color> Persons are willing to become Taiwu's companions...
+Desc_7
+Xiangshu has plagued the world, and there is no escape...\n\nSect Support Cap: <color=#8FBAE7FF>90%</color>\n\nEven <color=#GradeColor_7>Prominent</color> Persons may be possessed by Xiangshu...\nEven <color=#GradeColor_7>Prominent</color> Persons are willing to become Taiwu's companions...
+Desc_8
+Xiangshu (True Aspect) In the presence of Xiangshu, the sun shall never shine upon the world...\n\nSect Support Cap: <color=#8FBAE7FF>100%</color>\n\nEven <color=#GradeColor_8>Exalted</color> Persons may be possessed by Xiangshu...\nEven <color=#GradeColor_8>Exalted</color> Persons are willing to become Taiwu's companions...
+Desc_9
+With Xiangshu's arrival, the world teeters on the brink of collapse...\n\nSect Support Cap: <color=#8FBAE7FF>100%</color>.\n\nEven <color=#GradeColor_8>Exalted</color> Persons may be possessed by Xiangshu...\nEven <color=#GradeColor_8>Exalted</color> Persons are willing to become Taiwu's companions...
+Desc_10
+У перегруженного скорость перемещения, скорость атаки и скорость применения <color=#brightred>падают</color>.
+Desc_11
+You are over-encumbered!\n<color=#darkred>Some items will be lost when the month changes!</color>\n<color=#brightred>Moving across the map will require extra time!</color>
+Desc_12
+{0} is over its weight limit! \n<color=#darkred>Items may be lost when the month changes!</color>
+Desc_13
+{0} is over its storage limit! \n<color=#darkred>Resources may be lost when the month changes!</color>
+Desc_14
+Your <color=#E4504DFF>{0}</color> is afflicted with <color=#f26824>External Injuries</color>, and so your Health will dwindle with each passing month! <color=#E4504DFF>You will perish once it falls to <color=#FBFBFBFF>0</color>!</color>
+Desc_15
+Your <color=#E4504DFF>{0}</color> is afflicted with <color=#a970ff>Internal Injuries</color>, and so your Health will dwindle with each passing month! <color=#E4504DFF>You will perish once it falls to <color=#FBFBFBFF>0</color>!</color>
+Desc_16
+Your Inner Breath has been disturbed, and so all your abilities will suffer. Reaching max Inner Breath Chaos will cause your Health to dwindle with each passing month! <color=#E4504DFF>You will perish once it falls to <color=#FBFBFBFF>0</color>!</color>
+Desc_17
+The {0} poison has corrupted your heart, and so your Health will dwindle with each passing month! <color=#E4504DFF>You will perish once it falls to <color=#FBFBFBFF>0</color>!</color>
+Desc_18
+You show dangerous signs of Xiangshu Mania! <color=#darkred>If Mood stays below Depressed for a long time, Xiangshu may seize control of your mind!</color>
+Desc_19
+<color=#red>There is no escape for you—Xiangshu is taking control over you!</color> <color=#E3C66DFF>Get your heir ready immediately!</color>
+Desc_20
+The Xiangshu Incarnation in {0} is about to break its tomb and attack Taiwu Village, only {1} months remaining...
+Desc_21
+A powerful fiend that claims to be "Xiangshu Incarnation" emerged from the {0} near Taiwu Village and is now headed to the village!
+Desc_22
+Sect Preparations: \n{0}\n\n{0} month(s) before the Martial World Tournament is fully prepared!
+Desc_23
+Martial World Tournament Is about to start. Heroes from all directions of the compass have set off on their paths, but it's unpredictable when they will arrive...
+Desc_24
+The Martial World Tournament is taking place at <color=#yellow>{0}</color>...\n\n{1} month(s) before the end!
+Desc_25
+There have been some incidents of note nearby:\n"Though dreams hold signs of the Six Realms, upon waking, all the world feels hollow." Shaolin has long been a sect of compassion, its monks devoted to awakening and enlightenment. Yet even those who seek peace wield staff and fist to strike down evil.\nRecently, a strange event has shaken the grounds—several pagodas in the temple's Pagoda Forest have collapsed without cause. Could this be a sign of the Buddha's wrath?
+Desc_26
+There have been some incidents of note nearby:\nAs one of the three great sects of the martial world, Emei Sect holds unrivaled prestige in Bashu, with common folk looking to it for protection. Its disciples are known for their chivalry and are revered across the land.\nBut lately, rumors have spread that a mysterious Oddity has repeatedly come to the sect to provoke, declaring that they will vie for supremacy with Emei. The martial world is shaken, and whispers fill the land...
+Desc_27
+There have been some incidents of note nearby:\n"May heaven's forge make many healers, bringing medicine first to the starving cold." Disciples of Valley of Flowers have practiced medicine for generations, bringing peace and health to the people of Guangnan.\nYet troubling news emerges that strange illnesses have appeared in the White Deer Marsh. Victims lose all reason, turn violently mad, and lash out at all around them...
+Desc_28
+There have been some incidents of note nearby:\n"Yang never stands alone. Yin never dwells apart. The Black Tortoise entwined with its snake, shows how opposites support. So male and female must join to be whole. Intertwined and balanced by nature's law." Such is the way of Heaven.\nBut word has spread of an unkempt Taoist on Wudang Mountains approaching those practicing Heterodox Wudang martial arts, offering this teaching: "The Way lies in abundance of Yang and decline of Yin."
+Desc_29
+Something noteworthy is nearby:\nCountless demons have fallen to swords, spirits shattered by blades. Yuanshan Sect has long been devoted to banishing Xiangshu and exterminating evil. For a century since its founding, the sect has slain countless demons and saved innumerable lives.\nNow, rumors spread that Yuanshan Sect has found a salvation that may cleanse the world of its disasters.
+Desc_30
+There have been some incidents of note nearby:\n"Snow dims the banners in the dark. Wind mixes with war drums. Better to lead soldiers than sit with books." Lion-Face Clan, founded by the descendants of the mighty general Li Siye, has long protected the people and earned their respect.\nBut now, mocking rumors are spreading through Guangdong, claiming Lion-Face Clan disciples are ignorant of books and letters, undermining the sect's reputation in the eyes of the public...
+Desc_31
+There have been some incidents of note nearby:\nThey say a hidden immortal resides in Ranshan Mountain, wise in the ways of heaven and earth, but nearly impossible to find. Only during the Tri-School Contest does the immortal briefly reveal themselves, offering fated blessings to the worthy.\nNow, disciples of Ranshan return from journeys afar to compete in the Tri-School Contest. Yet none can discern where the path to immortality leads within those dense, misty peaks...
+Desc_32
+There have been some incidents of note nearby:\nOn the mountain's peak, ancient snows lie untouched for a thousand autumns. Atop Jade-Maiden Peak rests the Jade-Maiden Sect's secret treasure—the Egarim, a flawless gem whose mirrored surface is said to reveal the image of a divine goddess.\nMany have tried to decipher its mystery... but none have succeeded...
+Desc_33
+There have been some incidents of note nearby:\n"All legendary blades come from Zhanlu. Every swordsman seeks it through the ages." Renowned for its forging techniques, Swordsmith Villa has carried the legacy of Master Ou for generations.\nBut fire is ever-changing, and so is fortune—rumors now claim the Swordsmith Villa is in decline, its craftsmanship fading, and its glory a thing of the past...
+Desc_34
+There have been some incidents of note nearby:\nIt's said that Emperor Qin Shi Huang once sought the elixir of immortality, and the Kongsang Sect, driven by this same dream, has devoted generations to alchemy in search of deathless medicine. But medicine & poison are two sides of the same coin—success brings life, failure brings death, and the outcome is never certain.\nNow, whispers of hidden truths and strange events stir within the sect, awaiting discovery...
+Desc_35
+There have been some incidents of note nearby:\n"Shifting illusions and false forms bind the soul, dragging it through the Six Realms." The Vajra Sect, based in the western Kunlun Mountains, is known for its ruthless ambition and dark deeds.\nThe people beneath the mountain now suffer greatly and monks in the Western Regions are being slain one after another. No one knows what restless spirits these deaths may awaken or what disaster they might bring...
+Desc_36
+There have been some incidents of note nearby:\nThe Heishui region is shrouded in miasma, making it difficult for outsiders to penetrate. Various alien tribes live there, each with their own customs, generally coexisting peacefully.\nHowever, recent rumors say that insect and Gu plagues have ravaged the Five Immortals' lands, causing plant decay and widespread suffering among the locals...
+Desc_37
+There seems to be something noteworthy nearby:\nWithin the Veil Scar Sect lies a forbidden land known as the Demise Abyss. It is said that disciples must descend into the abyss themselves and imprint Death Orders with their own blood before accepting commissions. Those who bear a Death Order will stop at nothing to complete their missions, inspiring fear in all who hear of them.\nNow, with strange changes in the stars and undercurrents stirring within the sect, who knows what hidden secrets this enigmatic Veil Scar Sect truly conceals...
+Desc_38
+There have been some incidents of note nearby:\n"Loong roars through lakes, summoning rain. Fenghuang calls its young, startling night birds." On Chiming Island, the Fuloong Sanctuary sits at the mouth of a volcano. Obsessed with summoning a True Loong, its followers burn, pillage, and sacrifice in endless rituals.\nYet lately, the island has been ravaged by natural disasters. Still, the Sanctuary's members remain unmoved...
+Desc_39
+There have been some incidents of note nearby:\n"The icy fox howls at lonely tombs. Ghost fires burn the poplar trees." Whispers from Yangzhou tell of howling dark winds and restless ghosts of the underworld lingering around the Sanguine Sect, sparking fear and wild gossip.\nYet who can know the truth in matters of ghosts without seeing with their own eyes?
+Desc_40
+Your companion {0} is afflicted with Injuries, and so their Health will dwindle with each passing month! <color=#darkred>They will perish once it falls to 0!</color>
+Desc_41
+Seasons change, eras shift—bearing the Taiwu's legacy, you shall restore balance...\n\nDue to shifting world details, you may perform an adjustment in the <color=#orange>Taiwu Inheritance</color> interface...
+Desc_42
+While passing through the <color=#FiveElementType_Jingang>Thunder Marsh</color>, the skies crack with thunder and lightning, shrouding the heavens and earth. Dark lightning lingers upon the body—if encountered by a White Loong or a Lesser White Loong, their divine power will surge forth, <color=#brightred>inflicting deep internal injuries and deteriorating health.</color>\n\nCurrent Divine Art Stacks: <color=#pinkyellow>{0}</color>...
+Desc_43
+While passing through the <color=#FiveElementType_Xuanyin>Flood Marsh</color>, poisonous mists and deadly vapors fill the air. Deadly poisons seep into the body—if encountered by a Black Loong or a Lesser Black Loong, their divine power will surge forth, <color=#brightred>leading to severe poisoning and deteriorating health.</color>\n\nCurrent Divine Art Stacks: <color=#pinkyellow>{0}</color>...
+Desc_44
+While passing through the <color=#FiveElementType_Zixia>Wind Marsh</color>, fierce winds and torrential rain batter the land. Windstorm and rainfall penetrate deep into the body—if encountered by a Green Loong or a Lesser Green Loong, their divine power will surge forth, <color=#brightred>throwing one's Inner Breath into disarray and causing health to deteriorate.</color>\n\nCurrent Divine Art Stacks: <color=#pinkyellow>{0}</color>...
+Desc_45
+While passing through the <color=#FiveElementType_Chunyang>Flame Marsh</color>, raging infernos scorch the land. Suffering from the relentless blaze, both body and mind are tormented—if encountered by a Red Loong or a Lesser Red Loong, their divine power will surge forth, <color=#brightred>flesh ripped, and health will deteriorate.</color>\n\nCurrent Divine Art Stacks: <color=#pinkyellow>{0}</color>...
+Desc_46
+While passing through the <color=#FiveElementType_Guiyuan>Sand Marsh</color>, sandstorms rage across the skies. Blasted by flying sand and gravel—if encountered by a Yellow Loong or a Lesser Yellow Loong, their divine power will surge forth, <color=#brightred>inflicting grievous harm and causing health to deteriorate.</color>\n\nCurrent Divine Art Stacks: <color=#pinkyellow>{0}</color>...
+Desc_47
+Engulfed in flames, where celestial fire rages beyond escape...\n\n<color=#brightred>You will take Burn DMG upon each month change!</color>
+Desc_48
+The workings of fate are hard to foresee, and only by surviving a disaster can one seek the path of immortals.\nWhenever <color=#brightred>a new month begins</color>, disasters will strike, and only those who bear <color=#pinkyellow>99</color> <color=#ff5331>Celestial Runes</color> can endure them.
+Desc_49
+
+Desc_50
+With the art of Demonbane shielding the body, you will not be slain by the true form of the Sword Mound until reaching the <color=#ffffff>Body Purification</color> level of Pure Essence...
+Desc_51
+{0} is dying, <color=#darkred>and will perish once Health falls to 0!</color>
+Desc_52
+<space=-12>There are homeless villagers in Taiwu Village.\n<space=14><color=#C16927> - Their Mood may gradually fall and they may become corrupted.\n<space=14>- Their Favorability toward Taiwu decreases over time.\n<space=14>- Their homelessness unsettles other villagers, reducing their interest in reproducing.</color><size=50%>\n\n</size><space=-24><SpName=mousetip_lingxing><space=-6><color=#F8E6C1>[Occupancy]</color>\n •Housing Units: <color=#F8E6C1>{0}</color>\n •Settled: <color=#C16927>{1}</color><color=#F8E6C1>/{2}</color><size=50%>\n\n</size><space=-12><color=#E4504DFF>Provide residences for Taiwu villagers as soon as possible!</color>
+Desc_53
+{0} encountered Qi Conflict and <color=#red>will be unable to fight at full strength. Forcing it may cause Inner Breath Chaos and Recoil!</color>\nFollowing the law of the Five Elements, adjust Martial Arts through Microcosmic Circulation, and change Qi's elemental attributes to resolve the conflict.
+Desc_54
+
+Desc_55
+Calamity rises and blood-tinged ash blankets the land, as if you stand within the Nether Purgatory itself; great upheavals shall sweep across the world...\nThe difficulty of every challenge will rise sharply, and this difficulty can no longer be adjusted...
+SectStoryCondition_25_0
+A Greeting Letter has been submitted to the Shaolin Sect
+SectStoryCondition_25_1
+Advance the month in Shaolin Sect
+SectStoryCondition_26_0
+Emei Sect Support has reached 50%
+SectStoryCondition_26_1
+Head to the Bloodshed Tile near Emei Sect
+SectStoryCondition_27_0
+Five Sword Mound have been cleansed
+SectStoryCondition_27_1
+Advance Month
+SectStoryCondition_28_0
+A Greeting Letter has been submitted to the Wudang Sect
+SectStoryCondition_28_1
+Wander around Wudang Mountains
+SectStoryCondition_29_0
+Already cleared four Sword Mounds
+SectStoryCondition_29_1
+Head to Greater & Lesser Yuanshan
+SectStoryCondition_29_2
+Yuanshan Sect Support has reached 50%
+SectStoryCondition_30_0
+Lion-Face Clan Support has reached 50%
+SectStoryCondition_30_1
+Head to the towns and villages in Guangdong to seek out anecdotes
+SectStoryCondition_31_0
+Ranshan Sect Support has reached 50%
+SectStoryCondition_31_1
+3 Secret Tomes have appeared
+SectStoryCondition_31_2
+Advance the month in areas of Shandong without Blackstone Ash.
+SectStoryCondition_32_0
+A Greeting Letter has been submitted to the Jade-Maiden Sect
+SectStoryCondition_32_1
+Advance the month in Jade-Maiden Sect
+SectStoryCondition_33_0
+Swordsmith Villa Support has reached 50%
+SectStoryCondition_33_1
+Advance the month in areas of Fujian without Blackstone Ash.
+SectStoryCondition_34_0
+Kongsang Sect Support has reached 50%
+SectStoryCondition_34_1
+Find the Sect Leader of the Kongsang Sect within the Kongsang Sect
+SectStoryCondition_35_0
+A Reincarnation Platform has been built in Taiwu Village...
+SectStoryCondition_35_1
+Advance the month in areas of the Western Regions without Blackstone Ash.
+SectStoryCondition_36_0
+Used the Five Venoms Ablution within the Five Immortals Sect industry.
+SectStoryCondition_36_1
+Exploring within the Five Immortals Sect.
+SectStoryCondition_37_0
+Already cleared four Sword Mounds
+SectStoryCondition_37_1
+Reputation has reached Eminent or Condemned
+SectStoryCondition_37_2
+Travel to Shouchun City
+SectStoryCondition_38_0
+Unlocked the 6th, 7th, and 8th Sword Mounds
+SectStoryCondition_38_1
+Witness natural disaster at Month Advance in Chiming Island.
+SectStoryCondition_39_0
+Head to Yangzhou
+

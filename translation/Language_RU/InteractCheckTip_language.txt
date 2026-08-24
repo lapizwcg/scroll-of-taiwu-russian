@@ -1,0 +1,367 @@
+PhaseName_0
+Identify Target
+PhaseName_1
+Hide and Lurk
+PhaseName_2
+Judge the Timing
+PhaseName_3
+Escape
+PhaseName_4
+Identify Target
+PhaseName_5
+Hide and Lurk
+PhaseName_6
+Judge the Timing
+PhaseName_7
+Decisive Action
+PhaseName_8
+Escape
+PhaseName_9
+Identify Target
+PhaseName_10
+Hide and Lurk
+PhaseName_11
+Judge the Timing
+PhaseName_12
+Decisive Action
+PhaseName_13
+Escape
+PhaseName_14
+Identify Target
+PhaseName_15
+Hide and Lurk
+PhaseName_16
+Judge the Timing
+PhaseName_17
+Decisive Action
+PhaseName_18
+Escape
+PhaseName_19
+Identify Target
+PhaseName_20
+Hide and Lurk
+PhaseName_21
+Judge the Timing
+PhaseName_22
+Decisive Action
+PhaseName_23
+Escape
+PhaseName_24
+Mutual Affinity
+PhaseName_25
+Secular Opinions
+PhaseName_26
+Identify Target
+PhaseName_27
+Hide and Lurk
+PhaseName_28
+Judge the Timing
+PhaseName_29
+Decisive Action
+PhaseName_30
+Escape
+PhaseName_31
+Identify Target
+PhaseName_32
+Hide and Lurk
+PhaseName_33
+Judge the Timing
+PhaseName_34
+Decisive Action
+PhaseName_35
+Escape
+PhaseName_36
+Decisive Action
+PhaseDesc_0
+Determine if the target of swindle can be successfully identified...
+PhaseDesc_1
+Determine if you can hide in the shadows and prepare to swindle...
+PhaseDesc_2
+Determine if this is the right opportunity to swindle...
+PhaseDesc_3
+Determine whether you can Escape without being detected after a successful swindle...
+PhaseDesc_4
+Determine if the stealing target can be successfully identified...
+PhaseDesc_5
+Determine if you can hide in the shadows and prepare to steal...
+PhaseDesc_6
+Determine if this is the right opportunity to steal...
+PhaseDesc_7
+Determine if you can successfully steal the item right now...
+PhaseDesc_8
+Determine whether you can Escape without being detected after a successful steal...
+PhaseDesc_9
+Determine if the target of snatch can be successfully identified...
+PhaseDesc_10
+Determine if you can hide in the shadows and prepare to snatch...
+PhaseDesc_11
+Determine if this is the right opportunity to snatch...
+PhaseDesc_12
+Determine if the snatch can succeed right now...
+PhaseDesc_13
+Determine whether you can Escape without being detected after a successful snatch...
+PhaseDesc_14
+Determine if the target to poison can be successfully identified...
+PhaseDesc_15
+Determine if you can hide in the shadows and prepare to poison...
+PhaseDesc_16
+Determine if this is the right opportunity to poison...
+PhaseDesc_17
+Determine if the poisoning can succeed right now...
+PhaseDesc_18
+Determine whether you can Escape without being detected after a successful poisoning...
+PhaseDesc_19
+Determine if the target to covertly harm can be successfully identified...
+PhaseDesc_20
+Determine if you can hide in the shadows and prepare for the covert harm...
+PhaseDesc_21
+Determine if this is the right moment for the covert harm via snatching...
+PhaseDesc_22
+Determine if the covert harm can succeed right now...
+PhaseDesc_23
+Determine whether you can Escape without being detected after a successful covert harm...
+PhaseDesc_24
+Where the heart is drawn, and love reaches its fullest, only then can two hearts be pledged to each other...
+PhaseDesc_25
+Living in the mundane world, one is also entangled by secular opinions...
+PhaseDesc_26
+Determine if you can successfully identify the character to plagiarize from...
+PhaseDesc_27
+Determine if you can hide in the shadows and prepare to plagiarize...
+PhaseDesc_28
+Determine if this is the right opportunity to plagiarize...
+PhaseDesc_29
+Determine if the plagiarism can succeed right now...
+PhaseDesc_30
+Determine if you can Escape without being detected after a successful act of plagiarism...
+PhaseDesc_31
+Determine if you can successfully identify the character to plagiarize from...
+PhaseDesc_32
+Determine if you can hide in the shadows and prepare to plagiarize...
+PhaseDesc_33
+Determine if this is the right opportunity to plagiarize...
+PhaseDesc_34
+Determine if the plagiarism can succeed right now...
+PhaseDesc_35
+Determine if you can Escape without being detected after a successful act of plagiarism...
+PhaseDesc_36
+Determine whether the swindle attempt at this moment can succeed...
+CheckDesc_0
+The higher your <SpName=mousetip_zhuyao_2> <color=#pinkyellow>Willpower</color> the higher the chance to Identify Target
+CheckDesc_1
+The higher your <SpName=mousetip_gongfa_1> <color=#pinkyellow>Footwork Arts Attainment</color> compared to that of the character or their guards, the higher the chance of Hide and Lurk.\nThe rarer the target item of swindle is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Hide and Lurk.
+CheckDesc_2
+The higher your <SpName=mousetip_mingzhong_3> <color=#pinkyellow>Sway</color> compared to the character or their guards' <SpName=mousetip_huajie_3> <color=#pinkyellow>Poise</color>, the higher the chance of Judge the Timing.\nThe rarer the target item of swindle is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Judge the Timing.
+CheckDesc_3
+The higher your <SpName=mousetip_huajie_3> <color=#pinkyellow>Poise</color> compared to the character or their guards' <SpName=mousetip_mingzhong_3> <color=#pinkyellow>Sway</color>, the higher the chance to Escape.\nThe rarer the target item of swindle is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance to Escape.
+CheckDesc_4
+The higher your <SpName=mousetip_zhuyao_1> <color=#pinkyellow>Agility</color> the higher the chance to Identify Target
+CheckDesc_5
+The higher your <SpName=mousetip_gongfa_1> <color=#pinkyellow>Footwork Arts Attainment</color> compared to that of the character or their guards, the higher the chance of Hide and Lurk.\nThe rarer the target item of stealing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Hide and Lurk.
+CheckDesc_6
+The higher your <SpName=mousetip_mingzhong_2> <color=#pinkyellow>Dexterity</color> compared to the character or their guards' <SpName=mousetip_huajie_2> <color=#pinkyellow>Dodge</color>, the higher the chance of Judge the Timing.\nThe rarer the target item of stealing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Judge the Timing.
+CheckDesc_7
+The higher your <SpName=mousetip_ciyao_1> <color=#pinkyellow>Movement Speed</color> compared to that of the character or their guards, the higher the chance of Decisive Action.\nThe rarer the target item of stealing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Decisive Action.
+CheckDesc_8
+The higher your <SpName=mousetip_huajie_2> <color=#pinkyellow>Dodge</color> compared to the character or their guards' <SpName=mousetip_mingzhong_2> <color=#pinkyellow>Dexterity</color>, the higher the chance to Escape.\nThe rarer the target item of stealing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance to Escape.
+CheckDesc_9
+The higher your <SpName=mousetip_zhuyao_0> <color=#pinkyellow>Strength</color>, the higher the chance to Identify Target
+CheckDesc_10
+The higher your <SpName=mousetip_gongfa_1> <color=#pinkyellow>Footwork Arts Attainment</color> compared to that of the character or their guards, the higher the chance of Hide and Lurk.\nThe rarer the target item of snatch is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Hide and Lurk.
+CheckDesc_11
+The higher your <SpName=mousetip_mingzhong_0> <color=#pinkyellow>Force</color> compared to the character or their guards' <SpName=mousetip_huajie_0> <color=#pinkyellow>Resistance</color>, the higher the chance of Judge the Timing.\nThe rarer the target item of snatch is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Judge the Timing.
+CheckDesc_12
+The higher your power compared to that of the character or their guards, the higher the chance of Decisive Action.\nThe rarer the target item of snatch is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Decisive Action.
+CheckDesc_13
+The higher your <SpName=mousetip_huajie_0> <color=#pinkyellow>Resistance</color> compared to the character or their guards' <SpName=mousetip_mingzhong_0> <color=#pinkyellow>Force</color>, the higher the chance to Escape.\nThe rarer the target item of snatch is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance to Escape.
+CheckDesc_14
+The higher your <SpName=mousetip_jiyi_9> <color=#pinkyellow>Toxicology Attainment</color> compared to that of the character or their guards, the higher the chance to Identify Target.
+CheckDesc_15
+The higher your <SpName=mousetip_gongfa_1> <color=#pinkyellow>Footwork Arts Attainment</color> compared to that of the character or their guards, the higher the chance of Hide and Lurk.
+CheckDesc_16
+The higher your <SpName=mousetip_gongji_1> <color=#pinkyellow>Qi Penetration</color> compared to the character or their guards' <SpName=mousetip_fangyu_1> <color=#pinkyellow>Qi Defense</color>, the higher the chance of Judge the Timing.
+CheckDesc_17
+The higher your <SpName=mousetip_ciyao_2> <color=#pinkyellow>Cast Speed</color> compared to that of the character or their guards, the higher the chance of Decisive Action.
+CheckDesc_18
+The higher your <SpName=mousetip_fangyu_1> <color=#pinkyellow>Qi Defense</color> compared to the character or their guards' <SpName=mousetip_gongji_1> <color=#pinkyellow>Qi Penetration</color>, the higher the chance to Escape.
+CheckDesc_19
+The higher your <SpName=mousetip_jiyi_8> <color=#pinkyellow>Medical Art Attainment</color> compared to that of the character or their guards, the higher the chance to Identify Target.
+CheckDesc_20
+The higher your <SpName=mousetip_gongfa_1> <color=#pinkyellow>Footwork Arts Attainment</color> compared to that of the character or their guards, the higher the chance of Hide and Lurk.
+CheckDesc_21
+The higher your <SpName=mousetip_gongji_0> <color=#pinkyellow>Phy. Penetration</color> compared to the character or their guards' <SpName=mousetip_fangyu_0> <color=#pinkyellow>Phy. Defense</color>, the higher the chance of timing the action.
+CheckDesc_22
+The higher your <SpName=mousetip_ciyao_3> <color=#pinkyellow>Attack Speed</color> compared to that of the character or their guards, the higher the chance of Decisive Action.
+CheckDesc_23
+The higher your <SpName=mousetip_fangyu_0> <color=#pinkyellow>Phy. Defense</color> compared to the character or their guards' <SpName=mousetip_gongji_0> <color=#pinkyellow>Phy. Penetration</color>, the higher the chance to Escape.
+CheckDesc_24
+The chance of successfully confessing love rises the higher the <color=#pinkyellow>Emotional and Appearance Compatibility</color>, the closer the <SpName=mousetip_age_0><color=#pinkyellow>Current Ages</color>, and the greater the <SpName=mousetip_multilove><color=#pinkyellow>Favorability</color> and <SpName=mousetip_meili><color=#pinkyellow>Charm</color>. It is further increased if the <color=#pinkyellow>target's romantic inclination</color> closely aligns with the love confessor's Mindset and Traits.
+CheckDesc_25
+The higher the compatibility of the current <color=#pinkyellow>relationship</color>, <color=#pinkyellow>marital status</color>, and <color=#pinkyellow>number of children</color> align, and the higher the <SpName=mousetip_character> <color=#pinkyellow>Rank</color> of the love confessor, the higher the success rate of confessing love
+CheckDesc_26
+The higher your <SpName=mousetip_zhuyao_5> <color=#pinkyellow>Comprehension</color> the higher the chance to Identify Target
+CheckDesc_27
+The higher your <SpName=mousetip_gongfa_1> <color=#pinkyellow>Footwork Arts Attainment</color> compared to that of the character or their guards, the higher the chance of Hide and Lurk.\nThe rarer the target item of plagiarizing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Hide and Lurk.
+CheckDesc_28
+The higher your <SpName=mousetip_mingzhong_1> <color=#pinkyellow>Precision</color> compared to the character or their guards' <SpName=mousetip_huajie_2> <color=#pinkyellow>Parry</color>, the higher the chance of timing the action.\nThe rarer the target item of plagiarizing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of timing the action.
+CheckDesc_29
+The higher your Talent compared to the character's, the higher the chance of Decisive Action.\nThe rarer the target item of plagiarizing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Decisive Action.
+CheckDesc_30
+The higher your <SpName=mousetip_huajie_2> <color=#pinkyellow>Parry</color> compared to the character or their guards' <SpName=mousetip_mingzhong_1> <color=#pinkyellow>Precision</color>, the higher the chance to Escape.\nThe rarer the target item of plagiarizing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance to Escape.
+CheckDesc_31
+The higher your <SpName=mousetip_zhuyao_5> <color=#pinkyellow>Comprehension</color> the higher the chance to Identify Target
+CheckDesc_32
+The higher your <SpName=mousetip_gongfa_1> <color=#pinkyellow>Footwork Arts Attainment</color> compared to that of the character or their guards, the higher the chance of Hide and Lurk.\nThe rarer the target item of plagiarizing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Hide and Lurk.
+CheckDesc_33
+The higher your <SpName=mousetip_mingzhong_1> <color=#pinkyellow>Precision</color> compared to the character or their guards' <SpName=mousetip_huajie_2> <color=#pinkyellow>Parry</color>, the higher the chance of timing the action.\nThe rarer the target item of plagiarizing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of timing the action.
+CheckDesc_34
+The higher your Talent compared to the character's, the higher the chance of Decisive Action.\nThe rarer the target item of plagiarizing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Decisive Action.
+CheckDesc_35
+The higher your <SpName=mousetip_huajie_2> <color=#pinkyellow>Parry</color> compared to the character or their guards' <SpName=mousetip_mingzhong_1> <color=#pinkyellow>Precision</color>, the higher the chance to Escape.\nThe rarer the target item of plagiarizing is for the character's <SpName=mousetip_character> <color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance to Escape.
+CheckDesc_36
+The higher your power compared to that of the character or their guards, the higher the chance of Decisive Action.\nThe rarer the target of the swindle is for the character's <SpName=mousetip_character><color=#pinkyellow>Rank</color>, the more alert they become, and the lower your chance of Decisive Action.
+CheckResultProb_0
+Target Identification Success Chance
+CheckResultProb_1
+Hide and Lurk Success Chance
+CheckResultProb_2
+Judge the Timing Success Chance
+CheckResultProb_3
+Escape Success Chance
+CheckResultProb_4
+Target Identification Success Chance
+CheckResultProb_5
+Hide and Lurk Success Chance
+CheckResultProb_6
+Judge the Timing Success Chance
+CheckResultProb_7
+Decisive Action Success Chance
+CheckResultProb_8
+Escape Success Chance
+CheckResultProb_9
+Target Identification Success Chance
+CheckResultProb_10
+Hide and Lurk Success Chance
+CheckResultProb_11
+Judge the Timing Success Chance
+CheckResultProb_12
+Decisive Action Success Chance
+CheckResultProb_13
+Escape Success Chance
+CheckResultProb_14
+Target Identification Success Chance
+CheckResultProb_15
+Hide and Lurk Success Chance
+CheckResultProb_16
+Judge the Timing Success Chance
+CheckResultProb_17
+Decisive Action Success Chance
+CheckResultProb_18
+Escape Success Chance
+CheckResultProb_19
+Target Identification Success Chance
+CheckResultProb_20
+Hide and Lurk Success Chance
+CheckResultProb_21
+Judge the Timing Success Chance
+CheckResultProb_22
+Decisive Action Success Chance
+CheckResultProb_23
+Escape Success Chance
+CheckResultProb_24
+Success Rate of Confessing Love
+CheckResultProb_25
+Success Rate of Confessing Love
+CheckResultProb_26
+Target Identification Success Chance
+CheckResultProb_27
+Hide and Lurk Success Chance
+CheckResultProb_28
+Judge the Timing Success Chance
+CheckResultProb_29
+Decisive Action Success Chance
+CheckResultProb_30
+Escape Success Chance
+CheckResultProb_31
+Target Identification Success Chance
+CheckResultProb_32
+Hide and Lurk Success Chance
+CheckResultProb_33
+Judge the Timing Success Chance
+CheckResultProb_34
+Decisive Action Success Chance
+CheckResultProb_35
+Escape Success Chance
+CheckResultProb_36
+Decisive Action Success Chance
+FactorDesc_1_0
+Character's Alertness Level
+FactorDesc_2_0
+Character's Alertness Level
+FactorDesc_3_0
+Character's Alertness Level
+FactorDesc_5_0
+Character's Alertness Level
+FactorDesc_6_0
+Character's Alertness Level
+FactorDesc_7_0
+Character's Alertness Level
+FactorDesc_8_0
+Character's Alertness Level
+FactorDesc_10_0
+Character's Alertness Level
+FactorDesc_11_0
+Character's Alertness Level
+FactorDesc_12_0
+Character's Alertness Level
+FactorDesc_12_1
+The side with greater power
+FactorDesc_13_0
+Character's Alertness Level
+FactorDesc_24_0
+Emotional Compatibility
+FactorDesc_24_1
+Perfect Emotional Compatibility
+FactorDesc_24_2
+Appearance Compatibility
+FactorDesc_24_3
+Target Has Romantic Inclination
+FactorDesc_24_4
+Current Age Compatibility
+FactorDesc_24_5
+Favorability Modifiers
+FactorDesc_24_6
+Charm Influence
+FactorDesc_25_0
+Compatibility of Status Rank
+FactorDesc_25_1
+Relationship Compatibility
+FactorDesc_25_2
+Confessor's Gender
+FactorDesc_25_3
+Wedding in Harmony
+FactorDesc_25_4
+Parental Status
+FactorDesc_25_5
+Плодовитость
+FactorDesc_25_6
+Rules and Precepts
+FactorDesc_27_0
+Character's Alertness Level
+FactorDesc_28_0
+Character's Alertness Level
+FactorDesc_29_0
+Character's Alertness Level
+FactorDesc_30_0
+Character's Alertness Level
+FactorDesc_32_0
+Character's Alertness Level
+FactorDesc_33_0
+Character's Alertness Level
+FactorDesc_34_0
+Character's Alertness Level
+FactorDesc_35_0
+Character's Alertness Level
+FactorDesc_36_0
+Character's Alertness Level
+

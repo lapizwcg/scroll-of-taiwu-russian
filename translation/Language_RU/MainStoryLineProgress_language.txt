@@ -1,0 +1,67 @@
+MainStoryName_0
+Start
+MainStoryName_1
+Bamboo Hut in Deep Valley: Explore the Deep Valley
+MainStoryName_2
+Bamboo Hut in Deep Valley: Leave the Deep Valley
+MainStoryName_3
+Secluded Village: Enter the Village
+MainStoryName_4
+Secluded Village: Explore the Village
+MainStoryName_5
+Secluded Village: Leave the Village
+MainStoryName_6
+Succeed Taiwu: Enter the region
+MainStoryName_7
+Succeed Taiwu: Enter the region
+MainStoryName_8
+Succeed Taiwu: Succeed Taiwu
+MainStoryName_9
+Succeed Taiwu: Rejuvenate the Village
+MainStoryName_10
+Succeed Taiwu: Tomb Immortal
+MainStoryName_11
+Sword Mound: Leave the Tomb
+MainStoryName_12
+Sword Mound: Moving Vessel
+MainStoryName_13
+Sword Mound: Silence of the Immortal
+MainStoryName_14
+Buddhist Visiting
+MainStoryName_15
+Buddhist Leaving
+MainStoryName_16
+New to the World
+MainStoryName_17
+Ученичество
+MainStoryName_18
+World Open
+MainStoryName_19
+Sword Mound Main Story: Sword Mound I
+MainStoryName_20
+Sword Mound Main Story: Sword Mound II
+MainStoryName_21
+Sword Mound Main Story: Sword Mound III
+MainStoryName_22
+Sword Mound Main Story: Sword Mound IV
+MainStoryName_23
+Sword Mound Main Story: Sword Mound V
+MainStoryName_24
+Sword Mound Main Story: Sword Mound VI
+MainStoryName_25
+Sword Mound Main Story: Sword Mound VII
+MainStoryName_26
+Return of the Immortal
+MainStoryName_27
+Doom of Huanxin: Otherland
+MainStoryName_28
+Doom of Huanxin: Immortal Leaving
+MainStoryName_29
+The Ultimate Fight: Deviation
+MainStoryName_30
+The Ultimate Fight: Reincarnate
+MainStoryName_31
+The Ultimate Fight: Final Peace
+MainStoryName_32
+Failure
+

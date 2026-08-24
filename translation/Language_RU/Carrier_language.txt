@@ -1,0 +1,517 @@
+Name_0
+Wheelbarrow
+Name_1
+Tranquility Wagon
+Name_2
+Single-Shaft Chariot
+Name_3
+Dual-Shaft Safety Wagon
+Name_4
+Quad Horse Coach
+Name_5
+Wooden Bullocks and Horses
+Name_6
+Qilin Canopies Carriage
+Name_7
+Eight-Sided Pagoda Wagon
+Name_8
+Mystic Loong Carriage
+Name_9
+Bamboo Sled
+Name_10
+Ramshackle Timber Cart
+Name_11
+Everglade Cart
+Name_12
+Bulrush Carriage
+Name_13
+Li Drum Carriage
+Name_14
+Zhuge Liang's Carriage
+Name_15
+Feng Hou's Carriage
+Name_16
+Loong-Sparrow Sky Vessel
+Name_17
+Aroma Carriage
+Name_18
+Mule
+Name_19
+Donkey
+Name_20
+Тощая лошадка
+Name_21
+Bull
+Name_22
+Gallant Horse
+Name_23
+Western Regions White Horse
+Name_24
+Frontier Renowned Steed
+Name_25
+Azure Ox
+Name_26
+Akhal-Teke Horse
+Name_27
+Обезьяна
+Name_28
+Орёл
+Name_29
+Вепрь
+Name_30
+Бурый медведь
+Name_31
+Зубр
+Name_32
+Питон
+Name_33
+Барс
+Name_34
+Лев
+Name_35
+Tiger
+Name_36
+Проворная обезьяна
+Name_37
+Золотой орёл
+Name_38
+Чёрный вепрь
+Name_39
+Белый медведь
+Name_40
+Куйню
+Name_41
+Башэ
+Name_42
+Чёрный барс
+Name_43
+Златой лев
+Name_44
+Белый тигр
+Name_45
+Huanxin's Thin Horse
+Name_46
+Белый цзяо
+Name_47
+Чёрный цзяо
+Name_48
+Лазурный цзяо
+Name_49
+Красный цзяо
+Name_50
+Жёлтый цзяо
+Name_51
+Цзяо инь и ян
+Name_52
+Цзяо летучего грома
+Name_53
+Громоогненный цзяо
+Name_54
+Златоокий цзяо
+Name_55
+Цзяо лазурных топей
+Name_56
+Цзяо горящих облаков
+Name_57
+Цзяо грязевой заводи
+Name_58
+Огнерогий цзяо
+Name_59
+Цзяо, укрытый горой
+Name_60
+Костеплавильный цзяо
+Name_61
+Море мутящий цзяо
+Name_62
+Облакоплывущий цзяо
+Name_63
+Бездонный цзяо
+Name_64
+Цзяо небесного грома
+Name_65
+Цзяо пустынного пути
+Name_66
+Цзяо-цилинь
+Name_67
+Цзяо преисподней
+Name_68
+Цзяо горы бессмертных
+Name_69
+Цзяо огненного пруда
+Name_70
+Цзяо Пылающего холма
+Name_71
+Цзяо-подражатель
+Name_72
+Алчный цзяо
+Name_73
+Цзяо, хранящий море
+Name_74
+Пожирающий цзяо
+Name_75
+Цзяо с осыпавшейся чешуёй
+Name_76
+Пёстрый цзяо
+Name_77
+Цюню
+Name_78
+Яцзы
+Name_79
+Чаофэн
+Name_80
+Пулао
+Name_81
+Суаньни
+Name_82
+Бася
+Name_83
+Би Ань
+Name_84
+Фуси
+Name_85
+Чивэнь
+Desc_0
+A small cart that only has a single wheel under the seat and needs to be pushed forward manually. In case it rolls over, one may tie it with ropes when pushing it and use a wedge to stop it.
+Desc_1
+A two-wheel cart often drawn by farm animals with a larger frame than a wheelbarrow that carries more loads and saves the owner lots of energy on the way.
+Desc_2
+A chariot that has been used since the Zhou Dynasty, with only a single thill attached to the back of the animal drawing the carriage for control. It only carries relatively small loads due to its usage in warfare.
+Desc_3
+A vehicle that is said to have been used since the Qin Dynasty, with an attachable canopy and two thills beside the carriage that make it easier to control its direction and stabler to drive, earning it the name "Dual-Shaft Safety Wagon."
+Desc_4
+Even without the six seals for the official horse, carriages race by like flying loongs. A vehicle drawn by four gallant horses that appeared in the early Qin Dynasty, with railings to prevent falling over and a canopy above in case of wind and rain.
+Desc_5
+A special cart designed by Zhuge Liang that is shaped like an ox, hence the name "Wooden Bullocks and Horses." Ride on its back to drive it forward, and "with every four steps the length of six chi, the ox carries about a hundred and eighty kilos of food and walks twenty li a day without tiring the rider."
+Desc_6
+With nine canopies eight zhang and one chi in height, the carriage was created by Wang Mang envying the ancient sages who ascended toward immortality. Embellished with Qilin and drawn by six horses, it has nine canopies and a wide enough space for musicians to play drums.
+Desc_7
+An extremely extravagant vehicle made by craftsmen hired by magnate families in the old times. It is shaped like an exquisite octagonal pagoda and embellished with beautiful, precious pearls and jade that cost an exorbitant amount of silver. Riding it feels as steady as walking on flat ground.
+Desc_8
+A vehicle designed from the story of the Yellow Emperor "subduing spirits and deities above the western mountains while riding a carriage drawn by elephants and six loongs." Drawn by eight horses, it remains chilly all day even in summer and runs like blowing wind as if wreathed in mist.
+Desc_9
+A vehicle mainly used for muddy roads and snowfields, with a flat, smooth underside consisting of rectangular and straight bamboo boards. It needs to be drawn by animals to move forward.
+Desc_10
+Ministers ride on black carriages, scholars wooden carriages, and commoners labor carts. A small and light vehicle woven together with bamboo boards and wood branches that has a shabby canopy above.
+Desc_11
+A scholar wants no more than enough food and clothing, an everglade cart and a slow horse to ride. A cart with a short nave that is often used by Zhou people to ride to swamps, hence its name "Swamp Cart."
+Desc_12
+A vehicle that can be drawn by four horses with bulrush wrapped around the wheels to stabilize the ride. The emperors of Han often used it to recruit renowned scholars as a symbol of imperial power.
+Desc_13
+An ingeniously-designed carriage that was invented in the Han Dynasty and then modified by later generations, with a doll installed that beats a drum once every li it travels, hence its name "Li Drum Carriage."
+Desc_14
+A vehicle that is said to be ridden by Zhuge Liang when he went in battles. Not embellished with any patterns, it has two smaller wheels in the front and two larger ones in the back and can be pushed manually or drawn by animals.
+Desc_15
+Legend has it that during the battle with Chi You, the Yellow Emperor commanded Feng Hou to build a carriage that resembles the Big Dipper constellation, and that is this vehicle. It can tell the south like a compass and navigate even through thick fog, hence also named "Compass Carriage."
+Desc_16
+The Loongque curls around while the divine horse gallops. The Han people saw the Loongque as the deity of wind. This vehicle has the shape of a sailboat and also resembles a soaring Loongque. Observed closely, it moves at a cloud-piercing speed; seen from afar, it is a boat sailing on land.
+Desc_17
+Crowded with azure oxen, white horses and aroma carriages, the roads in Chang'an connect to countless lanes leading to every nook and cranny. A vehicle that is said to be used by emperors in the Shang and Zhou Dynasties. Coated with several precious and exotic spices, the carriage arrives after the aroma.
+Desc_18
+The crossbreed between a donkey and a horse, sterile, healthy and hard-working, with the body of a horse and the ear of a donkey.
+Desc_19
+A robust and docile animal that looks like a horse but with a smaller body and larger ears, said to be a breed raised by the Huns.
+Desc_20
+A horse with a long muzzle and hair growing on its mane and tail that sleeps standing up, usually thin and weak if not fed properly.
+Desc_21
+A docile animal with horns growing on its head and almond-shaped eyes that sometimes fights other bulls during the mating season.
+Desc_22
+A well-groomed horse. Legend has it that the emperors of the Zhou Dynasty used to ride carriages drawn by eight steeds as a symbol of power.
+Desc_23
+A snow-white horse from the Western Regions that sprints like a gale. Emperor Gaozu of Han once killed a white horse as sacrificial offering in order to ally with the liege lords, showing the preciousness of this breed.
+Desc_24
+A remarkable horse from the Dayuan region, with a slender body and a fierce look. A fine horse in the Dayuan kingdom that can travel long distances without stopping and endure hunger and cold.
+Desc_25
+A greenish-grey ox with a single horn growing on its forehead, said to be an auspicious mount that belongs to an immortal and only appears as a good omen before a prosperous age.
+Desc_26
+The omnipotent deity grants us the divine horse that sweats with a reddish-brown shine. A rare horse that was offered to Emperor Wu of Han by the envoy Zhang Qian after his journey to the Western Regions. Legend has it that the horse can travel a thousand li a day and exude blood-like sweat, also called the "divine horse."
+Desc_27
+Smart arboreal monkeys with long, thin hair, one-chi-long tails and human-like fingers. They are naturally agile climbers.
+Desc_28
+With sharp eyes and a hooked beak, it can soar across the sky and prey on small animals.
+Desc_29
+It has a prominent long nose, small eyes and narrow forehead, and tough hair. It feeds on wild fruits, meat and vegetables, and can weigh up to hundreds of jin for powerful ramming.
+Desc_30
+Omnivorous, but prefers meat and can make powerful swings with long claws and thick palms. It has a good sense of smell but poor eyesight, and often lies dormant in its cave during winter due to food shortages.
+Desc_31
+It has a tail like a tassel, a black torso and white legs, like snow beneath dark clouds. Its horns are bent upward, and its backbone is protruding like a mound. Although it feeds on grass, it is tough and packs quite a punch.
+Desc_32
+It is about ten zhang long, all covered with hard scales. It molts once every few months, often lurking in the grass or winding above the treetops. It hibernates in winter and awakens in summer, and can sustain itself for many days by hunting just once.
+Desc_33
+Similar to an ocelot, with velvet in the ears, about three chi long. Can run silently and quickly because of the fleshy pads under its palms. It rests during the day and hunts at night, and its eyes emit a greenish light in the dark.
+Desc_34
+Its coat is yellow, with spots under the belly and a black hairball at the tail tip. It is a pack hunter with sharp teeth and claws, often preying on cattle, sheep and deer. Male lions have beautiful long manes on their necks while females do not.
+Desc_35
+It has a white belly and yellow back, with brightly colored markings all over its body, and the markings form the word "王"(King) on its forehead. Its thunderous roar can be heard from miles away. It can move strongly and swiftly, using its teeth as daggers to kill with just a single blow.
+Desc_36
+Its hearing and eyesight are sharp, its arms are long and good at climbing, and it has a lilting call. It is extremely intelligent and is said to be able to fight with swords and enjoys liquor.
+Desc_37
+It has golden plumes, crimson eyes, and excellent eyesight, enabling it to see for hundreds of li. It often lives on top of high cliffs and does not flock with normal birds.
+Desc_38
+It is covered with hard black hair, with two long sharp fangs sticking out of its mouth and leaf-like ears on its head.
+Desc_39
+It has fluffy white fur, rounded ears, bulging shoulders, and sharp teeth and claws. It is often hidden in the mountains and forests, and can eat up to 50 kilos of food a day due to its fearsome size.
+Desc_40
+It has dark green skin and an enormous weight. Whenever it enters and leaves the water, it will definitely attract storms. Its cry is like thunder, and it is said that the Yellow Emperor used its skin to make a drum, the sound of which could be heard five hundred li away.
+Desc_41
+Living in the country of Ba, located in the southwest, with a green head and black body, it is huge and can swallow an elephant, excreting its bones only after three years. It is said that eating its meat can prevent diseases of the heart and chest.
+Desc_42
+It has pitch-black fur and glowing eyes, and can climb on high trees, run through deep valleys, always hide in the mist and stay away from danger.
+Desc_43
+Its hair shines with a radiant golden light and its eyes are like amber. It is naturally brave and unrestrained, able to deter all kinds of evil demons with its earth-shaking roar and protect all beings.
+Desc_44
+It has snow-like white fur and black markings. Its roar can shake the mountain and forest and deter all animals. According to legend, it is the god of the seven constellations in the West that governs killing and can dispel all kinds of evil and calamity.
+Desc_45
+A horse with a long muzzle and hair growing on its mane and tail that sleeps standing up, usually thin and weak if not fed properly.
+Desc_46
+В студёной бездне живёт цзяо с чешуёй бледной, как иней. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_47
+В студёной бездне живёт цзяо с чешуёй тёмной, как полночь. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_48
+В студёной бездне живёт цзяо с чешуёй бескрайней, как небо. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_49
+В студёной бездне живёт цзяо с чешуёй пылающей, как огонь. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_50
+В студёной бездне живёт цзяо с чешуёй сияющей, как солнечный свет. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_51
+В студёной бездне живёт цзяо с чешуёй чёрной и белой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_52
+В студёной бездне живёт цзяо с чешуёй белой и лазурной. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_53
+В студёной бездне живёт цзяо с чешуёй белой и багряной. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_54
+В студёной бездне живёт цзяо с чешуёй белой и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_55
+В студёной бездне живёт цзяо с чешуёй чёрной и лазурной. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_56
+В студёной бездне живёт цзяо с чешуёй чёрной и багряной. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_57
+В студёной бездне живёт цзяо с чешуёй чёрной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_58
+В студёной бездне живёт цзяо с чешуёй лазурной и багряной. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_59
+В студёной бездне живёт цзяо с чешуёй лазурной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_60
+В студёной бездне живёт цзяо с чешуёй багряной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_61
+В студёной бездне живёт цзяо с чешуёй белой, чёрной и лазурной. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_62
+В студёной бездне живёт цзяо с чешуёй белой, чёрной и багряной. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_63
+В студёной бездне живёт цзяо с чешуёй белой, чёрной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_64
+В студёной бездне живёт цзяо с чешуёй белой, лазурной и багряной. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_65
+В студёной бездне живёт цзяо с чешуёй белой, лазурной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_66
+В студёной бездне живёт цзяо с чешуёй белой, багряной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_67
+В студёной бездне живёт цзяо с чешуёй чёрной, лазурной и багряной. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_68
+В студёной бездне живёт цзяо с чешуёй чёрной, лазурной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_69
+В студёной бездне живёт цзяо с чешуёй чёрной, багряной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_70
+В студёной бездне живёт цзяо с чешуёй лазурной, багряной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_71
+В студёной бездне живёт цзяо с чешуёй белой, чёрной, лазурной и багряной. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_72
+В студёной бездне живёт цзяо с чешуёй белой, чёрной, лазурной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_73
+В студёной бездне живёт цзяо с чешуёй белой, чёрной, багряной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_74
+В студёной бездне живёт цзяо с чешуёй белой, лазурной, багряной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_75
+В студёной бездне живёт цзяо с чешуёй чёрной, лазурной, багряной и золотой. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_76
+В студёной бездне живёт цзяо с чешуёй всех мыслимых оттенков. Он пляшет по сумрачным расселинам и созывает бури. Оседлай его и взмывай с ветром, вольный, как плывущее облако, — выше, чем достанут бессмертные.
+Desc_77
+A creature transformed from a Jiao, infused with the power of the divine loong. With the head of a loong and horns of an ox, it has an extraordinary love for music, gifted with ears that can discern the sounds of all things...
+Desc_78
+A creature transformed from a Jiao, infused with the power of the divine loong. With the head of a loong and the body of a jackal, it is fierce and combative, often glaring in rage, thriving in conflict and slaughter...
+Desc_79
+A creature transformed from a Jiao, infused with the power of the divine loong. Winged like an eagle, it soars to great heights, ever seeking danger and the thrill of conquest, leading the beasts in daring ventures...
+Desc_80
+A creature transformed from a Jiao, infused with the power of the divine loong. With webbed claws and a stout loong's form, it roars with a voice louder than any bell, its cries shaking the heavens...
+Desc_81
+A creature transformed from a Jiao, infused with the power of the divine loong. Lion-like in form, yet gentle in nature, it favors stillness over strife, finding joy only in lanterns and fireworks...
+Desc_82
+A creature transformed from a Jiao, infused with the power of the divine loong. Shaped like a great tortoise with immense strength, capable of carrying mountains and traveling vast distances...
+Desc_83
+A creature transformed from a Jiao, infused with the power of the divine loong. Resembling a mighty tiger, it thrives on disputes and commands awe with its imposing presence...
+Desc_84
+A creature transformed from a Jiao, infused with the power of the divine loong. With the body of aloong and the head of a lion, it has a deep love for literature and the arts...
+Desc_85
+A creature transformed from a Jiao, infused with the power of the divine loong. With the head of a Loong and the body of a fish, it has a voracious appetite and is said to have the ability to repel fire...
+FunctionDesc_0
+
+FunctionDesc_1
+
+FunctionDesc_2
+
+FunctionDesc_3
+
+FunctionDesc_4
+
+FunctionDesc_5
+
+FunctionDesc_6
+
+FunctionDesc_7
+
+FunctionDesc_8
+
+FunctionDesc_9
+
+FunctionDesc_10
+
+FunctionDesc_11
+
+FunctionDesc_12
+
+FunctionDesc_13
+
+FunctionDesc_14
+
+FunctionDesc_15
+
+FunctionDesc_16
+
+FunctionDesc_17
+
+FunctionDesc_18
+
+FunctionDesc_19
+
+FunctionDesc_20
+
+FunctionDesc_21
+
+FunctionDesc_22
+
+FunctionDesc_23
+
+FunctionDesc_24
+
+FunctionDesc_25
+
+FunctionDesc_26
+
+FunctionDesc_27
+
+FunctionDesc_28
+
+FunctionDesc_29
+
+FunctionDesc_30
+
+FunctionDesc_31
+
+FunctionDesc_32
+
+FunctionDesc_33
+
+FunctionDesc_34
+
+FunctionDesc_35
+
+FunctionDesc_36
+
+FunctionDesc_37
+
+FunctionDesc_38
+
+FunctionDesc_39
+
+FunctionDesc_40
+
+FunctionDesc_41
+
+FunctionDesc_42
+
+FunctionDesc_43
+
+FunctionDesc_44
+
+FunctionDesc_45
+
+FunctionDesc_46
+
+FunctionDesc_47
+
+FunctionDesc_48
+
+FunctionDesc_49
+
+FunctionDesc_50
+
+FunctionDesc_51
+
+FunctionDesc_52
+
+FunctionDesc_53
+
+FunctionDesc_54
+
+FunctionDesc_55
+
+FunctionDesc_56
+
+FunctionDesc_57
+
+FunctionDesc_58
+
+FunctionDesc_59
+
+FunctionDesc_60
+
+FunctionDesc_61
+
+FunctionDesc_62
+
+FunctionDesc_63
+
+FunctionDesc_64
+
+FunctionDesc_65
+
+FunctionDesc_66
+
+FunctionDesc_67
+
+FunctionDesc_68
+
+FunctionDesc_69
+
+FunctionDesc_70
+
+FunctionDesc_71
+
+FunctionDesc_72
+
+FunctionDesc_73
+
+FunctionDesc_74
+
+FunctionDesc_75
+
+FunctionDesc_76
+
+FunctionDesc_77
+<color=#pinkyellow>Each month, you may hear Qiu Niu's song, causing others' Favorability toward you to increase...</color>
+FunctionDesc_78
+<color=#pinkyellow>Each month, you may witness Yazi's vengeance, causing your enemies to suffer punishment...</color>
+FunctionDesc_79
+<color=#pinkyellow>Each month, you may receive Chao Feng's secret report, thereby learning hidden tidings...</color>
+FunctionDesc_80
+<color=#pinkyellow>Each month, you may hear Pu Lao's thunderous voice and obtain the cricket trapped within its throat...</color>
+FunctionDesc_81
+<color=#pinkyellow>Each month, you may watch Suan Ni at playful combat and, amid curling azure clouds, comprehend the key principles of martial arts...</color>
+FunctionDesc_82
+<color=#pinkyellow>Each month, you may discover Ba Xia seeking treasures and have the buried relics of the earth brought forth for your inspection...</color>
+FunctionDesc_83
+<color=#pinkyellow>Each month, you may be judged by Bi An's scales, as your past deeds are counted in detail and your reputation changes accordingly...</color>
+FunctionDesc_84
+<color=#pinkyellow>Each month, you may witness Fu Xi's literary flourish, as it wields the brush to compose verse and interpret the subtleties of the fine arts...</color>
+FunctionDesc_85
+<color=#pinkyellow>Each month, you may receive Chi Wen's inner nourishment, guarded by murmuring clear streams that gently nurture the meridians...</color>
+

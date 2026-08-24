@@ -1,0 +1,856 @@
+Name_0
+Холщовые одежды глуши
+Name_1
+Охотничьи одежды
+Name_2
+Короткая рабочая одежда
+Name_3
+Одежды для упражнений
+Name_4
+Парчовые одежды
+Name_5
+Плащ даосского наставника
+Name_6
+Латаные одежды счастья
+Name_7
+Плащ полководца
+Name_8
+Золотые газовые одежды
+Name_9
+Плащ из лоскутов
+Name_10
+Холщовое платье
+Name_11
+Боевое платье
+Name_12
+Выцветшая ряса
+Name_13
+Расшитые одежды
+Name_14
+Одеяние Лао-цзюня
+Name_15
+Шёлковый наряд счастья
+Name_16
+Лиловые одежды с яшмовым поясом
+Name_17
+Императорское платье с луном
+Name_18
+Шаолиньская ряса
+Name_19
+Шаолиньская ряса архата
+Name_20
+Шаолиньская кашая
+Name_21
+Одежды Эмэй
+Name_22
+Наряд Эмэй
+Name_23
+Лотосовое платье Эмэй
+Name_24
+Платье с иглами
+Name_25
+Одежды травницы
+Name_26
+Плащ с изумрудной тыквой-горлянкой
+Name_27
+Уданские одежды
+Name_28
+Лазурносветные одежды
+Name_29
+Одежды Чжэньу
+Name_30
+Одежды Чжэньу
+Name_31
+Подвижнический наряд Юаньшаня
+Name_32
+Наряд блюстителя Юаньшаня
+Name_33
+Одежды наставника Юаньшаня
+Name_34
+Наряд Львиноликих
+Name_35
+Кожаная куртка Львиноликих
+Name_36
+Доспех Львиноликих
+Name_37
+Наряд странника
+Name_38
+Наряд небожителя
+Name_39
+Очищенные одежды
+Name_40
+Одеяние Нефритовой Девы
+Name_41
+Мех Нефритовой Девы
+Name_42
+Платье Нефритовой Девы
+Name_43
+Кузнечная одежда
+Name_44
+Наряд мечника-кузнеца
+Name_45
+Одежды наставника Ковки Мечей
+Name_46
+Короткий мех травника
+Name_47
+Узорный мех травника
+Name_48
+Мех наставника-травника
+Name_49
+Снаряжение Ваджры
+Name_50
+Снаряжение Будды
+Name_51
+Недвижимое снаряжение
+Name_52
+Одежды мяоской набойки
+Name_53
+Радужный наряд
+Name_54
+Священное платье
+Name_55
+Ночное облачение
+Name_56
+Теневой плащ
+Name_57
+Одежды призрачных звёзд
+Name_58
+Красный наряд Фулун
+Name_59
+Ныряльные одежды Фулун
+Name_60
+Почтенный плащ
+Name_61
+Наряд Кровавой секты
+Name_62
+Парчовый наряд Кровавой секты
+Name_63
+Кровавые одежды
+Name_64
+Пелёнки
+Name_65
+Детская одежда
+Name_66
+Одежда, несущая беду
+Name_67
+Одеяние кармического пламени
+Name_68
+Плащ чернокаменного рвения
+Name_69
+Одежда, несущая беду
+Name_70
+Одеяние кармического пламени
+Name_71
+Плащ чернокаменного рвения
+Name_72
+Наряд от насекомых
+Name_73
+Наставнический наряд
+Name_74
+Наряд светлого будущего
+Name_75
+Одежда из чешуи лунносущего цзяо
+Name_76
+Одежда из чешуи чёрного цзяо
+Name_77
+Одежда из чешуи небесно-синего цзяо
+Name_78
+Одежда из чешуи огненного цзяо
+Name_79
+Одежда из чешуи золотого цзяо
+Name_80
+Несравненный наряд лунного зарева
+Name_81
+Наряд посланника луна
+Name_82
+Наряд дикого луна
+Name_83
+Облачная ткань небожителя
+Name_98
+Одеяние эфирной завесы
+Name_100
+Защитный доспех
+Name_99
+Одеяние эфирной завесы с золотым поясом
+Name_84
+Простое одеяние
+Name_85
+Деревенский наряд
+Name_86
+Наряд ремесленника
+Name_87
+Плащ из зелёной лозы
+Name_88
+Парчовая шуба с яшмой
+Name_89
+Одеяние книжника
+Name_90
+Кобальтовый шёлковый доспех
+Name_91
+Одеяние с широким поясом
+Name_92
+Багровое одеяние змеиного ветра
+Name_93
+Зелёное одеяние змеиного ветра
+Name_94
+Яшмовое одеяние змеиного ветра
+Name_95
+Окровавленные одежды
+Name_96
+Окровавленная рубаха
+Name_97
+Убранство благоуханного скакуна
+Name_101
+Одеяние лишённого желаний
+Name_102
+Небесное божество
+Name_103
+Мудрец, постигший Дао
+Name_104
+Вечный истинный демон
+Name_105
+Вечно зелёные горы
+Name_106
+Восемь лет общего пути
+Desc_0
+Тао Юаньмин писал: "Холст груб и залатан, миска пуста — беден, да доволен". Холщовые одежды кроятся просто и обычно быстро изнашиваются: прочности в них мало. Их часто носят горные жители, довольные своей бедностью.
+Desc_1
+Лёгкие одежды с кожаными вставками. К поясу можно приладить мечи и скрытое оружие, а за спину — колчан или плащ от ветра. Отличный выбор для любого охотника.
+Desc_2
+Недорогой и крепкий наряд, к которому по нужде подшивают лишние карманы, пояса и лоскуты. Вот только от стирки и крахмаления он делается ломким и легко пачкается.
+Desc_3
+Говорят: "Упражняться надо и в самую лютую зиму, и в самое пекло". Эти одежды для упражнений бойцы обычно носят круглый год: зимой в них тепло, летом не душно, а руки можно прикрыть обмотками или наручами.
+Desc_4
+Сшиты из отменной ткани на подкладке, а сверху их часто расшивают или отделывают самоцветами и яшмовыми подвесками. Такое одеяние по карману лишь богатым домам.
+Desc_5
+Широкорукавная накидка, что спадает с плеч и держится на завязках. Пошла она от журавлиного одеяния из перьев ("хэ" — журавль) и в ханьском платье означает восхождение подвижника к бессмертию. Эти одежды без узоров и украшений, а потому шить их просто.
+Desc_6
+Знак святости в буддизме: шьётся из мелко нарезанной ткани. Переплетение полос напоминает разделанные поля — добрые дела подобны посеву. Оттого их зовут ещё "одеждой полей блаженства".
+Desc_7
+Плащ, что носят вместо доспеха: наружные пластины твёрды и крепки, но при этом легки и не сковывают движений. Оттого-то он труден и дорог в работе. Такое носят лишь именитые полководцы, чья слава того стоит.
+Desc_8
+При Хань взяли порядки Цинь, но отказались от шести цветов чиновничьего платья, заменив их единой чёрной шапкой и лиловыми газовыми одеждами. Одежда лёгкая, богато украшенная и непростая в работе. Так издавна одевались императоры и сановники Хань, а после Сражающихся царств обычаи переменились, и наряд разошёлся в народе.
+Desc_9
+Поначалу такое носили монахи и монахини в подвижничестве, а нынче чаще нищие: шьётся оно из выброшенных лоскутов. Смиренное имя его — отголосок того, как смиренно монахи говорят о себе.
+Desc_10
+Наряд идёт от старины и состоит из верхней и нижней частей, как сказано в Книге перемен: "Жёлтый император, Яо и Шунь повелели народу носить верхнее и нижнее платье". Шьётся из дешёвых тканей и без украшений.
+Desc_11
+Когда-то это носили в основном бойцы, но со временем в нём проступили черты иноземного платья. Узкие рукава и обмотки на предплечьях не мешают двигаться, а к наряду можно приладить дорожную сумку для вещей.
+Desc_12
+Монашеская ряса блёклого, нечистого цвета. "Одеяние, что носят все монахи, блёклого цвета — под стать пути духа". Если ученик Будды надел эту рясу, значит, он отдалился от мирского и выбрал монашество.
+Desc_13
+Одеяние цельное: верх и низ соединены. Оно прикрывает тело сколько надо, но не волочится по земле. Носящие его часто подвязывают рукава, чтобы не мешали.
+Desc_14
+Чанъи, оно же "дачан", — старинное ханьское верхнее платье. Эти одежды сделаны в память о Тайшан Лао-цзюне, Небесном владыке Дао и его Добродетели. Их часто носят странствующие даосы: это ответвление обычного даосского платья, скроенное так, чтобы легче было двигаться, и к нему обычно прилажены разные особые предметы.
+Desc_15
+Одеяние, которое некогда носили императоры и удельные князья. Роскошный узор его играет во всей силе, когда ткань красят при работе, — да только выткать такое непросто. Мудрец Цзи-цзы писал: "Царские особы носят парчу в девять слоёв и живут в высоких просторных дворцах". Со временем приёмы такой работы разошлись и стали обычными.
+Desc_16
+Одежды сложной работы, которые император жаловал важным сановникам; их носили с золотым или яшмовым поясом либо с золотой рыбьей сумкой. У Бо Цзюйи сказано: "Не говори, что ты не именитый чиновник. Взгляни, как золотой знак сияет на лиловом одеянии". Со временем наряд не раз переделывали, чтобы носить его было проще.
+Desc_17
+Императорское платье с луном: благословенное одеяние для государей и приношение памяти покойных императоров. Императоры носили его на обрядах со времён Чжоу; это самое торжественное платье из всех, а узор с луном означает державную власть. Пожалуй, будь времена мирными, никто и не стал бы на него притязать.
+Desc_18
+В буддийских книгах Винаи сказано: "Одеяния монахов-бхикшу просты, а цвета их назначены словом Будды". Шаолиньские рясы чаще жёлтые и синие, крашенные в "десять цветов", дозволенных Буддой Гаутамой. Их обычно носят монахи Шаолиньского храма.
+Desc_19
+Шаолиньскую рясу архата носят архаты среди учеников Будды. Шьют её большей частью из старой ткани или шёлка, а вид и покрой бывают самые разные.
+Desc_20
+Шаолиньская кашая. Шьётся обычно из рваных тканей, а узор её — перекрещенные полосы; в буддийских книгах сказано: "Перекрестья кашаи ведут по пути к просветлению". Носить такое дозволено лишь высокочтимым монахам, чья добродетель и свершения выдаются.
+Desc_21
+Одежды Эмэй шьют из шёлка и хлопка; цвет их красив, а покрой изящен. Ученицы Эмэй носят их постоянно — и на отработке боевых искусств, и за уборкой. Всякое движение в них выходит лёгким и плавным.
+Desc_22
+В сравнении с обычным даосским платьем этот наряд заметнее: он отделан парчой, и его часто носят ученицы Эмэй, что спускаются с горы в мир. У танского императора Тайцзуна есть строка: "Эмэй — место дивных круч, где в воздухе стоит неземной цветочный дух". Оттого многие относятся к монахиням в наряде Эмэй с большим почтением.
+Desc_23
+В минском романе "Возведение в ранг духов" сказано: "Как лотосы бывают разного цвета, так и буддисты по свету разнятся, но все идут к одному". У этого платья прямой ворот и широкие рукава, держится оно на завязках, а по поясу идёт лотосовый узор. Это отсылка к Лотосовой сутре: "Да воссияет свет Будды, и все обретут просветление", — чтобы монахи "жили незапятнанными пятью замутнениями, панчакашая".
+Desc_24
+Платье с иглами зелёного цвета и похоже на обычную рубаху с короткими рукавами, но сшито с карманами и снаружи, и внутри. В них удобно держать всякую лекарскую снасть.
+Desc_25
+Одежда из шёлка, травянисто-зелёная и лёгкая. К ней приделаны особые кожаные петли для лекарских орудий, корзин и прочего. Ученицы Долины Сотни Цветов часто носят её, собирая травы, — отсюда и имя.
+Desc_26
+Плащ с изумрудной тыквой-горлянкой строг по покрою, а цвет его изящен и чист. Имя своё он получил от предания о том, как снадобьем из тыквы-горлянки лечили весь свет. Долина Сотни Цветов видит в нём знак признания и похвалы лекарям, и носить его дано немногим.
+Desc_27
+У уданских одежд прямой ворот нараспашку, а подол доходит до колен. Синий матерчатый пояс на талии означает следование естественному пути. В них обычно и видят уданских учеников.
+Desc_28
+Лазурносветные одежды носят подвижники. Ткань их приятна телу: зимой в ней тепло, летом прохладно. "Лазурный свет" в названии — из стихотворной строки неизвестного сочинителя: "Процветающая страна, купающаяся в лазурном свете весны".
+Desc_29
+Одежды Чжэньу повторяют платье императора Чжэньу: они черно-белые, с узором из восьми триграмм. Он означает согласие инь и ян и нескончаемый рост Дао. Носить такое дозволено лишь тем, кто далеко продвинулся по пути Дао.
+Desc_30
+Одежды Чжэньу повторяют платье императора Чжэньу: они черно-белые, с узором из восьми триграмм. Он означает согласие инь и ян и нескончаемый рост Дао. Носить такое дозволено лишь тем, кто далеко продвинулся по пути Дао.
+Desc_31
+Простая одежда из конопли: летом в ней жарко, зимой холодно. Носящие её часто приматывают к рукам и запястьям железные пластины и матерчатые пояса — так безопаснее в опасных местах вроде высоких гор.
+Desc_32
+Наряд блюстителя Юаньшаня сшит из нарезанных кусков, с воротом и без рукавов. По груди и поясу идут железные кольца — знак самообуздания. Носить его дозволено лишь тем ученикам Юаньшаня, кто всем сердцем стоит за Дхарму и защищает простых людей.
+Desc_33
+Скромной работы, из кожи и ткани, эти одежды не выдержат крепкого удара, зато придают носящему силу и величавость. Наставники Юаньшаня в них первыми идут усмирять демонов. В старом стихотворении сказано: "С белых клинков капала кровь, а они стояли прямо в намокших одеждах".
+Desc_34
+Наряд из верхней и нижней части, сшитый из грубого шёлка и холста: и дышит, и пот вбирает. Ученики Клана Львиноликих носят его на отработке и на состязаниях, чтобы не запариться.
+Desc_35
+Ван Чанлин писал: "Пусть изранены и измучены, пограничные войска стоят, покуда враг не разбит". У кожаной куртки Львиноликих есть наплечники и крючья на поясе. Она крепка и вынослива, держит тяжёлые удары разного оружия — за то её и прозвали "Непробиваемой".
+Desc_36
+Well-made and high-priced, this armor is iron and copper throughout yet lighter than most leather armor. This armor is also known as "lifelike lion armor," owing to its vivid depiction of a lion on the chest.
+Desc_37
+The Wanderer Attire has a squared collar and narrow sleeves. It's knee-length with a large belt around the waist to carry books, inks, brushes and the like. Usually seen worn by Ranshan disciples as they roam the land.
+Desc_38
+Ancient poet Zhou Chun wrote "Only a gentle breeze blows through the trees, and I yearn for a glimpse of its fleeting charm. Yet I know not where to find an immortal." Immortal Attire is woven from silk thread, light as a feather and thin as a cicada's wing. Even on the stillest of nights, it sways like the gown of an immortal in the wind.
+Desc_39
+Robes made from special material, all decorated with Ranshan talisman seals to grant flame and water resistance while avoiding impurities. These represent the Ranshan Sect's "immortal master" realm. As such, it's not an item that any regular Ranshan disciple could wear.
+Desc_40
+Clothing made of plain fabrics, these robes consist of an inner and outer layer. Both are simple in shape and without decoration, but offer a great deal of warmth.
+Desc_41
+Jade-Maiden Fur is as white as snow and softer than clouds. It's crafted from the softest cut of spirit fox hide, the underarm, meaning it's miraculously "all but impervious to water, clean with a single rinse."
+Desc_42
+Poet Wu Wenying wrote "I recall that dream where she walked over as if upon flowing water, in a wondrous maiden of lotus leaves." It's said this is the gown of a goddess, woven only from the finest silk with such craftsmanship that nary a single gap exists between the threads.
+Desc_43
+Daily wear for Forge Laborers, this is sewn from coarse hemp that's both breathable and dirt-resistant. Most are short-sleeved, but long-sleeved variants exist. A leather belt around the waist allows the wearer to carry various smithing tools.
+Desc_44
+The complex, luxuriously-crafted attire is made only for renowned Swordsmiths. Its outer armor is lightweight with a softness belying its toughness, especially resistant to sharp weapons. Swordsmiths often hang leather pouches along the waist, filled with brushes, ink and paper.
+Desc_45
+A Great Artisan is a craftsman with exceptional skills. The Swordsmith Master Robes' form is elegant and graceful, with an antique style reminiscent of the ancient Yue state. A sheath is affixed to the back. An old poem reads "A sword of autumn frost, cleaving jade-like it were butter; and robes sewn with pearls that gleam like the setting sun," which encapsulates the Swordsmith Villa' style.
+Desc_46
+The Herbalist Short Fur is simple to make and is made of cotton cloth. The coat is decorated with a small amount of rabbit fur. Although it can withstand severe cold, it is also easy to get wet by wind and snow.
+Desc_47
+Ornate fur attire with brocade and pelt details, light and soft, and a beautiful sight indeed. Commonly worn in colder regions. In order to withstand the gales and snow upon mountain peaks, Kongsang added a high collar and a cover to its design.
+Desc_48
+Poet Chun You once wrote, "In fine furs I head deep into the mists, seeking a magnificent medicinal herb." The outer fur of this clothing is five chi long, pure white, and without a single stitch mark. This demands only intact pelts be used, shining and smooth.
+Desc_49
+Vajra Gear is red in color with yellow hems. Mainly decorative attire, its sparse fabric leaves the chest and arms exposed, keeping the wearer cool and comfortable.
+Desc_50
+Buddha Gear is generally produced by many hundreds of believers. It's precious attire detailed with extravagant decorations. It can also be adorned with prayer beads or animal heads for a more imposing, majestic look.
+Desc_51
+According to legend, the king of ancient Xang Xung first gave this attire to the Vajra Sect's Wisdom King. The sect would refer to its design when crafting their later clothing. It has no collar and no sleeves, with a scarf that hangs to the ground. It is decorated with huge prayer beads and gemstones, solemn yet exuding dignity.
+Desc_52
+Clothing made and dyed according to special methods pioneered by the Miao people. A pattern is first outlined on the silk and linen, then it's left to soak in a vat of dye before being rinsed. The finished product features these initial drawings as well as the frost-like asymmetrical patterning left after dying. In all, it's an incredible sight.
+Desc_53
+The Book of the Later Han states "The Miao people are most gifted in crafting clothing of prismatic colors." Prisma Attire has a slanting collar, long yet with short sleeves and a rainbow of colors. The waist and sleeves are inlaid with dazzling silver pieces. Mages of the Five Immortals Sect are known to wear such clothing while conducting their sorcery.
+Desc_54
+A gown of the Five Immortals Sect, their skilled elders the only ones able to craft it. It utilizes both weaving and embroidery, its form simple but decorated with hanging silver bells and metallic spheres. The sleeves and belts are embroidered with mysterious and obscure patterns.
+Desc_55
+Nocturnal Attire differs in design, yet is mostly navy blue or gray-black. Such clothing is named after the first known to wear it, a nocturnal and enigmatic figure. The Veil Scar Sect added parts such as hand guards and bracers, improving protection and ease of movement.
+Desc_56
+The Shadowcloak is expensive and cumbersome to make, lightweight and faded in color once finished. It enables the wearer to "come and go freely leaving no trace," no matter where they are.
+Desc_57
+Ancient writings read, "When the heavens strike the stars move; yet when I strike, I am without trace, a phantom." The Phantom Star Robes graceful and free-flowing, easy to move in. Their outer is decorated with pearls and grains of silver, akin to the unpredictable shifting of the starlight above. Worn as uniform by the Shadow Ruler of the Veil Scar Sect.
+Desc_58
+Fuloong Red Attire is sparse in construction, suitable only for use as a cover. It often exposes large patches of the wearer's skin to show red patterning upon their flesh, hence the 'red' of its name.
+Desc_59
+The Fuloong Diving Robes are made by artisans with bountiful experience out on the waves. It's tight-fitting and sleeveless, providing protection from water and cold, and allowing the wearer to move as fast as a fish in the water: "Like a sea loong within the depths, searching for a pearl."
+Desc_60
+This formal wear is dark black and red, sleeveless with a straight collar and buttoned front. A myriad of gold accessories line it, a symbol of wealth and power. Only those held in highest esteem upon Chiming Island may don such clothing.
+Desc_61
+Clothing worn by common congregants of the Sanguine Sect. They're made from inexpensive, stain-resistant cloth that's stiff and gray. The sleeves come equipped with arm guards and bracers to aid the sect members.
+Desc_62
+Sanguine Sect Brocade Attire is comfortable in texture and gorgeous in its decoration. It's woven with colored silk during crafting, a step that forms a striking yet natural pattern. Such production methods are beyond most, and producing it demands the hands of a highly skilled weaver.
+Desc_63
+Sewn from nobles' attire. Despite the exaggerated silhouette, it's a gorgeous piece trimmed with yellow ribbon. Red jade lines the waist. Both leave the wearer with a dignified, awe-inspiring manner that renders others uneasy to make eye contact.
+Desc_64
+Used to wrap up babies, its outer material is fastened with a length of cloth, usually cut from a soft fabric.
+Desc_65
+Children's Clothes come in bright colors and various designs. Most have features loved by children all over: colored fabric decorations, and embroidered images of plants and animals.
+Desc_66
+Clothing worn by those tormented by Xiangshu until their spirits bled dry of all reason and conscience. The wearer's thousand years of torture are almost palpable when looking at such a garment. A terrifying sight indeed.
+Desc_67
+Clothing worn by those tormented by Xiangshu who had committed terrible crimes against humanity. The wearer's thousand years of torture and sinful karma are almost palpable when looking at such a garment. It burns with their willful ignorance.
+Desc_68
+Clothing worn by those tormented by Xiangshu, who then cast all aside and welcomed his malicious embrace. They carry out Xiangshu's will as they hold a mysterious Blackstone, mind truly lost to the underworld.
+Desc_69
+Clothing worn by those tormented by Xiangshu until their spirits bled dry of all reason and conscience. The wearer's thousand years of torture are almost palpable when looking at such a garment. A terrifying sight indeed.
+Desc_70
+Clothing worn by those tormented by Xiangshu who had committed terrible crimes against humanity. The wearer's thousand years of torture and sinful karma are almost palpable when looking at such a garment. It burns with their willful ignorance.
+Desc_71
+Clothing worn by those tormented by Xiangshu, who then cast all aside and welcomed his malicious embrace. They carry out Xiangshu's will as they hold a mysterious Blackstone, mind truly lost to the underworld.
+Desc_72
+Please, just take this as an apology for any bugs you might've run into...
+Desc_73
+You might have been left unguided, unsure what to do next. Take this by way of apology!
+Desc_74
+Though the moon shines bright, it lays hidden behind mottled clouds. May all who pursue their dreams live out a bright, unclouded future.
+Desc_75
+Celestial peaks cradle the moon's essence, mortal realms behold glacial purity. This garment is forged from shed scales during Divine Loong's metamorphosis. Once donned, one becomes as if born of the same cosmic breath as the Loong itself, impervious to the White Loong's overwhelming divine power...
+Desc_76
+Sinuous dark clouds rise, crossing the azure abyss. This garment is forged from shed scales during Divine Loong's metamorphosis. Once donned, one becomes as if born of the same cosmic breath as the Loong itself, impervious to the Black Loong's overwhelming divine power...
+Desc_77
+Heaven's cerulean clarity composes ballads for immortals. This garment is forged from shed scales during Divine Loong's metamorphosis. Once donned, one becomes as if born of the same cosmic breath as the Loong itself, impervious to the Green Loong's overwhelming divine power...
+Desc_78
+Vermilion scales buried in emerald blood, suspended fire illuminates the mortal world. This garment is forged from shed scales during Divine Loong's metamorphosis. Once donned, one becomes as if born of the same cosmic breath as the Loong itself, impervious to the Red Loong's overwhelming divine power...
+Desc_79
+Untainted by earthly dust, truly resplendent as gold. This garment is forged from shed scales during Divine Loong's metamorphosis. Once donned, one becomes as if born of the same cosmic breath as the Loong itself, impervious to the Yellow Loong's overwhelming divine power...
+Desc_80
+Loongs coil in the matchless night of painted candles, moonlight shrouds the figure in spring breeze. Woven from the moon and bloom, this vermilion gown channels auspicious energies. Its embroidering blooms with fortune, sleeves billowing with vernal promises.
+Desc_81
+To exalt the divine might of the True Loong, disciples of the Fuloong Sanctuary dedicated themselves to sewing the attire. Every stitch embodies their sincere devotion to the True Loong.
+Desc_82
+Those who frantically spread the divine might of the True Loong often appear slovenly. This attire was sewn casually without deliberate craftsmanship, adorned merely with a single golden Loong emblem.
+Desc_83
+Azure mists drape celestial cloth, zephyrs tailor transcendence. Wearing this robe, one feels like floating in the wind under moonlight, seemingly able to soar away on the breeze, destination unknown.
+Desc_98
+This robe is woven from unknown material, blue-black in color, shaped like feathered plumage, as light as a swan's feather. Adorned with no other patterns save a few subtle golden threads that shimmer faintly, it seems extraordinary...
+Desc_100
+"Gold-like raiment, jade-like form, a flock in rainbow skirts and moon shawls." This garment uses pearls, jade, gold, and leather as armor, with golden threads and precious pendants as ornaments. Five colors complement each other, dazzling and brilliant. Wearing it, one feels as light as a floating cloud, as if about to ride the wind back home...
+Desc_99
+The robe worn by the leaders of the Aether Curtain Gang, clearly not a mortal creation. Brocade garments, jade-beaded girdles, waist-pendants of langgan jade, necklaces of golden light—truly, "heaven is its canopy of jade-green silk, the moon its white jade hook. The weaving maid weaves auspicious clouds, tailoring a golden-sashed robe."
+Desc_84
+Capital winds stain white silk, turning white attire dark. Taiwu Village has always been a place detached from worldly conflicts. Villagers all wear plain garments, diligently washed to remain unstained, symbolizing their separation from the mortal realm.
+Desc_85
+Common attire seen throughout rustic areas, made of coarse hemp and cloth, typically with half-length sleeves, also called "short brown." Made with simple, economical materials for ease during fieldwork, worn by farmers throughout the seasons.
+Desc_86
+To excel at one's craft, one must first sharpen one's tools. All artisans' clothing prioritizes practicality. The garb features a streamlined design with numerous loops and fasteners at the waist and chest for carrying various tools and items.
+Desc_87
+A cloak made of coarse rope and leather straps, secured with a back basket, sturdy and unwavering. Medicine seekers wear this cloak when searching for herbs among sheer cliffs, appearing like green vines on the precipice, hence its name.
+Desc_88
+A light fur coat woven from brocade, adorned with pearls and jade, elegant yet not overly ornate, comfortable yet dignified. Favored by merchants and traders to display their prosperity.
+Desc_89
+Typically made of fine cloth with round collars and large sleeves above and horizontal pleats below, hence its name. With an elegant and simple style, suitable for indoor wear, it's most favored by scholars and intellectuals in daily life.
+Desc_90
+Made with soft satin lining and silk gauze exterior, bound at the waist and wrists with coarse rope for securing outer robes and weapons. Though plain and soft, its intricate craftsmanship renders it impenetrable by ordinary weapons.
+Desc_91
+Wearing the broad belt and ample robe represents ancient formal attire. Its wearers are often figures of high virtue and esteem, namely a regional leader or sage, with a breadth of mind to bear the respect of many.
+Desc_92
+Why seek omens in dreams when my presence itself heralds fortune? I stride the mortal realm as a dashing hero, my spirit touching the heavens. Wild songs upon my lips, I command clouds to become serpents that ride the mist, as I soar unfettered across boundless skies.
+Desc_93
+Why seek omens in dreams when my presence itself heralds fortune? I stride the mortal realm as a dashing hero, my spirit touching the heavens. Wild songs upon my lips, I command clouds to become serpents that ride the mist, as I soar unfettered across boundless skies.
+Desc_94
+Why seek omens in dreams when my presence itself heralds fortune? I stride the mortal realm as a dashing hero, my spirit touching the heavens. Wild songs upon my lips, I command clouds to become serpents that ride the mist, as I soar unfettered across boundless skies.
+Desc_95
+A tattered brocade, still holding a faint, lingering warmth. Once used as a swaddling quilt, this shirt is now steeped in vermilion and ruined beyond repair, a mystery how it ever shielded the infant within. Yet, carefully treasured and draped over the body, it feels as though a broad, sturdy palm is resting upon one's shoulder.
+Desc_96
+A tattered deep-robe, its embroidery soaked in crimson. Once used as a swaddling quilt, this blood-stained remnant barely holds together, a testament to the desperate defense of the infant within. Yet, treasured now against the skin, it offers a phantom warmth, as if a gentle hand is still embracing the wearer.
+Desc_97
+Jade measures clouds, gold shears rainbows. Needles fly like galloping steeds, weaving endless layers of splendor. As they say: No need to seek divine steeds afar, for mortal craft rivals heaven's work.
+Desc_101
+An ink-black gown draped in crimson fur, embroidered with Fuyu Hilt motifs and adorned with flickering flame ornaments. Its awe-inspiring majesty forbids a direct gaze—this is the raiment of the Thoughtless, who shed their flesh to dwell as pure intent.
+Desc_102
+Thought arrives and Divine emerges, transcendent only Taiwu. This garment's flames blaze fiercely, light flames ten thousand zhang, wearing this garment is like the red sun in the sky, brilliant and dazzling, eyes gaze at the heavens, as if Divine Spirit descends to the world...
+Desc_103
+Thought arrives and Divine emerges, transcendent only Taiwu. This garment's golden light bursts forth, spiritual Qi overflows, wearing this garment is like the bright moon on the jade terrace, clear radiance fills the sleeves, illuminating the mortal world, as if a Sage saves the world...
+Desc_104
+Thought arrives and Divine emerges, transcendent only Taiwu. This garment's blood light scorches, crimson flames surge, wearing this garment is like the hellish inferno, imposing and mighty, filling the heavens and the earth, as if a True Demon emerges into the world...
+Desc_105
+Cutting the emerald of mountain flowers, shaping the form of the long wind, through heat and cold the heart remains unchanged, through wind and frost the will grows firmer. In the past, when the untamed path was first opened, it was but a single torch's faint light; now, unrolling a new scroll, the feelings of yesterday are unforgettable.
+Desc_106
+Vast eight years of misty waves, sharing wind and rain; a drifting single-leaf boat, already past the heavy mountains. Over thousands of miles of rivers and streams, fortunate to journey with you.
+FunctionDesc_0
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Mountain Dweller aspiration seniority each month.</color>
+FunctionDesc_1
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Hunter aspiration seniority each month.</color>
+FunctionDesc_2
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Artisan aspiration seniority each month.</color>
+FunctionDesc_3
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Martial Artist aspiration seniority each month.</color>
+FunctionDesc_4
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Scholar aspiration seniority each month.</color>
+FunctionDesc_5
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Taoist aspiration seniority each month.</color>
+FunctionDesc_6
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Eminent Monk aspiration seniority each month.</color>
+FunctionDesc_7
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Gallant aspiration seniority each month.</color>
+FunctionDesc_8
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Highborn aspiration seniority each month.</color>
+FunctionDesc_9
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Beggar aspiration seniority each month.</color>
+FunctionDesc_10
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Commoner aspiration seniority each month.</color>
+FunctionDesc_11
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Traveler aspiration seniority each month.</color>
+FunctionDesc_12
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Wandering Monk aspiration seniority each month.</color>
+FunctionDesc_13
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Doctor aspiration seniority each month.</color>
+FunctionDesc_14
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Wandering Taoist aspiration seniority each month.</color>
+FunctionDesc_15
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Magnate aspiration seniority each month.</color>
+FunctionDesc_16
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Noble aspiration seniority each month.</color>
+FunctionDesc_17
+<color=#pinkyellow>While wearing this clothing, gain a small amount of extra Royalty aspiration seniority each month.</color>
+FunctionDesc_18
+
+FunctionDesc_19
+
+FunctionDesc_20
+
+FunctionDesc_21
+
+FunctionDesc_22
+
+FunctionDesc_23
+
+FunctionDesc_24
+
+FunctionDesc_25
+
+FunctionDesc_26
+
+FunctionDesc_27
+
+FunctionDesc_28
+
+FunctionDesc_29
+
+FunctionDesc_30
+
+FunctionDesc_31
+
+FunctionDesc_32
+
+FunctionDesc_33
+
+FunctionDesc_34
+
+FunctionDesc_35
+
+FunctionDesc_36
+
+FunctionDesc_37
+
+FunctionDesc_38
+
+FunctionDesc_39
+
+FunctionDesc_40
+
+FunctionDesc_41
+
+FunctionDesc_42
+
+FunctionDesc_43
+
+FunctionDesc_44
+
+FunctionDesc_45
+
+FunctionDesc_46
+
+FunctionDesc_47
+
+FunctionDesc_48
+
+FunctionDesc_49
+
+FunctionDesc_50
+
+FunctionDesc_51
+
+FunctionDesc_52
+
+FunctionDesc_53
+
+FunctionDesc_54
+
+FunctionDesc_55
+
+FunctionDesc_56
+
+FunctionDesc_57
+
+FunctionDesc_58
+
+FunctionDesc_59
+
+FunctionDesc_60
+
+FunctionDesc_61
+
+FunctionDesc_62
+
+FunctionDesc_63
+
+FunctionDesc_64
+
+FunctionDesc_65
+
+FunctionDesc_66
+
+FunctionDesc_67
+
+FunctionDesc_68
+
+FunctionDesc_69
+
+FunctionDesc_70
+
+FunctionDesc_71
+
+FunctionDesc_72
+
+FunctionDesc_73
+
+FunctionDesc_74
+
+FunctionDesc_75
+<color=#pinkyellow>While wearing this clothing, you are immune to the White Loong's divine power in Thunder Marsh terrain.</color>
+FunctionDesc_76
+<color=#pinkyellow>While wearing this clothing, you are immune to the Black Loong's divine power in Flood Marsh terrain.</color>
+FunctionDesc_77
+<color=#pinkyellow>While wearing this clothing, you are immune to the Green Loong's divine power in Wind Marsh terrain.</color>
+FunctionDesc_78
+<color=#pinkyellow>While wearing this clothing, you are immune to the Red Loong's divine power in Flame Marsh terrain.</color>
+FunctionDesc_79
+<color=#pinkyellow>While wearing this clothing, you are immune to the Yellow Loong's divine power in Sand Marsh terrain.</color>
+FunctionDesc_80
+
+FunctionDesc_81
+
+FunctionDesc_82
+
+FunctionDesc_83
+
+FunctionDesc_98
+
+FunctionDesc_100
+
+FunctionDesc_99
+
+FunctionDesc_84
+
+FunctionDesc_85
+
+FunctionDesc_86
+
+FunctionDesc_87
+
+FunctionDesc_88
+
+FunctionDesc_89
+
+FunctionDesc_90
+
+FunctionDesc_91
+
+FunctionDesc_92
+
+FunctionDesc_93
+
+FunctionDesc_94
+
+FunctionDesc_95
+
+FunctionDesc_96
+
+FunctionDesc_97
+
+FunctionDesc_101
+
+FunctionDesc_102
+
+FunctionDesc_103
+
+FunctionDesc_104
+
+FunctionDesc_105
+
+FunctionDesc_106
+
+SmallVillageDesc_0
+
+SmallVillageDesc_1
+
+SmallVillageDesc_2
+
+SmallVillageDesc_3
+
+SmallVillageDesc_4
+
+SmallVillageDesc_5
+
+SmallVillageDesc_6
+
+SmallVillageDesc_7
+
+SmallVillageDesc_8
+
+SmallVillageDesc_9
+
+SmallVillageDesc_10
+
+SmallVillageDesc_11
+
+SmallVillageDesc_12
+
+SmallVillageDesc_13
+
+SmallVillageDesc_14
+
+SmallVillageDesc_15
+
+SmallVillageDesc_16
+
+SmallVillageDesc_17
+
+SmallVillageDesc_18
+
+SmallVillageDesc_19
+
+SmallVillageDesc_20
+
+SmallVillageDesc_21
+
+SmallVillageDesc_22
+
+SmallVillageDesc_23
+
+SmallVillageDesc_24
+
+SmallVillageDesc_25
+
+SmallVillageDesc_26
+
+SmallVillageDesc_27
+
+SmallVillageDesc_28
+
+SmallVillageDesc_29
+
+SmallVillageDesc_30
+
+SmallVillageDesc_31
+
+SmallVillageDesc_32
+
+SmallVillageDesc_33
+
+SmallVillageDesc_34
+
+SmallVillageDesc_35
+
+SmallVillageDesc_36
+
+SmallVillageDesc_37
+
+SmallVillageDesc_38
+
+SmallVillageDesc_39
+
+SmallVillageDesc_40
+
+SmallVillageDesc_41
+
+SmallVillageDesc_42
+
+SmallVillageDesc_43
+
+SmallVillageDesc_44
+
+SmallVillageDesc_45
+
+SmallVillageDesc_46
+
+SmallVillageDesc_47
+
+SmallVillageDesc_48
+
+SmallVillageDesc_49
+
+SmallVillageDesc_50
+
+SmallVillageDesc_51
+
+SmallVillageDesc_52
+
+SmallVillageDesc_53
+
+SmallVillageDesc_54
+
+SmallVillageDesc_55
+
+SmallVillageDesc_56
+
+SmallVillageDesc_57
+
+SmallVillageDesc_58
+
+SmallVillageDesc_59
+
+SmallVillageDesc_60
+
+SmallVillageDesc_61
+
+SmallVillageDesc_62
+
+SmallVillageDesc_63
+
+SmallVillageDesc_64
+
+SmallVillageDesc_65
+
+SmallVillageDesc_66
+Clothing worn by those tormented by evil intention until their spirits bled dry of all reason and conscience. The wearer's thousand years of torture are almost palpable when looking at such a garment. A terrifying sight indeed.
+SmallVillageDesc_67
+
+SmallVillageDesc_68
+
+SmallVillageDesc_69
+
+SmallVillageDesc_70
+
+SmallVillageDesc_71
+
+SmallVillageDesc_72
+
+SmallVillageDesc_73
+
+SmallVillageDesc_74
+
+SmallVillageDesc_75
+
+SmallVillageDesc_76
+
+SmallVillageDesc_77
+
+SmallVillageDesc_78
+
+SmallVillageDesc_79
+
+SmallVillageDesc_80
+
+SmallVillageDesc_81
+
+SmallVillageDesc_82
+
+SmallVillageDesc_83
+
+SmallVillageDesc_98
+
+SmallVillageDesc_100
+
+SmallVillageDesc_99
+
+SmallVillageDesc_84
+
+SmallVillageDesc_85
+
+SmallVillageDesc_86
+
+SmallVillageDesc_87
+
+SmallVillageDesc_88
+
+SmallVillageDesc_89
+
+SmallVillageDesc_90
+
+SmallVillageDesc_91
+
+SmallVillageDesc_92
+
+SmallVillageDesc_93
+
+SmallVillageDesc_94
+
+SmallVillageDesc_95
+
+SmallVillageDesc_96
+
+SmallVillageDesc_97
+
+SmallVillageDesc_101
+
+SmallVillageDesc_102
+
+SmallVillageDesc_103
+
+SmallVillageDesc_104
+
+SmallVillageDesc_105
+
+SmallVillageDesc_106
+

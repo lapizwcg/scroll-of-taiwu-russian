@@ -1,0 +1,25 @@
+{
+  "title": "Приём",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "Этот прицельный удар пройдёт приёмом {trickName}…"
+        },
+        {
+          "type": "Space",
+          "level": 1
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "Вид попадания",
+          "value": "{hitTypeIcon}{hitTypeName}"
+        }
+      ]
+    }
+  ]
+}

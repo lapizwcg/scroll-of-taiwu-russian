@@ -1,0 +1,665 @@
+Name_0
+Jingji Material
+Name_1
+Bashu Material
+Name_2
+Guangnan Material
+Name_3
+Jingbei Material
+Name_4
+Shanxi Material
+Name_5
+Guangdong Material
+Name_6
+Shandong Material
+Name_7
+Jingnan Material
+Name_8
+Fujian Material
+Name_9
+Liaodong Material
+Name_10
+Western Regions Material
+Name_11
+Yunnan Material
+Name_12
+Huainan Material
+Name_13
+Jiangnan Material
+Name_14
+Jiangbei Material
+Name_15
+Jingji Resources
+Name_16
+Bashu Resources
+Name_17
+Guangnan Resources
+Name_18
+Jingbei Resources
+Name_19
+Shanxi Resources
+Name_20
+Guangdong Resources
+Name_21
+Shandong Resources
+Name_22
+Jingnan Resources
+Name_23
+Fujian Resources
+Name_24
+Liaodong Resources
+Name_25
+Western Regions Resources
+Name_26
+Yunnan Resources
+Name_27
+Huainan Resources
+Name_28
+Jiangnan Resources
+Name_29
+Jiangbei Resources
+Name_30
+Jingji Food
+Name_31
+Bashu Food
+Name_32
+Guangnan Food
+Name_33
+Jingbei Food
+Name_34
+Shanxi Food
+Name_35
+Guangdong Food
+Name_36
+Shandong Food
+Name_37
+Jingnan Food
+Name_38
+Fujian Food
+Name_39
+Liaodong Food
+Name_40
+Western Regions Food
+Name_41
+Yunnan Food
+Name_42
+Huainan Food
+Name_43
+Jiangnan Food
+Name_44
+Jiangbei Food
+Name_45
+External Injury Healed
+Name_46
+Internal Injury Healed
+Name_47
+Вывести яд
+Name_48
+Внутреннее дыхание
+Name_49
+Здоровье
+Name_50
+Friend's Resources
+Name_51
+Friend's Food
+Name_52
+Friend's Tea & Liquor
+Name_53
+Friend's Medicine
+Name_54
+Character's Resources
+Name_55
+Character's Food
+Name_56
+Character's Tea & Liquor
+Name_57
+Character's Medicine
+Name_58
+Strength Recovered
+Name_59
+Agility Recovered
+Name_60
+Willpower Recovered
+Name_61
+Constitution Recovered
+Name_62
+Root Bone Recovered
+Name_63
+Comprehension Recovered
+Name_64
+Friendly Interaction
+Name_65
+Basic Interaction
+Name_66
+Unfriendly Interaction
+Name_67
+Ignored Interaction
+Name_68
+Jingji Success
+Name_69
+Bashu Success
+Name_70
+Guangnan Success
+Name_71
+Jingbei Success
+Name_72
+Shanxi Success
+Name_73
+Guangdong Success
+Name_74
+Shandong Success
+Name_75
+Jingnan Success
+Name_76
+Fujian Success
+Name_77
+Liaodong Success
+Name_78
+Western Regions Success
+Name_79
+Yunnan Success
+Name_80
+Huainan Success
+Name_81
+Jiangnan Success
+Name_82
+Jiangbei Success
+Name_83
+Region Ignored
+Name_84
+Complete Victory
+Name_85
+Victory
+Name_86
+Defeat
+Name_87
+Companion Accepted
+Name_88
+Companion Rejected
+Name_89
+Companion Ignored
+Name_90
+Assistance with Strength
+Name_91
+Assistance with Agility
+Name_92
+Assistance with Willpower
+Name_93
+Assistance with Constitution
+Name_94
+Assistance with Root Bone
+Name_95
+Assistance with Comprehension
+Name_96
+Stat Unused
+Name_97
+Detour
+Name_98
+Obstacles Ignored
+Name_99
+Jingji Interaction
+Name_100
+Bashu Interaction
+Name_101
+Guangnan Interaction
+Name_102
+Jingbei Interaction
+Name_103
+Shanxi Interaction
+Name_104
+Guangdong Interaction
+Name_105
+Shandong Interaction
+Name_106
+Jingnan Interaction
+Name_107
+Fujian Interaction
+Name_108
+Liaodong Interaction
+Name_109
+Western Regions Interaction
+Name_110
+Yunnan Interaction
+Name_111
+Huainan Interaction
+Name_112
+Jiangnan Interaction
+Name_113
+Jiangbei Interaction
+Name_114
+Jingji Favor
+Name_115
+Bashu Favor
+Name_116
+Guangnan Favor
+Name_117
+Jingbei Favor
+Name_118
+Shanxi Favor
+Name_119
+Guangdong Favor
+Name_120
+Shandong Favor
+Name_121
+Jingnan Favor
+Name_122
+Fujian Favor
+Name_123
+Liaodong Favor
+Name_124
+Western Regions Favor
+Name_125
+Yunnan Favor
+Name_126
+Huainan Favor
+Name_127
+Jiangnan Favor
+Name_128
+Jiangbei Favor
+Name_129
+Visit to Shaolin
+Name_130
+Visit to Emei
+Name_131
+Visit to Valley of Flowers
+Name_132
+Visit to Wudang
+Name_133
+Visit to Yuanshan
+Name_134
+Visit the Lion-Face Clan
+Name_135
+Visit to Ranshan Mountain
+Name_136
+Visit to the Jade-Maiden Sect
+Name_137
+Visit to Swordsmiths
+Name_138
+Visit to Kongsang
+Name_139
+Visit to Vajra
+Name_140
+Visit to Five Immortals
+Name_141
+Visit to Veil Scar
+Name_142
+Visit to Fuloong Sanctuary
+Name_143
+Visit to Sanguine
+Name_144
+Outlaw Assault
+Name_145
+Vigilante Raid
+Name_146
+Xiangshu Underling Raid
+Name_147
+Shaolin Raid
+Name_148
+Emei Raid
+Name_149
+Valley of Flowers Raid
+Name_150
+Wudang Raid
+Name_151
+Yuanshan Raid
+Name_152
+Vajra Raid
+Name_153
+Five Immortals Raid
+Name_154
+Veil Scar Raid
+Name_155
+Fuloong Sanctuary Raid
+Name_156
+Sanguine Raid
+Name_157
+Friend Companion
+Name_158
+Character Companion
+Name_159
+Strength Cost
+Name_160
+Agility Cost
+Name_161
+Willpower Cost
+Name_162
+Constitution Cost
+Name_163
+Root Bone Cost
+Name_164
+Comprehension Cost
+Name_165
+Bumpy Road
+Desc_0
+{0} helped defenders pass border inspection in Jingji and received {1} in return...
+Desc_1
+{0} helped a woodcutter log and replant trees in Bashu and received {1} in return...
+Desc_2
+{0} helped a local healer find herbs and medicine in Guangnan and received {1} in return...
+Desc_3
+{0} helped a weaver cut bamboo and rattan in Jingbei and received {1} in return...
+Desc_4
+{0} helped a farmer cook meat in Shanxi and received {1} in return...
+Desc_5
+{0} helped a stonemason move a stonecutter in Guangdong and received {1} in return...
+Desc_6
+{0} helped a seamstress make embroideries in Shandong and received {1} in return...
+Desc_7
+{0} helped a gatherer find jade from rivers in Jingnan and received {1} in return...
+Desc_8
+{0} helped a smith carve smelt iron in Fujian and received {1} in return...
+Desc_9
+{0} helped an eccentric healer find rare herbs in Liaodong and received {1} in return...
+Desc_10
+{0} helped a herder collect and tan fur in Western Regions and received {1} in return...
+Desc_11
+{0} helped Wuman people find poison and Gu in Yunnan and received {1} in return...
+Desc_12
+{0} helped a hermit tend fields and guard their house in Huainan and received {1} in return...
+Desc_13
+{0} helped a fisher row their boat in Jiangnan and received {1} in return...
+Desc_14
+{0} helped an eccentric search for treasure in Jiangbei and received {1} in return...
+Desc_15
+Collected {1} {2} when passing by bountiful resources...
+Desc_16
+Collected {1} {2} when passing by bountiful resources...
+Desc_17
+Collected {1} {2} when passing by bountiful resources...
+Desc_18
+Collected {1} {2} when passing by bountiful resources...
+Desc_19
+Collected {1} {2} when passing by bountiful resources...
+Desc_20
+Collected {1} {2} when passing by bountiful resources...
+Desc_21
+Collected {1} {2} when passing by bountiful resources...
+Desc_22
+Collected {1} {2} when passing by bountiful resources...
+Desc_23
+Collected {1} {2} when passing by bountiful resources...
+Desc_24
+Collected {1} {2} when passing by bountiful resources...
+Desc_25
+Collected {1} {2} when passing by bountiful resources...
+Desc_26
+Collected {1} {2} when passing by bountiful resources...
+Desc_27
+Collected {1} {2} when passing by bountiful resources...
+Desc_28
+Collected {1} {2} when passing by bountiful resources...
+Desc_29
+Collected {1} {2} when passing by bountiful resources...
+Desc_30
+Jingji boasts collections of cuisine from all over the country. {0} passed by and was gifted {1}...
+Desc_31
+Bashu locals prefer spicy chili in their food. {0} passed by and was gifted {1}...
+Desc_32
+Food in Guangnan is made mostly of rice. {0} passed by and was gifted {1}...
+Desc_33
+Jingbei people prefer their food simmered and stewed. {0} passed by and was gifted {1}...
+Desc_34
+Shanxi boasts a variety of delicious grains. {0} passed by and was gifted {1}...
+Desc_35
+Guangdong is famed for its wide range of fruits. {0} passed by and was gifted {1}...
+Desc_36
+Shandong used to produce fruits for imperial tribute. {0} passed by and was gifted {1}...
+Desc_37
+Jingnan people prefer fresh fish. {0} passed by and was gifted {1}...
+Desc_38
+Fujian abounds in sea fish and salt. {0} passed by and was gifted {1}...
+Desc_39
+Liaodong people excel at mounted archery and prefer meat in their dishes. {0} passed by and was gifted {1}...
+Desc_40
+People in Western Regions prefer dairy products. {0} passed by and was gifted {1}...
+Desc_41
+Fragrant fruits often grow in the woodlands of Yunnan. {0} passed by and was gifted {1}...
+Desc_42
+Huainan is famed for tofu and soybean products. {0} passed by and was gifted {1}...
+Desc_43
+Jiangnan is widely known as the land of fish and rice. {0} passed by and was gifted {1}...
+Desc_44
+Jiangbei is praised for fine dining and delicate cuisine. {0} passed by and was gifted {1}...
+Desc_45
+Passed by a healing fountain and healed External Injury x{1}....
+Desc_46
+Passed by a healing fountain and healed Internal Injury x{1}...
+Desc_47
+Passed by a healing fountain and reduced {1} within the body...
+Desc_48
+Wandered into an undisturbed valley with pure Qi and readjusted Inner Breath...
+Desc_49
+Wandered into a secret realm blessed by celestials and recovered Health...
+Desc_50
+Received {2}'s welcome when passing through {1} and was gifted {3} {4}...
+Desc_51
+Received {2}'s welcome when passing through {1} and was gifted {3}...
+Desc_52
+Received {2}'s welcome when passing through {1} and was gifted {3}...
+Desc_53
+{2} saw {0}'s Qi Injury in {1} and gifted {3} to facilitate the healing...
+Desc_54
+Received {2}'s welcome when passing through {1} and was gifted {3} {4}...
+Desc_55
+Received {2}'s welcome when passing through {1} and was gifted {3}...
+Desc_56
+Received {2}'s welcome when passing through {1} and was gifted {3}...
+Desc_57
+{2} saw {0}'s Qi Injury in {1} and gifted {3} to facilitate the healing...
+Desc_58
+Cleared impurities in {1} and recovered {2} Strength...
+Desc_59
+Trained in wind and rain in {1} and recovered {2} Agility...
+Desc_60
+Meditated in solitude in {1} and recovered {2} Willpower...
+Desc_61
+Stretched bones and tendons in {1} and recovered {2} Constitution...
+Desc_62
+Practiced fasting in {1} and recovered {2} Root Bone...
+Desc_63
+Cultivated in the path of Tao in {1} and recovered {2} Comprehension...
+Desc_64
+Met {2} in {1} and engaged in a pleasant conversation...
+Desc_65
+Met {2} in {1} and engaged in a conversation...
+Desc_66
+Met {2} in {1} and left after a disagreeable conversation...
+Desc_67
+Met {2} in {1} but didn't engage in any conversation...
+Desc_68
+Used {2} to help {1} host a religious banquet and gained {3}% Regional Favor...
+Desc_69
+Used {2} to help {1} with river dredging and gained {3}% Regional Favor...
+Desc_70
+Used {2} to help {1} play the Duxianqin and gained {3}% Regional Favor...
+Desc_71
+Used {2} to help {1} repair the city walls and gained {3}% Regional Favor...
+Desc_72
+Used {2} to help {1} with sacrificial rituals and gained {3}% Regional Favor...
+Desc_73
+Used {2} to help {1} explore the sea region and gained {3}% Regional Favor...
+Desc_74
+Used {2} to help {1} solve a Weiqi puzzle and gained {3}% Regional Favor...
+Desc_75
+Used {2} to help {1} record the scenic spot and gained {3}% Regional Favor...
+Desc_76
+Used {2} to help {1} build almsgiving stands and gained {3}% Regional Favor...
+Desc_77
+Used {2} to help {1} host a mounted archery contest and gained {3}% Regional Favor...
+Desc_78
+Used {2} to help {1} erect a statue of the Buddha in grottoes and gained {3}% Regional Favor...
+Desc_79
+Used {2} to help {1} communicate with the tribes and gained {3}% Regional Favor...
+Desc_80
+Used {2} to help {1} erect and inscribe stone tablets and gained {3}% Regional Favor...
+Desc_81
+Used {2} to help {1} construct Warehouse Inn and gained {3}% Regional Favor...
+Desc_82
+Used {2} to help {1} decorate tourist boats and gained {3}% Regional Favor...
+Desc_83
+Passed through in haste and didn't partake in any activities in {1}...
+Desc_84
+Achieved complete victory against {1}...
+Desc_85
+Achieved victory against {1} but also suffered some injuries...
+Desc_86
+Lost to {1} and suffered serious injuries...
+Desc_87
+Accepted {1}'s invitation and let {2} join Taiwu Village...
+Desc_88
+Rejected {1}'s invitation...
+Desc_89
+Didn't notice {1}'s invitation...
+Desc_90
+Moved boulders and gained {1} XP...
+Desc_91
+Cleared dangerous traps and gained {1} XP...
+Desc_92
+Solved a bewitching maze and gained {1} XP...
+Desc_93
+Tended refugees and gained {1} XP...
+Desc_94
+Prayed with sacrificial offerings and gained {1} XP...
+Desc_95
+Interpreted inscriptions and gained {1} XP...
+Desc_96
+Decided to continue on the journey...
+Desc_97
+Took a detour around obstacles and spent {1} more...
+Desc_98
+Keep advancing through obstacles and {1}'s durability has decreased…
+Desc_99
+{0} passed by an old landscape garden, appreciated the rock mountains, and met {2}...
+Desc_100
+{0} saw a panda in the woods, watched its adorable movements, and met {2}...
+Desc_101
+{0} joined a hill song singing celebration and met {2}...
+Desc_102
+{0} visited a Taoist temple in a perilous mountain and met {2}...
+Desc_103
+{0} visited cliff grottos carved in towering precipices and met {2}...
+Desc_104
+{0} watched a loong dance celebration for fishers' return and met {2}...
+Desc_105
+{0} visited Confucius's old home, paid respect to his statue, and met {2}...
+Desc_106
+{0} saw the scenic spots of Xiao and Xiang, recalled local legends, and met {2}...
+Desc_107
+{0} visited old sailboats with ingenious structural designs and met {2}...
+Desc_108
+{0} passed by a bastion, followed it to the Great Wall, and met {2}...
+Desc_109
+{0} crossed vast prairies, saw herds of sheep and horses, and met {2}...
+Desc_110
+{0} heard Lusheng songs, saw night patrols with lanterns, and met {2}...
+Desc_111
+{0} appreciated local craft, watched drum and Guqin performances, and met {2}...
+Desc_112
+{0} tasted tea and cuisine from roadside stands during a festival celebration and met {2}...
+Desc_113
+{0} passed by a pier, saw someone dock their boat and come ashore, and met {2}...
+Desc_114
+{1} in Jingji wishes to host a religious banquet to give alms to the people...
+Desc_115
+{1} in Bashu wishes to dredge the rivers to prevent flooding...
+Desc_116
+{1} in Guangnan wishes to play the Duxianqin to pass down the music...
+Desc_117
+{1} in Jingbei wishes to repair the city walls for stronger defense...
+Desc_118
+{1} in Shanxi wishes to make sacrificial offerings and pray for good harvest...
+Desc_119
+{1} in Guangdong wishes to explore the sea region to predict weather...
+Desc_120
+{1} in Shandong wishes to host a scholar gathering to commemorate Confucius...
+Desc_121
+{1} in Jingnan wishes to record the scenic spot for later generations...
+Desc_122
+{1} in Fujian wishes to build almsgiving stands to feed the homeless...
+Desc_123
+{1} in Liaodong wishes to draw wild animals in for a mounted archery contest...
+Desc_124
+{1} in Western Regions wishes to erect a statue of the Buddha in grottos for worship...
+Desc_125
+{1} in Yunnan wishes to communicate with the tribes for peaceful negotiations...
+Desc_126
+{1} in Huainan wishes to inscribe stone tablets for cultural remembrance...
+Desc_127
+{1} in Jiangnan wishes to construct inns and warehouses for travelers...
+Desc_128
+{1} in Jiangbei wishes to build tourist boats as scenic attractions...
+Desc_129
+Passed by {1} and knew it was near Shaolin Sect after seeing the Buddhist pagodas on the mountains...
+Desc_130
+Passed by {1} and knew it was near Emei Sect after seeing the auspicious light over Jinding...
+Desc_131
+Passed by {1} and knew it was near the Valley of Flowers after seeing the blossom sea of innumerable colors...
+Desc_132
+Passed by {1} and knew it was near Wudang Sect after seeing the Taoist temples aligned on green peaks...
+Desc_133
+Passed by {1} and knew it was near Yuanshan Sect after seeing the perilous mountains and precipices...
+Desc_134
+Passed by {1} and knew it was near the Lion-Face Clan after seeing the mighty stone lions in front of the halls.
+Desc_135
+Passed by {1} and knew it was near Ranshan Sect after seeing the towering pavilions on the cliff face...
+Desc_136
+Passed by {1} and knew it was near the Jade-Maiden Sect after seeing the howling snow over frosted peaks.
+Desc_137
+Passed by {1} and knew it was near the Swordsmith Villa after seeing the chilly and pure water in mountain springs...
+Desc_138
+Passed by {1} and knew it was near the Kongsang Sect after seeing the silvery snow on sunlit hillsides.
+Desc_139
+Passed by {1} and knew it was near the Vajra Sect after seeing the forbidding gold pillars around...
+Desc_140
+Passed by {1} and knew it was near the Five Immortals Sect after seeing the totems in Fortified Village...
+Desc_141
+Passed by {1} and knew it was near the Veil Scar Sect after seeing the bottomless abyss...
+Desc_142
+Passed by {1} and knew it was near the Fuloong Sanctuary after seeing the burning flames over the sea...
+Desc_143
+Passed by {1} and knew it was near the Sanguine Sect after seeing the crimson miasma in a narrow ravine...
+Desc_144
+Passed a dangerous location and faced an attack from {1}!
+Desc_145
+Passed a dangerous location and faced an attack from {1}!
+Desc_146
+Passed a dangerous location and faced an attack from {1}!
+Desc_147
+Infamous for the countless evil deeds committed, {0} ran into {1} and they started dueling for their opposing beliefs in good and evil.
+Desc_148
+Infamous for the countless evil deeds committed, {0} ran into {1} and they started dueling for their opposing beliefs in good and evil.
+Desc_149
+Infamous for the countless evil deeds committed, {0} ran into {1} and they started dueling for their opposing beliefs in good and evil.
+Desc_150
+Infamous for the countless evil deeds committed, {0} ran into {1} and they started dueling for their opposing beliefs in good and evil.
+Desc_151
+Infamous for the countless evil deeds committed, {0} ran into {1} and they started dueling for their opposing beliefs in good and evil.
+Desc_152
+Famed for the righteous endeavors to eradicate evil, {0} ran into {1} and they started dueling for their opposing beliefs in good and evil.
+Desc_153
+Famed for the righteous endeavors to eradicate evil, {0} ran into {1} and they started dueling for their opposing beliefs in good and evil.
+Desc_154
+Famed for the righteous endeavors to eradicate evil, {0} ran into {1} and they started dueling for their opposing beliefs in good and evil.
+Desc_155
+Famed for the righteous endeavors to eradicate evil, {0} ran into {1} and they started dueling for their opposing beliefs in good and evil.
+Desc_156
+Famed for the righteous endeavors to eradicate evil, {0} ran into {1} and they started dueling for their opposing beliefs in good and evil.
+Desc_157
+When passing through {1}, {2} invited {3} to join Taiwu Village...
+Desc_158
+When passing through {1}, {2} invited {3} to join Taiwu Village...
+Desc_159
+Encountered boulders blocking the way. {1} Strength can be used to move them...
+Desc_160
+Encountered a mechanism set up by robbers. {1} Agility can be used to remove them...
+Desc_161
+Encountered a maze set up by devilish creatures. {1} Willpower can be used to keep composure...
+Desc_162
+Encountered refugees on an arduous journey. {1} Constitution can be used to tend them...
+Desc_163
+Encountered people preparing for a sacrificial ritual. {1} Root Bone can be used to pray with offerings...
+Desc_164
+Encountered a nameless ancient stele. {1} Comprehension can be used to interpret the inspirations...
+Desc_165
+Passing through the bumpy road ahead will reduce the vehicle durability...
+

@@ -1,0 +1,37 @@
+Name_0
+Deer-Riding Arhat
+Name_1
+Joyful Arhat
+Name_2
+Alms-Bowl Arhat
+Name_3
+Pagoda-Bearing Arhat
+Name_4
+Quiet Sitting Arhat
+Name_5
+River-Crossing Arhat
+Name_6
+Elephant-Riding Arhat
+Name_7
+Smiling Lion Arhat
+Name_8
+Happy Arhat
+Name_9
+Reaching-hand Arhat
+Name_10
+Meditative Arhat
+Name_11
+Ear-Picking Arhat
+Name_12
+Cloth-Bag Arhat
+Name_13
+Banana-Leaf Arhat
+Name_14
+Long-Brow Arhat
+Name_15
+Gatekeeper Arhat
+Name_16
+Loong-Subduing Arhat
+Name_17
+Tiger-Taming Arhat
+

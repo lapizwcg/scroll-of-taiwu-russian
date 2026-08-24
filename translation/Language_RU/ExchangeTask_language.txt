@@ -1,0 +1,19 @@
+Desc_0
+Trading with "items the target likes."
+Desc_1
+Trading with "items the target likes."
+Desc_2
+Exchange with the Other's Disliked Item
+Desc_3
+Exchange with the Other's Disliked Item
+Desc_4
+Exchange with Poison
+Desc_5
+Exchange with Meat Dish
+Desc_6
+Exchange with Liquor
+Desc_7
+Trading with "characters related to the target."
+Desc_8
+Take "items equipped by the target."
+

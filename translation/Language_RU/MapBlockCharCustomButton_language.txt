@@ -1,0 +1,21 @@
+Name_0
+Talk - Use Secret
+Name_1
+Talk - Give Gift
+Name_2
+Contest - Cricket Duels
+Name_3
+Contest - Debate
+Name_4
+Cultivation - Seek Martial Arts Guidance
+Name_5
+Cultivation - Seek Fine Art Guidance
+Name_6
+Cultivation - Book Trade
+Name_7
+Get Closer - Gain Support
+Name_8
+Frequent Options
+Name_9
+Delegate
+

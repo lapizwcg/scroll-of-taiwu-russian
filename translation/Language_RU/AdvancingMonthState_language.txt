@@ -1,0 +1,30 @@
+HintText_0
+
+HintText_1
+Seasons turn, worlds unfold.
+HintText_2
+From birth to dust, the natural order decides.
+HintText_3
+Demons prowl, and bandits raid.
+HintText_4
+Drill at dawn, study by night.
+HintText_5
+Hoard your gold, refine your soul.
+HintText_6
+What matters lies within, not in the hold.
+HintText_7
+By the river's heart, the lovebirds still cry.
+HintText_8
+Passions burn, desires abide.
+HintText_9
+Time and tide wait for no man.
+HintText_10
+Through chaos, just wander bold.
+HintText_11
+Never romanticize a sorrow you haven't truly known.
+HintText_12
+Rumors cut like ice and burn like fire.
+HintText_13
+Life is fickle.
+HintText_14
+

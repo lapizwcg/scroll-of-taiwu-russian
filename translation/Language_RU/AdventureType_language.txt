@@ -1,0 +1,37 @@
+DisplayName_0
+
+DisplayName_1
+Основной сюжет
+DisplayName_2
+Местные истории
+DisplayName_3
+Собрание
+DisplayName_4
+Логово разбойников
+DisplayName_5
+Оплот странствующих воинов
+DisplayName_6
+Сезонное событие
+DisplayName_7
+Состязание за руку
+DisplayName_8
+Состязание за руку
+DisplayName_9
+Дар природы
+DisplayName_10
+Дар природы
+DisplayName_11
+Дар природы
+DisplayName_12
+Дар природы
+DisplayName_13
+Дар природы
+DisplayName_14
+Дар природы
+DisplayName_15
+События Могильника мечей
+DisplayName_16
+Романтическая встреча
+DisplayName_17
+Тайный трактат
+

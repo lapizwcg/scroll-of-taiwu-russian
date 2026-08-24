@@ -1,0 +1,23 @@
+{
+  "ui_language.txt": {
+    "LK_MouseTip_Resource_NowOwn": "Имеется: {0}",
+    "LK_Resource_Tips_Title": "{1} {0}",
+    "LK_VillagerRole_CurrentVillagerCount": "Нынешнее число",
+    "LK_Char_CombatSkill_Qualification": "Одарённость {0} к боевым искусствам",
+    "LK_Char_LifeCombatSkill_Qualification": "Одарённость {0}",
+    "LK_Char_LifeSkill_Qualification": "Одарённость {0} к ремёслам",
+    "LK_Char_MainAttribute": "Основные свойства {0}",
+    "LK_Character_Character_Alertness": "Настороженность {0}",
+    "LK_NormalInformationForCharacter": "Сведения о {0}",
+    "LK_SecretInformationForCharacter": "Тайны {0}",
+    "UI_SelectInformation_NormalInformationList": "Сведения о {0}",
+    "UI_SelectInformation_SecretInformationList": "Тайны {0}",
+    "LK_Taiwu_Legacy_Point_Title": "Наследие {0}",
+    "LK_Scroll_Tip_AreaStory_1": "Посмотреть отзвук: {0}…",
+    "LK_Scroll_Tip_GameLine_3": "Посмотреть отзвук: {0}…",
+    "LK_TeaHorse_Awareness": "Известность чайно-конного каравана: {0}",
+    "LK_Wudang_Select_CharacterAge": "Возраст персонажа: {0}",
+    "LK_MouseTip_Tianjiefulu_Count": "Небесных талисманов сейчас",
+    "UI_MouseTipGearMateCombatSkillBook_1": "Положена книга: {0}"
+  }
+}

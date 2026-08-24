@@ -1,0 +1,1795 @@
+Name_0
+Железное кольцо
+Name_1
+Стальные счёты
+Name_2
+Оковы одинокого волка
+Name_3
+Кость Чжан Фэя
+Name_4
+Тигровая бирка повеления духами
+Name_5
+Тёмное зерцало шести цзя
+Name_6
+Ваджровый престол чи-тигра
+Name_7
+Жемчужина истинного солнечного огня
+Name_8
+Перстень усмирения луна
+Name_9
+Изначальная медная бусина
+Name_10
+Серебряный судья
+Name_11
+Жаба, глядящая в небо
+Name_12
+Жемчужина алой зари
+Name_13
+Печать плавленого золота
+Name_14
+Треножник грозного духа
+Name_15
+Золотисто-радужный светильник
+Name_16
+Жемчужина истинного лунного огня
+Name_17
+Золотая книга Сюаньли
+Name_18
+Белодеревянный бык
+Name_19
+Восемнадцать архатов
+Name_20
+Изображение багряного льва
+Name_21
+Деревянная рыба крови фэнхуана
+Name_22
+Изваяния Четырёх небесных царей
+Name_23
+Одеяние небесного благоухания
+Name_24
+Чётки из агарового дерева
+Name_25
+Бусина усмирения первооснов
+Name_26
+Пагода Хаотянь
+Name_27
+Чётки белой сливы
+Name_28
+Бусины ледохода
+Name_29
+Огневая шкатулка
+Name_30
+Бусина алой змеи
+Name_31
+Подвеска кровавой росы
+Name_32
+Лазурная цапля в алом пере
+Name_33
+Багряная печать лилового ян
+Name_34
+Драгоценная жемчужина шатан
+Name_35
+Печать Сихэ
+Name_36
+Бусина чистых одежд
+Name_37
+Тёмно-зелёные чётки
+Name_38
+Ветвь благодатного дождя
+Name_39
+Престол Гуаньинь
+Name_40
+Шкатулка гандхарвы
+Name_41
+Шкатулка рождения в Чистой земле
+Name_42
+Кувшин весеннего ручья
+Name_43
+Драгоценная жемчужина Ушаня
+Name_44
+Изображение владычицы Нюйва
+Name_45
+Веер зелёного бамбука
+Name_46
+Фигурки пёстрых лицедеев
+Name_47
+Сотня узлов
+Name_48
+Кувшин призрачного чрева
+Name_49
+Корзина семи отверстий
+Name_50
+Бусина усмирения ветра
+Name_51
+Веер персикового цвета на кости луна
+Name_52
+Жемчужина единой ци трёх начал
+Name_53
+Курильница лилового владыки
+Name_54
+Браслет изумрудного бамбука
+Name_55
+Деревянный отшельник
+Name_56
+Корзина холодной росы
+Name_57
+Кубок из древней лозы старого луна
+Name_58
+Бамбуковая жена лазурной крови
+Name_59
+Жемчужина стылого оцепенения
+Name_60
+Земляная духовная сердцевина
+Name_61
+Изначальная жила луна
+Name_62
+Жемчужина великой нирваны
+Name_63
+Бамбуковая бирка
+Name_64
+Шкатулка горной магнолии
+Name_65
+Горе для духов
+Name_66
+Чётки бодхи
+Name_67
+Лозы грёз
+Name_68
+Светильник возврата души
+Name_69
+Драгоценное изваяние Ананды
+Name_70
+Зерцало истинной сути
+Name_71
+Небесный туми
+Name_72
+Кисет с тигровым узором
+Name_73
+Барабан с человечьим лицом
+Name_74
+Ножны лазурного волка
+Name_75
+Кошель писюя
+Name_76
+Барабан Хэбо
+Name_77
+Мешок ста сокровищ
+Name_78
+Золотые ножны огня ли
+Name_79
+Ларец Хоу И
+Name_80
+Стяг громового барабана
+Name_81
+Мешочек из джута
+Name_82
+Платок тёплого ветра
+Name_83
+Кошель золотого проса
+Name_84
+Луна среди облаков
+Name_85
+Золотое знамя семи сокровищ
+Name_86
+Мешок изначального хаоса
+Name_87
+Мешок, вмещающий пустоту
+Name_88
+Благоуханный шёлк вознесения
+Name_89
+Платок облачного сияния
+Name_90
+Холщовый мешок
+Name_91
+Мешочек со звериной головой
+Name_92
+Мешок просвещения
+Name_93
+Кошель с золотой рыбкой
+Name_94
+Мешочек с лиловой лентой
+Name_95
+Мешочек с золотыми и серебряными цветами
+Name_96
+Мешок Фэнбо
+Name_97
+Волшебный мешочек из цветных нитей
+Name_98
+Мешок неба и земли
+Name_99
+Кольцо из чёрного камня
+Name_100
+Браслет силача
+Name_101
+Стела Шигандан
+Name_102
+Черепаха многих сокровищ
+Name_103
+Трёхцветный лазурный носорог
+Name_104
+Изваяние грозноокого ваджры
+Name_105
+Око Эрлана
+Name_106
+Драгоценный жезл жуй луна и тигра
+Name_107
+Жемчужина открытия небес
+Name_108
+Агатовый браслет
+Name_109
+Замок долголетия
+Name_110
+Изваяние земного бессмертного
+Name_111
+Жемчужина кровавого голода
+Name_112
+Чаша тысячи чарок
+Name_113
+Тыква горлянка бессмертного старца
+Name_114
+Яшмовые кольца девяти сыновей
+Name_115
+Изваяние истинного владыки Юйцин
+Name_116
+Золотое тело высокочтимого
+Name_117
+Чёрная маслянистая жемчужина
+Name_118
+Серьги кукушки
+Name_119
+Гусь за тысячу ли
+Name_120
+Печать студёной дымки
+Name_121
+Драгоценная жемчужина зыбкого света
+Name_122
+Подвеска синей птицы с узором луна
+Name_123
+Ночесветный кубок тэнше
+Name_124
+Драгоценная жемчужина бесовского ока
+Name_125
+Зерцало божественного света
+Name_126
+Агатовая низка
+Name_127
+Кольцо из багрового камня
+Name_128
+Зерцало снежного света
+Name_129
+Слеза Сянфэй
+Name_130
+Пипа ста сокровищ
+Name_131
+Светящийся тяньлу
+Name_132
+Кувшин сияния пруда Сяньчи
+Name_133
+Гребень богини Ло
+Name_134
+Яшмовый веер Тайчжэнь
+Name_135
+Бирка из вороньего глаза
+Name_136
+Зерцало дождевых цветов
+Name_137
+Печать тайной орхидеи
+Name_138
+Пятицветная птица в облаках
+Name_139
+Веер Алькаида
+Name_140
+Небесная жемчужина закатной зари
+Name_141
+Браслет змея хуашэ
+Name_142
+Печать звёздной реки
+Name_143
+Стяг трёх светил
+Name_144
+Агатовые камни вэйци
+Name_145
+Тушечница чистого сияния
+Name_146
+Жемчужина оцепенения
+Name_147
+Самоцветный замок девяти чинов
+Name_148
+Зерцало инь и ян
+Name_149
+Браслет с головой луна
+Name_150
+Печать без образа
+Name_151
+Изображение неба и земли
+Name_152
+Око девяти воронов
+Name_153
+Кольцо из обожжённой кости
+Name_154
+Багряная чара из бычьего рога
+Name_155
+Бирка огненного луна
+Name_156
+Жемчужины громового удара
+Name_157
+Зловещая звезда Гоучэнь
+Name_158
+Печать усмирения гор и рек
+Name_159
+Треножник Сюаньу
+Name_160
+Золотая жемчужина, попирающая облака
+Name_161
+Печать в тысячу цзюней
+Name_162
+Хрустальный браслет
+Name_163
+Подвеска ясной чистоты
+Name_164
+Яшма нефритового ключа
+Name_165
+Серебряная светящаяся свеча
+Name_166
+Колокольцы, навевающие сны
+Name_167
+Резное било с узором луна
+Name_168
+Яшмовое изголовье Ланхуань
+Name_169
+Светильник с чашей из студёной яшмы
+Name_170
+Яшма земных богатств
+Name_171
+Ночесветная жемчужина
+Name_172
+Чаша застывшего жира
+Name_173
+Яшмовый диск Белого тигра
+Name_174
+Восемь захмелевших бессмертных
+Name_175
+Чётки из яшмы и слоновой кости
+Name_176
+Зерцало, просвечивающее кости
+Name_177
+Жемчужина шести душ
+Name_178
+Светильник семи звёзд
+Name_179
+Небесная книга Великого начала
+Name_180
+Водяные чётки
+Name_181
+Яшмовые чётки Будды
+Name_182
+Просвечивающая рука Будды
+Name_183
+Подвеска истинных очертаний Пяти гор
+Name_184
+Затемнённый оберег
+Name_185
+Подвеска пяти лунов из студёной кости
+Name_186
+Пагода четырёх символов
+Name_187
+Доска вэйци неба и земли
+Name_188
+Яшмовый кувшин чистого сердца
+Name_189
+Хрустальная подвеска
+Name_190
+Яшмовый жезл жуй
+Name_191
+Сосуд цзун с пятью летучими мышами
+Name_192
+Лю Хай, играющий с жабой
+Name_193
+Изваяние истинного владыки Сюаньтань
+Name_194
+Самоцветное ожерелье
+Name_195
+Драгоценный браслет тысячи будд
+Name_196
+Блюдо, что пирует под луной
+Name_197
+Чаша, собирающая сокровища
+Name_198
+Хрустально-яшмовая подвеска
+Name_199
+Яшмовая бабочка
+Name_200
+Яшмовая бирка изумрудного карпа
+Name_201
+Яшмоликая циветта
+Name_202
+Яшмовый котёл ландыша
+Name_203
+Жемчужина солнца и луны
+Name_204
+Изначальная жемчужина фэншуй
+Name_205
+Удумбара из студёной яшмы
+Name_206
+Девятицветный кувшин румян
+Name_207
+Хрустально-яшмовые палочки
+Name_208
+Ступка яшмового зайца
+Name_209
+Кувшин чистого света
+Name_210
+Яшмовый узорный шёлк
+Name_211
+Глазурованная чара тихой ночи
+Name_212
+Яшмовое зерцало тёмного инея
+Name_213
+Зерцало реки забвения
+Name_214
+Пятицветный сюаньхуан
+Name_215
+Яшмовая книга Куньлуня
+Name_216
+Яшмовая куколка
+Name_217
+Жемчужина неогранённой яшмы
+Name_218
+Парные кольца цинфу
+Name_219
+Яшмовый поясной крюк с двумя чи
+Name_220
+Яшмовый треножник постижения тайного
+Name_221
+Тыква горлянка лазурной крови
+Name_222
+Схема тайцзи
+Name_223
+Драгоценный яшмовый сосуд чистоты
+Name_224
+Ларец четырёх морей
+Name_225
+Перстень усмирения луна
+Name_226
+Золотая книга Сюаньли
+Name_227
+Пагода Хаотянь
+Name_228
+Печать Сихэ
+Name_229
+Изображение владычицы Нюйва
+Name_230
+Курильница лилового владыки
+Name_231
+Жемчужина великой нирваны
+Name_232
+Небесный туми
+Name_233
+Стяг громового барабана
+Name_234
+Платок облачного сияния
+Name_235
+Мешок неба и земли
+Name_236
+Жемчужина открытия небес
+Name_237
+Достопочтенный старейшина
+Name_238
+Зерцало божественного света
+Name_239
+Яшмовый веер Тайчжэнь
+Name_240
+Стяг трёх светил
+Name_241
+Око девяти воронов
+Name_242
+Печать в тысячу цзюней
+Name_243
+Яшма земных богатств
+Name_244
+Небесная книга Великого начала
+Name_245
+Яшмовый кувшин чистого сердца
+Name_246
+Чаша, собирающая сокровища
+Name_247
+Девятицветный кувшин румян
+Name_248
+Яшмовая книга Куньлуня
+Name_249
+Ларец четырёх морей
+Name_250
+Изваяние архата, сидящего на олене
+Name_251
+Изваяние радостного архата
+Name_252
+Изваяние архата с чашей для подаяния
+Name_253
+Изваяние архата, несущего пагоду
+Name_254
+Изваяние архата в безмолвном сидении
+Name_255
+Изваяние архата, переходящего реку
+Name_256
+Изваяние архата, едущего на слоне
+Name_257
+Изваяние архата со смеющимся львом
+Name_258
+Изваяние весёлого архата
+Name_259
+Изваяние архата с протянутой рукой
+Name_260
+Изваяние архата в размышлении
+Name_261
+Изваяние архата, чистящего ухо
+Name_262
+Изваяние архата с холщовым мешком
+Name_263
+Изваяние архата с банановым листом
+Name_264
+Изваяние длиннобрового архата
+Name_265
+Изваяние архата-привратника
+Name_266
+Изваяние архата, усмирившего луна
+Name_267
+Изваяние архата, укротившего тигра
+Name_268
+Истёртая монашеская туфля
+Name_269
+Жемчужина бесовского бессмертного
+Name_270
+Иглы, пронзающие душу
+Name_271
+Ци пустоты
+Name_272
+Кость, губящая демонов
+Name_273
+Львиный барабан
+Name_274
+Печать эфира
+Name_275
+Разбитое зеркало Эгарима
+Name_276
+Клинок, изношенный горном
+Name_277
+Осадок травника
+Name_278
+Шлем мрачного владыки
+Name_279
+Гримуар ткача заклятий
+Name_280
+Обломок звёздной карты
+Name_281
+Пыль пираксиса
+Name_282
+Кровавая железная пластина
+Name_283
+Багряная золотая чаша мастера
+Name_284
+Яшмовая табличка бессмертной обезьяны
+Name_285
+Флейта Сюань-Су
+Name_286
+Сердечная чешуя инь и ян
+Name_287
+Древняя сутра
+Name_288
+Стяг летящих львов
+Name_289
+Печать единения
+Name_290
+Серьги, срывающие луну
+Name_291
+Яшмовый таз мастера Оу
+Name_292
+Свиток эликсиров
+Name_293
+Чётки, вытягивающие душу
+Name_294
+Серебро Матери-бабочки
+Name_295
+Осколок упавшего небосвода
+Name_296
+Глазурованное перо чистого огня
+Name_297
+Яшмовая подвеска фэнхуана
+Name_298
+Кольцо прославленного вора
+Desc_0
+A Damascus Steel ring that can sometimes unexpectedly pierce the enemy's skin and make them bleed when attacking.
+Desc_1
+Completely forged from steel, the abacus is black and smooth with symbols on the beads often used for divination. A secret apparatus in this particular abacus sends the beads flying to injure the enemy when activated.
+Desc_2
+The Graywolf Chain is a long chain with sharp spikes is often tied to a weapon through a gauntlet to make it even more powerful. It is difficult to approach anyone waving the chain, and those nearby may be impaled by the spikes.
+Desc_3
+Among the generals of Shu, Zhang Fei boasts the greatest courage and might. Zhang Fei Bone, the giant and firm metal weapon, is shaped like a curved bone, and when waved around, it moves even the heaviest item in its way with an intimidating and indomitable force.
+Desc_4
+The Ghost-Commanding Tiger Seal takes the form of a crouching tiger, with the tiger's body adorned in gold inscribed with cryptic symbols. Legend has it that this artifact commands spirits to dispel other spirits, carrying with it killing intent. Carried at one's side, it emboldens individuals, instilling them with courage and martial prowess. They often seem to have the unseen aid of spirits, and their strikes sometimes leave behind additional trails of blood.
+Desc_5
+The Biographies of the Deities and Immortals from the Jin dynasty reads, "Those who excel in the mastery of the Wood Terms in the sexagenary cycle may command deities and ghosts and produce food from thin air." The Hexus Mirror that records the way of Wood terms in the sexagenary cycle, and it is said that those who comprehend the way may change with flexibility and agility when practicing their skills, so their movements cannot be predicted.
+Desc_6
+Ride the Chi Loong on northern expeditions. Chi Loong, often mistaken for a tiger, has the head and claws of a tiger and symbolizes power and might. The throne is carved with the Chi Loong which represents the bravery and might of the deities to bless one with indomitable strength.
+Desc_7
+Absorbs the essence of life and exudes great Yang energy. The Solar Firebead contains extreme Yang energy as though scorched in a divine fire. Those who hold them may feel their hands burn and their body surrounded by an extreme Yang aura with each breath they take, and their strikes are capable of burning the enemy as if standing among flames.
+Desc_8
+Forged from Aerosiderite, the ring is in the shape of a sinister Loong with its head beneath its tail, symbolizing the power to dictate life and death. Those who wear it feel powerful enough to slay Loongs, inflicting severe injuries as if clawed by a ferocious Loong.
+Desc_9
+Cast from meta copper, the Meta Copper Bead contains another structure inside and rings clearly when shaken. One may wear it when practicing martial arts to see whether their stance is rigid from the waist down.
+Desc_10
+Made of silver, the nine-cun-long brush is light and flexible despite its heavy and clumsy appearance, easily wielded even by those without any Qi strength. The wielder will appear calm and composed like a respected judge.
+Desc_11
+Toad Figure is carefully crafted in the unique shape of a toad with its head looking up, and the small structures inside its four feet help the toad stand firmly on ice or sand.
+Desc_12
+The horizon brightened in the morning; the Mt. Chicheng aglow. Spreading is the sunshine, shining on the snowy slope. The small and delicate Sunglow Orb is known for the rosy sheen around it that resembles the sun shining. When placed still, it emits a brilliant and dazzling light that enchants those who gaze upon it.
+Desc_13
+Cast from smelted gold, the Monarch Seal is tough and heavy with an aureate shine, and due to the complex production method, it is extremely expensive and exclusively used by kings and monarchs in previous dynasties.
+Desc_14
+Cast from rare copper and iron, the Spirit Treasure Ding will remain pristine without a spot of rust even years later. It is carved with the four divine spirits - the Azure Loong, White Tiger, Black Tortoise, and Vermilion Bird - to symbolize harmony and peace across the country.
+Desc_15
+The quaint lamp has a stand made of gold and silver platelets that shine dazzlingly, with an intricate structure that breaks the wind and focuses the light. It is said to be an invention of Ma Jun, a famed craftsman in the Wei and Jin dynasties.
+Desc_16
+The essence of primordial Yin repulses even the Torch Loong and Xihe, Goddess of the Sun. The clear Luna Firebead is a divine artifact of extreme Yin and coldness, and not even the flames of the Torch Loong or the warmth of Xihe, Goddess of the Sun, may thaw those frozen by the bead.
+Desc_17
+Xuan Chi, an ancient deity of the mountains that was the King of Chu's mount during his expedition to the north. Written in golden ink and made of divine iron, the scroll records the origins of the deity, Xuan Chi, and the way to tame it. Hence, legend says that "Seek Xuan Chi with the scroll to ascend above the clouds and sky."
+Desc_18
+The Memoir on Neglected Stories reads, "Goujian, King of Yue,offered white bulls to the deities of Kunwu." The white bull is an auspicious symbol that is frequently offered in sacrificial ceremonies going back centuries. The Whitewood Bull made of Chinese Elm is carved in the shape of a bull to repel evil and prevent disasters.
+Desc_19
+The eighteen disciples of Shakyamuni Buddha stayed in the world of mortals to spread his teachings and are thus known as the Eighteen Arhats. One may carry the wood figures of the Arhats and chant the Buddhist scriptures to learn that "Signlessness liberates one from the secular world," and slowly ascend beyond the filth of the world and repel all evil.
+Desc_20
+The lion, the apex predator that even preys on leopards. The painting is carved on a wooden block in the shape of a lion, the king of all beasts, and lacquered in vermilion. The lion in the Vermilion Lion Painting looks as vivid as if it were coming to life. One may carry it with them to deter weaker insects and poison.
+Desc_21
+The Fenghuang Woodfish is exquisitely carved from rosewood. It is hollowed out and produces a melodious sound when hit. It was once called the Auspicious Fish Bell by Emperor Xuanzong of the Tang Dynasty. "Dedicate to cultivation and be like a fish; keep your eyes open whether day or night." The red color and fish-like shape serve as a constant reminder of trouble and worries, so that one may avoid harm and bad luck.
+Desc_22
+The Four Heavenly Kings govern the world each with unique abilities to grant wishes, purge trouble, enlighten minds, and cleanse spirits. If one carries the Statue of Heavenly Kings, it will protect them and subdue all demons and monsters nearby.
+Desc_23
+Shijie is liberation from the corpse like a snake shedding its skin or a cicada molting. The Shijie Robe is a miniature wood sculpture that might have been left behind by a Taoist who ascended to immortality. When carried, it has the ability to shield one from dirt, filth, and sinister spirits and lead them onto the correct path.
+Desc_24
+Bead necklaces vary, and among them agarwood beads are the most precious and may only be worn by eminent monks. Their effects change depending on the direction of the small beads at the end. The beads have a constant, sweet, and rich fragrance, and when worn by a virtuous person, it aids in self-reflection and boosts one's might to eliminate evil from all directions.
+Desc_25
+The Bulwark Bead contains the spiritual energy of the earth and emanates an "aura of moral integrity and tranquil divinity." They may suppress evil, prevent one's spirit from shattering, and save them in life-threatening situations.
+Desc_26
+Haotian means immense Primordial Qi. Inspired by the celestial artifact possessed by Jade Emperor, the Haotian Pagoda is carved from wood that, even though inferior to the original artifact, may still gather Primordial Qi between the heaven and earth and nourish one's body and mind, with the power to suppress evil beings underneath for eternity.
+Desc_27
+The beauty of a white plum bloom, as breathtaking as the snow. White plum trees bloom in the snow and fear no cold. These Plum Bloom Beads have taken the strength and beauty of white plum blossoms and assist in resisting cold air.
+Desc_28
+The Thaw Beads are made of tempered wood with a natural heat that warms those who wear them and are even capable of thawing nearby ice and snow and repelling cold air.
+Desc_29
+The Flint Box is made of wood chips and flint that ignite sparks when carried and shaken around, but it doesn't burn due to its specially designed structure. One may catch a glimpse of and feel the flame inside, and when placed over a cold spot, the chill will dissipate immediately as the temperature rises.
+Desc_30
+The wooden bead is immersed in scarlet snake blood and then dried until no blood stains remain on the surface. "A red snake bodes well when it graces one's residence." It carries inherently an auspicious Qi with a glow that dissipates any chill and poison within its reach and blesses one with good luck.
+Desc_31
+The pendant is made of a piece of incense wood immersed in souldew with a thin silk string strung through it. The crimson dew seeps out from the wood like blood when touched by Cryotoxin and then evaporates to cleanse the poison, filling the air with the soothing aroma of wood and crimson dew.
+Desc_32
+A bird with blue feathers, red wings, and a white beak heralds mysterious fires wherever it flies. The figurine is made in the shape of an Azure Egret and painted blue with red wings because the divine egret is said to foretell the arrival of fire. It appears as if enveloped in invisible flames, capable of repelling cold Yin energy, but be careful not to cause any unwanted disasters.
+Desc_33
+The Magenta Seal is filled with the energy of the magenta sun which symbolizes fire and extreme Yang. It suits people born in the Yin hours of the day as it counters the innate Yin energy, prevents Cryotoxin, and even deters Yin spirits with the extreme Yang air.
+Desc_34
+The Shatang tree leads one on a wondrous voyage across the oceans. The divine Shatang tree may evade and will water for its own gain, an ability possessed by the Shatang orb as well. It makes chilling water evaporate and prevents it from harming the body. One may even roam the ethereal realm of the heavens as the orb turns the chill into nourishment for the body and mind.
+Desc_35
+The Classic of Mountains and Seas reads, "Xihe is the wife of Emperor Jun and the mother of the ten suns." Xihe is the goddess of the sun who gave birth to the ten suns that are the source of all Yang energy across heaven and earth. The Xihe Seal may also generate Yang energy from chaos and the darkest nights, cleansing anything Yin and ominous it encounters and filling its surroundings with a Yang air.
+Desc_36
+The dirt and filth blew away in the wind, spring and morning dew on bamboo. The snow-white Cleansing Orb may absorb filth and evil air and change color as it takes in more unclean energy. It may also be used to clean clothes.
+Desc_37
+The 108 prayer beads are dyed with lotus leaves until they appear deep green. They emit a pure and pungent fragrance that detoxes and resists odor, and one may chant scriptures while wearing them to immerse the body in the scent so that their body may be preserved long after death.
+Desc_38
+A timely rain could save a thousand lives, and this Rain Twig is picked from a sprouting tree after such a rainstorm. Once nourished by rainwater, it now boasts the ability to breathe new life into what it touches. Those who carry the twig may have their festering wounds or injuries heal over time.
+Desc_39
+The Collection of Key Passages from the Scripture reads, "The divine one who is born in the muddy filth sits upon the lotus pedestal." Guanyin sits on a thousand-petal lotus that keeps away the filth of the secular world and achieves tranquility. The wood pedestal is carved in the shape of the Guanyin lotus and may purify the faithful from the filth of their corporeal body.
+Desc_40
+The box emanates a fragrance when opened, and those who smell it may hear heavenly and ethereal music as if in the presence of a Gandharva. If one is faithful enough, it shields their body from filth, poison, and any harm done by ghosts or deities, but if not, the music and fragrance will gradually fade.
+Desc_41
+Mortals that have completed all ten virtues and remained virtuous may be reborn in Sukhavati, the Land of Bliss. Following the Buddha's teachings, the box turns withered wood into earth and preserves rotting flesh. If those who practice with the box are eventually enlightened, their body may rejuvenate naturally and stop rotting as if reborn.
+Desc_42
+In the jug, spring thrives with flowing brooks and fresh water that breathes life into things. The Springbrook Jug seems to hold the liveliness of spring as the water within doesn't spoil despite the passage of time. It seeps into the wood jug and then the skin, with a miraculous effect of rejuvenation that turns rotten flesh and poisonous air into nourishment for the body until the skin glows again.
+Desc_43
+With his healing expertise, Wuxian serves as Emperor Yao's healer to heal the sick and prolong good fortune. Legend has it that Shaman Wuxian once healed ailments and blessed people with an orb. This orb seems to have similar abilities to cure illnesses and drive out poison, granting one with spiritual Qi, good health, and fortune.
+Desc_44
+Nüwa created mankind by instilling divine power into clay dolls and granting them the ability to reproduce. The Nüwa Painting is a reimagination of the story, and it is blessed with part of the goddess's divine power that offers one the spiritual energy of life and facilitates rejuvenation if they suffer from rotten flesh.
+Desc_45
+Made of bamboo strips twined together, the folding fan emanates the refreshing smell of bamboo and may circulate the surrounding air and facilitate the blood and Qi flows to drive out heat and umbritoxin.
+Desc_46
+The Musician Figurines are in ten forms, either holding a pipa, playing the guqin with head lowered, or playing drums... Each looks different with unique features. Those who see these figurines will be filled with joy and free from worry as if they could hear the pleasant music and see the warm smiles of the musicians.
+Desc_47
+The Hundred Knots are made of soft and bendable twigs twined together in complex ways. They have an intricate structure and may be moved and pulled in all directions like a puzzle toy. Those who try to untie them will be engrossed in solving the puzzle and forget about their trouble.
+Desc_48
+This bizarre vase resembles a ghost with carved hands, feet, a tiny head, and a drum-like belly. It lets out a thunderous noise when feeding on Umbritoxin during sunrise or sunset, and when the noise stops, it will have devoured all the poison.
+Desc_49
+The seven orifices on one's head allow one to see, listen, eat, and breathe. The basket is made of softwood strips braided together with seven openings that correspond to the seven vital orifices of human beings. It absorbs and cleanses Qi through the seven openings, so those who carry it will take in only clean energy and dispel poison.
+Desc_50
+The Wind-Proof Orb may not only resist the physical wind but also prevent things from troubling the mind. Those who carry it will be free from worldly worries and depressing thoughts, as the mind achieves peace and serenity.
+Desc_51
+The Peach Bloom Fan is carved from wood growing in a blessed cave and painted with peach blossoms. Often held by young ladies, the fan emits a refreshing floral fragrance that drives out depressant poisons from the body and surrounds one in a natural aroma.
+Desc_52
+From the balance of Yin and Yang comes all life. People shun Yin and seek Yang, which eventually converges in a harmonious balance. The Three Primes and one Qi originate from all beings and achieve balance since Qi is a mixture of Yin and Yang. The orb adjusts the balance of Yin and Yang and maintains the harmony of Qi to repel depressant auras, as it supplements Yang or Yin energy based on the surrounding atmosphere until it achieves a perfect balance.
+Desc_53
+Made of Purpletwist Bamboo, this rare purplish black incense burner emits a spiritual fragrance when incense is burned, appeasing all the sorrow, guilt, and depression in one's mind and releasing the feelings into the air to shield one from agony and pain.
+Desc_54
+The emerald bracelet is made of honed bamboo strips twined together. It is not merely a fine accessory, but also capable of reducing inflammation and pain due to its cold nature.
+Desc_55
+The root of a tree shaped like a Buddhist monk, now worshipped by those who seek blessings. The wood figurine is believed to have the Buddha's abilities to bless one with good fortune for it is carved in the shape of a Buddhist. It must be kept by a faithful believer and may not be exposed to the sun for long or placed close to fire."By chance, I assumed the title of The Wooden Kulapati, attracting countless seekers of blessings." The Wooden Kulapati is a wooden carved deity, humorously referred to as "Kulapati."
+Desc_56
+The flower basket is made of soft twigs braided together and adorned with a couple of dewy and fragrant flowers, which seem to be growing naturally from the ground. It is cold to the touch, and when placed in heat, the dew will evaporate to resist it. It loses this effect all the dew evaporates.
+Desc_57
+The goblet is carved from a thick vine naturally shaped like a Loong due to its inherent Loong aura. If muddy water is placed in it, the dirt will be drawn by the wood and settle at the bottom, miraculously leaving only clean water that tastes sweet and is cold.
+Desc_58
+No graceful dancer in red sleeves to entertain me through the night, only the jade bamboo wife to bring me cold and calm. The jade bamboo wife is made of vines and bamboo strips woven together. It is a cylinder with holes that allow a greater flow of air to bring relief in the summer heat when held or placed against the body.
+Desc_59
+As cold as frost, the Frosthaze Orb does not thaw in the heat, break upon impact, or change its shape. In hot air or extreme heat, one may hold this orb so that its coldness may seep into one's body and mind until the uncomfortable heat dissipates.
+Desc_60
+Spirit Wood is born from the purified essence of spiritual Qi from the earth. It changes form in different locations and contains the natural Yin power of the earth that dissolves any Acritoxin it encounters.
+Desc_61
+Cut from a tree that naturally grows near a Fengshui Loong Lair, the Blessed Heritage is a rare part that is connected to a ley line, nourished by spiritual Qi, and may not be planted or grown by mortal beings. It concentrates the blessed Qi from the ley line and fears no flame or Yang poison as it dispels them at will.
+Desc_62
+To liberate from the causes and effects in the cycle of life and death is the state of nirvana. The Great Nirvana Orb is a relic that has been liberated from the causes and effects and transcended life and death beyond the eighteen dhatus. Those who carry it may attain enlightenment and achieve a calm and worry-free state of mind where there is no suffering or desire and enter the "Ultimate Equanimity."
+Desc_63
+The seal is made of bamboo plates hanging on a pole that clatter when walking. The noise it makes may help one stay alert and warn them against potential danger in special circumstances.
+Desc_64
+The box contains magnolia petals that emanate a faint but lasting fragrance, which cleanses the mind and body of those who smell it as if awakened by silver moonlight.
+Desc_65
+Men do not know the trouble of ghosts; like men do not know the Wisdom King who guards the world. The Ghost Purger is a brown bead that has dark stripes within and is said to be capable of purging evil ghosts and protecting all minds from trouble and worry.
+Desc_66
+It is a string of incredibly tough bodhi beads that become shinier as one uses them to pray, capable of repelling evil and preventing disasters. Those who chant scriptures while holding the beads will instill divine power into them, which helps one focus the mind and ignore all distractions.
+Desc_67
+The touch of vines awakens me; to the rustle of pine leaves I listen with thee. The intricate cage is made of soft vines and grasses woven together in which incense is burned, enveloping one in a haze as if in a dream. Within the mist is a natural woody fragrance that clears and calms the mind and body when one breathes it in.
+Desc_68
+The Rekindle Lamp shines blue with scattering ash like fireflies when burning fresh twigs. Spirits of the dead would approach the blue light, and if one lingers, they may slowly regain consciousness and return to their physical form.
+Desc_69
+The face like the mid-autumn full moon; eyes like a pure lotus bloom. The statue is carved in the shape of Ananda to assist one in learning and understanding the Buddha's teachings. Meaning untarnished, Ananda is one of the Buddha's ten principal disciples with a firm will and clear mind that upholds justice and never succumbs to temptation.
+Desc_70
+As written in the Heart Sutra, the Tathata is "a natural absence of all things, neither living nor dying, neither filthy nor clean, neither growing nor dwindling." The Mirror of Truth reflects one's true self and leaves no shadows in their mind. One will realize there is no self, no truth, nor illusion, and eventually break free from the hallucinations.
+Desc_71
+Tumi, or roseleaf raspberry, once only grew in the heavens. All evil in one's mind will be purged at the sight of this white and delicate flower, as the Buddha believed it to be auspicious. The spirit of the purple bamboo transformed into the flower to seek a clear mind in the world of mortals. "To know the truth of all beings, to dispel evil, to follow nature, and to break free from desire." It frees the mind from the troubles of dreams and illusions.
+Desc_72
+Embroidered with plants and animals, the tigerskin pouch may be used to keep one alert or awake Thanks to the aroma of the shag tobacco that is held within. Since it is often placed next to the skin, the pouch used to be exchanged as a token of love.
+Desc_73
+Legend has it that the Sinner's Drum's skin was once made of evildoers' faces, but now it is simply made of a beast hide embroidered with a human mouth and noise. It hums in the wind, the sound of which awakes the mind and reminds one to reflect on themselves.
+Desc_74
+The evils fall, upon the stars' call. The tough and durable leather scabbard is made for swords that slay evil and intimidate anyone greedy and cruel. Once out of the scabbard, a sword would strike any evildoers as if blessed by the constellations in the sky. Therefore, the scabbard is often used to encourage retrospection and integrity.
+Desc_75
+The Pixiu is a mythical beast with the power of thousands of troops that feeds on evil spirits. The Pixiu Pouch is embroidered with the fearsome Pixiu which has the head and tail of a Loong and body of a tiger. Those who carry the pouch will be blessed with courage and good luck.
+Desc_76
+Hebo drives away Loongs with the beating of Hebo Drum. Hebo is the god of the Yellow River who beats their drums to deliver messages from the heavens, thus returning deities and Loongs to their original states within the order. Made from spiritual objects, it encourages those who hear it to move quickly in tandem with the drum.
+Desc_77
+Loongs and snakes slither as speedily as lightning bolts. Adorned with hundreds of gems, the snakeskin pouch is embroidered with a Loong and only used as inspiration, for those who carry it will learn the swift movements of the Loong and snake and become as fast and agile as these beasts.
+Desc_78
+The brilliant golden scabbard feels burning to the touch as if flames were concealed within. As it combines metal and fire, it may miraculously counter and melt metal with the formless fire, and those who comprehend the way of the amorphous fire and metal could turn problems into opportunities.
+Desc_79
+Hou Yi once shot down the nine suns and saved everyone. The casket conceals Hou Yi's arrows with the energy of his speed, which courses through one's body and makes one as swift as flying arrows, so swift that no one can track their movements.
+Desc_80
+To the flow of the banner sound the thunderous beats of the drum. The spiritual banner waves in the wind and with it comes an overwhelming roar of thunder, which motivates those who hear it and grants them indomitable might and the ability to change everything around them in an instant.
+Desc_81
+Woven from jute fibers, the sachet contains herbal ingredients that emit a pungent but refreshing aroma. Young ladies would also wear this sachet as perfume.
+Desc_82
+Warm airs give rise to the zephyr, a breeze of refreshment. The Zephyr Clout is a fragrant handkerchief that smells pleasant and heartwarming as though the gentle spring breeze blows, making one content and clear-minded.
+Desc_83
+The golden osmanthus flowers bloom in small clusters, like rice grains in autumn. The pouch contains sweet-scented osmanthus flowers and emanates an aroma that reaches far and wide. Those who smell it would feel refreshed and nourished as if basking in the silver moonlight on Mid-Autumn Day.
+Desc_84
+As pure as the snow shroud; as bright as the moon in the clouds. The embroidery painting is woven from a variety of silk into a silver, bright moon between the clouds, which shines over the world and illuminates one's mind. It is highly praised for the intricate and ingenious weaves.
+Desc_85
+The Amitayurdhyana Sutra reads, "Beneath this ground of lapis lazuli there will be seen a Trove Pagoda with the seven jewels, diamonds, and the rest, supporting the ground." The seven jewels of gold, silver, glaze, amber, tridacna, and agate are embroidered on the gold banner that ring in the wind. Those who hold it may find clarity in their mind as they adjust their breathing to the wind.
+Desc_86
+The pouch collects chaotic energy between heaven and earth and returns it to Primordial Qi. Hence. It holds Qi that is neither clear nor dirty, neither Yin nor Yang. It may keep supplementing one with an endless supply of Qi, as the energy inside the pouch is neutral and impervious in nature, and it gathers from a limitless natural source.
+Desc_87
+The Sky-Mirroring Pouch is woven from spiritual silk and as bright and clean as a mirror reflecting the sky, so the void energy of the heavens is contained within. Qi inside the pouch is clear and nourishing, capable of cleansing one's body and Qi flow.
+Desc_88
+Fragrant silk clothing as light as snowflakes that flows without the wind, the garment was left behind by a celestial maiden after ascension. Those who wear the ethereal garment may feel as light as a feather and dance elegantly with the wind like an Immortal.
+Desc_89
+The piece of Cloudlight Clout encompasses all rare and natural phenomena, and once unfolded, it will be enveloped in a rosy, dazzling, and flowing light. Those who carry it will feel unencumbered while moving, as if riding on clouds and could reach any corner of the world.
+Desc_90
+Simply woven from rags, the Cloth Pouch is durable and convenient with enough space to hold belongings.
+Desc_91
+The square sachet is cut from a complete beast hide and embroidered with a wild animal. It is intact and durable with fine fleece to resist the cold.
+Desc_92
+With embroidered fire, Loong, axe, and bow patterns, Scholar Sack symbolizes one's literary competence. The sack was once used by students on their journey to the imperial exams. It is often embroidered with various patterns to not only symbolize one's integrity but also their literary talent.
+Desc_93
+The Goldfish Pouch was once only granted to high-ranking imperial officials and used to contain a gold token of a fancy carp. Now embroidered with fish in gold and silver threads, it is used to preserve a myriad of small items and seen as a symbol of fortune.
+Desc_94
+The Book of Han reads, "The grand chancellor in the Qin Dynasty was bestowed with a gold seal and purple ribbons." Purple ribbons were once only worn by the most superior imperial officials to symbolize Propitious Qi and their high status. Embroidered with crape myrtles, the Purple Ribbon Sachet is shiny and smooth to the touch—indeed a precious item with both practicality and aesthetic value.
+Desc_95
+The sachet woven from gold and silver threads often contains flower petals and spices to either be carried for their fragrance or hanged in a room to repel insects. It may not wear out even after years as it is made from gold and silver silk.
+Desc_96
+At night, there is a huge pouch that inhales twice before breathing out a strong gust of wind... It is the source of wind, commanding it wind and the weather. Fengbo, the Taoist deity of the wind, created the pouch by capturing the source of wind, so that he may take it in or let it out at his pleasure. Shaped like a small swallow, it has enough space to contain all the energy in the world and can be used to carry belongings without tiring the carrier.
+Desc_97
+The Prismatic Sachet is woven from the glowing silk of seven colors that twinkles like the stars above the heavens. It is always surrounded by a misty wind, and those that match the sachet in mind and spirit may become as agile as if soaring above the sky.
+Desc_98
+Sumeru in a tiny seed; the whole universe in a linen pouch. The Universe Pouch may seem like an ordinary linen pouch with horns, but it in fact contains the ultimate way of creation. It shrinks to the size of a seed when not in use, and expands to hold all things inside without changing its shape. It is even said to be large enough to encompass the universe but mortals cannot unleash its true power.
+Desc_99
+The shiny black Blackstone Ring is worn on the thumb to avoid abrasion. Once a protective accessory equipped by nomads for shooting arrows, it is now seen as a symbol of bravery and strength.
+Desc_100
+Since the Han dynasty, strong warriors have put these tough jadestone bracelets around their forearms not only as bracers for brawls and fights, but also to boost their courage. Curvier ladies also wear these armlets for beauty and style.
+Desc_101
+An unbreakable stone stele with the might of a tiger that dispels evil and cures all illnesses. The Tai Stele, hewn with inscriptions, is from a stone on Mt. Tai. People often place it in distinct spots to ensure safety, as they believe with the power of Mt. Tai, the stele could suppress sinister energy. Those who carry it may borrow its miraculous power to subdue demons and prevent disasters.
+Desc_102
+Legend has it that a sacred turtle supports the heavens and the three celestial mountains - Penglai, Fanghu, and Yingzhou - on its back, with its four feet each on one pole of the earth, capable of carrying anything in the world. The Jewel Turtle is crafted with firm eyes and adorned with a cornucopia of gems and stones. Many decorate their house with it as a symbol of blessing.
+Desc_103
+Si, a blue rhinoceros, is a mystical beast as ferocious as a tiger and is capable of killing a man. "Si resembles a blue bison with a horn that weighs 500 kilograms." The Tricolor Rhinoceros is glazed in three colors and made in the shape of a vivid blue rhinoceros, with muscles as hard as steel, angry eyes, and powerful hoofs. It looks vaguely translucent and symbolizes ultimate might and bravery.
+Desc_104
+The Extensive Records of the Taiping Era reads, "The Dharmapala glares and thus slays all evil." The Dharmapala Statue is of a Dharmapala, the protector of Dharma, holding their Vajra and glaring at evil demons before them, and those in its presence feel both fear and a sense of security. The intimidating statue of the Dharmapala seems to have a divine power that eliminates all evil, which in turn inspires courageous fighters.
+Desc_105
+Erlang is the descendant of Cancong, the deity of silk moths, and born with a vertical third eye on his forehead. Erlang's third eye sees the truth and commands life and death with the power to move mountains and expose evil. Carved from a sacred stone, the eye may not be as powerful as the deity's real eye, but it also grants a divine power to break rocks and drive away evil.
+Desc_106
+Created by the Yellow Emperor, Ruyi was once a weapon used to fight Chi You and demons. Carved with a coiling azure Loong and tamed white tiger that symbolize divinity and energy, this Loong Tiger Ruyi enhances one's spiritual power and grants the courage to annihilate devils as it is imbued with the power of a divine stone.
+Desc_107
+The Book of Sui reads, "At the beginning of the world, Pangu parted chaos into the heavens and earth, raising mountains and deepening oceans." The Dawning Orb is made of a divine stone from the dawn of time that is told to have taken in the ultimate power of the ancient emperor, Pangu, which would be activated when polished. It is constantly releasing the overwhelming might and granting those who carry it the strength to defend against an entire army.
+Desc_108
+The Agate Bracelet is a polished agate stone with complex patterning that appears like the brain of a horse. It is nourishing and chilly with effects to prevent ailments such as heat stroke.
+Desc_109
+Survival Locks are lock-shaped jewels made of metal or gems, among which jade locks are the most precious. Children often wear the Survival Locks to retain the energy of life and avoid disasters until they come of age, as people believe these locks could "keep away evil ghosts and ailments" so that children may not die at a young age.
+Desc_110
+The Surangama Sutra reads, "The Earthwalker has sought a different way of longevity and lived millennia." The Earthwalker is a long-lived Immortal. The Earthwalker Statue depicts a long-bearded and white-haired man holding a cane with kindness in his eyes. One may pray to it and offer incense to avoid illnesses and prolong life.
+Desc_111
+The Bloodmire Orb is blood-red and translucent with a dazzling sheen, capable of absorbing filth from the blood when carried around to replenish and cleanse the body, thus enhancing constitution. It takes in filth to purify the mind and blood and no longer be of use when no longer clear.
+Desc_112
+The Bell Goblet is made from jade essence in the shape of an overturned bell. Taking in too much jade could be harmful for the body, but the goblet has a minimum amount of jade essence, with an opposite effect that adjusts one's Qi and strengthens the body, as long as one drinks from it no more than 1,000 times.
+Desc_113
+Inspired by the gourd attached to the staff of the Old Man of the South Pole, the deity of longevity, the Immortal Gourd is said to keep away ailments and prolong life. "Those who see it are blessed with peace; those who make offerings may pray for good fortune and longevity." It may be used to pray to the Old Man of the South Pole, not only for good health and longevity, but also for peace across the land.
+Desc_114
+Each representing a son of the Great Loong, the nine linked jade locks are not only aesthetically pleasing but also a fun puzzle. If one solves the puzzle, the nine sons of the Loong will bless one with safety, peace, good health, or longevity.
+Desc_115
+The South Pole Emperor of Longevity, also known as the Divine and Pure Heavenly Jade Lord, cares for all beings and dispels disasters and suffering. Carved from a divine stone, the statue of the Pure Lord possesses his power of longevity. Those blessed by it may avoid all suffering and live a peaceful life, and the blessing may even extend to those close to them.
+Desc_116
+The golden statue is carved from a sacred stone into the Heavenly Jade Emperor with a brilliant divine glow, who governs the fates of all lives and commands the Primordial Qi. Touched by the sincerity of those who sculpted the statue, the Venerable Elder bestows Primordial Qi on mortals to prolong their lives.
+Desc_117
+The Oily Orb is dark and shiny with an oily smooth surface. If dropped, it will roll on the ground for a long while, which inspires one to move quickly like the rolling orb.
+Desc_118
+The pair of jade earrings is carved into the shape of cuckoo birds, hence the name Cuckoo Earrings. When it moves, it rings like the chirps of cuckoos urging one to return quickly.
+Desc_119
+People once thought wild geese could deliver letters to faraway locations as they migrate thousands of miles and then return in spring. This homing nature has inspired this jade figurine of a wild goose, which is used to encourage one to return speedily at opportune moments.
+Desc_120
+The greenish-blue Coldhaze Seal that is cold to the touch is made of jade with white and hazy patterns inside. One may use it to print an embossment on paper of a unique landscape painting as if in a haze or pale moonlight. Those who see it feel refreshed as though they have turned into traceless mist.
+Desc_121
+A vast expanse of emerald water, shimmering under the brilliant sun. As azure as the sky, the Candescent Orb reflects and refracts the sunlight, the glow of which changes constantly despite the orb being held still. The dazzling shimmer seems elusive, near one moment and far the next, and one may learn its elusiveness and move as swiftly as the gleam.
+Desc_122
+The Blue Bird skims above the seas while the Jade Loong hides among the clouds. The Blue Bid is a messenger for the Queen Mother of the West that leads travelers to the celestial mountain of Penglai. Carved in the shape of the Jade Loong and Blue Bird, the pendant grants one the spiritual Qi of the creatures and abilities to freely roam the world.
+Desc_123
+Xunzi read, "Tengshe grows no feet and flies in the air." It is told that Tengshe, a mystical serpent, has no feet but can ride on mist and fly. Carved from spiritual jade, the translucent and shimmering goblet is used to enjoy liquor under the pale moon, and one may see an illusory serpent soaring from the liquor and into the sky. Those who drink from the goblet learn from the flying Tengshe serpent and become capable of moving with the wind and mist.
+Desc_124
+The orb twinkles from time to time like the opening and closing of an evil eye. Carved from a spiritual stone, it takes in evil spirits and wronged souls and opens when absorbing sinister energy, cleansing it into pure Qi for the holder's use. One may move as swiftly as a ghost with the cleansed Qi.
+Desc_125
+Polished from Deus Gemstone, the Divinity Mirror shows a myriad of changing reflections, and only the calm-minded may see their true self in the mirror. From it one may learn that physical changes come from within, which grants them the abilities to transform quickly and flexibly as they please.
+Desc_126
+The Extensive Records of the Taiping Era reads, "Ghost blood congeals into agate." The wristlet is made of small agate beads and worn to nourish Qi and ward away evil.
+Desc_127
+The inexpensive Carmine Ring is translucent with gorgeous red patterns and thus beloved among many. Carmine stones are believed to protect the heart from the invasion of evil, so the ring is often worn by many young commoner ladies.
+Desc_128
+Snowlight comes after snowfall and feels cold before warming up. Crafted from jadestones, the round Snowlight Mirror shows vague reflections, while its light slowly warms those in front of it like the sun after the snow.
+Desc_129
+Upon the Xiangshui River, women shed tears bitter. Xiangfei, the two empresses of Shun wept after his death as proof of their nobility and loyalty. The tear is a condensed jadestone that emotionally affects those who see it like the empresses' tears, while quietly protecting mortal minds and spirits.
+Desc_130
+The Bejeweled Lute is embedded with a painting made of a myriad of colored jadestone plates linked together. When the lute is played, the jadestone plates resonate harmoniously while the flowers and animals in the painting all seem to be coming to life, soothing the mind and body of those who hear the music.
+Desc_131
+Carved in the shape of Tianlu, the divine auspicious deer, the jade figurine glows brightly in the dark, replacing candles. Bathed in the special light, one will feel refreshed and protected by the divine deer, with the ability to foretell the future, and hence "dispel bad omens and invoke good fortune."
+Desc_132
+The sun rises from the Yanggu Valley and bathes in the Xianchi Pond. The Xianchi Pond Jug contains water from the Xianchi Pond because it shimmers brightly in the sun, and the light seems tangible and warm to the touch. Those who hold it will feel the warmth penetrate their skin and into their heart, nurturing their mind and spirit.
+Desc_133
+Dim as the moon mantled in filmy clouds; Restless as snow whirled by the driving wind. The Goddess of the River Luo embodies grace and elegance with dark hair as ethereal as the clouds. The comb was once used to brush her hair and left behind in the mortal world. Those who see the relic would become obsessed with the beauty of the Goddess and seek only to protect her.
+Desc_134
+The Seven Tablets in a Cloudy Satchel reads, "Lady Taizhen is the youngest daughter of the Queen Mother, sixteen or seventeen of age." The jade fan is said to once belong to Taizhen, an Immortal maiden in Penglai, and whoever has the artifact may follow the maiden in and out of the land of Immortals. Since it is from Penglai, it brims with divine energy that makes one feel as carefree as an Immortal as if they had ascended to the celestial realm.
+Desc_135
+Originating from an exotic nation, the Croweye Stone is carved with the pattern of a crow's eye to symbolize vigilance and caution, since the crow is believed to always keep a careful watch on its surroundings to react quickly to danger.
+Desc_136
+Made of polished jadestones, the mirror reflects everything clearly, even the rain splashing on the ground. Those who hold this Rainwater Mirror may accurately sense every movement nearby and spare no doubt when in battle.
+Desc_137
+The poet Tao Yuanming from the Jin Dynasty once wrote about the wild orchid, "Till refreshing breeze comes and liberates its fragrance, it is distinguished from inferior plants." Wild orchids emanate a refreshing fragrance that differentiates them from herbs and weeds. The Orchid Seal has the same fragrance that stimulates the sense of smell so that they may acquire every smell in their surroundings and move accordingly with speed and agility.
+Desc_138
+To the clouds a bird of five colors shall belong, singing an ethereal song. Carved from jadestones of five colors, the bird figurine is somehow always half shrouded in mist, as if the divine bird were singing above the clouds. The mist changes with the Qi and dissipates when the Qi fluctuates, while the jade produces a sound like the songs of an immortal bird.
+Desc_139
+Alkaid is the easternmost star of the Big Dipper. Instead of creating a cooling breeze, the Alkaid Fan shines brilliantly like a sky full of stars when waved around, and those who hold it will move flexibly with twinkling stars, as if blessed by the powers of the stars.
+Desc_140
+The prismatic Eventide Orb changes in color with the light varying from crimson to golden, unpredictable like sunlight at dusk. Those who hold it may move as fast as the changing twilight and catch their opponent off guard.
+Desc_141
+The Classic of Mountains and Seas reads, "Huashe has the wings of a bird but slithers like a snake, bringing floods wherever it reaches." The jade bracelet is carved in the shape of the Huashe serpent with wings that curl around the arm. It is cold to the touch and adjusts as one bends and outstretches their arm, removing distractions and making the wearer's movements as fluid and aggressive as overflowing rivers.
+Desc_142
+It is almost impossible to paint the mysterious and ever-changing galaxy on paper. But made from a sacred stone, the Galaxia Seal adheres to astronomy and shifts with the movements of the stars above, so it may be used to print the grand galaxy at any moment. Those who hold it will be imparted with the changing way of nature and learn to adjust to different situations.
+Desc_143
+The Commentary of Zuo reads, "The banner of the sun, the moon, and the stars shine in their brilliance." Carved from divine jade, the banner holds all the light in the world. It absorbs radiance from the sun under the clearest sky and the moon and stars on a bright night and glows ever so brightly and dazzlingly. In such brilliance, those connected to the banner will be able to see objects down to the most minute detail and move swiftly with no doubt in their mind.
+Desc_144
+The shiny and solid chess pieces are made of black-and-white agate. Those who use them in chess matches will gradually comprehend the ultimate mystery of Go through calculation and strategizing.
+Desc_145
+The inkstone is waxed and cold to the touch with a sheen like the pale moonlight over the sea. The inkstone is smooth to the touch and edged when ground for ink, popular amongst many, producing fine ink that easily dries when used to paint or write.
+Desc_146
+Only a mind of tranquility may rest in true Taoist peace. The translucent and crimson Trance Orb is breathtakingly beautiful with entrancing powers. Those who see it must concentrate their minds to not be distracted, and slowly they will be focused enough to master complex skills with ease.
+Desc_147
+Emperor Shun was once assisted by nine imperial officials who complemented each other. Adorned with jadestones of nine colors, the Nona-Wisdom Lock produces a chime when the jadestones strike each other, as if nine officials were discussing and working out difficult problems together.
+Desc_148
+Made of polished black-and-white jade, the mirror consists of two sides, one of Yin, reflecting the heavens, and one of Yang, reflecting the earth. The Yin Yang Mirror encompasses the entire world of endless mysteries, and those who observe it will slowly learn the truth about the changing world.
+Desc_149
+The Loong-Head Bracelet is engraved with several Loong heads that separate from one another. These Loong heads are movable and may shift on the bracelet when one moves, distracting the enemy. It changes in different situations and makes attacks appear more complex and difficult to counter.
+Desc_150
+The Tao Te Ching reads, "This is called the form without a form, the image without an image, like a shadow." Those who possess no form or image are as mysterious and unpredictable as shadow. The seal is constantly changing in shape and sheen, but it doesn't print any patterns when stamped on paper. Those who have the seal will instantly understand the oneness of truth and illusion and break free from all worry, before learning to move not in particular patterns.
+Desc_151
+The Taishang Laojun used to have a painting of eight trigrams that encompass the world. Even though the Universe Painting is not the Lord's original, it still contains the way of the universe and all the secrets it holds. Those who have it will move in mysterious and unpredictable ways that may only be understood by Immortals.
+Desc_152
+Hou Yi once saved the world by shooting the nine suns, from which nine three-legged crows fell, and they swore revenge. The Golden Crow's Eye is made of a sacred stone that absorbed the hatred of the nine crows. Those who have it will be driven by such emotions, moving and attacking suddenly in chaotic ways.
+Desc_153
+Empress Wu Zetian once ordered all peonies to be burned, but only the branches were scorched whilst the beautiful petals were left intact, as they did not fear the tyranny of the empress. The Singed Twig Ring is made of burned jade in the shape of a withered twig, encouraging one to stand up against strong opponents.
+Desc_154
+Carved from a large red stone, the horn-shaped goblet is smooth, glistening, and as red as wine. It is not only aesthetically pleasing but also a show of power and bravery when one drinks from it, even granting them great strength once the goblet is emptied.
+Desc_155
+From the south Zhurong rides the Loong with fire in tow, the blazing banner burns the sky aglow. The Zhurong Insignia is a burning jade token as red as blood with a Loong carved on the surface. Those who hold it will feel a burning urge in the chest, as their blood and Qi flow fasten and their strength builds, as if blessed by the fire-breathing Loong.
+Desc_156
+A thunderclap breaks the stagnancy as Yin and Yang strike. The Yin and Yang Thunderous Orbs vibrate and emit a thunderous sound when striking each other. The sound boosts one's energy, as insects come out of hibernation and prepare for action.
+Desc_157
+Gouchen is the deity of violence and war who controls metal in the west. This is a mysterious stone where the light of the north pole shines, and the prowess of Gouchen resides. Those who possess it will be invincible in battle, and it grants even more strength if one's constellation is blessed by Gouchen.
+Desc_158
+The History of the Southern Dynasties reads, "The earth proves detrimental to your eldest son; suppress it to prolong his life." The large Suppression Seal was created while a mantra was chanted to suppress evil across the country. It not only subdues wicked spirits but also absorbs their power to further enhance the spell, resulting in its ever-growing power.
+Desc_159
+Xuanwu, the Black Tortoise of the north with tough scales for armor. The Black Tortoise is one of the Four Symbols with the body of a tortoise and the head of a snake, powerful enough to deter all devils and demons. The cauldron is engraved with the Black Tortoise and five times heavier than an ordinary cauldron, but those who hold it will gain the strength of the Tortoise and not feel the weight, while launching a flurry of attacks at the opponent.
+Desc_160
+Huanghu scrapes the sky with divine might; the sword gleams in azure light. The orb is tough enough to resist sharp weapons and harsh environments due to the vajra energy concealed within that may pierce the air and reach the sun. Those who hold the orb can harness the vajra power to make even the clouds tremble.
+Desc_161
+The Almighty Seal does not weigh thousands of kilograms, but it contains enough divine power to lift such weight. Rarely are there people born with the might of Wu Huo, a warrior of great strength in the Qin Dynasty, but with the seal, one will gain such incredible power through the sheer force of one's mind that it can shatter the ground and make the sky tremble in fear.
+Desc_162
+The Crystal Bracelet could be in various colors depending on the jadestone materials. It is cold to the touch and as pure and clean as water, capable of cooling the wearer as well as calming the mind.
+Desc_163
+The Seven Tablets in a Cloudy Satchel reads, "The body and Qi are clear with light shining from within and the mind cleansed." The ring-shaped Clarity Pendant is made of clear jade that glows from within and cleanses filth to adjust one's Qi. It is often worn by young women as a show of innocence and rings pleasantly.
+Desc_164
+Jadespring is a condensed essence of jade with a pleasant fragrance. It may not only melt in liquor, but also be worn next to the skin so that the pure energy seeps in to cleanse one's body and mind.
+Desc_165
+Carved from white jade, the Luminous Candle emits a silver and warm glow without flame. It shines in the dark, and one may read books with its eternal light to further their understanding of the world.
+Desc_166
+To the bell rings in the fragrant breeze, fall to a reverie of bliss. This pair of jade bells dangle on threads of silk and chime when the wind blows, emitting a fragrance that keeps away nightmares from those who hear the bells and makes sure they only have revitalizing dreams.
+Desc_167
+The square jade chime is engraved with a Loong and intricate patterning. It produces a sound more solemn and graceful than ordinary stone chimes and was once only used by royal families during sacrificial ceremonies. The chimes arouse nostalgic feelings and calms the mind so greater things may be achieved.
+Desc_168
+The blessed land of Langhuang is an expansive realm encompassing secret tomes in each room. The jade pillow was once placed in Langhuan, the bibliotheca of the Heavenly Lord, for him to rest after reading and ponder on the books even in dreams for rare inspiration. It was somehow left behind in the world of mortals, and one might reach enlightenment in their dreams if sleeping on it.
+Desc_169
+Carved with Glacia Jade in the shape of a bowl, the Nostalgia Lamp could emit a flickering but elegant light in the dark. The light is chilly as if not of this earth, and those who hold it might feel empty inside and be rid of all emotions as they achieve enlightenment. If it is held by the weak-minded, they might even see their deceased family and weep endlessly.
+Desc_170
+Myriadcore Jade is the essence of all beauty and treasure, its brilliance reaching the mansions of the Ox and Dipper. The jade is a heavenly treasure in the land of immortals that absorbed life forces from the world of mortals. It contains spiritual energy that could reach even the furthest constellations in the galaxy. Those who hold it will learn the history of humanity and understand the ultimate secrets of the universe.
+Desc_171
+The Lucent Orb is a luminous orb that glows in the dark as it is blessed by heaven and earth. One may absorb the energy within and transform it into Qi.
+Desc_172
+White and as smooth as agar, the jade bowl may be used to hold fruit or drink liquor and tea. If one drinks water from it, the water warms and refreshes one's mind due to the effects of the jade essence.
+Desc_173
+Once used for sacrificial ceremonies, the jade disk is carved in the shape of the White Tiger. "The White Tiger roars, thunderous across the land before." As one of the Four Symbols, the White Tiger roars to bless the world with good fortune. By praying to the world with the Tiger Jadedisk, one may feel invigorated and courageous as if granted the Tiger's spiritual Qi.
+Desc_174
+The jade figurines are carved in the shape of the eight drunk Immortals, staggering, drinking with a wine jar, or head lowered... The eight Immortals all seem graceful and vigorous despite being drunk, and those who see it will be inspired and learn their elegant dispositions as if spiritually connected to them.
+Desc_175
+The jade and ivory beads are strung together, and since all beads are white and smooth, it is impossible to differentiate jade from ivory. Those who hold the beads may chant the divine name of the Jade Emperor to move the heavens and increase their innate Primordial Qi.
+Desc_176
+An ancient mirror was discovered in the Tang Dynasty that is carved with exotic beasts, eight trigrams, and twelve Earthly Branches on the edge. The jade mirror is made to imitate the ancient mirror that can reveal the true appearance of a devil, and if covered in gold dust, it shows one's bones and helps improve one's constitution through frequent practice and training.
+Desc_177
+The jade orb has absorbed the blood and primordial spirits of the six immortal Taoists, and when combined, the six spirits could unleash a divine power that could change fates and alter one's Root Bone. However, it is harmful for Immortals' Primordial Qi, and abusing it may bring about heavenly tribulation if found out.
+Desc_178
+The Heptastral Lamp with seven flames has been around since the Shang and Zhou Dynasties. Zhuge Liang in the Three Kingdoms period once lit a lamp with seven flames and claimed that if someone could keep the main flame lit for seven days, their lifespan would be prolonged by twelve years. The lamp is created with secret spells and capable of harnessing the power of Astral Coordination to adjust one's karma and interfere with their fate.
+Desc_179
+From the great void, Primordial Qi is generated, marking the beginning of all things and the changing of the five elements. The Primordial Scroll is a depiction of the stars at the beginning of time that also records the details of the world and the cycle of the five elements. If one could decipher the truth in the scroll, all the five heavenly energies - red, yellow, blue, white, and black - will flow from the constellations into their body and grant them all knowledge in the world.
+Desc_180
+The string of 108 crystal and shiny aqua jade beads is used for Buddhist prayer sessions and turns as one chants the Buddhist scriptures to free the mind from all troubles.
+Desc_181
+The string of polished jade prayer beads is proof of good morals and also worn for aesthetic purposes. It protects those who often wear the Buddhist Beads from bad luck and disasters, especially when they have faith.
+Desc_182
+The translucent jade is shaped like the Buddha's hand with a warm and natural presence. Each of these artifacts varies in shape and design, and those who see one will reach a calm state of meditation as if witnessing the Buddha's grace.
+Desc_183
+It bears the pattern of Mountains Seal... Immortals may wear it to pass on power; Taoists may wear it to walk across perilous land, as if blessed and welcomed by all divine spirits. The Mountains Seal is passed down from the Taishang Laojun, and this secret pendant must only be equipped by titled Immortals. Those who wear it may travel across the rivers and mountains without being harassed by any evil or poison.
+Desc_184
+Unlike other brilliant and bejeweled artifacts, the Dimlit Guardian only emits a faint light from the bottom. Instead of granting good fortune, it focuses on eliminating evil and suppressing demons to ensure the safety of the holder.
+Desc_185
+Legend has it that the five Loongs of wood, fire, metal, water, and earth left their bones in the barren northern lands before ascension to immortality. The jade pendant is carved in the shape of the five Loong bones and capable of guarding the Primordial Qi in the body. With enough faith, one may even use the pendant to find the buried Loong bones.
+Desc_186
+The heavens are divided into four directions, each guarded by the Azure Loong, White Tiger, Vermilion Bird, and Black Tortoise. Carved from spiritual jade, the buddhist pagoda has the Four Symbols embedded on the four sides on top. One may borrow the divine beasts' power at any moment to deter and suppress the enemy.
+Desc_187
+The Nature's Weiqi Board creates pieces from Yin and Yang energies as the players touch the board to place pieces. Those who have a calm and open mind will be able to stand up against any challenges with calm.
+Desc_188
+Despite the land unclean, the heart remains serene. Those pure of heart may keep filth away even when they walk among it. Created from Kunlun Oily Jade, the icy and crystal-clear Pure Jade Jug seems to contain endless celestial liquor that seeps through veins and frees one's mind from all troubles, making it as pure and innocent as ice.
+Desc_189
+Engraved with cloud or fish patterns, the pendant is made of crystal and often hung around the neck, wrist, and various implements for decoration. It is a durable and beautiful token of good luck.
+Desc_190
+The clear and smooth jade Ruyi is shaped like a staff with a claw at the tip and was once used to scratch an itch. It is often carved with the Loong or flowery patterns to symbolize good wishes and gifted to friends and family.
+Desc_191
+The jade vase is a ritual artifact that is square on the outside with a circular bore and carved with five bats on the four sides and the bottom, which is believed to be a symbol of good fortune. It is often used in sacrificial ceremonies for the earth, as the oracle asks for blessings from the heaven and earth with the help of the bats.
+Desc_192
+Haichan's wise trick for a gold brick. Legend has it that before Haichan became the God of Wealth, he tricked a gold toad into granting him 500 years of cultivation and offering money to help those in need. People often create works of art based on the story, and a statue of Haichan could bless the household with good fortune.
+Desc_193
+Marshal Zhao is the martial god of wealth that commands the four Immortals of treasures: Gold Seeker, Treasure Collector, Wealth Finder and Fortune Blesser. People often worship him and pray to his statue for "protection from illnesses and disasters, justice in the judicial system, and good fortune from all deals."
+Desc_194
+The Lotus Sutra reads, "Gold, silver, glaze, clams, agate, pearls, and roses are the seven jewels that make up the divine wreath." It is the amalgamation of great treasures and often worn by Bodhisattvas. Legend has it that inside the jewels is the essence of celestial peaches, which can miraculously heal wounds and stop exsanguination in emergencies.
+Desc_195
+The jade bracelet is carved in the shape of the thousand Buddhas as they manifest in the current era and blessed by an eminent monk through chanting scriptures. Those who wear it will receive the Buddha's guidance and repel the filth of "suffering, senses, fate, feelings, and troubles" or even transcend life and death if they attain enlightenment.
+Desc_196
+Seated before a banquet and blooms, to share drinks under the moon. The jade plate has a banquet, trees, and the moon engraved on it and feels cold to the touch. Under the full moon, it reveals a staggeringly beautiful scene of a crowded banquet with blooming flowers, and those who see it will feel as they were attending a feast with Immortals and ascending to the heavens.
+Desc_197
+Legend says that many once sought after a bowl that brought good fortune to its owner. "A silver hairpin left in the bowl multiplies to fill it to the brim." The treasure bowl is made of Kunlun Oily Jade and filled with precious gems, and even though it doesn't create wealth, those who have it will be blessed with good luck and fortune.
+Desc_198
+The jade pendant is popular among commoners and often hanged on the belt. "A gentleman may never forget his jade pendant." A virtuous man is often compared to jade for its warm and pure nature and integrity.
+Desc_199
+Pink wings flutter as the butterfly frolics over the wall. The artifact is a butterfly made of jade that is as vivid and graceful as butterflies dancing over blooming flowers. There is a flower that resembles such an item and has inspired many to compose poetry to praise its beauty in lilting tunes.
+Desc_200
+The green jade amulet is made in the shape of a fancy carp and often used as a keepsake or to command troops. It is a token of both love and imperial power.
+Desc_201
+The jade figurine is in the shape of an adorable and agile leopard cat. If one keeps a leopard cat, rats wouldn't dare show themselves. It is a fast and nimble creature that leaps and rolls to catch rats, and those who have the figurine may therefore imitate their clever movements.
+Desc_202
+In a gold jug boils the milk; in a jade cauldron simmer herbs. Taoists cook medicine in a jade cauldron shaped like the glovewort, which emits a faint and refreshing fragrance that also adds a sweet and soothing flavor to the bitter medicine.
+Desc_203
+The sun, the moon, and the stars follow set paths. The Illumination Orb contains spiritual Qi from the sun and the moon and shines brightly or faintly depending on the time and place. In its light, one can wisely judge situations and make use of the spiritual Qi inside the orb to reduce their own loss.
+Desc_204
+It is difficult to control Feng, the wind, with Primordial Qi, and Shui, the water, with motion and energy, to one's own advantage, but the Fengshui Orb could absorb fengshui energy depending on the location and work with it to replenish one's Qi and force. The orb will be even more effective in places with focused Primordial Qi and flowing water.
+Desc_205
+The Udumbara flower is a heavenly flower that grows if Tathagata descends upon the earth. Carved from spiritual jade, the Udumbara flower is snow-white and bone-chilling. Even though not the real sacred flower, it is still blessed by the Buddha's grace and emanates a fragrance that imbues the body with endless spiritual and auspicious energy.
+Desc_206
+Carved from jade of nine colors blended together, the vase is as ethereal and elegant as the nine Immortal maidens in the heavens. The vase will be filled with the Immortals' tears in the rain, and when the sun shines, the tears will turn into spiritual Qi that watches over its owner and protects them.
+Desc_207
+This pair of chopsticks is made of jade and sometimes used for dining in noble households. Unlike wooden chopsticks, they never stain or smell so that one may enjoy the most authentic taste of their food.
+Desc_208
+The mortar is carved in the shape of the adorable Jade Hare on the moon as it is its job to crush and grind herbs. Some believe that the Jade Hare grinds the medicine of immortality, so that the Jade Hare Mortar could enhance the effects of the medicine ground into it.
+Desc_209
+Dew forms in pure light, clear and bright. The cold emerald Purity Jug has a clear and shimmering sheen. With clean water inside, it will often form sparkling dew on the lip. Those who drink from the jug will feel refreshed and revitalized.
+Desc_210
+Carved from warm jade, the beautiful maiden has a gentle and warm smile and wears a flowing, elegant gossamer garment. Those who keep it by their side will feel safe and secure as if accompanied by a charming woman, and enemies who see it will be distracted by its beguiling beauty.
+Desc_211
+The transparent goblet made of glaze refracts a prismatic and chilly light. It is often used to hold fruit and liquor under the pale moon, showing an entrancing pattern on the table when moonlight shines through the glass. One couldn't help but ponder and learn to bewitch their opponent.
+Desc_212
+A talented man in the Tang Dynasty met an Immortal maiden and eventually married her after grinding medicine for her for a hundred days. The Jadefrost Mirror might have belonged to the Immortal maiden, and was gifted to the young man with the heavenly energy of frost sealed inside to assist him in secret. Some also say that the mirror could show one's loved one instead of a reflection.
+Desc_213
+People must drink soup from Meng Po, the deity of oblivion, and cross the River of Forgetfulness to forget their past life and be reborn. But those forgotten memories will be remembered in this Mirror of Forgetfulness, and those who find their mirror might recall their past lives and be overwhelmed by strong emotions.
+Desc_214
+Xuanhuang is a jade arc that governs the north in the rites of Zhou. The spiritual jade arc emits five iridescent lights during sacrificial ceremonies, which is the proof of blessings from the god of the north. "From the five lights blow warm breezes from eight sides." The god will send warm winds from all directions and bless one in battles.
+Desc_215
+The jade scroll is a record of divine orders from the Kunlun Mountains, which may only be interpreted by a select few. Those who accept these orders will have heavenly assistance and learn to attack with all the energy between heaven and earth, the force of which is strong enough to crush any ordinary enemy's spirit.
+Desc_216
+The jade amulet is shaped like a cocoon that is spun and left by an insect for protection as a pupa. Those who hold it would learn to meditate and focus on the mind for invincibility.
+Desc_217
+The Uncut Jade Orb is a natural round jadestone that is not carved or processed. It is plain-looking with hidden spiritual powers, so people often compare uncut jade to talents that are yet to be discovered.
+Desc_218
+The Record of Foreign Matters reads, "Qingfu appears like a long cicada, the Gu of which is like a shrimp roe and always followed by its mother." There is a mythical insect that looks like a cicada in its mature form and shrimp roe in its larval stage. This pair of Qingfu Rings is carved with both forms of the insect, symbolizing companionship that lasts for eternity.
+Desc_219
+The jade hook is long and curved with the mythical beast, Chi Loong, carved on the front and a smaller one on the back. It can be worn on the belt around the waist to reduce stagnant Qi in the body.
+Desc_220
+The Enigma Ding is a ritual artifact that holds the answers to mysteries and tells the change of season, while mysteriously changing in shape and color with the time and weather. It holds nothing tangible but the Yin and Yang energy in the world, which will be tempered and then absorbed by one's body.
+Desc_221
+Zhuangzi reads, "Chang Hong died in Shu, and his blood turned into jade three years later." The Blood Gourd is filled with blood inside. It prefers absorbing human blood, but in order to devour more, it has to continuously convert it into Qi, which may be used as replenishment for one's body.
+Desc_222
+Taiji Diagram is a circle with black and white jade that symbolizes Yin and Yang. Some say it is the only token left from ancient times that holds the truth about the way of nature and energy flows, how material essence turns into Qi, spirit, void, harmony, and eventually the Ultimateless. If one could solve the mysteries in the diagram, they may make use of their mind and Qi to the fullest and keep honing their skills through cultivation before eventually achieving immortality.
+Desc_223
+The Purification Vase is a precious artifact of the Immortals that contains Elixir Vajra used to revive the dead. A mortal happened to find such a vase, and even though empty inside, it is still a miraculous object that purifies water and replenishes one's body with heavenly energy, granting them extraordinary powers.
+Desc_224
+The vastness of the four seas never ceases to amaze the world. However, this casket is spacious enough to hold all the sea water and may only be opened by the Revered with mantras. The Oceanic Casket is empty and yet filled with the power of the universe, and if one carries it with them, they will feel an overwhelming and endless flow of Primordial Qi in their body.
+Desc_225
+Forged from Aerosiderite, the ring is in the shape of a sinister Loong with its head beneath its tail, symbolizing the power to dictate life and death. Those who wear it feel powerful enough to slay Loongs, inflicting severe injuries as if clawed by a ferocious Loong.
+Desc_226
+Xuan Chi, an ancient deity of the mountains that was the King of Chu's mount during his expedition to the north. Written in golden ink and made of divine iron, the scroll records the origins of the deity, Xuan Chi, and the way to tame it. Hence, legend says that "Seek Xuan Chi with the scroll to ascend above the clouds and sky."
+Desc_227
+Haotian means immense Primordial Qi. Inspired by the celestial artifact possessed by Jade Emperor, the Haotian Pagoda is carved from wood that, even though inferior to the original artifact, may still gather Primordial Qi between the heaven and earth and nourish one's body and mind, with the power to suppress evil beings underneath for eternity.
+Desc_228
+The Classic of Mountains and Seas reads, "Xihe is the wife of Emperor Jun and the mother of the ten suns." Xihe is the goddess of the sun who gave birth to the ten suns that are the source of all Yang energy across heaven and earth. The Xihe Seal may also generate Yang energy from chaos and the darkest nights, cleansing anything Yin and ominous it encounters and filling its surroundings with a Yang air.
+Desc_229
+Nüwa created mankind by instilling divine power into clay dolls and granting them the ability to reproduce. The Nüwa Painting is a reimagination of the story, and it is blessed with part of the goddess's divine power that offers one the spiritual energy of life and facilitates rejuvenation if they suffer from rotten flesh.
+Desc_230
+Made of Purpletwist Bamboo, this rare purplish black incense burner emits a spiritual fragrance when incense is burned, appeasing all the sorrow, guilt, and depression in one's mind and releasing the feelings into the air to shield one from agony and pain.
+Desc_231
+To liberate from the causes and effects in the cycle of life and death is the state of nirvana. The Great Nirvana Orb is a relic that has been liberated from the causes and effects and transcended life and death beyond the eighteen dhatus. Those who carry it may attain enlightenment and achieve a calm and worry-free state of mind where there is no suffering or desire and enter the "Ultimate Equanimity."
+Desc_232
+Tumi, or roseleaf raspberry, once only grew in the heavens. All evil in one's mind will be purged at the sight of this white and delicate flower, as the Buddha believed it to be auspicious. The spirit of the purple bamboo transformed into the flower to seek a clear mind in the world of mortals. "To know the truth of all beings, to dispel evil, to follow nature, and to break free from desire." It frees the mind from the troubles of dreams and illusions.
+Desc_233
+To the flow of the banner sound the thunderous beats of the drum. The spiritual banner waves in the wind and with it comes an overwhelming roar of thunder, which motivates those who hear it and grants them indomitable might and the ability to change everything around them in an instant.
+Desc_234
+The piece of Cloudlight Clout encompasses all rare and natural phenomena, and once unfolded, it will be enveloped in a rosy, dazzling, and flowing light. Those who carry it will feel unencumbered while moving, as if riding on clouds and could reach any corner of the world.
+Desc_235
+Sumeru in a tiny seed; the whole universe in a linen pouch. The Universe Pouch may seem like an ordinary linen pouch with horns, but it in fact contains the ultimate way of creation. It shrinks to the size of a seed when not in use, and expands to hold all things inside without changing its shape. It is even said to be large enough to encompass the universe but mortals cannot unleash its true power.
+Desc_236
+The Book of Sui reads, "At the beginning of the world, Pangu parted chaos into the heavens and earth, raising mountains and deepening oceans." The Dawning Orb is made of a divine stone from the dawn of time that is told to have taken in the ultimate power of the ancient emperor, Pangu, which would be activated when polished. It is constantly releasing the overwhelming might and granting those who carry it the strength to defend against an entire army.
+Desc_237
+The golden statue is carved from a sacred stone into the Heavenly Jade Emperor with a brilliant divine glow, who governs the fates of all lives and commands the Primordial Qi. Touched by the sincerity of those who sculpted the statue, the Venerable Elder bestows Primordial Qi on mortals to prolong their lives.
+Desc_238
+Polished from Deus Gemstone, the Divinity Mirror shows a myriad of changing reflections, and only the calm-minded may see their true self in the mirror. From it one may learn that physical changes come from within, which grants them the abilities to transform quickly and flexibly as they please.
+Desc_239
+The Seven Tablets in a Cloudy Satchel reads, "Lady Taizhen is the youngest daughter of the Queen Mother, sixteen or seventeen of age." The jade fan is said to once belong to Taizhen, an Immortal maiden in Penglai, and whoever has the artifact may follow the maiden in and out of the land of Immortals. Since it is from Penglai, it brims with divine energy that makes one feel as carefree as an Immortal as if they had ascended to the celestial realm.
+Desc_240
+The Commentary of Zuo reads, "The banner of the sun, the moon, and the stars shine in their brilliance." Carved from divine jade, the banner holds all the light in the world. It absorbs radiance from the sun under the clearest sky and the moon and stars on a bright night and glows ever so brightly and dazzlingly. In such brilliance, those connected to the banner will be able to see objects down to the most minute detail and move swiftly with no doubt in their mind.
+Desc_241
+Hou Yi once saved the world by shooting the nine suns, from which nine three-legged crows fell, and they swore revenge. The Golden Crow's Eye is made of a sacred stone that absorbed the hatred of the nine crows. Those who have it will be driven by such emotions, moving and attacking suddenly in chaotic ways.
+Desc_242
+The Almighty Seal does not weigh thousands of kilograms, but it contains enough divine power to lift such weight. Rarely are there people born with the might of Wu Huo, a warrior of great strength in the Qin Dynasty, but with the seal, one will gain such incredible power through the sheer force of one's mind that it can shatter the ground and make the sky tremble in fear.
+Desc_243
+Myriadcore Jade is the essence of all beauty and treasure, its brilliance reaching the mansions of the Ox and Dipper. The jade is a heavenly treasure in the land of immortals that absorbed life forces from the world of mortals. It contains spiritual energy that could reach even the furthest constellations in the galaxy. Those who hold it will learn the history of humanity and understand the ultimate secrets of the universe.
+Desc_244
+From the great void, Primordial Qi is generated, marking the beginning of all things and the changing of the five elements. The Primordial Scroll is a depiction of the stars at the beginning of time that also records the details of the world and the cycle of the five elements. If one could decipher the truth in the scroll, all the five heavenly energies - red, yellow, blue, white, and black - will flow from the constellations into their body and grant them all knowledge in the world.
+Desc_245
+Despite the land unclean, the heart remains serene. Those pure of heart may keep filth away even when they walk among it. Created from Kunlun Oily Jade, the icy and crystal-clear Pure Jade Jug seems to contain endless celestial liquor that seeps through veins and frees one's mind from all troubles, making it as pure and innocent as ice.
+Desc_246
+Legend says that many once sought after a bowl that brought good fortune to its owner. "A silver hairpin left in the bowl multiplies to fill it to the brim." The treasure bowl is made of Kunlun Oily Jade and filled with precious gems, and even though it doesn't create wealth, those who have it will be blessed with good luck and fortune.
+Desc_247
+Carved from jade of nine colors blended together, the vase is as ethereal and elegant as the nine Immortal maidens in the heavens. The vase will be filled with the Immortals' tears in the rain, and when the sun shines, the tears will turn into spiritual Qi that watches over its owner and protects them.
+Desc_248
+The jade scroll is a record of divine orders from the Kunlun Mountains, which may only be interpreted by a select few. Those who accept these orders will have heavenly assistance and learn to attack with all the energy between heaven and earth, the force of which is strong enough to crush any ordinary enemy's spirit.
+Desc_249
+The vastness of the four seas never ceases to amaze the world. However, this casket is spacious enough to hold all the sea water and may only be opened by the Revered with mantras. The Oceanic Casket is empty and yet filled with the power of the universe, and if one carries it with them, they will feel an overwhelming and endless flow of Primordial Qi in their body.
+Desc_250
+A statue of an Arhat stern of face, mounted on a white deer. It is said that the Deer-riding Arhat once rode a deer into the royal palace, revealed miraculous powers of the Dharma, and converted King Udayana, who thereafter turned to compassion and the Buddha's path.
+Desc_251
+A statue of an Arhat laughing heartily with belly full and dharma implement in hand. It is said that upon hearing the Buddha preach, the Joyful Arhat was filled with delight and attained Arhatship. Ever after, he bore a joyful countenance to dispel the sorrows of all beings.
+Desc_252
+A statue of an Arhat lowering his head, holding up an iron alms bowl. It is said he once met a poor woman who offered but a pinch of coarse salt. Accepting it with equanimity, the Alms-bowl Arhat transformed it into treasure, freeing her from poverty.
+Desc_253
+A statue of an Arhat with eyes wide, bearing a pagoda in his palm. It is said he was the Buddha's last disciple. To commemorate his master, he bore the tower aloft, reminding all that the Dharma endures forever.
+Desc_254
+A statue of an Arhat seated cross-legged, eyes shut, unmoving as a mountain. It is said that he was once a mighty warrior who renounced the world to practice. Through deep meditation, he subdued his inner demons and once sat seven days without stirring, even moving thieves to repentance.
+Desc_255
+A statue of an Arhat flying across a river, his robes billowing. It is said that as the Buddha's attendant, he crossed the Ganges to spread the Dharma. When storms arose, he could summon divine power to calm the waves.
+Desc_256
+A statue of an Arhat astride a great elephant, gazing into the distance. It is said he was once the Buddha's elephant tamer, who rode mighty beasts to journey far and wide, guiding beings to cast off worldly frivolity.
+Desc_257
+A statue of an Arhat joyfully playing with a lion. It is said that the Smiling Lion Arhat was once a hunter in the wilderness. Later, he laid down his blade, took refuge in the Buddha, and in his practice often smiled at wild lions. The lions, moved by his compassion, followed him ever after.
+Desc_258
+A statue of an Arhat baring his chest, smiling, and pointing to the sky. It is said the Happy Arhat was once a prince of Sindhu. Renouncing worldly life, he became a monk and often revealed his chest to show the Buddha-nature within, declaring, "Buddha-nature is innate, not sought outside."
+Desc_259
+A statue of an Arhat sitting sideways on a cliff, stretching his hand downward. It is said the Reaching-hand Arhat once practiced austerities deep in the snowy mountains, often extending his hand to guide the lost and save the suffering, thus earning his name.
+Desc_260
+A statue of an Arhat resting his chin on his hand, brow furrowed in thought. It is said the Meditative Arhat was the Buddha's own son, who renounced the world in childhood and spent his days contemplating the profundities of Dharma, becoming a model for all practitioners.
+Desc_261
+A statue of an Arhat tilting his head and picking his ear, with a faint smile. It is said the Ear-picking Arhat often performed this gesture to diligently cultivate the faculty of hearing, cleansing the six senses of defilement, and through this practice attained mastery of perfect hearing.
+Desc_262
+A statue of an Arhat carrying a cloth bag over his shoulder, grinning broadly. It is said the Cloth-bag Arhat wandered with his sack, and when asked about it, revealed that it held all things and could even contain the afflictions of sentient beings.
+Desc_263
+A statue of an Arhat leaning against a banana tree, casually reading a sutra. It is said the Banana-leaf Arhat often meditated in a banana grove until one day he awakened to the truth that "All dharmas are like the banana stalk—hollow within and without substance," and so the people named him the Banana-leaf Arhat.
+Desc_264
+A statue of an Arhat with white brows trailing to the ground, eyes closed in recitation. It is said he endured nine rebirths of austere practice, offering lamps to the Buddha. In his tenth life, for boundless merit, he was born with brows that touched the earth, his wisdom vast as the sea.
+Desc_265
+A statue of an Arhat standing with staff in hand, fierce in appearance. It is said that, being slow-witted, he was assigned by the Buddha to guard the gate and sweep the dust. Over time, he swept away the defilements of the mind, attaining enlightenment and Arhatship.
+Desc_266
+A statue of an Arhat soaring on clouds, seizing a loong. It is said that while cultivating in Magadha, he encountered a venomous loong that plagued the people. Entering meditation for seven days, he manifested divine powers and subdued the divine loong, who then took refuge and became a Dharma enforcer.
+Desc_267
+A statue of an Arhat binding a great tiger, compassion shining in his eyes. It is said that while living in seclusion, he pitied the starving tigers of the forest. Feeding them with his own meals, he gradually transformed their nature, and they became his enforcers of the Dharma.
+Desc_268
+A worn-out shoe left after the old man in the dreams disappeared.\nThe shoe has seen perils and boredom across the land, but remains sturdier than ordinary footwear. The word "Cultivation" is neither embroidered on its surface nor written in ink, and upon closer observation, it may not even resemble a word, but seems more like patterns in blood and sweat, a formless form, alive yet dead, like the Path of Chan Arts: in meditation cultivate the mind; in justice one remains inclined...
+Desc_269
+In ancient times, before the world fully took shape, the land was teeming with wild spirits and wandering beasts. Legend has it that if a creature devours rare treasures like flame essence, Centuria Berry, or aqua jade, it can't digest them. Instead, these treasures will condense within its body over time, eventually forming an Eldritch Orb. With this orb, a creature can take human form, and once it does, its lifespan will stretch far beyond 10,000 years. However, such beings are often solitary by nature, slow to develop wisdom, and possess strange yet pure temperaments, making them feared and shunned by the world.
+Desc_270
+A pair of aged needles, each crafted with different materials and designs, bearing the marks of time.\nThese needles were a parting gift to Feng Qing from her mentors, Xuan Wuyou and Bai Wuyang, when Feng set out on her journey. Forged from the essence of a celestial realm, they are engraved with scenes of flowers blooming at sunrise and wilting beneath the moon—reminders that life and death follow their course, bound by fate. Yet, fate was unkind. Feng Qing met her end in sacrifice, and these once-sacred relics faded into obscurity, lost to the passage of time...
+Desc_271
+It is born from the very essence of Zhenwu's being, a force beyond this world.\nQi is the source of all things, flowing into existence and eventually returning to it. However, this Qi lingers, unable to dissipate or merge back into the cycle, for it was never of this world to begin with. When drawn in through breath and meditation, it seems to yearn for a place beyond the heavens, granting the practitioner a sense of transcending reality. But what lies beyond the sky—an Immortal's Mansion or an endless void?
+Desc_272
+Since Pangu cleaved the primal chaos and Nüwa molded humankind from clay, the Cosmic Trinity Essences of Heaven, Earth, and Humanity came into existence. Later, with the arrival of Xiangshu, part of these essences was tainted by its demonic aura, giving rise to evil thoughts that transformed into the Three Demons. The Demonbane Bone was created with the intent of "slaying all fiends and banishing all ghosts, to cleanse the world with unwavering resolve." It was formed from dispersed energies of the Three Demons' Hearts, harboring both the Three Essences and a portion of Xiangshu's demonic aura. These two opposite forces—one pure, one turbid—are locked in eternal counterbalance.
+Desc_273
+This drum of Lion-Face Clan serves as a symbol of unity among the subordinate sects of the Lion-Face Clan, its beats meant to rally members.\nShaped like a Jiegu, it produces a low, deep sound. On its left side, a sleeping lion is painted—the emblem of the Slumbering Lion Hall. On the right, a majestic lion with a flowing mane—the emblem of the Splendid Lion Hall. On the front, a fierce lion baring its fangs and claws—the emblem of the Wild Lion Hall. Each sect left its mark on the drum, but with all the constant infighting, those marks were constantly being wiped clean and reapplied. After so much, they've all blended together into a messy, unrecognizable mix...
+Desc_274
+A jade sigil buried beneath the ancient trees of Qinglang Pavilion, engraved with the words "Peace, Patience, Balance, Stillness." It absorbs Spiritual Qi from the world and even True Qi from people, converting it into vitality. This relic was the final gift of the Ghost Valley Master to his three disciples before his passing. Unable to accept their master's fate, the disciples used the sigil to forge a realm among the clouds, siphoning energy from the heavens and mortals alike to sustain his life. In the chaos of Xiangshu and shifting fates, they sought a path for his rebirth, hoping he would return to guide the world. However, as centuries passed, their celestial refuge drifted further from humanity, until the divide became irreversible...
+Desc_275
+A fragment of a broken mirror, somehow taken from the Egarim. It's not metal, stone, jade, or anything recognizable. Along its edges, faint engravings tell a story—one scene shows celestial maidens descending from the sky, circling around the Egarim. Another depicts the Egarim changing form, blooming like a lotus. In the next, twelve divine figures draw drops of crimson blood from a blazing sacred furnace and place them into the lotus-like Egarim. And in the last, countless naked figures emerge from within...
+Desc_276
+The ultimate masterpiece of the modern skills from Swordsmith Villa, crafted by fusing the indomitable iron that has withstood countless strikes of blades and hammers at the Ancestral Forge. Tempered in searing flames, it has nearly reached an indestructible state, embodying the very spirit of the smith's unwavering will and the essence of creation. Its very presence instills fear in all weapons, causing anything forged with inferior Artisanship, materials, or tempering to shatter upon contact.
+Desc_277
+A rare and precious ingredient scraped off the inner surface of the Prime Alchemist Ding of the Kongsang Sect, it is condensed dregs left after centuries of medicinal concoctions. It may not be directly digested, but it forms a lasting haze of six colors.\nAccording to the Kongsang Sect, after Qin Shi Huang sent Xu Fu to Mt. Chai and sacrificed thousands of virgins in vain for an concoction that would grant immortality, he gathered the divine iron of the Five Sacred Mountains and ordered the crafting of this Prime Alchemist Ding in the hopes of concocting such an concoction. Unfortunately, Qin Shi Huang died before the Ding even produced a pellet, and it was thus moved to Mt. Kongsang with the alchemists who had lost the emperor's favor...
+Desc_278
+A skull helm, shaped from shattered bones and held together by dark sorcery.\nIt radiates unrest and impurity, stirring uncontrollable anger and hatred in those who gaze upon it. Few can bear to look directly at it. Yet, for those who can steady their mind and peer deep within, the crown reveals boundless joy—souls cycling through life and death, and the path to enlightenment woven into the fabric of existence. To behold such a dreadful relic is to witness both death and life, for they are one and the same. Without fear, wisdom remains elusive.
+Desc_279
+An ancient shamanic grimoire passed down for generations within the Five Immortals Sect. However, rather than detailing venomous hexes, it records the tangled pasts, feuds, and stories between the Miao tribal leaders, sect heads, and Gu Immortals.\nAlthough the grimoire contains no incantations or sigils, reading its tales aloud to Gu elicits strange reactions. Some grow restless, others sluggish; some roll over, while others curl up motionless.\nPerhaps its opening words hold the key: "Gu is the heart of the soul and the emotions of the ghost." Could it be that these creatures feed not on flesh, but on the poison within the human soul?
+Desc_280
+Malevolence Elder and Benevolence Elder practiced cultivation together in their youth. Above the Demise Abyss, they found a wondrous, naturally formed stone. The two carved into it all the celestial phenomena they observed and the insights into fate they had gained. When the chart was complete, starlight converged within it, and a spiritual aura was born. However, the two eventually had a falling out at this very place. Benevolence Elder fell to the Demise Abyss, and the star chart shattered along with him, its fragments lost in the abyss. Today, only this star chart fragment has been found. Though covered in cracks, its starlight has not faded, and the positions of dozens of constellations still flow within it, reflecting the image of the two of them gazing at the starry river together in years past...
+Desc_281
+When the Vermilion Bird secretly descended to the mortal world, its feathers were scorched by heavenly fire, turning into divine dust gathered by those with keen eyes. Legend has it that the Vermilion Bird, ancestor of all sacred birds, was once punished for pecking at the Heavenly Emperor's Bellflower in the Mystic Garden, causing the flower to fall into the mortal world. However, unable to resist its craving, the bird descended twice more in pursuit of the flower, only to fall both times upon the Chiming Island...
+Desc_282
+An old iron plate that is carved with small inscriptions in the front,\n"Emperor Zhaozong of Tang promoted Taoism, and hence various schools flourished, among which outlaws took advantage of the faithful and brought chaos to the world.\nEleven disciples of the Maoshan Mountain shall leave to slay evil for the greater good..."\nAnother line of scribbles is carved on the back, "The evil has been slain, but I may never return. I shall be buried with my love in the blood tomb. This iron plate shall be returned to the Maoshan Mountain by my disciple, who has followed me for years, talented but not pure enough of heart. Please take in my disciple, as I may not be able to..."\nThe last sentence was scratched and changed into "My mentors, I promise I shall find my way back..."
+Desc_283
+Before entering Shaolin, the wordless monk received this bowl for his remarkable capacity.\nThough ancient, it remains flawless and smooth; gaze upon it with a still mind and it becomes a quiet lotus pond, calming a hundred inner demons.\nTradition holds that Bodhidharma, before his passing, entrusted robe and bowl to Huike—"the inner seal for confirming the mind, the outer robe for marking the lineage"—thus beginning the Chan transmission of robe and bowl...
+Desc_284
+It is said that in ancient times, an immortal ape once descended from a mountain peak upon the clouds, transformed into an old man with a weathered face, and presented a jade tablet as a gift, passing on all he had learned in his lifetime to one bound by fate.\nThis object is over a chi in length, carved from a single piece of ancient jade. Though unadorned by any intricate carving, it seems to have gathered the pure radiance of heaven and earth, and the lustre of sun and moon. Its emerald sheen is natural and flawless, bearing an aura of primordial grace...
+Desc_285
+Its core is of dark wood, its color somber and profound, like a vast, silent emptiness. Its body is of white jade, its luster brilliant and spiritual, like a blazing, pure light. \nThis instrument was crafted from the refined essence of the Dark Owl and White Deer after they, with Taiwu's aid, perfected the law of eight births and eight deaths. It resonates with a long-lasting life force and a deep tranquility, intended to soothe the pain of the wounded and pacify the grievances of the dead. \n"Music heals the heart, balances the blood and qi, lets the spirit flow, and rectifies the mind." All that is born of heaven and earth resonates with rhythm. Using music as medicine, playing this flute can open the five meridians and eight vessels, bridging life and death...
+Desc_286
+When the Little Black Snake shed its form and became human, it plucked a heart-guard scale from its breast and offered it to Taiwu. Smooth as jade, black and white shifting with inner light, it holds the True Qi of Turtle and Snake—yin and yang entwined, soft and firm as one. The Little Black Snake hopes Taiwu keeps it close, to ward off evil and wander the Martial World free from calamity.
+Desc_287
+The precepts of the Yuanshan Sect, once carved upon a cliff face, have endured the vicissitudes of time. While the characters still gleam with brilliance, the stone carvings have become blurred and indistinct. They seem to depict a great serpent soaring with bared fangs, a crowd of people treading forward with blades in hand, and beasts aiding them in their assault on the serpent. \n"Sincerity is felt within, and its form and qi move the heavens. Bodhi is sought only in the heart; why labor to seek mysteries externally?" Because the stone of this valley was worshiped for a century and witnessed a thousand sincere recitations, it absorbed a ceaseless stream of devotion, imbuing the cliffside sutra with a profound and righteous will...
+Desc_288
+"Lions burst through dusk-bound cloud, Their arrows cleanse the fiends with fire. They laugh beneath the mast unbowed, No ship from afar dares venture higher." This black-and-gold battle banner bears a flying lion trampling storming waves. Its fierce gaze and outstretched wings command awe, as though subduing a thousand leagues. Wherever it points, and wherever the lions charge, evil breaks and the seas remain forever guarded.
+Desc_289
+This seal was hidden in the Depths of the Heart that Guiguzi created for the Three School Founders. It only appeared in the world when their attachments were completely dispelled and their mindscape opened. Its name, taken from the saying, "The number of the great plan is fifty, of which forty-nine are used," symbolizes that all the myriad things of the world ultimately return to a single origin. In the past, the Land of Immortals was distant and the Taoist heart was veiled in dust; now that the barrier of attachment is broken and the original heart is clear again, one understands that the Great Tao is profoundly simple, contained within one's own self...
+Desc_290
+"In love I give all I may, offering the moonlit gems of Jiangnan."\nThis ancient pair of jade pendants gleams like crescent moons, their shifting light akin to moonshine distilled. Cool to the touch, carrying a faint orchid scent, they stir memories of Mt. Wu clouds and winter peaks.\nThe Celestial Maiden gifted them so that moon and stars may walk beside Taiwu on the road ahead...
+Desc_291
+"Jade water melds five hues, star-light tempers heaven's glow." This jade basin, used by Master Ou when unraveling the mystery of Heaven's Mechanism, is pale-green and translucent, as round as a full moon. When filled with water, five-colored halos flow across its surface, refining any tool placed within—each creation emerging with the quiet radiance of heaven and earth.
+Desc_292
+"A glazed medicine bowl, a plate of ivory, a golden ding and jade dagger to mix a divine elixir." Though the bamboo slips are damaged, they remain as verdant as new, exuding a rich medicinal aroma. Yet, they are covered in marks from knives, axes, brushes, and water, though the characters—some in flowing cursive, others in formal seal script—can still be discerned. \nThe writing, fine as silk, covers the slips and seems to move with a life of its own, forming the elixir formulas born from the painstaking efforts of countless alchemists. All their words and trials sought a single goal: immortality...
+Desc_293
+A string of fifty wooden beads, each carved with a humanlike face, forming a tantric rosary filled with strange vitality.\nHeavy as stone and uncanny in shape, they seem to show fleeting visions of life and death—three poisons rising, eight sufferings entwining, all passing like smoke. Rubbing them stirs countless drifting spirits, warm and lingering in the palm.\nThis relic once belonged to the Borrowed Robe Monk. Its origins obscure, destined to fall into Taiwu's hands by fate alone.
+Desc_294
+"There were once the maple's trunk, and the maple's heart. From the trunk and the heart was born Mais Bangx Mais Lief—embodiment of the Butterfly Mother, ancestress of the Miao." This ancient silver ornament, shaped like a human-faced butterfly, was crafted in her image. Carried across migrations and war without dulling, its enduring luster mirrors the Miao people's unwavering faith.
+Desc_295
+Asura King fell to the Emperor of Heaven. His mort warrior Ally descended with a dying star, and was imprisoned in the Demise Abyss for eons. Though rescued by the Taiwu, Aruna's withered soul finally dissipated. In his passing, the star-husk turned to jade and his war-soul to crystal—this relic. Starlight flickers within; in the silent night, one can hear the clash of steel and distant war-cries, as if that ancient battle still echoes deep within the stars...
+Desc_296
+It is said the Vermilion Bird of the Four Symbols—essence of fire—rises as sky, settles as earth, its body wreathed in eternal flame.\nThis feather burns red like flowing fire, gleaming with shifting five-colored light as though sun, moon, and stars gather within a single plume.\nBound by deep friendship with Taiwu, the Vermilion Bird offers this treasured feather so that, even at the edge of life and death, Taiwu may ignite purity like sacred flame—burning away corruption and restoring life anew...
+Desc_297
+One of the burial artifacts made for a princess who died young. Carved from fine jade and assembled from nine separate pieces into a grand pendant, it is adorned with the image of a fenghuang soaring through the nine heavens, intricately engraved with flowing cloud patterns. \n"The fenghuang calls, high on a distant hill. The wutong tree grows, facing the morning sun." However, this jade was ultimately scorched in the fires of war, leaving black-brown burn marks, and was later stained by tomb miasma, imbuing it with mottled crimson specks. Its form and color now resemble a fenghuang weeping blood. \nSuch an exquisite and solemn object is now as light and resilient as bone. To the touch, it is warm and smooth; to hold it is to feel one's own essence stir with an inconsolable sorrow...
+Desc_298
+A ring obtained after slaying a Notorious Thief. When worn, it seems to aid in stealing...
+FunctionDesc_0
+
+FunctionDesc_1
+
+FunctionDesc_2
+
+FunctionDesc_3
+
+FunctionDesc_4
+
+FunctionDesc_5
+
+FunctionDesc_6
+
+FunctionDesc_7
+
+FunctionDesc_8
+
+FunctionDesc_9
+
+FunctionDesc_10
+
+FunctionDesc_11
+
+FunctionDesc_12
+
+FunctionDesc_13
+
+FunctionDesc_14
+
+FunctionDesc_15
+
+FunctionDesc_16
+
+FunctionDesc_17
+
+FunctionDesc_18
+
+FunctionDesc_19
+
+FunctionDesc_20
+
+FunctionDesc_21
+
+FunctionDesc_22
+
+FunctionDesc_23
+
+FunctionDesc_24
+
+FunctionDesc_25
+
+FunctionDesc_26
+
+FunctionDesc_27
+
+FunctionDesc_28
+
+FunctionDesc_29
+
+FunctionDesc_30
+
+FunctionDesc_31
+
+FunctionDesc_32
+
+FunctionDesc_33
+
+FunctionDesc_34
+
+FunctionDesc_35
+
+FunctionDesc_36
+
+FunctionDesc_37
+
+FunctionDesc_38
+
+FunctionDesc_39
+
+FunctionDesc_40
+
+FunctionDesc_41
+
+FunctionDesc_42
+
+FunctionDesc_43
+
+FunctionDesc_44
+
+FunctionDesc_45
+
+FunctionDesc_46
+
+FunctionDesc_47
+
+FunctionDesc_48
+
+FunctionDesc_49
+
+FunctionDesc_50
+
+FunctionDesc_51
+
+FunctionDesc_52
+
+FunctionDesc_53
+
+FunctionDesc_54
+
+FunctionDesc_55
+
+FunctionDesc_56
+
+FunctionDesc_57
+
+FunctionDesc_58
+
+FunctionDesc_59
+
+FunctionDesc_60
+
+FunctionDesc_61
+
+FunctionDesc_62
+
+FunctionDesc_63
+
+FunctionDesc_64
+
+FunctionDesc_65
+
+FunctionDesc_66
+
+FunctionDesc_67
+
+FunctionDesc_68
+
+FunctionDesc_69
+
+FunctionDesc_70
+
+FunctionDesc_71
+
+FunctionDesc_72
+
+FunctionDesc_73
+
+FunctionDesc_74
+
+FunctionDesc_75
+
+FunctionDesc_76
+
+FunctionDesc_77
+
+FunctionDesc_78
+
+FunctionDesc_79
+
+FunctionDesc_80
+
+FunctionDesc_81
+
+FunctionDesc_82
+
+FunctionDesc_83
+
+FunctionDesc_84
+
+FunctionDesc_85
+
+FunctionDesc_86
+
+FunctionDesc_87
+
+FunctionDesc_88
+
+FunctionDesc_89
+
+FunctionDesc_90
+
+FunctionDesc_91
+
+FunctionDesc_92
+
+FunctionDesc_93
+
+FunctionDesc_94
+
+FunctionDesc_95
+
+FunctionDesc_96
+
+FunctionDesc_97
+
+FunctionDesc_98
+
+FunctionDesc_99
+
+FunctionDesc_100
+
+FunctionDesc_101
+
+FunctionDesc_102
+
+FunctionDesc_103
+
+FunctionDesc_104
+
+FunctionDesc_105
+
+FunctionDesc_106
+
+FunctionDesc_107
+
+FunctionDesc_108
+
+FunctionDesc_109
+
+FunctionDesc_110
+
+FunctionDesc_111
+
+FunctionDesc_112
+
+FunctionDesc_113
+
+FunctionDesc_114
+
+FunctionDesc_115
+
+FunctionDesc_116
+
+FunctionDesc_117
+
+FunctionDesc_118
+
+FunctionDesc_119
+
+FunctionDesc_120
+
+FunctionDesc_121
+
+FunctionDesc_122
+
+FunctionDesc_123
+
+FunctionDesc_124
+
+FunctionDesc_125
+
+FunctionDesc_126
+
+FunctionDesc_127
+
+FunctionDesc_128
+
+FunctionDesc_129
+
+FunctionDesc_130
+
+FunctionDesc_131
+
+FunctionDesc_132
+
+FunctionDesc_133
+
+FunctionDesc_134
+
+FunctionDesc_135
+
+FunctionDesc_136
+
+FunctionDesc_137
+
+FunctionDesc_138
+
+FunctionDesc_139
+
+FunctionDesc_140
+
+FunctionDesc_141
+
+FunctionDesc_142
+
+FunctionDesc_143
+
+FunctionDesc_144
+
+FunctionDesc_145
+
+FunctionDesc_146
+
+FunctionDesc_147
+
+FunctionDesc_148
+
+FunctionDesc_149
+
+FunctionDesc_150
+
+FunctionDesc_151
+
+FunctionDesc_152
+
+FunctionDesc_153
+
+FunctionDesc_154
+
+FunctionDesc_155
+
+FunctionDesc_156
+
+FunctionDesc_157
+
+FunctionDesc_158
+
+FunctionDesc_159
+
+FunctionDesc_160
+
+FunctionDesc_161
+
+FunctionDesc_162
+
+FunctionDesc_163
+
+FunctionDesc_164
+
+FunctionDesc_165
+
+FunctionDesc_166
+
+FunctionDesc_167
+
+FunctionDesc_168
+
+FunctionDesc_169
+
+FunctionDesc_170
+
+FunctionDesc_171
+
+FunctionDesc_172
+
+FunctionDesc_173
+
+FunctionDesc_174
+
+FunctionDesc_175
+
+FunctionDesc_176
+
+FunctionDesc_177
+
+FunctionDesc_178
+
+FunctionDesc_179
+
+FunctionDesc_180
+
+FunctionDesc_181
+
+FunctionDesc_182
+
+FunctionDesc_183
+
+FunctionDesc_184
+
+FunctionDesc_185
+
+FunctionDesc_186
+
+FunctionDesc_187
+
+FunctionDesc_188
+
+FunctionDesc_189
+
+FunctionDesc_190
+
+FunctionDesc_191
+
+FunctionDesc_192
+
+FunctionDesc_193
+
+FunctionDesc_194
+
+FunctionDesc_195
+
+FunctionDesc_196
+
+FunctionDesc_197
+
+FunctionDesc_198
+
+FunctionDesc_199
+
+FunctionDesc_200
+
+FunctionDesc_201
+
+FunctionDesc_202
+
+FunctionDesc_203
+
+FunctionDesc_204
+
+FunctionDesc_205
+
+FunctionDesc_206
+
+FunctionDesc_207
+
+FunctionDesc_208
+
+FunctionDesc_209
+
+FunctionDesc_210
+
+FunctionDesc_211
+
+FunctionDesc_212
+
+FunctionDesc_213
+
+FunctionDesc_214
+
+FunctionDesc_215
+
+FunctionDesc_216
+
+FunctionDesc_217
+
+FunctionDesc_218
+
+FunctionDesc_219
+
+FunctionDesc_220
+
+FunctionDesc_221
+
+FunctionDesc_222
+
+FunctionDesc_223
+
+FunctionDesc_224
+
+FunctionDesc_225
+
+FunctionDesc_226
+
+FunctionDesc_227
+
+FunctionDesc_228
+
+FunctionDesc_229
+
+FunctionDesc_230
+
+FunctionDesc_231
+
+FunctionDesc_232
+
+FunctionDesc_233
+
+FunctionDesc_234
+
+FunctionDesc_235
+
+FunctionDesc_236
+
+FunctionDesc_237
+
+FunctionDesc_238
+
+FunctionDesc_239
+
+FunctionDesc_240
+
+FunctionDesc_241
+
+FunctionDesc_242
+
+FunctionDesc_243
+
+FunctionDesc_244
+
+FunctionDesc_245
+
+FunctionDesc_246
+
+FunctionDesc_247
+
+FunctionDesc_248
+
+FunctionDesc_249
+
+FunctionDesc_250
+
+FunctionDesc_251
+
+FunctionDesc_252
+
+FunctionDesc_253
+
+FunctionDesc_254
+
+FunctionDesc_255
+
+FunctionDesc_256
+
+FunctionDesc_257
+
+FunctionDesc_258
+
+FunctionDesc_259
+
+FunctionDesc_260
+
+FunctionDesc_261
+
+FunctionDesc_262
+
+FunctionDesc_263
+
+FunctionDesc_264
+
+FunctionDesc_265
+
+FunctionDesc_266
+
+FunctionDesc_267
+
+FunctionDesc_268
+
+FunctionDesc_269
+
+FunctionDesc_270
+
+FunctionDesc_271
+
+FunctionDesc_272
+
+FunctionDesc_273
+
+FunctionDesc_274
+
+FunctionDesc_275
+
+FunctionDesc_276
+
+FunctionDesc_277
+
+FunctionDesc_278
+
+FunctionDesc_279
+
+FunctionDesc_280
+
+FunctionDesc_281
+
+FunctionDesc_282
+
+FunctionDesc_283
+
+FunctionDesc_284
+
+FunctionDesc_285
+
+FunctionDesc_286
+
+FunctionDesc_287
+
+FunctionDesc_288
+
+FunctionDesc_289
+
+FunctionDesc_290
+
+FunctionDesc_291
+
+FunctionDesc_292
+
+FunctionDesc_293
+
+FunctionDesc_294
+
+FunctionDesc_295
+
+FunctionDesc_296
+
+FunctionDesc_297
+
+FunctionDesc_298
+When equipped, increases the final stealing success rate in each stage by 25% (non-stackable), but the ring's durability decreases after each theft...
+

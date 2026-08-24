@@ -1,0 +1,65 @@
+{
+  "title": "Отладочная подсказка",
+  "paragraphs": [
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Обзор"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "This tip shows argument replacement, <color=#pinkyellow>ColorReplace</color>, and sprite parsing <SpName=mousetip_zhuyao_0>. Current role: <color=#pinkyellow>{charName}</color>."
+        }
+      ]
+    },
+    {
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "Space",
+          "marginLeft": 0,
+          "level": 2
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 0,
+          "title": "Primary Item",
+          "value": "{powerValue}"
+        },
+        {
+          "type": "KeyValueItem",
+          "marginLeft": 20,
+          "title": "<SpName=ui9_icon_mousetip_point_0>Secondary Item",
+          "value": "{noteValue}"
+        },
+        {
+          "name": "maleOnlyAtom",
+          "type": "KeyValueItem",
+          "marginLeft": 20,
+          "title": "<SpName=ui9_icon_mousetip_point_0>Male-only Item",
+          "value": "Visible only for male characters"
+        }
+      ]
+    },
+    {
+      "name": "maleOnlyParagraph",
+      "type": "Default",
+      "atoms": [
+        {
+          "type": "SubTitle",
+          "marginLeft": 0,
+          "content": "Male-only Paragraph"
+        },
+        {
+          "type": "SimpleContent",
+          "marginLeft": 0,
+          "content": "This paragraph appears only when current character is male."
+        }
+      ]
+    }
+  ]
+}

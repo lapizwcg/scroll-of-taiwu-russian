@@ -1,0 +1,169 @@
+Name_0
+Sparring Request
+Name_1
+Duel Request
+Name_2
+Debate Request
+Name_3
+Cricket Duel Request
+HeadEvent_0_0
+"I've recently gained new insights from cultivating my Martial Arts.\nI'd like to spar with you to test our skills..."\n\nOn this day, <Character key=CharacterId str=Name /> clasps fists in greeting, hoping to have a spar with <Character key=RoleTaiwu str=Name />.
+HeadEvent_0_1
+"We've shared words beneath the crimson gauze, so why not train together on the Martial Arts Arena..."\n\nOn this day, <Character key=CharacterId str=Name /> steps forward with a smile, hoping to have a friendly spar with <Character key=RoleTaiwu str=Name />.
+HeadEvent_0_2
+"I've gained some insight into martial arts recently and would like to ask for your guidance..."\n\nOn this day, <Character key=CharacterId str=Name /> gives a fist-and-palm salute, hoping to have a spar with <Character key=RoleTaiwu str=Name />.
+HeadEvent_0_3
+"Child, the world looks to you Taiwu for salvation, but I only worry about your well-being.\nYou must keep your body strong with regular training..."\n\nOn this day, <Character key=CharacterId str=Name /> raises a hand, hoping to have a spar with <Character key=RoleTaiwu str=Name />.
+HeadEvent_0_4
+"I have seen your recent progress in Cultivation. True understanding comes from battle. Let's put your skills to the test..."\n\nOn this day, <Character key=CharacterId str=Name /> raises a hand, hoping to have a spar with <Character key=RoleTaiwu str=Name />.
+HeadEvent_1_0
+"Do not use our bond as an excuse to avoid battle. Today, we settle this with fists and skill..."\n\nOn this day, <Character key=CharacterId str=Name /> blocks <Character key=RoleTaiwu str=Name />'s path, cupping fists in challenge...
+HeadEvent_1_1
+"A duel is a way to understand each other. Let's put our skills to the test!"\n\nOn this day, <Character key=CharacterId str=Name /> blocks <Character key=RoleTaiwu str=Name />'s path, cupping fists in challenge...
+HeadEvent_1_2
+"Without climbing great heights, one cannot know the vastness of the sky. Forgive my boldness..."\n\nOn this day, <Character key=CharacterId str=Name /> blocks <Character key=RoleTaiwu str=Name />'s path, cupping fists in challenge...
+HeadEvent_1_3
+"Child, I have come to fight you.\nHold nothing back. Show me your full strength..."\n\nOn this day, <Character key=CharacterId str=Name /> blocks <Character key=RoleTaiwu str=Name />'s path, cupping fists in challenge...
+HeadEvent_1_4
+"Child, face this battle with full focus!\nProve that your training is not in vain and bring honor to your sect..." On this day, <Character key=CharacterId str=Name /> blocks <Character key=RoleTaiwu str=Name />'s path, cupping fists in challenge...
+HeadEvent_2_0
+"Fine Arts comes through practice.\nLet's test our skills and perhaps find new insights..."\n\nOn this day, <Character key=CharacterId str=Name /> gives a fist-and-palm salute, hoping to [Debate] with <Character key=RoleTaiwu str=Name />!
+HeadEvent_2_1
+"Fine Arts comes through practice.\nLet's test our skills and perhaps find new insights..."\n\nOn this day, <Character key=CharacterId str=Name /> gives a fist-and-palm salute, hoping to [Debate] with <Character key=RoleTaiwu str=Name />!
+HeadEvent_2_2
+"Sir, I wish to test my skills against yours.\nSeek your guidance to further my arts..."\n\nOn this day, <Character key=CharacterId str=Name /> gives a fist-and-palm salute, hoping to [Debate] with <Character key=RoleTaiwu str=Name />!
+HeadEvent_2_3
+"Child, true skills cannot happen in isolation.\nOnly through duels can one gauge their progress..."\n\nOn this day, <Character key=CharacterId str=Name /> raises a hand, hoping to [Debate] with <Character key=RoleTaiwu str=Name />!
+HeadEvent_2_4
+"Child, true skills are not achieved behind closed doors. One must face real challenges..."\n\nOn this day, <Character key=CharacterId str=Name /> raises a hand, hoping to [Debate] with <Character key=RoleTaiwu str=Name />!
+HeadEvent_3_0
+"Why not let our crickets duel for fun? The thrill of battle is a joy to be shared..."\n<Character key=CharacterId str=Name /> steps forward with a smile, hoping to have a Cricket Duel with <Character key=RoleTaiwu str=Name />!\n\n<color=#lightgrey>(Cricket Duel, a wager is a matter of honor!)\n(Note: If you cannot match your opponent's stake, you must forfeit...)\n(Forfeiting a Cricket Duel will reduce your Prestige...)</color>
+HeadEvent_3_1
+"Why not let our crickets duel for fun? The thrill of battle is a joy to be shared..."\n<Character key=CharacterId str=Name /> steps forward with a smile, hoping to have a Cricket Duel with <Character key=RoleTaiwu str=Name />!\n\n<color=#lightgrey>(Cricket Duel, a wager is a matter of honor!)\n(Note: If you cannot match your opponent's stake, you must forfeit...)\n(Forfeiting a Cricket Duel will reduce your Prestige...)</color>
+HeadEvent_3_2
+"Why not let our crickets duel for fun? The thrill of battle is a joy to be shared..."\n<Character key=CharacterId str=Name /> steps forward with a smile, hoping to have a Cricket Duel with <Character key=RoleTaiwu str=Name />!\n\n<color=#lightgrey>(Cricket Duel, a wager is a matter of honor!)\n(Note: If you cannot match your opponent's stake, you must forfeit...)\n(Forfeiting a Cricket Duel will reduce your Prestige...)</color>
+HeadEvent_3_3
+"Crickets are fierce warriors by nature. What better way to honor them than to let them fight?"\n<Character key=CharacterId str=Name /> steps forward with a smile, hoping to have a Cricket Duel with <Character key=RoleTaiwu str=Name />!\n\n<color=#lightgrey>(Cricket Duel, a wager is a matter of honor!)\n(Note: If you cannot match your opponent's stake, you must forfeit...)\n(Forfeiting a Cricket Duel will reduce your Prestige...)</color>
+HeadEvent_3_4
+"Crickets are fierce warriors by nature. What better way to honor them than to let them fight?"\n<Character key=CharacterId str=Name /> steps forward with a smile, hoping to have a Cricket Duel with <Character key=RoleTaiwu str=Name />!\n\n<color=#lightgrey>(Cricket Duel, a wager is a matter of honor!)\n(Note: If you cannot match your opponent's stake, you must forfeit...)\n(Forfeiting a Cricket Duel will reduce your Prestige...)</color>
+AgreeAndSuccess_0_0
+"Only through crossing fists with you do I realize the vastness of martial arts. I accept my defeat with admiration..."
+AgreeAndSuccess_0_1
+"This match has shown how well we understand each other. I concede, with both respect and conviction..."
+AgreeAndSuccess_0_2
+"My skills are lacking, but I have learned much from this match..."
+AgreeAndSuccess_0_3
+"Though I have lost, I find comfort in it. May this sparring session aid your growth..."
+AgreeAndSuccess_0_4
+"Though I have lost, I find comfort in it. May this sparring session aid your growth..."
+AgreeAndSuccess_1_0
+"I have no objections to my defeat. You are indeed a cut above me..."
+AgreeAndSuccess_1_1
+"Defeated by you, I concede wholeheartedly..."
+AgreeAndSuccess_1_2
+"My skills are lacking, but today's bout has taught me much..."
+AgreeAndSuccess_1_3
+"You have won this time, but never let your Cultivation come to a halt..."
+AgreeAndSuccess_1_4
+"You have won this time, but never let your Cultivation come to a halt..."
+AgreeAndSuccess_2_0
+"Your skill is truly awe-inspiring, like a master whose words can even enlighten the most unyielding of minds. I concede without hesitation..."
+AgreeAndSuccess_2_1
+"Your skill is truly awe-inspiring, like a master whose words can even enlighten the most unyielding of minds. I concede without hesitation..."
+AgreeAndSuccess_2_2
+"My Fine Arts are far from complete. Today's duel was an invaluable lesson..."
+AgreeAndSuccess_2_3
+"That's my defeat. I hope this debate has helped you sharpen your Fine Arts..."
+AgreeAndSuccess_2_4
+"That's my defeat. I hope this debate has helped you sharpen your Fine Arts..."
+AgreeAndSuccess_3_0
+"My cricket may have lost, but the thrill of the Duel made it all worthwhile..."
+AgreeAndSuccess_3_1
+"My cricket may have lost, but the thrill of the Duel made it all worthwhile..."
+AgreeAndSuccess_3_2
+"My cricket may have lost, but the thrill of the Duel made it all worthwhile..."
+AgreeAndSuccess_3_3
+"Defeat is of little concern. What matters is the excitement of the Duel!"
+AgreeAndSuccess_3_4
+"Defeat is of little concern. What matters is the excitement of the Duel!"
+AgreeAndFail_0_0
+"Sparring is meant to encourage one another. Don't let this defeat trouble you..."
+AgreeAndFail_0_1
+"Sparring is meant to encourage one another. Don't let this defeat trouble you..."
+AgreeAndFail_0_2
+"It is only thanks to your guidance that I've made even this small progress..."
+AgreeAndFail_0_3
+"Sparring is about practical insights. Don't let a loss weigh you down..."
+AgreeAndFail_0_4
+"Sparring is about practical insights. Don't let a loss weigh you down..."
+AgreeAndFail_1_0
+"Victory and defeat are both part of the journey. Don't let it shake your resolve..."
+AgreeAndFail_1_1
+"Victory and defeat are both part of the journey. Don't let it shake your resolve..."
+AgreeAndFail_1_2
+"Thank you, sir..."
+AgreeAndFail_1_3
+"Victory and defeat are both part of the journey. Don't let it shake your resolve..."
+AgreeAndFail_1_4
+"Victory and defeat are both part of the journey. Don't let it shake your resolve..."
+AgreeAndFail_2_0
+"Matches may have winners and losers, but in the pursuit of mastery, there is no superiority, only learning from one another..."
+AgreeAndFail_2_1
+"Matches may have winners and losers, but in the pursuit of mastery, there is no superiority, only learning from one another..."
+AgreeAndFail_2_2
+"It is only thanks to your guidance that I've made even this small progress..."
+AgreeAndFail_2_3
+"Matches may have winners and losers, but in the pursuit of mastery, there is no superiority, only learning from one another..."
+AgreeAndFail_2_4
+"Matches may have winners and losers, but in the pursuit of mastery, there is no superiority, only learning from one another..."
+AgreeAndFail_3_0
+"Winning or losing aside, that Duel was truly entertaining!"
+AgreeAndFail_3_1
+"Winning or losing aside, that Duel was truly entertaining!"
+AgreeAndFail_3_2
+"Winning or losing aside, that Duel was truly entertaining!"
+AgreeAndFail_3_3
+"Winning or losing aside, that Duel was truly entertaining!"
+AgreeAndFail_3_4
+"Winning or losing aside, that Duel was truly entertaining!"
+Disagree_0_0
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_0_1
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_0_2
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_0_3
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_0_4
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_1_0
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_1_1
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_1_2
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_1_3
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_1_4
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_2_0
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_2_1
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_2_2
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_2_3
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_2_4
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_3_0
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_3_1
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_3_2
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_3_3
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+Disagree_3_4
+<Character key=RoleTaiwu str=Name /> politely declined <Character key=CharacterId str=Name />'s request.\n<Character key=CharacterId str=Name /> feels disappointed and lets out a soft sigh before turning away...
+

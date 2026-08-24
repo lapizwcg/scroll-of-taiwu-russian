@@ -1,0 +1,93 @@
+Name_0
+Неизвестно
+Name_1
+Горы
+Name_2
+Ущелье
+Name_3
+Пещера
+Name_4
+River
+Name_5
+Озеро
+Name_6
+Pond
+Name_7
+Лачуга
+Name_8
+Hamlet
+Name_9
+Marketplace
+Name_10
+Море цветов
+Name_11
+Лесной участок
+Name_12
+Open Woods
+Name_13
+Camp
+Name_14
+Temple
+Name_15
+Даосский храм
+Name_16
+Ancient Ruins
+Name_17
+Глушь
+Name_18
+Развалины
+Name_19
+Пустыня
+Name_20
+Гробница
+Name_21
+Cliff
+Name_22
+Chasm
+Desc_0
+An unknown location...
+Desc_1
+Mountain ridges and summits connect and stretch as far as the eye can see.
+Desc_2
+Canyons are narrow valleys between majestic, precipitous mountains with perilous trails that are hard to pass through in carriages.
+Desc_3
+Caves are naturally formed underground or on mountains and cliffs. The narrow passages within are small enough that only one person walking sideways while bent may pass through.
+Desc_4
+Rivers are made up of mostly muddy water, spreading from east to west and connecting south and north over thousands of miles.
+Desc_5
+Lakes are mostly clear and calm waters within which varieties of plants, fish, and shrimps grow.
+Desc_6
+Ponds contain mostly clean water that often seems dark and mysterious due to their sheer depth. Such bodies of water are home to fish and shrimps.
+Desc_7
+A common and simple hut built with straw, reeds, bamboo strips, or clay, that simply serves as shelter from the rain.
+Desc_8
+Hamlets are small settlements formed by a few families. The residents work during the day and rest at night, as they make a living on farming, weaving, fishing, and hunting.
+Desc_9
+Marketplaces in towns are where people gather from time to time to trade a variety of goods, watch shows and meet with friends.
+Desc_10
+Meadows are full of colorful blossoms that change with the seasons and emanate a flowery fragrance over miles, with bees and butterflies dancing throughout.
+Desc_11
+Woodlands are land covered with overgrown shrubs and trees, where cozy wind blows and sweet berries grow. Wild animals can often be seen foraging in the woods or perching on tall branches.
+Desc_12
+Fields are verdant, open land strewn with thriving plants, where wild birds and animals gather and rest.
+Desc_13
+Camps are areas enclosed with fences or walls for defense where soldiers or martial artists are stationed.
+Desc_14
+Temples are commonly seen and often built with nearby residents' donations, where statues of Buddha, Bodhisattva, the Heavenly King, Arhats, or other deities are enshrined.
+Desc_15
+Taoist temples are places of profound mystery where Taoists practice or worship deities and other masters, often visited by commoners wishing for good fortune.
+Desc_16
+Ancient ruins are structures or sites left behind from the eras of old where the evidence of history is preserved. It's also possible to find precious artifacts in such places.
+Desc_17
+Wildernesses are desolate open land where few people have set foot, with some plants and animals growing in arid conditions.
+Desc_18
+Ruins are buildings that have been destroyed due to one reason or another and no longer serve their purpose, crows hovering over the now-desolate structures.
+Desc_19
+Deserts are endless expanses of scarcely vegetated sand dunes no person easily traverses unprepared. Yet, even in desolation one may come upon fertile oases.
+Desc_20
+Tombs are hidden burial chambers left behind by previous generations, filled with skeletons, mechanisms, secrets, and sometimes even treasure.
+Desc_21
+Cliffs are precipitous, nigh unclimbable rock faces. The odd pine or cypress tree may grow on them, however, creating a most unique sight.
+Desc_22
+Chasms are bottomless dark, deep pits no person dares to explore, as unknown dangers often lie within.
+

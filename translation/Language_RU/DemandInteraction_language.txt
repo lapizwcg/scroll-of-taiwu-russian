@@ -1,0 +1,129 @@
+Name_0
+External Injury - Request for Medicine
+Name_1
+Internal Injury - Request for Medicine
+Name_2
+Detox - Request for Medicine
+Name_3
+Life Extension - Request for Medicine
+Name_4
+Inner Breath - Request for Medicine
+Name_5
+Qi Restoration - Request for Medicine
+Name_6
+Gu Extermination - Request for Medicine
+Name_7
+Food Request
+Name_8
+Tea or Wine Request
+Name_9
+Resource Request
+Name_10
+Item Request
+Name_11
+Repair Request
+Name_12
+Envenom Request
+Name_13
+Fine Art Study Request
+Name_14
+Martial Arts Study Request
+Name_15
+Breakthrough Request
+HeadEvent_0
+<Character key=CharacterId str=Name /> is pale, with cold sweat beading on the brow,\nand mottled crimson stains on the robe—clearly suffering from an external injury.\n\nIt turns out <Character key=CharacterId str=Name /> could no longer bear the pain, and recalling the bond with <Character key=RoleTaiwu str=Name />,\nasks <Character key=RoleTaiwu str=Name /> to provide some <Item key=ItemKey str=ColorName /> to help treat the injury.
+HeadEvent_1
+<Character key=CharacterId str=Name />'s brows are tightly furrowed, a shadow of pain clouding the forehead, lips trembling slightly—an expression that could only be caused by an internal injury.\n\nIt turns out <Character key=CharacterId str=Name /> is suffering from such an injury, and recalling the bond with <Character key=RoleTaiwu str=Name />, asks to provide some <Item key=ItemKey str=ColorName /> to help treat the injury.
+HeadEvent_2
+<Character key=CharacterId str=Name />'s face turns ashen, veins of crimson streaking across <Character key=RoleTaiwu str=GenderPossessive/> eyes, while dark violet crept from <Character key=RoleTaiwu str=GenderPossessive/> lips—clear signs of poison...\n\nIt turns out <Character key=CharacterId str=Name /> is suffering from a poison injury, and recalling the bond with <Character key=RoleTaiwu str=Name />, asks to provide some <Item key=ItemKey str=ColorName /> for detox.
+HeadEvent_3
+<Character key=CharacterId str=Name /> moves unsteadily toward <Character key=RoleTaiwu str=Name />,\neach breath shallow and weak. upper <Character key=RoleTaiwu str=GenderPossessive/> hands felt icy as <Character key=RoleTaiwu str=GenderSubject/> grasps <Character key=RoleTaiwu str=Name />'s - a touch devoid of warmth or vitality.\n\nIt was obvious now - <Character key=CharacterId str=Name />'s time was running out. upper <Character key=RoleTaiwu str=GenderSubject/> last hope rests with <Character key=RoleTaiwu str=Name />'s ability to sustain <Character key=RoleTaiwu str=GenderObject/>.\nThe <Item key=ItemKey str=ColorName/> might be the remedy <Character key=RoleTaiwu str=GenderSubject/> desperately needed...
+HeadEvent_4
+<Character key=RoleTaiwu str=Name /> watches as <Character key=CharacterId str=Name /> staggers forward with unsteady steps.\nupper <Character key=RoleTaiwu str=GenderPossessive/> breathing comes in ragged,\nuneven gasps, as if struggling to regulate <Character key=RoleTaiwu str=GenderPossessive/> Inner Breath, entire body trembling uncontrollably...\n\n<Character key=CharacterId str=Name /> slowly says <Character key=RoleTaiwu str=GenderSubject/> is suffering from Inner Breath Chaos, and recalling the bond with <Character key=RoleTaiwu str=Name />,\nasks to provide some <Item key=ItemKey str=ColorName /> to help treat the injury.
+HeadEvent_5
+As <Character key=RoleTaiwu str=Name /> packs <Character key=RoleTaiwu str=GenderPossessive/> belongings,\n<Character key=CharacterId str=Name /> approaches with faltering steps, lips bloodless, movements lethargic.\nWhen <Character key=RoleTaiwu str=GenderSubject/> grasp <Character key=RoleTaiwu str=Name />'s hands, the touch is disturbingly cold...\n\nIt turns out that <Character key=CharacterId str=Name />'s Qi has dwindled dangerously. Despite multiple Microcosmic Circulations, <Character key=RoleTaiwu str=GenderPossessive/> inner reserves remain insufficient.\nHumbly request <Character key=RoleTaiwu str=Name />'s assistance to receive the <Item key=ItemKey str=ColorName/> that might restore <Character key=RoleTaiwu str=GenderPossessive/>' Qi.
+HeadEvent_6
+While organizing <Character key=RoleTaiwu str=GenderPossessive/> travel bag, <Character key=RoleTaiwu str=Name /> notices <Character key=CharacterId str=Name /> hastening toward <Character key=RoleTaiwu str=GenderObject/>.\nThe visitor clutches <Character key=RoleTaiwu str=GenderPossessive/> hands urgently, voicing an uneasy favor...\n\nIt turns out that <Character key=CharacterId str=Name /> has recently fallen victim to Gu poison.\n\nupper <Character key=RoleTaiwu str=GenderSubject/> suffers myriad discomforts from the parasitic infestation.\nNoticing <Character key=RoleTaiwu str=Name /> possesses <Item key=ItemKey str=ColorName/>, the specific antidote for eradicating Gu, <Character key=RoleTaiwu str=GenderSubject/> pleads for a portion to purge the invading creatures.
+HeadEvent_7
+While organizing <Character key=RoleTaiwu str=GenderPossessive/> travel bag, <Character key=RoleTaiwu str=Name /> hears someone's stomach growling.\nTurning around, <Character key=RoleTaiwu str=GenderSubject/> finds <Character key=CharacterId str=Name /> drawn by the aroma, praising the <Item key=ItemKey str=ColorName/> as a particular favorite.\nThe scent makes <Character key=CharacterId str=GenderObject/> hungrier still, and <Character key=CharacterId str=GenderSubject/> humbly requests for some to satisfy <Character key=CharacterId str=GenderPossessive/> appetite...
+HeadEvent_8
+<Character key=CharacterId str=Name /> approaches <Character key=RoleTaiwu str=Name /> with slow steps,\nface showing clear despondency as if burdened by heavy thoughts...\n\nAfter some conversation, it's revealed <Character key=RoleTaiwu str=GenderSubject/>'s been suffering from unresolved melancholy,\nand has come specifically to ask for <Item key=ItemKey str=ColorName/> to ease <Character key=RoleTaiwu str=GenderPossessive/> depression.
+HeadEvent_9
+On this day, <Character key=CharacterId str=Name /> paces before <Character key=RoleTaiwu str=Name />.\nDuring their talk, his expression grows increasingly gloomy, eventually revealing <Character key=RoleTaiwu str=GenderPossessive/> embarrassed state...\n\nIt turns out that <Character key=CharacterId str=Name />'s fallen into difficult circumstances recently, and hopes <Character key=RoleTaiwu str=Name /> might lend <Character key=RoleTaiwu str=GenderObject/> <ArgBox key=Count type=int/> <Resource key=ResourceType str=Name/> to overcome <Character key=RoleTaiwu str=GenderPossessive/> current troubles.
+HeadEvent_10
+As <Character key=RoleTaiwu str=Name /> checks <Character key=RoleTaiwu str=GenderPossessive/> belongings, <Character key=CharacterId str=Name /> arrives with eager eyes...\n\nThe <Item key=ItemKey str=ColorName/> in the pack turns out to be precisely what <Character key=CharacterId str=Name />'s been desperately seeking.\n<Character key=CharacterId str=Name /> called upon <Character key=RoleTaiwu str=Name />, and in the spirit of your friendship, this item might be gifted as a token of your bond.
+HeadEvent_11
+<Character key=RoleTaiwu str=Name /> notices <Character key=CharacterId str=Name /> approaching with damaged <Item key=ItemKey str=ColorName/>...\n\nKnowing <Character key=RoleTaiwu str=Name />'s repair skills are renowned,\n<Character key=RoleTaiwu str=GenderSubject/>'s come specifically to request <Character key=RoleTaiwu str=Name />'s expert hands restore this broken item...
+HeadEvent_12
+Today, <Character key=CharacterId str=Name /> arrives in haste before <Character key=RoleTaiwu str=Name />,\n<Character key=RoleTaiwu str=GenderPossessive/> unusual demeanor suggesting a request...\n\nIt turns out he knows of <Character key=RoleTaiwu str=Name />'s expertise in envenomation,\nand seeks help to envenom <Character key=CharacterId str=GenderPossessive/> <Item key=PoisonedItemKey str=ColorName/> with <Item key=PoisonItemKey str=ColorName/>.
+HeadEvent_13
+Today, <Character key=CharacterId str=Name /> comes before <Character key=RoleTaiwu str=Name />,\nspeaking of <Character key=RoleTaiwu str=GenderPossessive/> recent studies of <Item key=ItemKey str=ColorName/> and wishing to discuss its profound mysteries together.\nDuring their conversation, <Character key=CharacterId str=Name /> mentions numerous unresolved questions...\n\n<Character key=CharacterId str=Name /> then humbly asks for guidance from <Character key=RoleTaiwu str=Name /> to clear <Character key=RoleTaiwu str=GenderPossessive/> confusion...
+HeadEvent_14
+Today, <Character key=CharacterId str=Name /> comes before <Character key=RoleTaiwu str=Name />,\nspeaking of <Character key=RoleTaiwu str=GenderPossessive/> recent studies of <Item key=ItemKey str=ColorName/> and wishing to discuss its profound mysteries together.\nDuring their conversation, <Character key=CharacterId str=Name /> mentions numerous unresolved questions...\n\n<Character key=CharacterId str=Name /> then humbly asks for guidance from <Character key=RoleTaiwu str=Name /> to clear <Character key=RoleTaiwu str=GenderPossessive/> confusion...
+HeadEvent_15
+Visiting today, <Character key=CharacterId str=Name /> mentions his recent practice of <CombatSkill key=MonthlyEvent_arg3 str=SkillName/>, having encountered many unsolved difficulties despite deep contemplation.\nKnowing <Character key=RoleTaiwu str=Name /> masters this art...\n\n<Character key=CharacterId str=Name /> respectfully requests instruction from <Character key=RoleTaiwu str=Name /> to help <Character key=RoleTaiwu str=GenderObject/> breakthrough the bottleneck...
+AgreeSelect_0
+(Gift <Item key=ItemKey str=ColorName/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_1
+(Gift <Item key=ItemKey str=ColorName/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_2
+(Gift <Item key=ItemKey str=ColorName/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_3
+(Gift <Item key=ItemKey str=ColorName/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_4
+(Gift <Item key=ItemKey str=ColorName/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_5
+(Gift <Item key=ItemKey str=ColorName/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_6
+(Gift <Item key=ItemKey str=ColorName/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_7
+(Gift <Item key=ItemKey str=ColorName/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_8
+(Gift <Item key=ItemKey str=ColorName/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_9
+(Gift <ArgBox key=Count type=int/> <Resource key=ResourceType str=Name/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_10
+(Gift <Item key=ItemKey str=ColorName/> to <Character key=CharacterId str=Name />...)
+AgreeSelect_11
+(Spend <ArgBox key=Count type=int/> <Resource key=ResourceType str=Name/> to repair <Item key=ItemKey str=ColorName/> for <Character key=CharacterId str=Name />...)
+AgreeSelect_12
+(Use <Item key=PoisonItemKey str=ColorName/> to envenom <Character key=CharacterId str=Name />'s <Item key=PoisonedItemKey str=ColorName/>...)
+AgreeSelect_13
+(Assist <Character key=CharacterId str=Name /> in interpreting <Item key=ItemKey str=ColorName/>...)
+AgreeSelect_14
+(Assist <Character key=CharacterId str=Name /> in interpreting <Item key=ItemKey str=ColorName/>...)
+AgreeSelect_15
+(Assist <Character key=CharacterId str=Name /> in breakthrough of <CombatSkill key=MonthlyEvent_arg3 str=SkillName/>...)
+AfterAgree_0
+<Character key=RoleTaiwu str=Name /> offered <Item key=ItemKey str=ColorName /> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_1
+<Character key=RoleTaiwu str=Name /> offered <Item key=ItemKey str=ColorName /> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_2
+<Character key=RoleTaiwu str=Name /> offered <Item key=ItemKey str=ColorName /> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_3
+<Character key=RoleTaiwu str=Name /> offered <Item key=ItemKey str=ColorName /> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_4
+<Character key=RoleTaiwu str=Name /> offered <Item key=ItemKey str=ColorName /> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_5
+<Character key=RoleTaiwu str=Name /> offered <Item key=ItemKey str=ColorName /> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_6
+<Character key=RoleTaiwu str=Name /> offered <Item key=ItemKey str=ColorName /> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_7
+<Character key=RoleTaiwu str=Name /> offered <Item key=ItemKey str=ColorName /> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_8
+<Character key=RoleTaiwu str=Name /> offered <Item key=ItemKey str=ColorName /> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_9
+<Character key=RoleTaiwu str=Name /> offered <ArgBox key=Count type=int/> <Resource key=ResourceType str=Name/> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_10
+<Character key=RoleTaiwu str=Name /> offered <Item key=ItemKey str=ColorName /> to <Character key=CharacterId str=Name />, who was deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_11
+<Character key=RoleTaiwu str=Name /> repaired <Character key=CharacterId str=Name />'s <Item key=ItemKey str=ColorName/>.<NL><Character key=CharacterId str=Name /> was so moved that they thanked <Character key=RoleTaiwu str=Name /> repeatedly, with gratitude overflowing from them...
+AfterAgree_12
+<Character key=RoleTaiwu str=Name /> uses <Item key=PoisonItemKey str=ColorName/> to envenom <Item key=PoisonedItemKey str=ColorName/>.\n<Character key=CharacterId str=Name /> deeply moved,\nand their relationship seemed to grow closer.
+AfterAgree_13
+"Here... With this..."<NL>Under the teaching of <Character key=RoleTaiwu str=Name />, <Character key=CharacterId str=Name /> had finally mastered the gist of <Item key=ItemKey str=ColorName/>...<NL><Character key=CharacterId str=Name /> was so moved that they thanked <Character key=RoleTaiwu str=Name /> repeatedly, with gratitude overflowing from them...
+AfterAgree_14
+"Here... With this..."<NL>Under the teaching of <Character key=RoleTaiwu str=Name />, <Character key=CharacterId str=Name /> had finally mastered the gist of <Item key=ItemKey str=ColorName/>...<NL><Character key=CharacterId str=Name /> was so moved that they thanked <Character key=RoleTaiwu str=Name /> repeatedly, with gratitude overflowing from them...
+AfterAgree_15
+"Here... With this... All right..."<NL>Under the teaching of <Character key=RoleTaiwu str=Name />, <Character key=CharacterId str=Name /> had finally broken through the Xuanguan of "<CombatSkill key=MonthlyEvent_arg3 str=SkillName/>"...<NL><Character key=CharacterId str=Name /> was so moved that they thanked <Character key=RoleTaiwu str=Name /> repeatedly, with gratitude overflowing from them...
+

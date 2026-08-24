@@ -1,0 +1,109 @@
+UiName_0
+Oxback Tier I
+UiName_1
+Oxback Tier II
+UiName_2
+Oxback Tier III
+UiName_3
+Oxback Tier IV
+UiName_4
+Oxback Tier V
+UiName_5
+Oxback Tier VI
+UiName_6
+Oxback Tier VII
+UiName_7
+Volumes Tier I
+UiName_8
+Volumes Tier II
+UiName_9
+Volumes Tier III
+UiName_10
+Volumes Tier IV
+UiName_11
+Volumes Tier V
+UiName_12
+Volumes Tier VI
+UiName_13
+Volumes Tier VII
+UiName_14
+Yangtze Tier I
+UiName_15
+Yangtze Tier II
+UiName_16
+Yangtze Tier III
+UiName_17
+Yangtze Tier IV
+UiName_18
+Yangtze Tier V
+UiName_19
+Yangtze Tier VI
+UiName_20
+Yangtze Tier VII
+UiName_21
+Champions Tier I
+UiName_22
+Champions Tier II
+UiName_23
+Champions Tier III
+UiName_24
+Champions Tier IV
+UiName_25
+Champions Tier V
+UiName_26
+Champions Tier VI
+UiName_27
+Champions Tier VII
+UiName_28
+Revival Tier I
+UiName_29
+Revival Tier II
+UiName_30
+Revival Tier III
+UiName_31
+Revival Tier IV
+UiName_32
+Revival Tier V
+UiName_33
+Revival Tier VI
+UiName_34
+Revival Tier VII
+UiName_35
+Gongshu Tier I
+UiName_36
+Gongshu Tier II
+UiName_37
+Gongshu Tier III
+UiName_38
+Gongshu Tier IV
+UiName_39
+Gongshu Tier V
+UiName_40
+Gongshu Tier VI
+UiName_41
+Gongshu Tier VII
+UiName_42
+Wonders Tier I
+UiName_43
+Wonders Tier II
+UiName_44
+Wonders Tier III
+UiName_45
+Wonders Tier IV
+UiName_46
+Wonders Tier V
+UiName_47
+Wonders Tier VI
+UiName_48
+Wonders Tier VII
+UiName_49
+Treasure Tier IV
+UiName_50
+Treasure Tier V
+UiName_51
+Treasure Tier VI
+UiName_52
+Purchase Fruits
+UiName_53
+Небесное царство
+

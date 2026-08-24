@@ -1,0 +1,113 @@
+Title_0
+Малый небесный круг
+Title_1
+Изучение
+Title_2
+Прорыв
+Title_3
+Сбор
+Title_4
+Craft
+Title_5
+Secret
+Title_6
+Бои сверчков
+Title_7
+Диспут
+Title_8
+Companion
+Title_9
+Месячный отчёт Тайу
+Title_10
+Взаимодействие с персонажем
+Title_11
+Villager Dispatch
+Title_12
+Деревня Тайу
+Title_13
+Призвание
+Title_14
+Наследие Тайу
+Title_15
+Куры
+Title_16
+Travel
+Title_17
+Ученичество
+Title_18
+Взаимодействия за расположение
+Title_19
+Обмен книгами
+Title_20
+Чайно-конный караван
+Title_21
+Reincarnation Platform
+Title_22
+Secret Tome
+Title_23
+Bamboo Incarnation
+Title_24
+Martial Arts Alliance Meeting
+Title_25
+Свободный режим
+Title_26
+Яшма возврата в духа
+Title_27
+Загадать сверчка
+Desc_0
+Place a Qi Art in the "Microcosmic Circulation" slot,\nand it will automatically circulate each month\nto increase Qi, grant Microcosmic True Qi, and transfer the character's Elemental Qi...
+Desc_1
+Place a book in the "Study" slot,\nand it will be automatically studied each month to cultivate the corresponding Fine Arts or Martial Arts...
+Desc_2
+A Martial Art fully studied must break through its bottlenecks\nbefore further unlocking special Orthodox or Heterodox effects...
+Desc_3
+Each tile contains various resources and precious Reagents that can be gathered and used...
+Desc_4
+In Production Buildings, Reagents and resources can be used to create various items...
+Desc_5
+A character's actions or encounters generate corresponding Secrets.\nOnce Secrets spread or are made public, they may change others' Favorability and relations toward the character, or even affect their rank...
+Desc_6
+Cricket Duels are widely popular in the world of Taiwu, and people often wager various resources on them.\nDuring interaction, you may challenge them to a Cricket Duel...
+Desc_7
+Debates are how people compare their levels of Fine Arts.\nDuring interaction, you may challenge them to a Debate...
+Desc_8
+When traveling the world, journeying alongside others is often beneficial.\nDuring interaction, you may attempt to invite eligible characters to be your Companions...\nBy assigning Companions as Support Companions, they can provide assistance in battle...
+Desc_9
+In the Taiwu Monthly Report, you can review major events of each month and the evolution of the world...
+Desc_10
+Tap a character portrait in the list on the left of the main interface to interact with them.\nAvailable interactions may vary depending on the relation and rank of the other party...
+Desc_11
+Taiwu may dispatch Taiwu villagers to designated tiles to work...
+Desc_12
+By building and managing Taiwu Village, you can regularly harvest various output...
+Desc_13
+A character's daily words and actions may accumulate corresponding Aspiration Seniority.\nAs Aspiration Seniority increases, each Aspiration will gain special abilities...
+Desc_14
+Even if Taiwu gets possessed or dies, the Taiwu's Inheritance won't end.\nBy passing the Fuyu Hilt to a designated character, the journey of Taiwu may continue...
+Desc_15
+Chickens may be raised in settlements across the world.\nYou may bring them back to the Taiwu Village to add liveliness...
+Desc_16
+After establishing way stations along the way, you can travel to destinations across the world...
+Desc_17
+After obtaining a sect's training permission, you may seek guidance in Martial Arts and Fine Arts from its members...
+Desc_18
+Each sect has its own specialties and allows unique sect interactions by spending Regional Favor...
+Desc_19
+During interaction with others, you may trade book or exchange Prestige for their treasured books...
+Desc_20
+Dispatch Tea-Horse Caravans to the Western Regions to exchange for Western Regions Treasures...
+Desc_21
+Sending wandering spirits into reincarnation can also enhance Taiwu's attributes and Talents...
+Desc_22
+Secret Tomes will gradually emerge as the invasion progresses.\nSnatch newly emerged Secret Tomes and interpret them to grant characters special abilities...
+Desc_23
+After completing the "Purple Bamboo on Blackstone" encounter, the Bamboo Incarnation will appear on nearby tiles.\nBy increasing Favorability with the Bamboo Incarnation, you may explore its past and awaken powers hidden within Divine Sword fragments...
+Desc_24
+The Martial World Tournament is held once every 9 years.\nAll sects will begin preparations 1 year in advance to compete for the right to host it.\nThose who claim first place in the Martial World Tournament will earn the admiration of the world...
+Desc_25
+In Free Mode, customize your character freely and embark on your adventure in the Taiwu world...
+Desc_26
+There is a jade treasure in the Taiwu Village's Cricket Chamber that can turn a human-form Cricket back into its insect form...
+Desc_27
+Pray in the Taiwu Cricket Chamber and a Unique Cricket King might show up in the neighborhood of Taiwu Village. But catching it still takes skill and a bit of luck...
+

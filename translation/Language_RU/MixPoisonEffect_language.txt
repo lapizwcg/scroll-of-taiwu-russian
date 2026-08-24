@@ -1,0 +1,41 @@
+ShortDesc_0
+Based on the number of <color=#rottenpoison>Necrotoxin</color> Markers on the character, the character will receive a certain number of <color=#fataldamage>Wound</color> Markers.
+ShortDesc_1
+The character's <color=#agile>Footwork Arts</color> will be nullified, and 1 random <color=#agile>Nimble</color> Footwork Art will be sealed for a long time based on the number of <color=#rottenpoison>Necrotoxin</color> and <color=#illusorypoison>Oneirotoxin</color> Markers on the character.
+ShortDesc_2
+If the character has enough <color=#rottenpoison>Necrotoxin</color> Markers, they may drop their weapon and switch to unarmed combat, temporarily disabling all enemy weapons as well.
+ShortDesc_3
+The more <color=#rottenpoison>Necrotoxin</color> Markers the character has, the more <color=#redpoison>Pyrotoxin</color> spreads, and faster the next <color=#redpoison>Pyrotoxin</color> takes effect.
+ShortDesc_4
+1 random <color=#attack>Annihilation</color> Martial Art will be sealed for a long time based on the number of <color=#rottenpoison>Necrotoxin</color> and <color=#illusorypoison>Oneirotoxin</color> Markers the character has.
+ShortDesc_5
+The more <color=#rottenpoison>Necrotoxin</color> Markers the character has, the more <color=#hotpoison>Acritoxin</color> spreads, and the faster the next <color=#hotpoison>Acritoxin</color> takes effect.
+ShortDesc_6
+Based on the number of <color=#rottenpoison>Necrotoxin</color> Markers the character has, the character suffers a random Impairment that reduces their Deflection and spreads part of their <color=#rottenpoison>Necrotoxin</color> to an ally.
+ShortDesc_7
+Based on the number of <color=#illusorypoison>Oneirotoxin</color> Markers on the character, the character will perform several weapon attacks on themselves.
+ShortDesc_8
+The more <color=#hotpoison>Acritoxin</color>, <color=#gloomypoison>Umbritoxin</color>, and <color=#redpoison>Pyrotoxin</color> Markers the character has, the more their Stamina is weakened.
+ShortDesc_9
+The more <color=#hotpoison>Acritoxin</color>, <color=#redpoison>Pyrotoxin</color>, and <color=#coldpoison>Cryotoxin</color> Markers the character has, the higher the chance of 1 <color=#outterinjury>Pre-existing External Injury</color> reopening on a random part of the user's body and becoming harder to heal. If no <color=#outterinjury>Pre-existing External Injury</color> appears, 1 Opening will emerge instead.
+ShortDesc_10
+The number of <color=#illusorypoison>Oneirotoxin</color> Markers on the character determines how many <color=#brightred>Dazed</color> Markers they get.
+ShortDesc_11
+The number of <color=#rottenpoison>Necrotoxin</color> Markers on the character determines how much Recoil damage they take from their random Martial Arts.
+ShortDesc_12
+The number of <color=#hotpoison>Acritoxin</color>, <color=#gloomypoison>Umbritoxin</color>, and <color=#coldpoison>Cryotoxin</color> Markers on the character increases the character's Inner Breath Chaos.
+ShortDesc_13
+The more <color=#gloomypoison>Umbritoxin</color>, <color=#redpoison>Pyrotoxin</color>, and <color=#coldpoison>Cryotoxin</color> Markers the character has, the higher the chance of 1 <color=#innerinjury>Pre-existing Internal Injury</color> reopening on a random part of the user's body and becoming harder to heal. If no <color=#innerinjury>Pre-existing Internal Injury</color> appears, 1 Sealed Acupoint will emerge instead.
+ShortDesc_14
+1 random <color=#assist>Acumen</color> Martial Art will be sealed for a long time based on the number of <color=#rottenpoison>Necrotoxin</color> and <color=#illusorypoison>Oneirotoxin</color> Markers the character has.
+ShortDesc_15
+The more <color=#illusorypoison>Oneirotoxin</color> Markers the character has, the more <color=#gloomypoison>Umbritoxin</color> spreads, and the faster the next <color=#gloomypoison>Umbritoxin</color> takes effect.
+ShortDesc_16
+Based on the number of <color=#illusorypoison>Oneirotoxin</color> Markers the character has, the character suffers a random Impairment that reduces their Hit and spreads part of their <color=#illusorypoison>Oneirotoxin</color> to an ally.
+ShortDesc_17
+The character's <color=#defense>Protection</color> will be nullified, and 1 random <color=#defense>Protection</color> Martial Art will be sealed for a long time based on the number of <color=#rottenpoison>Necrotoxin</color> and <color=#illusorypoison>Oneirotoxin</color> Markers the character has.
+ShortDesc_18
+The number of <color=#illusorypoison>Oneirotoxin</color> Markers on the character causes them to lose a random type of True Qi.
+ShortDesc_19
+The more <color=#illusorypoison>Oneirotoxin</color> Markers the character has, the more <color=#coldpoison>Cryotoxin</color> spreads, and the faster next <color=#coldpoison>Cryotoxin</color> takes effect.
+

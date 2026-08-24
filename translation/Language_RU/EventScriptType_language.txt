@@ -1,0 +1,21 @@
+Name_0
+Global script
+Name_1
+Event page script
+Name_2
+Event page conditions
+Name_3
+Option script
+Name_4
+Option availability conditions
+Name_5
+Option visibility conditions
+Name_6
+New Encounter Trigger Condition
+Name_7
+New Encounter Month-Pass Script
+Name_8
+Script for when a major event is activated
+Name_9
+Script for when a major event is removed
+

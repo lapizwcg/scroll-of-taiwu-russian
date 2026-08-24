@@ -1,0 +1,169 @@
+Name_0
+Гадание
+Name_1
+Boolean
+Name_2
+Боевое искусство
+Name_3
+Enemy or Ally
+Name_4
+Text
+Name_5
+Сложность боёв
+Name_6
+The Companion's Command
+Name_7
+Martial Art Type
+Name_8
+Other Action Types
+Name_9
+Front and Back
+Name_10
+Part
+Name_11
+Expression
+Name_12
+Orthodox or Heterodox
+Name_13
+Internal and External
+Name_14
+Токсин
+Name_15
+Рост гу
+Name_16
+Gu Attunement
+Name_17
+Gu Type
+Name_18
+True Qi Type
+Name_19
+Style
+Name_20
+Оружие
+Name_21
+Weapon Type
+Name_22
+Пять стихий
+Name_23
+Вид боя
+Name_24
+Battle State Name
+Name_25
+Разное
+Desc_0
+Input any integer, but it cannot be greater than or equal to one billion or less than or equal to negative one billion
+Desc_1
+Input any boolean, such as True or False
+Desc_2
+Input the Martial Art name, it must be exactly the same as in the configuration table. If there are multiple Martial Arts with the same name, a warning will appear, and the first Martial Art with that name will be applied
+Desc_3
+Input any boolean, True represents the player side, False represents the opponent
+Desc_4
+Input any text, such as "abc123," "example"
+Desc_5
+Input the battle difficulty name, such as Normal, Hard, Very Hard, or Doom
+Desc_6
+Input a general companion command name, such as Attack, Defense, Control, etc. Negative commands cannot be entered
+Desc_7
+Input the active Martial Art type, such as Annihilation, Nimble, or Protection
+Desc_8
+Input other action types, such as Healing, Detox, Escape
+Desc_9
+Input any boolean, True represents the front yard, False represents the rear yard
+Desc_10
+Input part name, such as Head-and-Neck, Left Arm, Right Leg
+Desc_11
+Input an expression with Dispositions, such as 20 + Intelligence × 40 ÷ 100
+Desc_12
+Input any boolean, True represents Orthodox Training, False represents Heterodox Training
+Desc_13
+Internal Input any boolean, True represents Internal, False represents External
+Desc_14
+Input poison type, such as Acritoxin, Oneirotoxin
+Desc_15
+Input any boolean, True represents grown, False represents not yet grown
+Desc_16
+Input any boolean, True represents Attuned, False represents Un-attuned
+Desc_17
+Input the Gu type, such as Red-eye, Illusionary, Corruptive, Inner Demon, Tenebrous, Ice Silkworm, Golden Silkworm, Cyan, or input 0-7 to represent
+Desc_18
+Input the True Qi type, such as Annihilation, Nimble, Protection, Acumen, or input 0-3 to represent
+Desc_19
+Input style name, such as Hack, Stab, Upswing
+Desc_20
+Weapon Input weapon name, such as Zhanlu, Juque
+Desc_21
+Input weapon type, such as Needle Box, Piercer, Sword, Blade
+Desc_22
+Input five elements type, such as Metal, Wood, Water, Fire, Earth, Hunyuan, or simplify input 0-5 to represent
+Desc_23
+Input battle type, such as Sparring, Brawl, Duel, Trial
+Desc_24
+Input battle state name, such as Lightened Body, Fu Xi Mastery
+Desc_25
+Enter Sundries Name
+PrintingAliases_1_0
+True
+PrintingAliases_1_1
+False
+PrintingAliases_3_0
+Ю
+PrintingAliases_3_1
+Opponent
+PrintingAliases_9_0
+Спереди
+PrintingAliases_9_1
+Back
+PrintingAliases_12_0
+Прямой путь
+PrintingAliases_12_1
+Обратный путь
+PrintingAliases_13_0
+Internal
+PrintingAliases_13_1
+External
+PrintingAliases_15_0
+Grown
+PrintingAliases_15_1
+Not yet grown
+PrintingAliases_16_0
+Attuned
+PrintingAliases_16_1
+Un-attuned
+PrintingAliases_17_0
+Red-eye Gu Infection
+PrintingAliases_17_1
+Illusionary Gu
+PrintingAliases_17_2
+Растлевающий гу
+PrintingAliases_17_3
+Внутренний демон
+PrintingAliases_17_4
+Tenebrous King Gu
+PrintingAliases_17_5
+Ice Silkworm King Gu
+PrintingAliases_17_6
+Золотой шелкопряд
+PrintingAliases_17_7
+Cyan
+PrintingAliases_18_0
+Сокрушение
+PrintingAliases_18_1
+Nimble
+PrintingAliases_18_2
+Защита
+PrintingAliases_18_3
+Прозорливость
+PrintingAliases_22_0
+Metal
+PrintingAliases_22_1
+Wood
+PrintingAliases_22_2
+Вода
+PrintingAliases_22_3
+Огонь
+PrintingAliases_22_4
+Земля
+PrintingAliases_22_5
+Хуньюань
+

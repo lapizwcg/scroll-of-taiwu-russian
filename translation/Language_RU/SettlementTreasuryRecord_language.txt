@@ -1,0 +1,101 @@
+Name_0
+Restock Warehouse
+Name_1
+Restock Warehouse
+Name_2
+Store Resources
+Name_3
+Store Item
+Name_4
+Retrieve Resources
+Name_5
+Забрать предмет
+Name_6
+Store Resources
+Name_7
+Store Item
+Name_8
+Retrieve Resources
+Name_9
+Забрать предмет
+Name_10
+Donate to Warehouse
+Name_11
+Donate to Warehouse
+Name_12
+Trespassing the Warehouse
+Name_13
+Trespassing the Warehouse
+Name_14
+Ransacking the Warehouse
+Name_15
+Ransacking the Warehouse
+Name_16
+Ransacking the Warehouse
+Name_17
+Ransacking the Warehouse
+Name_18
+Sect Penalty
+Name_19
+Sect Penalty
+Name_20
+Item Distribution
+Name_21
+Inventory Check
+Name_22
+Resource Distribution
+Name_23
+Fuloong Bandit Raid
+Name_24
+Legacy Donation
+Desc_0
+After checking inventory, a fresh batch of resources has been added to the warehouse...
+Desc_1
+After checking inventory, a new set of items has been added to the warehouse...
+Desc_2
+{0} gifted {1} to {2} and earned {3} contribution...
+Desc_3
+{0} gifted {1} and gained {2} contribution...
+Desc_4
+{0} retrieved {2} {1} from storage, spending {3} contribution...
+Desc_5
+{0} retrieved {1} from storage, spending {2} contribution...
+Desc_6
+{0} gifted {2} {1}...
+Desc_7
+{0} gifted {1}...
+Desc_8
+{0} took {2} {1} from storage...
+Desc_9
+{0} took {1} from storage...
+Desc_10
+{0} donated personal belongings to the warehouse...
+Desc_11
+{0} donated personal belongings to the warehouse...
+Desc_12
+{0} entered the warehouse without permission...
+Desc_13
+{0} entered the warehouse without permission...
+Desc_14
+{0} looted the warehouse...
+Desc_15
+{0} looted the warehouse...
+Desc_16
+{0} failed to loot the warehouse and fled in embarrassment...
+Desc_17
+{0} failed to loot the warehouse and fled in embarrassment...
+Desc_18
+As penalty against {0}, the {2}{1} in their possession have been confiscated...
+Desc_19
+As penalty against {0}, the {1} in their possession have been confiscated...
+Desc_20
+The warehouse was well-stocked, so {0} received {1}...
+Desc_21
+<color=#orange>Since the last inventory check...</color>
+Desc_22
+The warehouse was well-stocked, so {0} received {2} {1}...
+Desc_23
+The Fuloong bandits returned from their looting spree, adding {1} {0} and {3} {2} to the warehouse...
+Desc_24
+According to {0}'s last wish, their {1} was offered to the warehouse...
+

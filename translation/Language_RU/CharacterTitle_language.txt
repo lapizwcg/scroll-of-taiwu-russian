@@ -1,0 +1,87 @@
+Name_0
+Воплощение Сяншу
+Name_1
+Сяншу (истинный облик)
+Name_2
+Bamboo Incarnation
+Name_3
+Безмолвный разум
+Name_4
+Мимолётный цвет
+Name_5
+Тысяча способов
+Name_6
+Volatile Loong Depiction
+Name_7
+Око разума
+Name_8
+Беспечальные
+Name_9
+Дивное искусство теней
+Name_10
+Безымянное искусство меча
+Name_11
+Смертоносная мара
+Name_12
+Sky Divider
+Name_13
+Изначальное
+Name_14
+Novem-resembler
+Name_15
+Творец чудес
+Name_16
+Celestial Melodist
+Name_17
+Глава вольного света
+Name_18
+Cricket General
+Name_19
+Мастер кулачного искусства
+Name_20
+Мастер искусства пальцев
+Name_21
+Мастер искусства ног
+Name_22
+Concealed Weapon Master
+Name_23
+Мастер искусства меча
+Name_24
+Мастер искусства сабли
+Name_25
+Мастер древкового оружия
+Name_26
+Мастер экзотического оружия
+Name_27
+Мастер искусства плети
+Name_28
+Мастер стрелкового оружия
+Name_29
+Мастер музыкальных искусств
+Name_30
+Smithing Grandmaster
+Name_31
+Grandmaster Carpenter
+Name_32
+Grandmaster Weaver
+Name_33
+Grandmaster Jeweler
+Name_34
+Miraculous Healer
+Name_35
+Deadly Poisoner
+Name_36
+Master Chef
+Name_37
+General of Conquest
+Name_38
+General of Peace
+Name_39
+General of Might
+Name_40
+General of Belligerence
+Name_41
+General of Suppression
+Name_42
+General of Forbearance
+

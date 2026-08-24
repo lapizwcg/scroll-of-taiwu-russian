@@ -1,0 +1,19 @@
+SpecialTeammateCommandBubbleTexts_194_0
+Even if the odds are against us...
+SpecialTeammateCommandBubbleTexts_194_1
+We must not betray the grace of your teachings!
+SpecialTeammateCommandBubbleTexts_194_2
+Master, allow me to stand by your side!
+SpecialTeammateCommandBubbleTexts_195_0
+Master, wait...
+SpecialTeammateCommandBubbleTexts_195_1
+Old cur! Your venomous heart betrays itself at last!
+SpecialTeammateCommandBubbleTexts_195_2
+
+SpecialTeammateCommandBubbleTexts_196_0
+Who dares to cause such a disturbance?
+SpecialTeammateCommandBubbleTexts_196_1
+Who dares to cause such a disturbance?
+SpecialTeammateCommandBubbleTexts_196_2
+The Taoist speaks wisely!
+

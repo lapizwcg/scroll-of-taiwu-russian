@@ -1,0 +1,65 @@
+GrowingBadEffectDesc_0
+The host's weapon attack hit rate against enemies is further decreased.
+GrowingBadEffectDesc_1
+Inflicts minor Daze damage on the host whenever the host's poison takes effect, scaling with the Gu's remaining duration.
+GrowingBadEffectDesc_2
+The level of the host's Opening and Sealed Acupoint increases by 1.
+GrowingBadEffectDesc_3
+When the host's True Qi decreases, it randomly causes another type of True Qi in the host to decrease by 2.
+GrowingBadEffectDesc_4
+If the host's Health is not below 50%, the Wound Damage received by the host is additionally increased. And the more the Wound Damage is increased, the more the host's Health will decrease.
+GrowingBadEffectDesc_5
+The chance of the host's Martial Arts and weapons being sealed further increases.
+GrowingBadEffectDesc_6
+The Pure Essence Suppression from Pure Essence effects granted to the host by Body Purification, Spirit Fullness, and Transcendent Realm are decreased.
+GrowingBadEffectDesc_7
+The host's positive "traits" will temporarily change their positive effects on all of the host's Primary Attributes, Secondary traits, Hit, Deflect, Attack, Defense, and Talent into negative ones.
+GrowingGoodEffectDesc_0
+The host's weapon attack hit rate against enemies is further increased.
+GrowingGoodEffectDesc_1
+Inflicts minor Daze damage on the enemy whenever the host's poison takes effect, scaling with the Gu's remaining duration.
+GrowingGoodEffectDesc_2
+The level of the host's Opening and Sealed Acupoint decreases by 1.
+GrowingGoodEffectDesc_3
+When the host's True Qi increases, it randomly causes another type of True Qi in the host to increase by 2.
+GrowingGoodEffectDesc_4
+If the host's Health is not below 50%, the Wound Damage received by the host is additionally decreased. And the more the Wound Damage is decreased, the more the host's Health will increase.
+GrowingGoodEffectDesc_5
+The chance of the host's Martial Arts and weapons being sealed further decreases.
+GrowingGoodEffectDesc_6
+The Pure Essence Suppression from Pure Essence effects granted to the host by Body Purification, Spirit Fullness, and Transcendent Realm are increased.
+GrowingGoodEffectDesc_7
+The host's negative "traits" will temporarily change their negative effects on all of the host's Primary Attributes, Secondary traits, Hit, Defuse, Attack, Deflect, and Talent into positive ones.
+GrownEffectDesc_0
+The host will lose some items during the change of months.
+GrownEffectDesc_1
+During the change of months, the host will inexplicably become vindictive against those whose Favorability has greatly decreased and will more readily seek revenge on foes.
+GrownEffectDesc_2
+The host will suffer from Inner Breath Chaos during the change of months due to the injury level.
+GrownEffectDesc_3
+During the change of months, the host's Mania or Deviation multiplies tenfold.
+GrownEffectDesc_4
+The host's Health cannot be restored during the change of months due to the state of Inner Breath.
+GrownEffectDesc_5
+The host's Qi cannot be restored during the change of months and will significantly deplete.
+GrownEffectDesc_6
+During the change of months, the Prime Aureate Gu will randomly devour one of the host's developed Gu and inflict a large amount of toxin on the host.
+GrownEffectDesc_7
+Any individual who makes intimate contact with the host will be inflicted with an un-attuned Prismatic Gu Larva.
+MakeTip_0
+It will inevitably occur when <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color> exceeds 40% of poison consumption.
+MakeTip_1
+It will inevitably occur when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color> exceeds 40% of poison consumption.
+MakeTip_2
+It will inevitably occur when <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> exceeds 40% of poison consumption.
+MakeTip_3
+It will inevitably occur when the consumption of all types of Toxins differs by less than 10%.
+MakeTip_4
+It will inevitably occur when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color>, <SpName=sp_icon_poison_3><color=#redpoison>Pyrotoxin</color>, and <SpName=sp_icon_poison_4><color=#rottenpoison>Necrotoxin</color> each exceed 30% of poison consumption.
+MakeTip_5
+It will inevitably occur when <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color> exceeds 40% of poison consumption.
+MakeTip_6
+It will inevitably occur when <SpName=sp_icon_poison_0><color=#hotpoison>Acritoxin</color> exceeds 40% of poison consumption.
+MakeTip_7
+It will inevitably occur when <SpName=sp_icon_poison_1><color=#gloomypoison>Umbritoxin</color>, <SpName=sp_icon_poison_2><color=#coldpoison>Cryotoxin</color>, <SpName=sp_icon_poison_5><color=#illusorypoison>Oneirotoxin</color> each exceed 30% of poison consumption.
+

@@ -1,0 +1,271 @@
+Name_0
+Караван Воловьей спины
+Name_1
+Книгохранилище
+Name_2
+Янцзыйский торговый союз
+Name_3
+Оружейная витязя
+Name_4
+Аптека Возрождения
+Name_5
+Караван Гуншу
+Name_6
+Павильон диковин
+Name_7
+Buy Fruits
+Name_8
+(Tianfu Governance Strategy...)
+Prologue_0
+The ingredients I sell are the best of their kind. I promise they will not let you down.
+Prologue_1
+Books are key to wealth. What subject might you be interested in?
+Prologue_2
+Whatever you might need and however rare it might be, there is nothing I can't come by.
+Prologue_3
+You can't be too cautious in a world of such chaos. Grab a weapon as a little protection.
+Prologue_4
+Heal your ailments with the best remedy, or regulate your Qi with my exclusive pills.
+Prologue_5
+The path is tough indeed and a carriage is what you need.
+Prologue_6
+I have got all the treasures that you have or have not heard of. Don't let the chance slip away!
+Prologue_7
+Lychees, grapes, crabapples, duck pears, pomegranates, kumquats — all fresh, in-season fruits from our own orchards, bursting with flavor...
+Prologue_8
+If not for the favor you hold at Mt. Emeii, no outsider ever lays eyes on these treasures...
+IntroduceDialog_0
+Daily necessities? None beyond our reach! From sundry goods to mounts for travel, we have it all...
+IntroduceDialog_1
+Welcome to Vault of Volumes! For years we've traded Fine Arts Books. Peruse at ease, noble patron. Should rare verses grace your eyes, our honor is made complete...
+IntroduceDialog_2
+Our shop specializes in rare provisions from every corner—every kind of material is here, carried from distant lands. Please browse at your leisure...
+IntroduceDialog_3
+Champion's Armaments, the benchmark of true quality! Browse blades, armor, and everything in between...
+IntroduceDialog_4
+All miraculous elixirs and wondrous remedies are on hand, and the healer's compassionate spirit endures—that is the essence of Revival Apothecary. Should you require any cure or toxin, please make your choice here...
+IntroduceDialog_5
+At Gongshu's Caravan, heirs of founder Lu Ban's legacy master the Way of Construction. Whatever you need for building and crafting, rest assured you'll find it here...
+IntroduceDialog_6
+Any lost gem or wondrous relic finds a home at Pavilion of Wonders. Please admire and handle at will...
+IntroduceDialog_7
+Lychees, grapes, crabapples, duck pears, pomegranates, kumquats — all fresh, in-season fruits from our own orchards, bursting with flavor...
+IntroduceDialog_8
+If not for the favor you hold at Mt. Emeii, no outsider ever lays eyes on these treasures...
+FavorDialog1_0
+When chaos first stirred, we humble vendors banded together. Now we stand as the grandest merchant guild, verily!
+FavorDialog1_1
+We younger souls never witnessed Tang's golden age of letters—yet cling to hope that glory might bloom again...
+FavorDialog1_2
+Yangtze Merchant League rose to fame in the glorious Tang era, waned during the age of turmoil, yet through wine trade, commerce, and the support of old friends, we stand firm even now...
+FavorDialog1_3
+Champion's Armaments arose under the patronage of various sects and is the youngest among the seven guilds. We welcome Xiakes, outcast masters, and reforming bandits alike...
+FavorDialog1_4
+When the Xiangshu's calamity first breaks, hidden physicians, moved by the people's suffering, emerge from seclusion to practice medicine and save lives...
+FavorDialog1_5
+With our secret art of "core material," you can expand your lands and prosper. Newly developed secret techniques also equip you for the world's upheavals...
+FavorDialog1_6
+Born in the wake of Xiangshu's calamity, our Pavilion of Wonders grew to house over a dozen vaults, encompassing the realm's most precious relics...
+FavorDialog1_7
+
+FavorDialog1_8
+
+FavorDialog2_0
+"Food sustains the people"—folks far and wide rely on Oxback. Our porters have trodden centuries of roads, and by these signs, shall tread centuries more!
+FavorDialog2_1
+Built by scholars' shared resolve, Vault of Volumes bears a creed: Words bear the Tao to nourish minds, a beacon for the people's rise...
+FavorDialog2_2
+Without proper channels, one cannot enter our ranks. Once inside, you'll receive aid from senior members; the guild's share is but a modest fee...
+FavorDialog2_3
+We recruit the realm's finest smiths and honor supply agreements with each sect. Only thus could our name spread far and wide...
+FavorDialog2_4
+After long exploration, these doctors establish themselves as a guild to aid all in need. Though the world shifts around them, Revival Apothecary's kindness remains steadfast, and our prices never stray far from mercy...
+FavorDialog2_5
+Founded by Lu Ban and tempered through history's trials, we once hid in mountain forests. After Xiangshu's calamity, we reentered the world to guide its reconstruction...
+FavorDialog2_6
+Our strict hierarchy demands that those of lower rank offer rarities to ascend—thus guardians of these treasures guard both pride and opportunity...
+FavorDialog2_7
+
+FavorDialog2_8
+
+FavorDialog3_0
+Our Oxback's dishes win universal praise—once graced feasts of nobles, now renowned far and wide...
+FavorDialog3_1
+When famine bites, literature lose their hold; scholars scatter, commerce bites. Now we tend but cultured pastimes...
+FavorDialog3_2
+All that we sell aims to delight our patrons, that our caravans may run smoothly and even reach the Western Regions...
+FavorDialog3_3
+In our early days, we were often sent to scout battlefields. There we gathered and refurbished weapons—and so learned their true secrets.
+FavorDialog3_4
+We, the healers, follow Sun Simiao's teachings—calming the spirit, steadying the mind, and holding boundless compassion. Whenever those in pain seek help, we spare no effort to assist...
+FavorDialog3_5
+While we are praised for employing wondrous methods to aid the people and do command a measure of respect, it is the heroes and artisans of the Martial World who truly command admiration...
+FavorDialog3_6
+Originally allied only with court authorities, we turned to sects when the throne faltered, forging new bonds to sustain our holdings...
+FavorDialog3_7
+
+FavorDialog3_8
+
+SpringSeasonDialog_0
+Returning from the spring hunt, the harvest is bounty abundant! Freshly cooked game upon our racks—savor its aroma, sure to stir your appetite!
+SpringSeasonDialog_1
+Spring's all mild and bright—writers and poets can't resist pouring out their hearts, and fancy gatherings pop up everywhere. Folks keep swinging by Vault of Volumes hunting for rare classics, so we've laid out a few special volumes to stoke your literary fire...
+SpringSeasonDialog_2
+New tea buds in spring, tender and fragrant; silkworms spinning clouds of silk. Please pause and enjoy our springtime offerings...
+SpringSeasonDialog_3
+As life returns in spring, warriors stretch their limbs. Light daggers and gauntlets make ideal spring training arms. We've stocked these especially—see if one suits your grip...
+SpringSeasonDialog_4
+In the lingering chill of spring, when wind-borne cold easily invades and leaves many sluggish, we've stocked season-appropriate medicinal herbs and concoctions to meet the change in weather...
+SpringSeasonDialog_5
+In spring's gentle warmth, blossoms delight the eye and insects dance. We offer numerous varieties of core materials for your construction projects—please choose freely...
+SpringSeasonDialog_6
+At the new year's dawn, all things renew—why not don fresh robes for the celebration? We also stock fabric gloves in myriad designs; do browse...
+SpringSeasonDialog_7
+
+SpringSeasonDialog_8
+
+SummerSeasonDialog_0
+In the blazing heat of summer, the verdant hues deepen. Tender greens to cleanse the palate, perfect for sweltering days...
+SummerSeasonDialog_1
+Summer's blazing, flowers are bursting like a tapestry, and everything's in full bloom—perfect for craftsmen to show off their skills. Mastery Books handpicked for your perusal—choose freely, master artisan!
+SummerSeasonDialog_2
+Heat rises, metals melt in summer—prime time for forging fine wares. On scorching days, a cool cup of tea does wonders. Feel free to explore our summer selection...
+SummerSeasonDialog_3
+Short blades clash in combat, while long weapons provide support. When the heat rises and sparring grows frequent, we've added both short maces and polearms to our summer inventory—help yourself.
+SummerSeasonDialog_4
+In summer's scorching heat, when venomous pests run rampant, we prepare Detoxifying Antidotes and Poison Testing Needles, ensuring your well-being through the hottest days...
+SummerSeasonDialog_5
+In summer's blazing heat, when metal softens for forging and timber abounds, it is the perfect season for carpentry and metalworking. Our selection of core materials this season will meet your every need...
+SummerSeasonDialog_6
+In midsummer's blaze, it is wise to cultivate oneself and clear the mind. We offer whisks and bamboo relics in ample supply—select as you wish...
+SummerSeasonDialog_7
+
+SummerSeasonDialog_8
+
+AutumnSeasonDialog_0
+There's a crisp edge to the autumn air, and it's peak season for fresh seafood and those big, juicy crabs! Seasonal specialties await, guaranteed to delight!
+AutumnSeasonDialog_1
+Crimson maples mirror autumn, as all things reach fruition. We've handpicked a few standout volumes—everything from Buddhism and Taoism to Culinary Arts guides and Appreciation notes—to help you flow with the seasons and uncover nature's wonders...
+AutumnSeasonDialog_2
+Crisp winds blow, rivers recede in autumn, revealing jade's hidden sheen. With the new harvest comes fragrant brew. We've stocked select stones and fine wines—choose as you wish...
+AutumnSeasonDialog_3
+"A chill wind falls, white dewdrops form, the cicadas lament, the hawk becomes the sacrificial bird, and thus begins the slaying." We've bolstered our stocks of concealed weapons and whips to match the season's grim edge...
+AutumnSeasonDialog_4
+The autumn harvest arrives, and farmers toil in full swing. We offer nourishing concoctions and medicinal herbs to supply the people's seasonal needs...
+AutumnSeasonDialog_5
+Whether refining your culinary arts or seeking the Tao through craftsmanship, one holds great potential to consummation. We provide specialized core materials—feel free to explore...
+AutumnSeasonDialog_6
+When jade fills our stores and fabrics overflow, autumn's riches are at hand. This season we feature fabric whips and jade ornaments—delight your refined tastes...
+AutumnSeasonDialog_7
+
+AutumnSeasonDialog_8
+
+WinterSeasonDialog_0
+Winter chickens are plump and ducks are at their best—perfect for simmering up a nourishing broth. Grab a steaming bowl, and you'll shake off the chill and feel toasty in no time...
+WinterSeasonDialog_1
+When winter rolls in and the yin overtakes the yang, it's time to conserve your energy and nourish your spirit. And right after the Winter Solstice, the sky clears up—prime time for stargazing. We've just added new volumes on medicine, physiognomy, astrology, and divination to meet your winter thirst for knowledge...
+WinterSeasonDialog_2
+In the third lunar month of winter, wood is felled. With chill in the air, warm liquor is best for the body. We've laid in abundant winter goods—help yourself...
+WinterSeasonDialog_3
+In bitter cold, warriors wield blade and staff to keep the chill at bay. Our winter showcase brims with sharpened steel—have a look...
+WinterSeasonDialog_4
+During the winter, nature lies dormant and it is time to preserve and nurture. We present a full array of therapeutic remedies—ideal for winter's restorative care...
+WinterSeasonDialog_5
+Winter comes, and all creatures slumber, with life's vigor hidden beneath. We prepare core materials suited to the season's hidden energy. Should you require any piece, you will find a fitting selection...
+WinterSeasonDialog_6
+In the depths of winter, when spirits grow dim, one turns to song and martial discipline. We display flutes of bamboo and jade lyres—please peruse and choose...
+WinterSeasonDialog_7
+
+WinterSeasonDialog_8
+
+SpringMarketsAdventureSeasonDialog_0
+We've gathered fine wares at {0}—all premium picks, good patron!
+SpringMarketsAdventureSeasonDialog_1
+At {0}, we hand-selected a handful of celebrated works and brought them here for the gathering—perhaps you'll find one to your liking...
+SpringMarketsAdventureSeasonDialog_2
+From {0}, we secured many first-rate items to sell at the fair. Please pick whatever suits your needs...
+SpringMarketsAdventureSeasonDialog_3
+From {0}, we displayed a vast array of weapons for the fair. Why not choose one to suit your hand?
+SpringMarketsAdventureSeasonDialog_4
+
+SpringMarketsAdventureSeasonDialog_5
+Every great build and device stems from the arts of Gongshu's Caravan. From {0}, we've brought abundant core materials to display here—please inspect and select what serves you best...
+SpringMarketsAdventureSeasonDialog_6
+The treasures we gathered from {0} are all on show—feel free to examine and cherish...
+SpringMarketsAdventureSeasonDialog_7
+
+SpringMarketsAdventureSeasonDialog_8
+
+EventContent_0
+A caravan clad in dust-stained plain garb,\nweary yet bright-eyed,\nmules laden with bulging sacks—shapes hinting at cookware within...
+EventContent_1
+Several wagons, heaped high with books, stand at the ready.\nA small party, dressed plainly and looking a touch weary, nevertheless marches in perfect formation.\nWhen a light breeze stirs, the faint scent of fresh ink seems to drift on the air...
+EventContent_2
+A well-dressed caravan pause as its members adjust harnesses.\nTheir wagons, brimming with everyday necessities, display a neat array of both common and exotic wares—\nsome entirely new to the eye...
+EventContent_3
+Caravans groan under the weight of spears, swords, and halberds, their cold glints bright in the sun.\nThe party laughs and talks in a resonant tone...
+EventContent_4
+A line of wagons, laden with herbs, fills the air with rich fragrance.\nThe jingle of harness bells slows to a hush, interrupted only by the soft clink of medicine jars.\nThe party murmurs quietly, moving with gentle courtesy and grace...
+EventContent_5
+On several wooden carts lie implements of every shape.\nScroll cases bulge at their seams, revealing architectural diagrams.\nA jovial party of craftsmen straightens harnesses and shares hearty laughter...
+EventContent_6
+A procession clad in splendid brocade moves with regal bearing.\nThough dusted by travel, their sedan chairs and swift steeds still gleam.\nCrowded atop each carriage are chests overflowing with hidden relics...
+EventContent_7
+
+EventContent_8
+
+EventDialogContent_0
+"Amidst Xiangshu's chaos, markets wither, yet country porters endure.\nCenturies among the folk forged this guild: now commerce's greatest stronghold...\n\nFood, wild fruits, cook's tools, mounts—all daily needs found here.\nFor rarer treasures, seek our headquarters or branches:\n\nGuangdong Guangzhou—canal-crossed hub of porters—houses our main hall.\nLater, northern footholds spread; now in Shanxi Taiyuan stands our northern branch..."
+EventDialogContent_1
+"The Vault of Volumes was found in the Tang Dynasty and has been collecting all kinds of books and classics from the world...\n\nIf you have any needs for Fine Arts Books, they are available via our caravan.\nShould you require rarer books, you can find them in our headquarter or branch:\n\nOur headquarter is located in Xiangyang of Jingbei, a land long contested by strategists and frequented by scholars; and our branch is located in Chengdu of Bashu, a place of exceptional talent and almost otherworldly beauty..."
+EventDialogContent_2
+"Established in the Tang Dynasty, the Yangtze Merchant League suffered during Xiangshu's calamity, yet rose again through its ties to trade and the liquor business. \nOur influence has spread far and wide, and today, we are second in power only to Gongshu's Caravan...\n\nFor tea, liquor, and all kinds of local products, we are always at your service.\nEven if the goods you desire aren't available in our caravans, you can find them in our headquarter or branch:\n\nOur headquarter is located in Yangzhou of Jiangbei, while our branch is based in Shouchun of Huainan..."
+EventDialogContent_3
+"The Champion's Armaments thrived by serving the various sects.\nAs a late-comer among the Seven Guilds, we excel in blacksmithing...\n\nAll kinds of weapons and armor are available in our caravans.\nShould you require something rarer, you can find them in our headquarter or branch:\n\nOur headquarter is located in Fuzhou of Fujian, while our branch is based in the Capital..."
+EventDialogContent_4
+"Formed by traveling physicians from across the land,\nthe Revival Apothecaryis a place of healing. It once followed the legacy of Sun Simiao, the King of Medicine...Should you require medicines, poisons, or tools of medical art and toxicology, they are available in our caravans.\nShould you require something rarer, you can find them in our headquarter or branch:\n\nOur headquarter is located in Guizhou of Guangnan, a place near the Valley of Flowers that is known for physicians, while our branch is based in Liaoyang of Liaodong, a major city in the north..."
+EventDialogContent_5
+"Founded by the great craftsman Lu Ban in the Warring States era, Gongshu's Caravan has endured for centuries.\nIt was our mastery over mechanisms that enabled the construction of outposts and Way Stations when the world fell into disorder...\n\nFrom [Core Materials] for expansion, to wooden transport and smithing tools, we provide all of them.\nFor rarer items, visit our headquarters in Qingzhou, Shandong—a land of ancient legacy—\nor our branch in Dali, Yunnan, a realm of vibrant tribal heritage."
+EventDialogContent_6
+"Our Pavilion of Wonders, only appearing after the Xiangshu calamity. Thanks to the support of authorities far and wide, I gather the realm's rarest treasures...\n\nIf you seek relics or wondrous artifacts, you can procure them from our guild. For even more extraordinary pieces, visit our headquarters or branch:\n\nOur headquarters stands in Jiangling of Jingnan—an ancient imperial capital where scholars and literati gather\nand our branch sits in Hangzhou of Jiangnan, heart of the Three Wu regions..."
+EventDialogContent_7
+
+EventDialogContent_8
+
+TaiwuVillagerMerchantChangingTypeContent_0
+"Word's been sent to Oxback Caravan. In a little while, you may come to restock from this guild..."\n<color=#lightgrey>(Character's guild affiliation has been changed. Restocking from this guild will commence after a brief delay...)</color>
+TaiwuVillagerMerchantChangingTypeContent_1
+"Word's been sent to Vault of Volumes. In a little while, you may come to restock from this guild..."\n<color=#lightgrey>(Character's guild affiliation has been changed. Restocking from this guild will commence after a brief delay...)</color>
+TaiwuVillagerMerchantChangingTypeContent_2
+"Word's been sent to Yangtze Merchant League. In a little while, you may come to restock from this guild..."\n<color=#lightgrey>(Character's guild affiliation has been changed. Restocking from this guild will commence after a brief delay...)</color>
+TaiwuVillagerMerchantChangingTypeContent_3
+"Word's been sent to Champion's Armaments. In a little while, you may come to restock from this guild..."\n<color=#lightgrey>(Character's guild affiliation has been changed. Restocking from this guild will commence after a brief delay...)</color>
+TaiwuVillagerMerchantChangingTypeContent_4
+"Word's been sent to Revival Apothecary. In a little while, you may come to restock from this guild..."\n<color=#lightgrey>(Character's guild affiliation has been changed. Restocking from this guild will commence after a brief delay...)</color>
+TaiwuVillagerMerchantChangingTypeContent_5
+"Word's been sent to Gongshu's Caravan. In a little while, you may come to restock from this guild..."\n<color=#lightgrey>(Character's guild affiliation has been changed. Restocking from this guild will commence after a brief delay...)</color>
+TaiwuVillagerMerchantChangingTypeContent_6
+"Word's been sent to Pavilion of Wonders. In a little while, you may come to restock from this guild..."\n<color=#lightgrey>(Character's guild affiliation has been changed. Restocking from this guild will commence after a brief delay...)</color>
+TaiwuVillagerMerchantChangingTypeContent_7
+
+TaiwuVillagerMerchantChangingTypeContent_8
+
+RefreshDesc_0
+In trade there is no trivial matter; the right fit is what matters most. Though these may be humble foods and sundries, each is prepared with care. Please, take your time to browse.
+RefreshDesc_1
+Mountains of books, boundless seas of learning—knowledge is vast beyond measure. May you, esteemed guest, find true wisdom in the pursuit of study here.
+RefreshDesc_2
+Goods from every quarter gather at this guild, bounties from all five lakes converge here. The Yangtze Merchant League brings together wealth from across the land; please, explore freely at your leisure.
+RefreshDesc_3
+Weapons and armor are the foundation of survival and livelihood; one must never be careless. If this piece doesn't suit you, feel free to pick another that fits better...
+RefreshDesc_4
+The methods of diagnosing illness and curing disease accord with yin and yang, harmonize with the seasons. If these few prescriptions do not meet your needs, please look further among what we offer here.
+RefreshDesc_5
+To do good work, one must first sharpen the tools. No need to rush—whether forging implements or crafting materials, the Gongshu's Caravan will carefully present them all to you.
+RefreshDesc_6
+Rare goods may be found, but connoisseurs are scarce. With your discerning eye, the Pavilion of Wonders will spare no effort in offering treasures for your appraisal.
+RefreshDesc_7
+Born of the earth and nurtured in the soil, fruits and vegetables come forth with every passing month. Grown in our own fields in abundance, rest assured you will always find the finest here.
+RefreshDesc_8
+This land of plenty nourishes all things. Rare treasures and singular marvels abound. Whatever it is you seek, speak your desire and it may be found.
+
